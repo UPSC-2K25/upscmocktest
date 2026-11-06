@@ -19,7 +19,13 @@ const state = {
 
 // DOM Elements
 const elements = {
-  appHeaderTitle: document.getElementById('appHeaderTitle'),
+  modeBadge: document.getElementById('mode-badge'),
+  filterMode: document.getElementById('filter-mode'),
+  filterYear: document.getElementById('filter-year'),
+  filterYearGroup: document.getElementById('filter-year-group'),
+  filterCount: document.getElementById('filter-count'),
+  badgeTotalPool: document.getElementById('badge-total-pool'),
+  btnRestart: document.getElementById('btn-restart'),
   timerDisplay: document.getElementById('timerDisplay'),
   btnPause: document.getElementById('btnPause'),
   btnFullscreen: document.getElementById('btnFullscreen'),
@@ -46,14 +52,6 @@ const elements = {
   paletteGrid: document.getElementById('paletteGrid'),
   paletteCount: document.getElementById('paletteCount'),
   paletteLegend: document.getElementById('paletteLegend'),
-  startModal: document.getElementById('startModal'),
-  selectedYear: document.getElementById('selectedYear'),
-  yearSelectorGroup: document.getElementById('yearSelectorGroup'),
-  poolAvailableCount: document.getElementById('poolAvailableCount'),
-  numQuestionsInput: document.getElementById('numQuestionsInput'),
-  qCountLimits: document.getElementById('qCountLimits'),
-  timerEstimateHint: document.getElementById('timerEstimateHint'),
-  btnStartConfirmed: document.getElementById('btnStartConfirmed'),
   submitModal: document.getElementById('submitModal'),
   submitSummaryStats: document.getElementById('submitSummaryStats'),
   btnCancelSubmit: document.getElementById('btnCancelSubmit'),
@@ -63,7 +61,7 @@ const elements = {
 };
 
 // ==========================================
-// 2. DYNAMIC ASYNCHRONOUS DATA LOADER
+// 2. DATA LOADER
 // ==========================================
 async function loadTestData() {
   // A. Load Central Passages
@@ -78,7 +76,7 @@ async function loadTestData() {
     console.warn('Passage file not loaded:', e);
   }
 
-  // B. Fetch all question files in parallel
+  // B. Fetch question files in parallel
   const yearFetchPromises = YEARS_CONFIG.map(async (yr) => {
     try {
       const res = await fetch(`questions_${yr}.json`);
@@ -103,21 +101,21 @@ async function loadTestData() {
 
   state.availableYears = Array.from(foundYears).sort((a, b) => b - a);
 
-  // C. Populate Year Dropdown
-  elements.selectedYear.innerHTML = '';
+  // C. Populate Year Dropdown in Topbar
+  elements.filterYear.innerHTML = '';
   if (state.availableYears.length > 0) {
     state.availableYears.forEach(yr => {
       const opt = document.createElement('option');
       opt.value = yr;
       const count = state.allQuestions.filter(q => q.year === yr).length;
-      opt.textContent = `${yr} (${count} Questions)`;
-      elements.selectedYear.appendChild(opt);
+      opt.textContent = `${yr} (${count})`;
+      elements.filterYear.appendChild(opt);
     });
   } else {
     const opt = document.createElement('option');
     opt.value = '';
-    opt.textContent = 'No question files detected';
-    elements.selectedYear.appendChild(opt);
+    opt.textContent = 'None';
+    elements.filterYear.appendChild(opt);
   }
 }
 
@@ -145,7 +143,6 @@ function renderTimer() {
   elements.timerDisplay.textContent = `${h}:${m}:${s}`;
 }
 
-// Fullscreen Handler
 function toggleFullScreen() {
   const doc = window.document;
   const docEl = doc.documentElement;
@@ -154,7 +151,7 @@ function toggleFullScreen() {
 
   if (!doc.fullscreenElement && !doc.webkitFullscreenElement) {
     if (req) req.call(docEl).catch(() => {});
-    elements.btnFullscreen.textContent = "Exit Fullscreen";
+    elements.btnFullscreen.textContent = "Exit Full";
   } else {
     if (exit) exit.call(doc).catch(() => {});
     elements.btnFullscreen.textContent = "Fullscreen";
@@ -169,7 +166,7 @@ function renderQuestion(index) {
   state.currentIndex = index;
   const q = state.activeQuestions[index];
 
-  // 1. Passage Rendering (Rendered above question with internal scroll)
+  // 1. Passage Rendering
   if (q.passageid && state.passages[q.passageid]) {
     elements.passageContainer.style.display = 'flex';
     elements.passageText.textContent = state.passages[q.passageid];
@@ -182,7 +179,7 @@ function renderQuestion(index) {
   elements.questionNumber.textContent = `Question ${index + 1} of ${state.activeQuestions.length}`;
   elements.questionText.textContent = q.question;
 
-  // 3. Topic & Source Meta: Strictly visible ONLY in Review Mode
+  // 3. Topic & Source Meta in Review Mode
   if (state.isReviewMode) {
     elements.reviewMetaGroup.style.display = 'flex';
     elements.topicTag.textContent = q.topic || 'General Aptitude';
@@ -247,7 +244,6 @@ function renderQuestion(index) {
   renderPalette();
 }
 
-// Replace renderPalette() with this clean, sequential builder:
 function renderPalette() {
   elements.paletteGrid.innerHTML = '';
   
@@ -263,7 +259,7 @@ function renderPalette() {
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'q-btn';
-    btn.textContent = i + 1; // Strictly sequential: 1, 2, 3 ... N
+    btn.textContent = i + 1;
 
     if (i === state.currentIndex) {
       btn.classList.add('active');
@@ -274,10 +270,8 @@ function renderPalette() {
     if (isAttempted) attemptedCount++;
 
     if (!state.isReviewMode) {
-      // Pre-submit: Green for attempted, no color for unattempted
       if (isAttempted) btn.classList.add('attempted');
     } else {
-      // Review mode: Green for correct, Red for wrong, no color for unattempted
       if (isAttempted) {
         if (userAns === q.answer) btn.classList.add('rev-correct');
         else btn.classList.add('rev-wrong');
@@ -295,7 +289,6 @@ function renderPalette() {
   elements.paletteCount.textContent = `${attemptedCount}/${state.activeQuestions.length}`;
 }
 
-// Clear Response
 function clearResponse() {
   if (state.isReviewMode) return;
   delete state.userAnswers[state.currentIndex];
@@ -348,16 +341,16 @@ function handleTestSubmit() {
   elements.resultModal.style.display = 'flex';
 }
 
-// Enter Review Mode
 function enterReviewMode() {
   elements.resultModal.style.display = 'none';
   state.isReviewMode = true;
 
-  elements.appHeaderTitle.textContent = "UPSC CSAT Review Mode";
-  elements.timerDisplay.textContent = "Review Mode";
+  elements.modeBadge.textContent = "REVIEW MODE";
+  elements.modeBadge.className = "badge";
+  elements.timerDisplay.textContent = "Review";
   elements.btnPause.style.display = 'none';
   elements.btnSubmitTop.style.display = 'none';
-  elements.btnRetakeTop.style.display = 'inline-block';
+  elements.btnRetakeTop.classList.remove('hidden');
 
   elements.attemptActions.style.display = 'none';
   elements.reviewActions.style.display = 'flex';
@@ -372,8 +365,32 @@ function enterReviewMode() {
   renderQuestion(0);
 }
 
-// Retake / Reset Test
-function resetToStartModal() {
+// ==========================================
+// 6. SESSION RESTART & FILTER SYNC
+// ==========================================
+function updatePoolCount() {
+  const mode = elements.filterMode.value;
+  elements.filterYearGroup.style.display = (mode === 'yearwise') ? 'flex' : 'none';
+
+  let poolCount = 0;
+  if (mode === 'yearwise') {
+    const yr = parseInt(elements.filterYear.value, 10);
+    poolCount = state.allQuestions.filter(q => q.year === yr).length;
+  } else {
+    poolCount = state.allQuestions.length;
+  }
+
+  elements.badgeTotalPool.textContent = poolCount;
+  const maxQ = Math.max(1, Math.min(80, poolCount || 80));
+  elements.filterCount.max = maxQ;
+
+  let currentVal = parseInt(elements.filterCount.value, 10);
+  if (isNaN(currentVal) || currentVal < 1 || currentVal > maxQ) {
+    elements.filterCount.value = maxQ;
+  }
+}
+
+function startTestSession() {
   if (state.timerId) clearInterval(state.timerId);
 
   state.isReviewMode = false;
@@ -381,11 +398,12 @@ function resetToStartModal() {
   state.isPaused = false;
   state.userAnswers = {};
 
-  elements.appHeaderTitle.textContent = "UPSC CSAT Mock Test Engine";
+  elements.modeBadge.textContent = "MOCK MODE";
+  elements.modeBadge.className = "badge badge-accent";
   elements.btnPause.style.display = 'inline-block';
   elements.btnPause.textContent = "Pause";
   elements.btnSubmitTop.style.display = 'inline-block';
-  elements.btnRetakeTop.style.display = 'none';
+  elements.btnRetakeTop.classList.add('hidden');
 
   elements.attemptActions.style.display = 'flex';
   elements.reviewActions.style.display = 'none';
@@ -397,64 +415,28 @@ function resetToStartModal() {
     Attempted: <span class="legend-attempted">Green</span> | Unattempted: <span>No Color</span>
   `;
 
-  elements.resultModal.style.display = 'none';
-  elements.submitModal.style.display = 'none';
-  updateConfigLimits();
-  elements.startModal.style.display = 'flex';
-}
+  const mode = elements.filterMode.value;
+  let pool = [...state.allQuestions];
 
-// ==========================================
-// 6. POOL SIZING & COUNTER UPDATES
-// ==========================================
-function getAvailablePoolInfo() {
-  const mode = document.querySelector('input[name="mockMode"]:checked').value;
   if (mode === 'yearwise') {
-    const yr = parseInt(elements.selectedYear.value, 10);
-    const count = state.allQuestions.filter(q => q.year === yr).length;
-    return {
-      count: count,
-      label: yr ? `Year ${yr}` : 'Selected Year'
-    };
-  }
-  return {
-    count: state.allQuestions.length,
-    label: 'All Available Years Combined'
-  };
-}
-
-function updateConfigLimits() {
-  const mode = document.querySelector('input[name="mockMode"]:checked').value;
-  elements.yearSelectorGroup.style.display = (mode === 'yearwise') ? 'block' : 'none';
-
-  const poolInfo = getAvailablePoolInfo();
-  const maxQ = Math.max(1, Math.min(80, poolInfo.count || 80));
-
-  // Update inline "out of (x)" counter
-  if (elements.poolAvailableCount) {
-    elements.poolAvailableCount.textContent = poolInfo.count;
+    const yr = parseInt(elements.filterYear.value, 10);
+    pool = pool.filter(q => q.year === yr);
+  } else {
+    pool.sort(() => Math.random() - 0.5);
   }
 
-  // Update Input Bounds & Dynamic Placeholder
-  elements.qCountLimits.textContent = `1 - ${maxQ}`;
-  elements.numQuestionsInput.max = maxQ;
-  elements.numQuestionsInput.placeholder = `e.g. 1 - ${maxQ}`;
+  const maxQ = Math.max(1, Math.min(80, pool.length));
+  let requestedCount = parseInt(elements.filterCount.value, 10);
+  if (isNaN(requestedCount) || requestedCount < 1) requestedCount = 1;
+  if (requestedCount > maxQ) requestedCount = maxQ;
+  elements.filterCount.value = requestedCount;
 
-  let currentVal = parseInt(elements.numQuestionsInput.value, 10);
-  if (isNaN(currentVal) || currentVal < 1 || currentVal > maxQ) {
-    currentVal = maxQ;
-    elements.numQuestionsInput.value = currentVal;
-  }
+  state.activeQuestions = pool.slice(0, requestedCount);
+  state.timeRemaining = requestedCount * 90;
 
-  updateTimerHint(currentVal);
-}
-
-function updateTimerHint(qCount) {
-  const count = (!qCount || qCount < 1) ? 1 : qCount;
-  const totalSeconds = count * 90;
-  const mins = Math.floor(totalSeconds / 60);
-  const secs = totalSeconds % 60;
-  const timeText = secs > 0 ? `${mins}m ${secs}s` : `${mins} minutes`;
-  elements.timerEstimateHint.textContent = `Calculated duration: ${timeText} (90s / question)`;
+  renderTimer();
+  renderQuestion(0);
+  startTimer();
 }
 
 // ==========================================
@@ -474,7 +456,7 @@ function setupEventListeners() {
   });
   elements.btnConfirmSubmit.addEventListener('click', handleTestSubmit);
   elements.btnEnterReview.addEventListener('click', enterReviewMode);
-  elements.btnRetakeTop.addEventListener('click', resetToStartModal);
+  elements.btnRetakeTop.addEventListener('click', startTestSession);
 
   elements.btnClear.addEventListener('click', clearResponse);
 
@@ -496,65 +478,26 @@ function setupEventListeners() {
     }
   });
 
-  // Radio mode & Year selector changes
-  document.querySelectorAll('input[name="mockMode"]').forEach(radio => {
-    radio.addEventListener('change', updateConfigLimits);
-  });
-  elements.selectedYear.addEventListener('change', updateConfigLimits);
-
-  // Typeable input: updates hint as you type
-  elements.numQuestionsInput.addEventListener('input', (e) => {
-    const val = parseInt(e.target.value, 10);
-    if (!isNaN(val) && val >= 1) {
-      updateTimerHint(val);
-    }
+  // Topbar filter updates
+  elements.filterMode.addEventListener('change', () => {
+    updatePoolCount();
+    startTestSession();
   });
 
-  // On blur: clamp within [1, maxQ]
-  elements.numQuestionsInput.addEventListener('blur', (e) => {
-    const poolInfo = getAvailablePoolInfo();
-    const maxQ = Math.max(1, Math.min(80, poolInfo.count || 80));
-    let val = parseInt(e.target.value, 10);
-    if (isNaN(val) || val < 1) val = 1;
-    if (val > maxQ) val = maxQ;
-    e.target.value = val;
-    updateTimerHint(val);
+  elements.filterYear.addEventListener('change', () => {
+    updatePoolCount();
+    startTestSession();
   });
 
-  // Start Exam Confirmed
-  elements.btnStartConfirmed.addEventListener('click', () => {
-    const mode = document.querySelector('input[name="mockMode"]:checked').value;
-    let pool = [...state.allQuestions];
-
-    if (mode === 'yearwise') {
-      const yr = parseInt(elements.selectedYear.value, 10);
-      pool = pool.filter(q => q.year === yr);
-    } else {
-      pool.sort(() => Math.random() - 0.5);
-    }
-
-    const maxQ = Math.max(1, Math.min(80, pool.length));
-    let requestedCount = parseInt(elements.numQuestionsInput.value, 10);
-    
-    // Bounds validation
-    if (isNaN(requestedCount) || requestedCount < 1) requestedCount = 1;
-    if (requestedCount > maxQ) requestedCount = maxQ;
-
-    elements.numQuestionsInput.value = requestedCount;
-    state.activeQuestions = pool.slice(0, requestedCount);
-    state.timeRemaining = requestedCount * 90;
-
-    elements.startModal.style.display = 'none';
-    renderQuestion(0);
-    startTimer();
-  });
+  elements.btnRestart.addEventListener('click', startTestSession);
 }
 
 // Initialization
 async function init() {
   setupEventListeners();
   await loadTestData();
-  updateConfigLimits();
+  updatePoolCount();
+  startTestSession();
 }
 
 window.addEventListener('DOMContentLoaded', init);
