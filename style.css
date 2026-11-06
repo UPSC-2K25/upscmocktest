@@ -1,0 +1,186 @@
+:root {
+  --bg-app: #f8fafc;
+  --bg-card: #ffffff;
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border-color: #e2e8f0;
+  --border-hover: #cbd5e1;
+  --accent-color: #1e40af;
+  --accent-hover: #1d4ed8;
+
+  /* Tag Badges */
+  --badge-pyq-bg: #eff6ff;
+  --badge-pyq-text: #1d4ed8;
+  --badge-pyq-border: #bfdbfe;
+
+  --badge-dnd-bg: #ecfdf5;
+  --badge-dnd-text: #047857;
+  --badge-dnd-border: #a7f3d0;
+
+  --badge-csat-bg: #f5f3ff;
+  --badge-csat-text: #6d28d9;
+  --badge-csat-border: #ddd6fe;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+.portal-container {
+  max-width: 1080px;
+  width: 100%;
+}
+
+.portal-header {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.header-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 4px 12px;
+  background: #e0e7ff;
+  color: #3730a3;
+  border-radius: 9999px;
+  margin-bottom: 12px;
+}
+
+.portal-header h1 {
+  font-size: 2.1rem;
+  font-weight: 800;
+  color: var(--text-main);
+  margin-bottom: 8px;
+  letter-spacing: -0.025em;
+}
+
+.portal-header p {
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  max-width: 580px;
+  margin: 0 auto;
+}
+
+/* 3-column responsive grid */
+.portal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.portal-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 24px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.portal-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+  border-color: var(--border-hover);
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.card-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+
+.badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 8px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+}
+
+.badge-pyq {
+  background-color: var(--badge-pyq-bg);
+  color: var(--badge-pyq-text);
+  border-color: var(--badge-pyq-border);
+}
+
+.badge-dnd {
+  background-color: var(--badge-dnd-bg);
+  color: var(--badge-dnd-text);
+  border-color: var(--badge-dnd-border);
+}
+
+.badge-csat {
+  background-color: var(--badge-csat-bg);
+  color: var(--badge-csat-text);
+  border-color: var(--badge-csat-border);
+}
+
+.portal-card h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-main);
+  margin-bottom: 8px;
+}
+
+.portal-card p {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 20px;
+  flex: 1;
+}
+
+.card-link {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent-color);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: gap 0.15s ease, color 0.15s ease;
+}
+
+.portal-card:hover .card-link {
+  color: var(--accent-hover);
+  gap: 8px;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 24px 16px;
+  }
+  .portal-header h1 {
+    font-size: 1.7rem;
+  }
+  .portal-grid {
+    grid-template-columns: 1fr;
+  }
+}
