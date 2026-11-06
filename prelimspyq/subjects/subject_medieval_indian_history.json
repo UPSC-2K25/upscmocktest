@@ -1,0 +1,338 @@
+[
+  {
+    "year": "2021",
+    "qno": "35",
+    "subject": "Medieval Indian History",
+    "question": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas?\n1. Wrestling\n2. Astrology\n3. Accounting\n4. Soothsaying\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Nuniz's chronicle describes women at the Vijayanagara court as skilled in wrestling, astrology, accounting, soothsaying, music and other arts, so all four are correct."
+  },
+  {
+    "year": "2021",
+    "qno": "38",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.\n2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.\n3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Chengiz Khan reached the Indus in 1221 chasing Jalaluddin Mangbarni during Iltutmish's reign. Timur invaded in 1398-99 under Nasiruddin Mahmud Tughluq, not Muhammad bin Tughluq. Vasco da Gama arrived in 1498, well after Deva Raya II (r. 1424-46)."
+  },
+  {
+    "year": "2021",
+    "qno": "45",
+    "subject": "Medieval Indian History",
+    "question": "With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?",
+    "options": [
+      "Paragana—Sarkar—Suba",
+      "Sarkar—Paragana—Suba",
+      "Suba—Sarkar—Paragana",
+      "Paragana—Suba—Sarkar"
+    ],
+    "answer": "A",
+    "explanation": "In Mughal administration the empire was divided into Subas (provinces), each subdivided into Sarkars (districts), which were further divided into Paraganas. Ascending order of size is therefore Paragana, Sarkar, Suba."
+  },
+  {
+    "year": "2021",
+    "qno": "48",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, which of the following statements is/are correct?\n1. The Nizamat of Arcot emerged out of Hyderabad State.\n2. The Mysore Kingdom emerged out of Vijayanagara Empire.\n3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "The Carnatic Nizamat of Arcot arose as a subdivision of the Hyderabad Nizam's Deccan territory, and the Mysore Kingdom emerged from the declining Vijayanagara Empire. Rohilkhand was carved out by Rohilla Afghans (Ali Mohammad Khan) from Mughal territory, not from lands occupied by Ahmad Shah Durrani."
+  },
+  {
+    "year": "2023",
+    "qno": "45",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following dynasties:\n1. Hoysala\n2. Gahadavala\n3. Kakatiya\n4. Yadava\nHow many of the above dynasties established their kingdoms in early eighth century AD?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The Hoysalas (c. 10th–11th century), Gahadavalas (late 11th century), Kakatiyas (c. 12th century) and Yadavas of Devagiri (late 12th century) all rose well after the early eighth century. None was established then."
+  },
+  {
+    "year": "2023",
+    "qno": "48",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?",
+    "options": [
+      "Devaraya I",
+      "Mallikarjuna",
+      "Vira Vijaya",
+      "Virupaksha"
+    ],
+    "answer": "A",
+    "explanation": "Devaraya I (r. 1406–1422) built a dam across the Tungabhadra and dug canals, including aqueducts, to supply water to Vijayanagara. This is recorded in accounts such as that of Nicolo Conti and in inscriptions."
+  },
+  {
+    "year": "2023",
+    "qno": "49",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?",
+    "options": [
+      "Ahmad Shah",
+      "Mahmud Begarha",
+      "Bahadur Shah",
+      "Muhammad Shah"
+    ],
+    "answer": "C",
+    "explanation": "Sultan Bahadur Shah of Gujarat signed the Treaty of Bassein (1534) and ceded Diu to the Portuguese in 1535, seeking their help against the Mughal emperor Humayun."
+  },
+  {
+    "year": "2017",
+    "qno": "51",
+    "subject": "Medieval Indian History",
+    "question": "Which one of the following was a very important seaport in the Kakatiya kingdom?",
+    "options": [
+      "Kakinada",
+      "Motupalli",
+      "Machilipatnam (Masulipatnam)",
+      "Nelluru"
+    ],
+    "answer": "B",
+    "explanation": "Motupalli on the Andhra coast was the principal seaport of the Kakatiya kingdom. Marco Polo mentioned it, and Ganapati Deva's Motupalli Abhaya Sasanam gave protection to traders."
+  },
+  {
+    "year": "2024",
+    "qno": "56",
+    "subject": "Medieval Indian History",
+    "question": "Who of the following rulers of medieval India gave permission to the Portuguese to build a fort at Bhatkal?",
+    "options": [
+      "Krishnadevaraya",
+      "Narasimha Saluva",
+      "Muhammad Shah III",
+      "Yusuf Adil Shah"
+    ],
+    "answer": "A",
+    "explanation": "Bhatkal was a port town of the Vijayanagara Empire. Krishnadevaraya (r. 1509–1529) maintained good relations with the Portuguese, valued their supply of Arabian horses, and permitted them to build a fort at Bhatkal."
+  },
+  {
+    "year": "2019",
+    "qno": "1",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar?\n1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.\n2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Jagirdars held assignments of revenue (not land ownership) in lieu of salary for their mansab, mainly military and administrative service, and not specifically for judicial and police duties. So statement 1 is incorrect. Jagirs were transferable and non-hereditary, while zamindari rights were hereditary. Statement 2 reverses this, so it is also incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "11",
+    "subject": "Medieval Indian History",
+    "question": "Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of",
+    "options": [
+      "Chalukya",
+      "Chandela",
+      "Rashtrakuta",
+      "Vijayanagara"
+    ],
+    "answer": "D",
+    "explanation": "Vijayanagara temple architecture is notable for elaborate Kalyana Mandapas (marriage halls), for example at the Vitthala and Varadaraja temples."
+  },
+  {
+    "year": "2019",
+    "qno": "12",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as 'Amil'.\n2. The Iqta system of Sultans of Delhi was an ancient indigenous institution.\n3. The office of 'Mir Bakshi' came into existence during the reign of Khalji Sultans of Delhi.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Amil was the revenue collector in the Sultanate administration. The Iqta system was borrowed from West and Central Asia and was not an ancient indigenous institution. The Mir Bakshi (military paymaster) is associated with the Mughals, not with the Khalji period. Only statement 1 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "13",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following statements:\n1. Saint Nimbarka was a contemporary of Akbar.\n2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Nimbarka was a Vaishnava philosopher of the 12th–13th century, long before Akbar. Kabir (15th century) predates Shaikh Ahmad Sirhindi (16th–17th century), so he could not have been influenced by him. Both statements are incorrect."
+  },
+  {
+    "year": "2022",
+    "qno": "52",
+    "subject": "Medieval Indian History",
+    "question": "In medieval India, the term \"Fanam\" referred to:",
+    "options": [
+      "Clothing",
+      "Coins",
+      "Ornaments",
+      "Weapons"
+    ],
+    "answer": "B",
+    "explanation": "The fanam was a small gold (and later silver) coin that circulated widely in medieval South India, including under the Vijayanagara empire and in the Chola and later kingdoms."
+  },
+  {
+    "year": "2022",
+    "qno": "57",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, consider the following statements:\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji.\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The first Mongol incursion into India came in 1221 under Chingiz Khan, in the time of Iltutmish, so statement 1 is wrong. In 1303 the Mongol commander Targhi besieged Delhi during Ala-ud-din Khalji's reign, which makes statement 2 correct. Statement 3 is usually treated as wrong, because the Tughlaq state is described as buying off or repelling the Mongol raid rather than losing territory to it. Note: statement 3 is the contestable one, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "58",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, who of the following were known as \"Kulah-Daran\"?",
+    "options": [
+      "Arab merchants",
+      "Qalandars",
+      "Persian calligraphists",
+      "Sayyids"
+    ],
+    "answer": "B",
+    "explanation": "'Kulah-daran' means 'cap-wearers' in Persian. In the Delhi Sultanate and Mughal-period sources the term is associated with the Qalandars, wandering Sufi ascetics. Note: I'm not fully certain of this one, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "59",
+    "subject": "Medieval Indian History",
+    "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers.\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Dutch east-coast settlements such as Pulicat and Masulipatnam were granted by Vijayanagara-successor and Golconda authorities, not by the Gajapati rulers, so statement 1 is wrong. Albuquerque took Goa from the Bijapur Sultanate in 1510, which is statement 2. In 1639 Francis Day obtained the Madras site from a Vijayanagara representative, which is statement 3."
+  },
+  {
+    "year": "2022",
+    "qno": "94",
+    "subject": "Medieval Indian History",
+    "question": "\"Yogavasistha\" was translated into Persian by Nizamuddin Panipati during the reign of:",
+    "options": [
+      "Akbar",
+      "Humayun",
+      "Shahjahan",
+      "Aurangzeb"
+    ],
+    "answer": "A",
+    "explanation": "Under Akbar's translation programme, the Yogavasistha was rendered into Persian by Nizamuddin Panipati at the instance of Prince Salim, the future Jahangir. Note: some sources link it with Jahangir's period, so verify it."
+  },
+  {
+    "year": "2018",
+    "qno": "73",
+    "subject": "Medieval Indian History",
+    "question": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?",
+    "options": [
+      "Francois Bernier",
+      "Jean-Baptiste Tavernier",
+      "Jean de Thevenot",
+      "Abbe Barthelemy Carre"
+    ],
+    "answer": "B",
+    "explanation": "Jean-Baptiste Tavernier, a 17th-century French gem merchant, travelled in India and gave detailed accounts of diamonds and the diamond mines of Golconda and other regions in his 'Travels in India'. Bernier is known for his accounts of Mughal society and the Mughal court."
+  },
+  {
+    "year": "2020",
+    "qno": "24",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following events in the history of India:\n1. Rise of Pratiharas under King Bhoja\n2. Establishment of Pallava power under Mahendravarman – I\n3. Establishment of Chola power by Parantaka – I\n4. Pala dynasty founded by Gopala\nWhat is the correct chronological order of the above events, starting from the earliest time?",
+    "options": [
+      "2 – 1 – 4 – 3",
+      "3 – 1 – 4 – 2",
+      "2 – 4 – 1 – 3",
+      "3 – 4 – 1 – 2"
+    ],
+    "answer": "C",
+    "explanation": "Mahendravarman I established Pallava power around 600 CE; Gopala founded the Pala dynasty around 750 CE; Pratihara king Bhoja rose around 836 CE; Parantaka I established Chola power around 907 CE. The order is 2 – 4 – 1 – 3."
+  },
+  {
+    "year": "2020",
+    "qno": "25",
+    "subject": "Medieval Indian History",
+    "question": "Which of the following phrases defines the nature of the ‘Hundi’ generally referred to in the sources of the post-Harsha period?",
+    "options": [
+      "An advisory issued by the king to his subordinates",
+      "A diary to be maintained for daily accounts",
+      "A bill of exchange",
+      "An order from the feudal lord to his subordinates"
+    ],
+    "answer": "C",
+    "explanation": "The hundi was a financial instrument, a bill of exchange or credit note, used in trade in early medieval India to transfer money without physically carrying it."
+  },
+  {
+    "year": "2020",
+    "qno": "97",
+    "subject": "Medieval Indian History",
+    "question": "With reference to the history of India, consider the following pairs:\nFamous Place — Present State\n1. Bhilsa — Madhya Pradesh\n2. Dwarasamudra — Maharashtra\n3. Girinagar — Gujarat\n4. Sthanesvara — Uttar Pradesh\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "Bhilsa (Vidisha) is in Madhya Pradesh and Girinagar (Junagadh) is in Gujarat. Dwarasamudra (Halebid), the Hoysala capital, is in Karnataka, and Sthanesvara (Thanesar) is in Haryana."
+  },
+  {
+    "year": "2025",
+    "qno": "16",
+    "subject": "Medieval Indian History",
+    "question": "Who among the following led a successful military campaign against the kingdom of Srivijaya, the powerful maritime State, which ruled the Malay Peninsula, Sumatra, Java and the neighbouring islands?",
+    "options": [
+      "Amoghavarsha (Rashtrakuta)",
+      "Prataparudra (Kakatiya)",
+      "Rajendra I (Chola)",
+      "Vishnuvardhana (Hoysala)"
+    ],
+    "answer": "C",
+    "explanation": "The Chola emperor Rajendra I launched a naval expedition against Srivijaya (c. 1025 CE) and captured Kadaram (Kedah), demonstrating Chola maritime power."
+  },
+  {
+    "year": "2025",
+    "qno": "75",
+    "subject": "Medieval Indian History",
+    "question": "Consider the following fruits:\nI. Papaya\nII. Pineapple\nIII. Guava\nHow many of the above were introduced in India by the Portuguese in the sixteenth and seventeenth centuries?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Papaya, pineapple and guava are all New World fruits that reached India through the Portuguese in the 16th-17th centuries."
+  }
+]

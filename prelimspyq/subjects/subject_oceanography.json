@@ -1,0 +1,128 @@
+[
+  {
+    "year": "2021",
+    "qno": "56",
+    "subject": "Oceanography",
+    "question": "Consider the following statements:\n1. The Global Ocean Commission grants licences for seabed exploration and mining in international waters.\n2. India has received licences for seabed mineral exploration in international waters.\n3. 'Rare earth minerals' are present on seafloor in international waters.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Licences for seabed exploration in international waters are granted by the International Seabed Authority, not the Global Ocean Commission. India holds ISA licences (e.g., polymetallic nodules in the Central Indian Ocean Basin and polymetallic sulphides), and rare earth minerals are present on the international seafloor."
+  },
+  {
+    "year": "2021",
+    "qno": "58",
+    "subject": "Oceanography",
+    "question": "Consider the following statements:\n1. In the tropical zone, the western sections of the oceans are warmer than the eastern sections owing to the influence of trade winds.\n2. In the temperate zone, westerlies make the eastern sections of oceans warmer than the western sections.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "In the tropics, trade winds drive warm water westward and pile it up on the western sides of oceans. In the temperate zone, westerlies carry warm water towards the eastern sides, making them warmer than the western sections."
+  },
+  {
+    "year": "2017",
+    "qno": "19",
+    "subject": "Oceanography",
+    "question": "At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shore line a few kilometres and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at",
+    "options": [
+      "Bhavnagar",
+      "Bheemunipatnam",
+      "Chandipur",
+      "Nagapattinam"
+    ],
+    "answer": "C",
+    "explanation": "Chandipur beach in Odisha is famous as the 'hide and seek' beach, where the sea recedes up to a few kilometres during low tide and returns at high tide, twice a day. This allows people to walk on the exposed sea floor. The other places do not show this phenomenon on a comparable scale."
+  },
+  {
+    "year": "2024",
+    "qno": "89",
+    "subject": "Oceanography",
+    "question": "Consider the following statements:\n1. The Red Sea receives very little precipitation in any form.\n2. No water enters the Red Sea from rivers.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The Red Sea lies in an arid region with very low rainfall and has no permanent rivers flowing into it. Its high salinity is due to high evaporation and little freshwater input. Both statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "77",
+    "subject": "Oceanography",
+    "question": "Which one of the following statements best describes the 'Polar Code'?",
+    "options": [
+      "It is the international code of safety for ships operating in polar waters.",
+      "It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.",
+      "It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.",
+      "It is a trade and security agreement of the member countries of the Arctic Council."
+    ],
+    "answer": "A",
+    "explanation": "The Polar Code is the International Code for Ships Operating in Polar Waters, adopted by the International Maritime Organization. It sets safety and pollution-prevention rules for ships in Arctic and Antarctic waters."
+  },
+  {
+    "year": "2022",
+    "qno": "85",
+    "subject": "Oceanography",
+    "question": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\n1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "UNCLOS allows a territorial sea of up to 12 nautical miles (Article 3). It gives ships of all states the right of innocent passage through it (Article 17) and limits the EEZ to 200 nautical miles from the baselines (Article 57). All three statements are correct."
+  },
+  {
+    "year": "2026",
+    "qno": "30",
+    "subject": "Oceanography",
+    "question": "Ships from which of the following countries have to cross the Strait of Hormuz to reach out to the Indian Ocean?\n1. Bahrain\n2. Syria\n3. Qatar\n4. Egypt\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Bahrain and Qatar lie inside the Persian Gulf, whose only outlet to the Gulf of Oman and Indian Ocean is the Strait of Hormuz. Syria's ports are on the Mediterranean and Egypt's on the Mediterranean and Red Sea, so they do not need Hormuz."
+  },
+  {
+    "year": "2020",
+    "qno": "93",
+    "subject": "Oceanography",
+    "question": "With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct?\n1. OMT is measured up to a depth of 26°C isotherm which is 129 meters in the south-western Indian Ocean during January-March.\n2. OMT collected during January-March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long-term mean.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "OMT, the average temperature of the ocean column down to the 26°C isotherm (about 129 m in the south-western Indian Ocean in January-March), has been found to be a predictor of the Indian summer monsoon rainfall relative to the long-term mean, and is used in forecasting models. Both statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "23",
+    "subject": "Oceanography",
+    "question": "Consider the following water bodies:\nI. Lake Tanganyika\nII. Lake Tonle Sap\nIII. Patos Lagoon\nThrough how many of them does the equator pass?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Lake Tanganyika lies roughly between 3 degrees S and 8 degrees S, Tonle Sap is in Cambodia near 13 degrees N, and Patos Lagoon is in southern Brazil near 31 degrees S. The equator passes through none of them."
+  }
+]

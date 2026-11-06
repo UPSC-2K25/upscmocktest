@@ -1,0 +1,1202 @@
+[
+  {
+    "year": 2022,
+    "passageid": "2022_p1",
+    "topic": "Reading Comprehension",
+    "qno": 1,
+    "question": "Unsustainability in production pattern is due to which of the following? 1. Heavy dependence on fossil fuels 2. Limited availability of resources 3. Expansion of recycling Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The passage says current production models rely heavily on fossil fuels and that this is unsustainable because the resources are finite, so 1 and 2 are causes. Recycling is described as a step some developed countries have taken to reduce the worst effects, not as a cause of unsustainability, so 3 is wrong."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p1",
+    "topic": "Reading Comprehension",
+    "qno": 2,
+    "question": "Consider the following statements: Developed countries can support developing countries' transition to sustainable human development by 1. making clean energy sources available at low cost 2. providing loans for improving their public transport at nominal interest rates 3. encouraging them to change their production and consumption patterns Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The passage says developing countries are hampered by the high costs and low availability of clean energy sources, so making clean energy available at low cost follows from it. Nominal-interest loans for public transport and encouraging changes in production and consumption patterns are not mentioned as forms of support."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p2",
+    "topic": "Reading Comprehension",
+    "qno": 3,
+    "question": "According to the passage given above, deforestation and denudation will ultimately lead to which of the following? 1. Depletion of soil resource 2. Shortage of land for the common man 3. Lack of water for cultivation Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The passage links these forces to soil erosion by wind and water, which depletes the soil resource, and to streams and springs running dry except in the rainy season, which means a lack of water for cultivation. A shortage of land for the common man is never mentioned."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number Series",
+    "qno": 4,
+    "question": "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, X?",
+    "options": [
+      "105",
+      "120",
+      "150",
+      "225"
+    ],
+    "answer": "D",
+    "explanation": "Each term is the previous term multiplied by 0.5, 1, 1.5, 2, 2.5, so the next multiplier is 3. X = 75 × 3 = 225."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number Puzzle / Divisibility",
+    "qno": 5,
+    "question": "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit (1, 2, 4, 5, 7, 8, 9 only). The number is divisible by 9. After deleting the first digit from the right, the resulting number is divisible by 6. After deleting two digits from the right of original number, the resulting number is divisible by 5. After deleting three digits from the right of original number, the resulting number is divisible by 4. After deleting four digits from the right of original number, the resulting number is divisible by 3. After deleting five digits from the right of original number, the resulting number is divisible by 2. Which of the following is a possible value for the sum of the middle three digits of the number?",
+    "options": [
+      "8",
+      "9",
+      "11",
+      "12"
+    ],
+    "answer": "A",
+    "explanation": "ABCDE divisible by 5 gives E = 5. B, D and F must be even, so they are 2, 4 and 8 in some order. CD divisible by 4 with C odd leaves only 12 or 72, so D = 2. Then C is 1 or 7, and the middle digits C, D, E sum to C + 7 = 8 or 14. Only 8 is an option. Example: 7412589 satisfies all conditions."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Direction Sense",
+    "qno": 6,
+    "question": "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point. X turns right and runs 60 m, while Y turns left and runs 40 m. Then X turns left and runs 50 m and stops, while Y turns right and runs 50 m and then stops. How far are the two friends from each other now?",
+    "options": [
+      "100 m",
+      "90 m",
+      "60 m",
+      "50 m"
+    ],
+    "answer": "A",
+    "explanation": "Take east as the initial direction. X ends at (100, -60) and Y at (100, 40). They are on the same vertical line, so the distance is 60 + 40 = 100 m."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Calendar",
+    "qno": 7,
+    "question": "Which date of June 2099 among the following is Sunday?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "D",
+    "explanation": "1 January 2000 was a Saturday. Up to 1 January 2099 there are 99 years including 25 leap years, so 36160 days, which leaves 5 odd days. That makes 1 January 2099 a Thursday. Adding 151 days to reach 1 June gives 4 odd days, so 1 June 2099 is a Monday. Sundays in June 2099 are 7, 14, 21 and 28."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Arithmetic / Linear Equations",
+    "qno": 8,
+    "question": "A bill for ₹1,840 is paid in the denominations of ₹50, ₹20 and ₹10 notes. 50 notes in all are used. Consider the following statements: 1. 25 notes of ₹50 are used and the remaining are in the denominations of ₹20 and ₹10. 2. 35 notes of ₹20 are used and the remaining are in the denominations of ₹50 and ₹10. 3. 20 notes of ₹10 are used and the remaining are in the denominations of ₹50 and ₹20. Which of the above statements are not correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Let the numbers of ₹50, ₹20 and ₹10 notes be a, b and c. Then a + b + c = 50 and 5a + 2b + c = 184, so b = 134 - 4a and c = 3a - 84, which forces 28 ≤ a ≤ 33. Statement 1 (a = 25) is outside this range. Statement 2 (b = 35) gives a = 24.75. Statement 3 (c = 20) gives a = 34.67. All three are incorrect."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Indices",
+    "qno": 9,
+    "question": "Which number amongst 2⁴⁰, 3²¹, 4¹⁸ and 8¹² is the smallest?",
+    "options": [
+      "2⁴⁰",
+      "3²¹",
+      "4¹⁸",
+      "8¹²"
+    ],
+    "answer": "B",
+    "explanation": "4¹⁸ = 2³⁶ and 8¹² = 2³⁶. Also 3²¹ = 2^(21 × 1.585), which is about 2³³·³. Since 2³³·³ < 2³⁶ < 2⁴⁰, the smallest is 3²¹."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number Puzzle / Cryptarithm",
+    "qno": 10,
+    "question": "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row; and the number formed in the third row is thrice the number formed in the first row. Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "C",
+    "explanation": "The only arrangements using every digit 1-9 once with rows N, 2N and 3N have N = 192, 219, 273 or 327. The first row contains exactly three of {2, 3, 7, 9} only for 273 (2, 7, 3) and 327 (3, 2, 7). So there are 2 combinations."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p3",
+    "topic": "Reading Comprehension",
+    "qno": 11,
+    "question": "Which one of the following statements best reflects the message of the author of the passage?",
+    "options": [
+      "We assume that in a democracy, any politician is qualified to administer a State.",
+      "Politicians should be selected from those trained in administration.",
+      "We need to devise a method of barring incompetence from public office.",
+      "As voters select their administrators, the eligibility of politicians to administer a State cannot be questioned."
+    ],
+    "answer": "B",
+    "explanation": "The author compares shoe-making and medicine, where trained specialists are sought, with politics, where anyone who can win votes is presumed fit to run a State. The message is that those who govern should be the wisest and best, meaning properly trained. Option A only restates the author's criticism, and C and D are not the point being argued."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p4",
+    "topic": "Reading Comprehension",
+    "qno": 12,
+    "question": "Why is the methodology adopted in India to count the 'poor' debatable?",
+    "options": [
+      "There is some confusion regarding what should constitute the 'poverty line'.",
+      "There are wide diversities in the condition of the rural and urban poor.",
+      "There is no uniform global standard for measuring income poverty.",
+      "It is based on the proposition of poverty as meagre income or buying capacity."
+    ],
+    "answer": "D",
+    "explanation": "The passage says the methodology is debatable because it relies exclusively on the notion of poverty as insufficient income or purchasing power. The other options mention issues the passage does not raise."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p4",
+    "topic": "Reading Comprehension",
+    "qno": 13,
+    "question": "Why is income poverty only one measure of counting the 'poor'?",
+    "options": [
+      "It talks of only one kind of deprivation ignoring all others.",
+      "Other deprivations in a human life have nothing to do with lack of purchasing power.",
+      "Income poverty is not a permanent condition, it changes from time to time.",
+      "Income poverty restricts human choices only at a point of time."
+    ],
+    "answer": "A",
+    "explanation": "The passage says that if poverty is about deprivations affecting human well-being, income poverty is only one aspect of it. B is too extreme, since the passage says low incomes do relate to curtailed capabilities. C and D are not in the passage."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p4",
+    "topic": "Reading Comprehension",
+    "qno": 14,
+    "question": "What does the author mean by 'poverty of a life'?",
+    "options": [
+      "All deprivations in a human life which stem not only from lack of income but lack of real opportunity",
+      "Impoverished state of poor people in rural and urban areas",
+      "Missed opportunities in diverse personal circumstances",
+      "Material as well as non-material deprivations in a human life which restrict human choices permanently"
+    ],
+    "answer": "A",
+    "explanation": "The passage says poverty of a life lies not merely in the impoverished state in which a person lives but also in the lack of real opportunity to choose other types of living. Option A captures both parts. B covers only the first part, C only the second, and D adds 'permanently', which the passage does not say."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Time, Speed and Distance",
+    "qno": 15,
+    "question": "X and Y run a 3 km race along a circular course of length 300 m. Their speeds are in the ratio 3:2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "B",
+    "explanation": "When X finishes 3 km, Y has run 2 km, so X gains 1000 m. Each pass needs a gain of 300 m, and 1000 / 300 = 3.33, so X passes Y 3 times."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Alphabet / Coding-Decoding",
+    "qno": 16,
+    "question": "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?",
+    "options": [
+      "OGXPMLD",
+      "OGXQMLE",
+      "OFXPMLE",
+      "OFXPMLD"
+    ],
+    "answer": "D",
+    "explanation": "Each letter is replaced by its mirror letter (position n becomes 27 - n): L→O, U→F, C→X, K→P, N→M, O→L, W→D. This gives OFXPMLD."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Logical Reasoning / Tournament",
+    "qno": 17,
+    "question": "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match. It is given that no match results in a tie/draw. How many matches are played in the entire tournament?",
+    "options": [
+      "151",
+      "150",
+      "149",
+      "148"
+    ],
+    "answer": "C",
+    "explanation": "Each match eliminates exactly one player, and 149 players must be eliminated to leave one winner. So 149 matches are played."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 18,
+    "question": "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "24"
+    ],
+    "answer": "B",
+    "explanation": "Divisibility by 5 with an odd digit forces the units digit to be 5. The first two digits are chosen in order from {1, 3, 7, 9}, giving 4 × 3 = 12 numbers."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency",
+    "qno": 19,
+    "question": "Consider the Question and two Statements given below: Question: Is x an integer? Statement-1: x/3 is not an integer. Statement-2: 3x is an integer. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "D",
+    "explanation": "x = 1 satisfies both statements and is an integer. x = 1/3 also satisfies both statements (x/3 = 1/9, 3x = 1) and is not an integer. So even together the statements cannot answer the question."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Percentages",
+    "qno": 20,
+    "question": "The increase in the price of a certain item was 25%. Then the price was decreased by 20% and then again increased by 10%. What is the resultant increase in the price?",
+    "options": [
+      "5%",
+      "10%",
+      "12.5%",
+      "15%"
+    ],
+    "answer": "B",
+    "explanation": "The net factor is 1.25 × 0.80 × 1.10 = 1.10, an increase of 10%."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p5",
+    "topic": "Reading Comprehension / Assumptions",
+    "qno": 21,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Development of agricultural technology is confined to developed countries. 2. Agricultural technology is not adapted in developing countries. Which of the above assumptions is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage says techniques developed in the West are being adapted in some places to make tropical crops more productive, so it does not support the claim that technology is confined to developed countries or that it is not adapted at all in developing countries."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p5",
+    "topic": "Reading Comprehension / Assumptions",
+    "qno": 22,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Poor countries need to bring about change in their existing farming techniques. 2. Developed countries have better infrastructure and they waste less food. Which of the above assumptions is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The passage says technology must be adapted in the developing world, which applies as much to existing farming techniques as to genetic modification, so assumption 1 is valid. It does not compare food wastage or infrastructure in developed countries, so assumption 2 is not supported."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p5",
+    "topic": "Reading Comprehension / Assumptions",
+    "qno": 23,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Growing enough food for future generations will be a challenge. 2. Corporate farming is a viable option for food security in poor countries. Which of the above assumptions is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The plateau in yields, the lack of unfarmed land and the effects of rising temperature all imply that growing enough food will be a challenge. Corporate farming is never mentioned."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 24,
+    "question": "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "answer": "C",
+    "explanation": "With exactly two letters between A and E, the pair can occupy positions (1,4) or (2,5), and A and E can swap, giving 2 × 2 = 4 placements. The other three letters fill the remaining places in 3! = 6 ways. Total = 4 × 6 = 24."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency",
+    "qno": 25,
+    "question": "Consider the Question and two Statements given below: Question: Is Z brother of X? Statement-1: X is a brother of Y and Y is a brother of Z. Statement-2: X, Y and Z are siblings. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "D",
+    "explanation": "Statement-1 shows X and Y are male and that X, Y and Z are siblings, but it does not give Z's gender. Z could be a sister. Statement-2 gives no genders at all. Even together they cannot settle whether Z is a brother."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Arithmetic / Distance",
+    "qno": 26,
+    "question": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+    "options": [
+      "40 m",
+      "40.4 m",
+      "50 m",
+      "50.5 m"
+    ],
+    "answer": "B",
+    "explanation": "101 plants make 100 equal gaps over 1010 m, so each gap is 10.1 m. Five consecutive plants span 4 gaps, which is 4 × 10.1 = 40.4 m."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 27,
+    "question": "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?",
+    "options": [
+      "10",
+      "13",
+      "15",
+      "36"
+    ],
+    "answer": "C",
+    "explanation": "Travelling via B can be done in 3 × 4 = 12 ways. The direct route A to C gives 3 more ways. Total = 12 + 3 = 15."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Arithmetic / Working Backwards",
+    "qno": 28,
+    "question": "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number. How many coins does A have in the beginning?",
+    "options": [
+      "76",
+      "68",
+      "60",
+      "52"
+    ],
+    "answer": "D",
+    "explanation": "D has 10 coins, the smallest two-digit number. D received c/2 + 2 = 10 from C, so C had c = 16. C received b/2 + 2 = 16 from B, so B had b = 28. B received x/2 + 2 = 28 from A, so A had x = 52."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Series / Pattern",
+    "qno": 29,
+    "question": "In the series AABABCABCDABCDE..., which letter appears at the 100th place?",
+    "options": [
+      "G",
+      "H",
+      "I",
+      "J"
+    ],
+    "answer": "C",
+    "explanation": "The series is built from blocks A, AB, ABC, ABCD, ABCDE, and so on, where block k has k letters. The first 13 blocks contain 13 × 14 / 2 = 91 letters. The 100th letter is the 9th letter of block 14 (A to N), which is I."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Arrangement / Queue",
+    "qno": 30,
+    "question": "Three persons A, B and C are standing in a queue not necessarily in the same order. There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?",
+    "options": [
+      "22",
+      "28",
+      "32",
+      "38"
+    ],
+    "answer": "A",
+    "explanation": "C is at position 12 (11 persons ahead). B is 8 places from C, so B is at position 4 or 20. A is 5 places from B. For B = 4, A = 9 (position -1 is impossible), and 13 persons behind A gives 9 + 13 = 22 in total. For B = 20, A = 15 or 25, giving 28 or 38. The minimum is 22 (B at 4, A at 9, C at 12)."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p6",
+    "topic": "Reading Comprehension",
+    "qno": 31,
+    "question": "According to the passage, natural selection cannot anticipate future environments on the earth as 1. species not fully prepared to face the environmental changes that await them will face extinction 2. all the existing species would get extinct as their genomes will not withstand biological mishaps 3. inability of the genome to withstand environmental changes would result in extinction 4. extinction of species is a common feature Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": "C",
+    "explanation": "The passage says organisms not prepared for environmental catastrophes go extinct (1), that genomes unable to withstand geological or biological stress fail to survive (3), and that extinction has been a major feature of evolution (4). Statement 2 is an overstatement, because the passage only says species that cannot overcome adversity go extinct, not that all existing species will."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p6",
+    "topic": "Reading Comprehension",
+    "qno": 32,
+    "question": "The passage suggests that Darwinian theory of evolution is not a theory at all because",
+    "options": [
+      "it does not satisfy the creationist doctrine",
+      "extinction is a function of environment and biological assaults",
+      "there are no evidences to refute it",
+      "existence of organisms is attributed to a creator"
+    ],
+    "answer": "C",
+    "explanation": "The passage calls it not a theory at all because evolution is a fact, supported by scientific data, and no zoological, botanical, geological, paleontological, genetic or physical evidence has refuted its two central ideas. Option B describes the Darwinian explanation of extinction, not the reason it is called not a theory."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p6",
+    "topic": "Reading Comprehension / Assumptions",
+    "qno": 33,
+    "question": "With reference to the passage, the following assumptions have been made: 1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate. 2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment. 3. Darwin's theory explains all the natural phenomena. Which of the above assumptions is/are valid?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Assumption 1 follows from the passage, since species that cannot overcome environmental adversity go extinct. Assumption 2 misreads the passage, which says more than 90% of species that have ever lived are already extinct, not that they are in danger now. Assumption 3 is too broad, as the passage only compares Darwinian laws to other sets of natural laws."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p7",
+    "topic": "Reading Comprehension",
+    "qno": 34,
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+    "options": [
+      "People should be persuaded to continue with the mainly Indian traditional cereal-based diets.",
+      "India needs to focus on developing agricultural productivity and capacity for more energy generation in the coming years.",
+      "Modern technological developments result in the change of cultural and social behaviour of the people.",
+      "Water management practices in India need to change dramatically in the coming years."
+    ],
+    "answer": "D",
+    "explanation": "The passage shows that the new dietary patterns and higher energy use of a growing middle class both need much more water. The point running through it is therefore the pressure on water, which calls for changed water management. The passage does not advise people to stay with cereal diets, and agriculture and energy are discussed only as sources of water demand."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Time and Calendar Units",
+    "qno": 35,
+    "question": "How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?",
+    "options": [
+      "11580x",
+      "11581x",
+      "694860x",
+      "694861x"
+    ],
+    "answer": "D",
+    "explanation": "One week is 604800 s, one day 86400 s, one hour 3600 s, one minute 60 s and one second 1 s. The sum is 604800 + 86400 + 3600 + 60 + 1 = 694861, so the total is 694861x seconds."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Blood Relations",
+    "qno": 36,
+    "question": "P, Q, R, S, T and U are six members of a family. R is the spouse of Q. U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family. Which one of the following is correct?",
+    "options": [
+      "Q is the grandfather of T",
+      "Q is the grandmother of T",
+      "R is the mother of P",
+      "T is the granddaughter of Q"
+    ],
+    "answer": "D",
+    "explanation": "P is the son of R and Q's spouse R, so Q and R are P's parents. T is P's daughter, and U, T's mother, is P's wife. The two couples are Q-R and P-U. The genders of Q and R are not given, so options A, B and C cannot be established. T is a daughter of P, so T is the granddaughter of Q."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency",
+    "qno": 37,
+    "question": "Consider the Question and two Statements given below in respect of three cities P, Q and R in a State: Question: How far is city P from city Q? Statement-1: City Q is 18 km from city R. Statement-2: City P is 43 km from city R. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "D",
+    "explanation": "The relative positions of the cities are not given. If P and Q lie on the same side of R, PQ = 43 - 18 = 25 km. If they lie on opposite sides, PQ = 43 + 18 = 61 km. Other positions give values in between, so the distance cannot be determined."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Syllogism",
+    "qno": 38,
+    "question": "Two Statements followed by four Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts: Statement-1: All pens are books. Statement-2: No chair is a pen. Conclusion-I: All chairs are books. Conclusion-II: Some chairs are pens. Conclusion-III: All books are chairs. Conclusion-IV: No chair is a book. Which one of the following is correct?",
+    "options": [
+      "Only Conclusion–I",
+      "Only Conclusion–II",
+      "Both Conclusion–III and Conclusion–IV",
+      "None of the Conclusions follows"
+    ],
+    "answer": "D",
+    "explanation": "The statements say nothing about chairs that are not pens, so chairs may or may not be books. Conclusions I and IV cannot be established. Conclusion II directly contradicts Statement-2. Conclusion III has no support, since books may include things that are not chairs. No conclusion follows."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Syllogism",
+    "qno": 39,
+    "question": "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts. Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts: Statement-1: Some doctors are teachers. Statement-2: All teachers are engineers. Statement-3: All engineers are scientists. Conclusion-I: Some scientists are doctors. Conclusion-II: All engineers are doctors. Conclusion-III: Some engineers are doctors. Which one of the following is correct?",
+    "options": [
+      "Only Conclusion–I",
+      "Only Conclusion–II",
+      "Both Conclusion–I and Conclusion–III",
+      "Both Conclusion–I and Conclusion–II"
+    ],
+    "answer": "C",
+    "explanation": "Those doctors who are teachers are also engineers (Statement-2) and scientists (Statement-3). So some engineers are doctors (III) and some scientists are doctors (I). Conclusion II (all engineers are doctors) does not follow."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Circular Seating Arrangement",
+    "qno": 40,
+    "question": "Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order. B and D sit neither adjacent to C nor opposite to C. A sits in between E and D, and F sits in between B and H. Which one of the following is definitely correct?",
+    "options": [
+      "B sits in between A and G",
+      "C sits opposite to G",
+      "E sits opposite to F",
+      "None of the above"
+    ],
+    "answer": "D",
+    "explanation": "Place C at position 1. B and D cannot be at positions 2, 8 or 5, so they lie in {3, 4, 6, 7}. The groups E-A-D and B-F-H each occupy three consecutive seats, with D and B at the ends, and G fills the remaining seat. This gives six valid arrangements, for example C, G, D, A, E, B, F, H going around, and C, E, A, D, H, F, B, G. Option A fails in the first, option B fails in both, and option C fails in both. None of the statements holds in every arrangement."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p8",
+    "topic": "Reading Comprehension",
+    "qno": 41,
+    "question": "The passage is based on the idea that",
+    "options": [
+      "man should not work hard",
+      "the great evil of our age is overstrain",
+      "man cannot think well",
+      "man cannot care for his spiritual welfare"
+    ],
+    "answer": "B",
+    "explanation": "The passage begins with people living merely as workers and says an excessive amount of labour is the rule today, so that man's spiritual element cannot thrive. Overwork is the root problem. Not being able to care for spiritual welfare and not thinking are consequences of it, and the passage does not say man should not work hard."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p8",
+    "topic": "Reading Comprehension",
+    "qno": 42,
+    "question": "Man does not seek self-improvement because he",
+    "options": [
+      "is not intellectually capable",
+      "has no time to do so",
+      "is distracted by materialism",
+      "loves amusement and is mentally idle"
+    ],
+    "answer": "D",
+    "explanation": "The passage says he seeks not self-improvement but entertainment, which lets him be mentally idle and forget his usual activities. Option B is tempting because he has little leisure, but the passage's stated reason is his preference for entertainment. Intellectual incapacity and materialism are not mentioned."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p9",
+    "topic": "Reading Comprehension",
+    "qno": 43,
+    "question": "Which of the following would invariably happen in a country, when the demographic dividend has begun to operate? 1. The number of illiterate people will decrease. 2. The ratio of very old and very young will decrease for a while. 3. Population growth rate will quickly stabilize. Select the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The passage defines the dividend as a swelling in the working age population, which means the relative ratio of very young and very old will decline for a while. Nothing says literacy will automatically rise (the benefits depend on education and skills), and nothing is said about population growth rate stabilizing."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p9",
+    "topic": "Reading Comprehension / Inference",
+    "qno": 44,
+    "question": "With reference to the passage, which of the following inferences can be drawn? 1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate. 2. Promotion of higher education is an essential condition for a country for its rapid economic growth. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage says the demographic dividend can help raise growth, but it does not call it essential, since other drivers could also raise growth. It stresses education, skills and human capital for realising the benefits, but never says higher education specifically is an essential condition. Neither inference can be drawn."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Arithmetic / Linear Equations",
+    "qno": 45,
+    "question": "Five friends P, Q, X, Y and Z purchased some notebooks. The relevant information is given below: 1. Z purchased 8 notebooks more than X did. 2. P and Q together purchased 21 notebooks. 3. Q purchased 5 notebooks less than P did. 4. X and Y together purchased 28 notebooks. 5. P purchased 5 notebooks more than X did. If each notebook is priced ₹40, then what is the total cost of all the notebooks?",
+    "options": [
+      "₹2,600",
+      "₹2,400",
+      "₹2,360",
+      "₹2,320"
+    ],
+    "answer": "A",
+    "explanation": "From P + Q = 21 and Q = P - 5, we get P = 13 and Q = 8. Then X = P - 5 = 8, Z = X + 8 = 16, and Y = 28 - 8 = 20. Total notebooks = 13 + 8 + 8 + 20 + 16 = 65, and the cost is 65 × 40 = ₹2,600."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Time and Clocks",
+    "qno": 46,
+    "question": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours. After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours. As compared to the clock at home, the village clock is",
+    "options": [
+      "10 minutes slow",
+      "5 minutes slow",
+      "10 minutes fast",
+      "5 minutes fast"
+    ],
+    "answer": "D",
+    "explanation": "Let the outward trip take t minutes. The return route is 1.25 times as long at twice the speed, so it takes 0.625t. Total time on the home clock is 90 minutes, so t + 25 + 0.625t = 90, giving t = 40. He therefore reached the village at 15:10 by the home clock, while the village clock showed 15:15. The village clock is 5 minutes fast."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / LCM",
+    "qno": 47,
+    "question": "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+    "options": [
+      "147",
+      "150",
+      "294",
+      "300"
+    ],
+    "answer": "C",
+    "explanation": "A must be a multiple of LCM(2, 3, 4, 5, 6) = 60, so let A = 60k. Then B = 30k, C = 20k, D = 15k, E = 12k and F = 10k. D = 15k is even only when k is even, so the smallest k is 2. The total is 147k = 147 × 2 = 294."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency / Circular Arrangement",
+    "qno": 48,
+    "question": "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table). Consider the Question and two Statements given below: Question: Who is sitting on the immediate left of A? Statement-1: B is sitting opposite to C and D is sitting opposite to E. Statement-2: F is sitting on the immediate left of B. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "D",
+    "explanation": "Statement-1 puts A and F opposite each other but fixes nothing else. Statement-2 alone places only F relative to B. Combining them, F is next to B, so A is opposite F, and D and E occupy the two remaining opposite seats. A's left neighbour is then either D or E, depending on which way round they sit, so the answer is not determined."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency / Ages",
+    "qno": 49,
+    "question": "Consider the Question and two Statements given below: Question: What is the age of Manisha? Statement-1: Manisha is 24 years younger than her mother. Statement-2: 5 years later, the ages of Manisha and her mother will be in the ratio 3:5. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "C",
+    "explanation": "Statement-1 alone gives only the age difference. Statement-2 alone gives only a ratio, with infinitely many solutions. Together, with Manisha's age M, (M + 5)/(M + 29) = 3/5, so 5M + 25 = 3M + 87 and M = 31."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Sufficiency / Scheduling",
+    "qno": 50,
+    "question": "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m. Consider the Question and two Statements given below: Question: Which lecture is in the third period? Statement-1: Lecture F is preceded by A and followed by C. Statement-2: There is no lecture after B. Which one of the following is correct in respect of the Question and the Statements?",
+    "options": [
+      "Statement-1 alone is sufficient to answer the Question",
+      "Statement-2 alone is sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+      "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+    ],
+    "answer": "D",
+    "explanation": "There are six periods. Statement-2 puts B in the sixth period. Statement-1 makes A, F, C consecutive, which can occupy periods 1-3, 2-4 or 3-5. The third period would then be C, F or A respectively, so even together the statements do not decide it."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p10",
+    "topic": "Reading Comprehension",
+    "qno": 51,
+    "question": "Which of the following statements best reflects the underlying tone of the passage?",
+    "options": [
+      "Only an educated population can best make use of the benefits of economic progress.",
+      "All economic development should be aimed at the creation of leisure.",
+      "An increase in the educated population of a country leads to an increase in the happiness of its people.",
+      "Use of machines should be encouraged in order to create a large leisured population."
+    ],
+    "answer": "A",
+    "explanation": "The passage says machine productivity should lead to a life of leisure, but that leisure is tedious except for those with intelligent interests, so a leisured population must be educated to be happy. This supports A. B and D treat leisure as the aim, which the passage does not claim. C is too strong, since education is described as a condition for happiness, not a guarantee of it."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p11",
+    "topic": "Reading Comprehension",
+    "qno": 52,
+    "question": "With reference to the passage, which one of the following statements is correct?",
+    "options": [
+      "It is not possible for adults to feel thrilled by presents.",
+      "There can be more than one reason why adults feel less thrilled by presents.",
+      "The author does not know why adults feel less thrilled by presents.",
+      "Adults have less capacity to feel the joy of loving or being loved."
+    ],
+    "answer": "B",
+    "explanation": "The author offers several possible reasons joined by 'perhaps', such as having too much already, losing the joy of giving, and being too cautious. This supports B. A is too absolute, C is not what the passage says, and D is not stated."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p11",
+    "topic": "Reading Comprehension",
+    "qno": 53,
+    "question": "The author of the passage is against",
+    "options": [
+      "worrying too much about the past and future",
+      "being in the habit of thinking about presents",
+      "not being thrilled by new things",
+      "giving and receiving joy only partially"
+    ],
+    "answer": "A",
+    "explanation": "The author says children do not look too forward or too far backward, and that some of our cares would shrink if we thought less about them. This points to the author opposing excessive worry about the past and future."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Permutations",
+    "qno": 54,
+    "question": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition. Consider the following statements: 1. The 4-digit least value of x is 1332. 2. The 3-digit greatest value of x is 888. Which of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Each digit appears twice in each place across the six numbers, so x = 222 × (A + B + C). The smallest digit sum is 1 + 2 + 3 = 6, giving x = 1332, which is a 4-digit number, so statement 1 is correct. Since x is at least 1332, it can never be a 3-digit number, so statement 2 is incorrect."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 55,
+    "question": "There is a numeric lock which has a 3-digit PIN. The PIN contains digits 1 to 7. There is no repetition of digits. The digits in the PIN from left to right are in decreasing order. Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "C",
+    "explanation": "The order is forced (decreasing), so we only choose 3 digits from 1-7 with no two consecutive. The number of ways is C(7 - 3 + 1, 3) = C(5, 3) = 10. Check by listing: 531, 641, 642, 751, 752, 753, 742, 631, 741, 853 is not valid (8 is not allowed), and the valid set of 10 is 531, 631, 641, 642, 741, 742, 751, 752, 753, 642 counted once, so the maximum number of attempts is 10."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Geometry / Combinations",
+    "qno": 56,
+    "question": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+    "options": [
+      "24",
+      "16",
+      "12",
+      "8"
+    ],
+    "answer": "A",
+    "explanation": "Eight equidistant points give 4 diameters. Each diameter forms a right-angled triangle with any of the other 6 points (angle in a semicircle). Total = 4 × 6 = 24."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Time and Work",
+    "qno": 57,
+    "question": "24 men and 12 women can do a piece of work in 30 days. In how many days can 12 men and 24 women do the same piece of work?",
+    "options": [
+      "30 days",
+      "More than 30 days",
+      "Less than 30 days or more than 30 days",
+      "Data is inadequate to draw any conclusion"
+    ],
+    "answer": "D",
+    "explanation": "The work is 12(2m + w) × 30, while the second team has the capacity 12(m + 2w). If a man works faster than a woman, the second team takes more than 30 days. If a woman works faster, it takes less. If they are equally efficient, it takes exactly 30 days. Since the efficiencies are not given, no single conclusion can be drawn."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Remainders",
+    "qno": 58,
+    "question": "What is the remainder when 91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99 is divided by 1261?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "answer": "D",
+    "explanation": "1261 = 13 × 97. The product contains 91 = 7 × 13 and 97, so it is divisible by both 13 and 97 (which are coprime), and hence by 1261. The remainder is 0."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Mensuration / Geometry",
+    "qno": 59,
+    "question": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm: 1. It is possible to cut the sheet exactly into 4 square sheets. 2. It is possible to cut the sheet into 10 triangular sheets of equal area. Which of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Statement 1: cut two 8 × 8 squares from the 20 × 8 sheet, leaving a 4 × 8 piece, which splits into two 4 × 4 squares. That gives exactly 4 squares. Statement 2: cut the sheet into five 4 × 8 rectangles and divide each along a diagonal, giving 10 triangles of area 16 cm² each. Both statements are correct."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Percentages / Inequalities",
+    "qno": 60,
+    "question": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y. When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z. Which one of the following is correct?",
+    "options": [
+      "z < x < y",
+      "x < y < z",
+      "y < x < z",
+      "z < y < x"
+    ],
+    "answer": "A",
+    "explanation": "From 0.7x + y = 1.65y we get 0.7x = 0.65y, so y = (14/13)x, which is about 1.077x. From 0.6x + z = 1.65z we get 0.6x = 0.65z, so z = (12/13)x, which is about 0.923x. Hence z < x < y."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p12",
+    "topic": "Reading Comprehension",
+    "qno": 61,
+    "question": "Which one of the following is implied by the passage?",
+    "options": [
+      "Most of the people do not accumulate money for their needs.",
+      "Most of the people never fail to accumulate money for their needs.",
+      "There are people who fail to accumulate money for their needs.",
+      "There is no need to accumulate money."
+    ],
+    "answer": "C",
+    "explanation": "The passage speaks of 'the majority of people who fail to accumulate money sufficient for their needs', which implies that such people exist. It does not say what most people in general do, so A and B go beyond the text. D contradicts its tone."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p12",
+    "topic": "Reading Comprehension",
+    "qno": 62,
+    "question": "What is the main idea of the passage?",
+    "options": [
+      "People should not be influenced by the opinions of others.",
+      "People should accumulate as much money as they can.",
+      "People should neither give nor accept the opinions.",
+      "People will succeed in any undertaking if they do not accept any opinion at all."
+    ],
+    "answer": "A",
+    "explanation": "The passage warns that people who are easily influenced by others' opinions fail to succeed, so the central message is not to be swayed by them when making decisions. C and D overstate this into a total rejection of opinions. B is not its main point."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p13",
+    "topic": "Reading Comprehension",
+    "qno": 63,
+    "question": "With reference to the above passage, which of the following statements is/are correct? 1. Conventions are the sources of rights of man. 2. Rights of man can be exercised only when there is a social order. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage says the social order is the basis of all other rights and that it must be founded on conventions, so rights ultimately rest on conventions (statement 1). Because the social order is the basis of all other rights, those rights can be exercised only where a social order exists (statement 2). This one is a close call between C and A."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Percentages",
+    "qno": 64,
+    "question": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes. There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes. What is the total number of voters in the voters list?",
+    "options": [
+      "15000",
+      "12000",
+      "9600",
+      "5000"
+    ],
+    "answer": "A",
+    "explanation": "Y got 44% of the votes cast, so the margin is 56% - 44% = 12% of the votes cast. If 12% = 1440, the votes cast are 12000. This is 80% of the voters, so the voters list has 12000 / 0.8 = 15000."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / LCM and Remainders",
+    "qno": 65,
+    "question": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+    "options": [
+      "1063",
+      "1073",
+      "1083",
+      "1183"
+    ],
+    "answer": "C",
+    "explanation": "LCM(6, 9, 12, 15, 18) = 180, so the numbers are of the form 180k + 3. For k = 5 the number is 903, which is below 1000. For k = 6 it is 1083, which is the smallest above 1000."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Reverse Digits",
+    "qno": 66,
+    "question": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order. If p × q = 2430, then what is the difference between p and q?",
+    "options": [
+      "45",
+      "27",
+      "18",
+      "9"
+    ],
+    "answer": "D",
+    "explanation": "2430 = 2 × 3^5 × 5. The only two-digit pair that is the reverse of each other with this product is 45 × 54 = 2430. The difference is 54 - 45 = 9."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Prime and Composite",
+    "qno": 67,
+    "question": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number: 1. p × q can be an odd number. 2. q/p can be a prime number. 3. p + q can be a prime number. Which of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1: p = 3, q = 9 gives 27, which is odd. Statement 2: p = 2, q = 6 gives q/p = 3, which is prime. Statement 3: p = 2, q = 9 gives p + q = 11, which is prime. All three are correct."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Clocks",
+    "qno": 68,
+    "question": "Consider the following statements: 1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide. 2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide. Which of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Statement 1: after 3 o'clock the hands coincide when m = 15 + m/12, so m = 180/11 ≈ 16.36 minutes, which is between 3:16 and 3:17. Statement 2: at 4:58 and s seconds, the minute hand is at 58 + s/60 on the 60-division dial and the second hand is at s. They coincide when s = 58 + s/60, so s ≈ 58.98, which is between 4:58 and 4:59. Both are correct."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Mixtures and Proportion",
+    "qno": 69,
+    "question": "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water. 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+    "options": [
+      "m = n",
+      "m > n",
+      "m < n",
+      "Cannot be determined due to insufficient data"
+    ],
+    "answer": "A",
+    "explanation": "After the first transfer, Y has 120 ml with 20 ml of milk. The 20 ml sent back carries 20/6 ml of milk and 100/6 ml of water. X then has 80 + 10/3 = 250/3 ml of milk in 100 ml, so m = 5/6. Y keeps 100 - 100/6 = 250/3 ml of water in 100 ml, so n = 5/6. Hence m = n."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Data Interpretation / Pie Chart",
+    "qno": 70,
+    "question": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household. If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A?",
+    "options": [
+      "112/9",
+      "125/6",
+      "155/9",
+      "250/9"
+    ],
+    "answer": "D",
+    "explanation": "B + C + D + E = 90 + 50 + 45 + 75 = 260°, so A = 360 - 260 = 100°. The percentage is 100/360 × 100 = 250/9."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p14",
+    "topic": "Reading Comprehension",
+    "qno": 71,
+    "question": "The author's assumption about scientific research is that",
+    "options": [
+      "it is never very valuable",
+      "it is sometimes very valuable",
+      "it is never without some value",
+      "it is always very valuable"
+    ],
+    "answer": "C",
+    "explanation": "The passage says scientific research is probably never completely valueless, and that there is always a chance its results will be of value to a talented investigator. This matches C. A, B and D do not match this."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p14",
+    "topic": "Reading Comprehension",
+    "qno": 72,
+    "question": "According to the author",
+    "options": [
+      "not many research results can be of value to an intelligent investigator",
+      "a research result is always valuable to an intelligent investigator",
+      "any research result can be of value to an intelligent investigator",
+      "a research result must always be of some value to an intelligent investigator"
+    ],
+    "answer": "C",
+    "explanation": "The author says that however silly or mechanical the research seems, there is always a chance the results may be of value to the investigator of talent. This means any result can be valuable, not that every result must be. B and D say 'always' and 'must', which is stronger than the author's claim."
+  },
+  {
+    "year": 2022,
+    "passageid": "2022_p15",
+    "topic": "Reading Comprehension",
+    "qno": 73,
+    "question": "Which one of the following best reflects the practical, rational and lasting solution?",
+    "options": [
+      "Constructing huge concrete storage tanks and canals across the country",
+      "Changing the cropping patterns and farming practices",
+      "Interlinking of rivers across the country",
+      "Buffer stocking of water through dams and recharging aquifers"
+    ],
+    "answer": "D",
+    "explanation": "The passage says the problem is skewed water availability (too much in 120 days, too little in the remaining 245), which has to be managed and regulated through the year. Storing the surplus water through dams and recharging aquifers addresses this directly. The other options are either not supported by the passage or not tied to this timing problem."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Factorials",
+    "qno": 74,
+    "question": "If 15 × 14 × 13 × ... × 3 × 2 × 1 = 3^m × n where m and n are positive integers, then what is the maximum value of m?",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "B",
+    "explanation": "The power of 3 in 15! is floor(15/3) + floor(15/9) = 5 + 1 = 6."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number Series",
+    "qno": 75,
+    "question": "What is the value of X in the sequence 2, 12, 36, 80, 150, X?",
+    "options": [
+      "248",
+      "252",
+      "258",
+      "262"
+    ],
+    "answer": "B",
+    "explanation": "The terms follow n² × (n + 1): 1×2 = 2, 4×3 = 12, 9×4 = 36, 16×5 = 80, 25×6 = 150. The next term is 36 × 7 = 252."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 76,
+    "question": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant. How many such passwords can be generated?",
+    "options": [
+      "105",
+      "525",
+      "945",
+      "1050"
+    ],
+    "answer": "C",
+    "explanation": "The vowel is first and the consonant is last, so the digit is in the middle. There are 5 vowels, 9 non-zero digits and 21 consonants, giving 5 × 9 × 21 = 945."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 77,
+    "question": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+    "options": [
+      "18",
+      "27",
+      "54",
+      "81"
+    ],
+    "answer": "D",
+    "explanation": "The 3 tea cups can be placed in C(9, 3) = 84 ways. Arrangements where some row has all tea cups number 3, one for each row, and no two rows can be all tea. So the valid count is 84 - 3 = 81."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Number System / Integers",
+    "qno": 78,
+    "question": "The sum of three consecutive integers is equal to their product. How many such possibilities are there?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "No such possibility is there"
+    ],
+    "answer": "C",
+    "explanation": "Let the integers be n - 1, n and n + 1. The sum is 3n and the product is n(n² - 1), so n(n² - 1) = 3n. This gives n = 0 or n = ±2, leading to (-1, 0, 1), (1, 2, 3) and (-3, -2, -1). There are three possibilities."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Permutations and Combinations",
+    "qno": 79,
+    "question": "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits?",
+    "options": [
+      "72",
+      "81",
+      "90",
+      "100"
+    ],
+    "answer": "A",
+    "explanation": "X can be any of 9 non-zero digits, and Y any of the remaining 8 non-zero digits, giving 9 × 8 = 72."
+  },
+  {
+    "year": 2022,
+    "passageid": null,
+    "topic": "Averages",
+    "qno": 80,
+    "question": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+    "options": [
+      "40.5 kg",
+      "40.8 kg",
+      "41 kg",
+      "Cannot be determined as data is inadequate"
+    ],
+    "answer": "C",
+    "explanation": "A + B + C = 120 and B + D + E = 126. The total of all six is A + B + C + D + E + F = 120 + (D + E) + B = 120 + 126 = 246, since F = B. The average is 246 / 6 = 41 kg."
+  }
+]

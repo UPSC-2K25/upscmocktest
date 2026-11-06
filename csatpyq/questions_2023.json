@@ -1,0 +1,1202 @@
+[
+  {
+    "year": 2023,
+    "passageid": "2023_p1",
+    "topic": "Water Resources and Governance",
+    "qno": 1,
+    "question": "Which one of the following statements best reflects the most rational, practical and immediate action required to ensure fair and equitable allocation of water to different stakeholders?",
+    "options": [
+      "A national, pragmatic, legal and policy framework for water allocation should be made.",
+      "All river systems of the country should be linked and huge aquifers created.",
+      "Water channels between regions of water surplus and regions of water deficit should be created.",
+      "To mitigate water crisis, water demand of sectors such as agriculture and industry should be reduced."
+    ],
+    "answer": "A",
+    "explanation": "The passage calls for a basin-based approach and allocation based on objective criteria. A national legal and policy framework is the most direct way to establish a consistent and equitable approach to allocation."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p2",
+    "topic": "Health, Nutrition and Economic Development",
+    "qno": 2,
+    "question": "Which one of the following statements best reflects what is implied by the passage?",
+    "options": [
+      "Education system must be strengthened in rural areas.",
+      "Large scale and effective implementation of skill development programme is the need of the hour.",
+      "For economic development, health and nutrition of only skilled workers needs special attention.",
+      "For rapid economic growth as envisaged by us, attention should be paid to health and nutrition of the people."
+    ],
+    "answer": "D",
+    "explanation": "The passage connects anaemia, tuberculosis and childhood malnutrition with reduced productivity and lost future potential. Improving people's health and nutrition is therefore important for economic growth."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p3",
+    "topic": "Climate Change Adaptation",
+    "qno": 3,
+    "question": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+    "options": [
+      "Adaptation to climate change and mitigation response are basically the responsibilities of the government.",
+      "Climate change causes a change in government policies regarding land use patterns in the country.",
+      "Risk perceptions of farmers are important for motivating them for taking adaptation decisions.",
+      "Since mitigation is not possible, governments should come up with policies for quick response to climate change."
+    ],
+    "answer": "C",
+    "explanation": "The passage explains that farmers' adaptation depends not only on whether they perceive climate change but also on how they perceive the associated risks. Option C captures this central point."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Pigeonhole Principle",
+    "qno": 4,
+    "question": "Raj has ten pairs of red, nine pairs of white and eight pairs of black shoes in a box. If he randomly picks shoes one by one (without replacement) from the box to get a red pair of shoes to wear, what is the maximum number of attempts he has to make?",
+    "options": [
+      "27",
+      "36",
+      "44",
+      "45"
+    ],
+    "answer": "D",
+    "explanation": "There are 34 non-red shoes, which could all be picked first. Then 10 red shoes could be picked, one from each of the 10 red pairs, without obtaining a pair. The next shoe, the 45th, must complete a red pair. Thus, the maximum number of attempts is 45."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Combinations",
+    "qno": 5,
+    "question": "In how many ways can a batsman score exactly 25 runs by scoring single runs, fours and sixes only, irrespective of the sequence of scoring shots?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "answer": "B",
+    "explanation": "Let a, b and c be the numbers of singles, fours and sixes, respectively. Then a + 4b + 6c = 25, where a, b and c are non-negative integers. For c = 0, 1, 2, 3 and 4, the possible numbers of combinations are 7, 5, 4, 2 and 1, respectively. The total is 7 + 5 + 4 + 2 + 1 = 19."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Counting Applications",
+    "qno": 6,
+    "question": "There are four letters and four envelopes and exactly one letter is to be put in exactly one envelope with the correct address. If the letters are randomly inserted into the envelopes, then consider the following statements: 1. It is possible that exactly one letter goes into an incorrect envelope. 2. There are only six ways in which only two letters can go into the correct envelopes. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Statement 1 is false because if one letter is incorrectly placed, at least one other letter must also be incorrectly placed. For statement 2, choose the two letters that are correctly placed in C(4,2) = 6 ways. The remaining two letters must be swapped, giving exactly six arrangements with only two correct placements. Therefore, only statement 2 is correct."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Remainders",
+    "qno": 7,
+    "question": "What is the remainder when 85 × 87 × 89 × 91 × 95 × 96 is divided by 100?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "A",
+    "explanation": "The product contains 85 and 95, whose product is divisible by 25. It also contains 96, which is divisible by 4. Since 25 and 4 are coprime, the entire product is divisible by 100. The remainder is 0."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digits and Number Formation",
+    "qno": 8,
+    "question": "What is the unit digit in the expansion of (57242)^(9×7×5×3×1)?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "A",
+    "explanation": "The unit digit depends on the unit digit of 2^945. The unit digits of powers of 2 repeat in a cycle of 2, 4, 8, 6, with period 4. Since 945 leaves remainder 1 when divided by 4, the unit digit is the first in the cycle: 2."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digits and Number Formation",
+    "qno": 9,
+    "question": "If ABC and DEF are both 3-digit numbers such that A, B, C, D, E, and F are distinct non-zero digits such that ABC + DEF = 1111, then what is the value of A + B + C + D + E + F?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "answer": "D",
+    "explanation": "In the units column, C + F must produce a units digit of 1 and carry 1, so C + F = 11. In the tens column, B + E + 1 = 11, giving B + E = 10 and carrying 1. In the hundreds column, A + D + 1 = 11, giving A + D = 10. Therefore, the sum of all six digits is 11 + 10 + 10 = 31."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digits and Number Formation",
+    "qno": 10,
+    "question": "D is a 3-digit number such that the ratio of the number to the sum of its digits is least. What is the difference between the digit at the hundred's place and the digit at the unit's place of D?",
+    "options": [
+      "0",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "C",
+    "explanation": "The ratio is minimized by D = 199. Its digit sum is 1 + 9 + 9 = 19, giving a ratio of 199/19. This is the minimum among three-digit numbers. The difference between its hundreds digit and units digit is 9 − 1 = 8."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p4",
+    "topic": "Climate Change and Carbon Emissions",
+    "qno": 11,
+    "question": "Which one of the following statements best reflects the crucial message conveyed by the author of the passage?",
+    "options": [
+      "Businesses that cause emissions may need to close down or pay for pollution in future.",
+      "The only solution is technological development related to the issues of climate change.",
+      "Waiting to deal with carbon emissions until technology improves is not a wise strategy.",
+      "Since future technological change is uncertain, new industries should be based on renewable energy sources."
+    ],
+    "answer": "C",
+    "explanation": "Future technological developments may or may not make the transition away from fossil fuels affordable. The passage warns that delaying action on emissions would be reckless given the risks of future warming."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p5",
+    "topic": "Public Health and Environmental Behaviour",
+    "qno": 12,
+    "question": "Which one of the following statements best implies the most rational assumption that can be made from the passage?",
+    "options": [
+      "We are likely to spend more money on cure than prevention.",
+      "It is the job of the government to solve our environmental and public health problems.",
+      "Health can be protected even if environmental problems go on unattended.",
+      "Loss of traditional lifestyle and the influence of western values led to some unhealthy way of living."
+    ],
+    "answer": "A",
+    "explanation": "The passage describes reluctance to make lifestyle changes that could prevent environmental and health problems. This suggests that people may fail to prioritize prevention and end up relying more on treatment."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p6",
+    "topic": "Food Systems and Nutrition",
+    "qno": 13,
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+    "options": [
+      "The scheme of Universal Basic Income should be implemented worldwide as a way of poverty alleviation.",
+      "We must place food-based nutrition at the centre of our policy debate.",
+      "Nutritional status of food should be improved by creating appropriate genetically modified crops.",
+      "Using modern food processing technologies, we must fortify food items with required nutrient elements."
+    ],
+    "answer": "B",
+    "explanation": "The passage highlights both unhealthy food choices and limited access to affordable nutritious food. It argues that food systems are failing to meet nutritional needs, making nutrition a central policy concern."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Parity (Odd/Even)",
+    "qno": 14,
+    "question": "Three of the five positive integers p, q, r, s, t are even and two are odd. Consider: 1. p + q + r − s − t is definitely even. 2. 2p + q + 2r − 2s + t is definitely odd. Which statements are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "For statement 1, adding and subtracting integers has the same parity effect, and the expression contains exactly two odd numbers and three even numbers. Its value is therefore even. For statement 2, 2p, 2r and 2s are even, so the parity depends on q + t. Since q and t are not necessarily of opposite parity, the expression is not definitely odd. Only statement 1 is correct."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Prime Numbers",
+    "qno": 15,
+    "question": "Consider the following in respect of prime number p and composite number c. 1. (p + c)/(p − c) can be even. 2. p + c can be odd. 3. pc can be odd. Which statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "All three statements can be true for suitable values. For statement 1, p = 3 and c = 9 give (p + c)/(p − c) = 12/−6 = −2, which is even. For statement 2, p = 2 and c = 9 give p + c = 11, which is odd. For statement 3, p = 3 and c = 9 give pc = 27, which is odd. Therefore, all three statements are correct."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digits and Number Formation",
+    "qno": 16,
+    "question": "A 3-digit number ABC, on multiplication with D gives 37DD where A, B, C and D are different non-zero digits. What is the value of A + B + C?",
+    "options": [
+      "18",
+      "16",
+      "15",
+      "Cannot be determined due to insufficient data"
+    ],
+    "answer": "A",
+    "explanation": "The equation is ABC × D = 3700 + 11D. Trying the possible non-zero digits for D gives D = 4 and ABC = 936, since 936 × 4 = 3744. The digits A, B, C and D are distinct and non-zero. Therefore, A + B + C = 9 + 3 + 6 = 18."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Divisibility",
+    "qno": 17,
+    "question": "For any choices of values of X, Y and Z, the 6-digit number of the form XYZXYZ is divisible by:",
+    "options": [
+      "7 and 11 only",
+      "11 and 13 only",
+      "7 and 13 only",
+      "7, 11 and 13"
+    ],
+    "answer": "D",
+    "explanation": "Let the three-digit number XYZ be n. Then XYZXYZ = 1000n + n = 1001n. Since 1001 = 7 × 11 × 13, the six-digit number is divisible by all three numbers."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Mensuration - Cubes",
+    "qno": 18,
+    "question": "125 identical cubes are arranged in the form of a cubical block. How many cubes are surrounded by other cubes from each side?",
+    "options": [
+      "27",
+      "25",
+      "21",
+      "18"
+    ],
+    "answer": "A",
+    "explanation": "Since 125 = 5³, the block has 5 cubes along each edge. Removing the outer layer leaves a 3 × 3 × 3 inner block. Thus, 3³ = 27 cubes are surrounded by other cubes on all six sides."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Arrangements",
+    "qno": 19,
+    "question": "How many distinct 8-digit numbers can be formed by rearranging the digits of the number 11223344 such that odd digits occupy odd positions and even digits occupy even positions?",
+    "options": [
+      "12",
+      "18",
+      "36",
+      "72"
+    ],
+    "answer": "C",
+    "explanation": "The four odd digits (1, 1, 3, 3) must occupy the four odd positions. They can be arranged in 4!/(2! × 2!) = 6 ways. The four even digits (2, 2, 4, 4) can occupy the even positions in another 6 ways. Total arrangements = 6 × 6 = 36."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Time and Work",
+    "qno": 20,
+    "question": "A, B, C working independently can do a piece of work in 8, 16 and 12 days respectively. A alone works on Monday, B alone works on Tuesday, C alone works on Wednesday; A alone, again works on Thursday and so on. Consider the following statements: 1. The work will be finished on Thursday. 2. The work will be finished in 10 days. Which of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "A completes 1/8, B completes 1/16, and C completes 1/12 of the work per working day. In each three-day cycle, they complete 1/8 + 1/16 + 1/12 = 13/48 of the work. After nine days, 39/48 = 13/16 is complete. On day 10, A completes another 1/8, bringing the total to 15/16. On day 11, B completes the remaining 1/16. Day 11 is Thursday, so statement 1 is true and statement 2 is false."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p7",
+    "topic": "Urban Air Pollution and Public Policy",
+    "qno": 21,
+    "question": "Which one of the following statements best reflects the most logical and rational implication conveyed by the passage?",
+    "options": [
+      "Arbitrary curbs on vehicles to reduce pollution are difficult to implement.",
+      "Knee-jerk reactions cannot but an evidence-based approach will be more effective.",
+      "A heavy penalty should be enforced on those driving without periodic pollution tests.",
+      "In the absence of laws to deal with the problem of pollution, the administration tends to make arbitrary decisions."
+    ],
+    "answer": "B",
+    "explanation": "The passage criticizes arbitrary restrictions and argues for continuous, scientific information about pollution sources and effective technologies. It supports evidence-based decisions rather than reactive measures."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p8",
+    "topic": "Corporate Governance",
+    "qno": 22,
+    "question": "Which of the following statements best reflects the logical inference from the passage given above?",
+    "options": [
+      "It is an important agenda of the countries around the world to ensure access to good external financing.",
+      "Good corporate governance improves the credibility of the firms.",
+      "International capital markets ensure that the firms maintain good corporate governance.",
+      "Good corporate governance paves the way for robust supply chains."
+    ],
+    "answer": "B",
+    "explanation": "Investors favour firms that provide accountability, reliable financial reporting, disclosure and fair treatment of stakeholders. These practices increase investor confidence and the credibility of firms."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p9",
+    "topic": "Elephants and Biodiversity",
+    "qno": 23,
+    "question": "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+    "options": [
+      "The home range of elephants needs to be a vast area of rich biodiversity.",
+      "Elephants are the keystone species and they benefit the biodiversity.",
+      "Rich biodiversity cannot be maintained in the forests without the presence of elephants.",
+      "Elephants are capable of regenerating forests with species as per their requirement."
+    ],
+    "answer": "B",
+    "explanation": "The passage describes how elephants shape forest clearings, disperse seeds, enrich soil and create water access for other animals. These activities benefit multiple species and support biodiversity, making option B the best inference."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Mathematical Operations",
+    "qno": 24,
+    "question": "If 7 ⊕ 9 ⊕ 10 = 8, 9 ⊕ 11 ⊕ 30 = 5, 11 ⊕ 17 ⊕ 21 = 13, what is the value of 23 ⊕ 4 ⊕ 15?",
+    "options": [
+      "6",
+      "8",
+      "13",
+      "15"
+    ],
+    "answer": "A",
+    "explanation": "The operation is the sum of the three numbers followed by adding the digits of that sum. For example, 7 + 9 + 10 = 26 and 2 + 6 = 8; 9 + 11 + 30 = 50 and 5 + 0 = 5. Therefore, 23 + 4 + 15 = 42, and 4 + 2 = 6."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Divisibility and Factors",
+    "qno": 25,
+    "question": "Let x be a positive integer such that 7x + 96 is divisible by x. How many values of x are possible?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "Infinitely many"
+    ],
+    "answer": "C",
+    "explanation": "Since 7x is divisible by x, 7x + 96 is divisible by x exactly when 96 is divisible by x. Now 96 = 2⁵ × 3, so the number of positive divisors is (5 + 1)(1 + 1) = 12."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Arithmetic - Maximum Value",
+    "qno": 26,
+    "question": "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p + q)(r + s)?",
+    "options": [
+      "230",
+      "225",
+      "224",
+      "221"
+    ],
+    "answer": "B",
+    "explanation": "To maximize the product, use the four largest distinct positive digits: 6, 7, 8 and 9. Pair them to make the sums as equal as possible: (9 + 6)(8 + 7) = 15 × 15 = 225. This is the greatest possible value."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Remainders",
+    "qno": 27,
+    "question": "A number N is formed by writing 9 for 99 times. What is the remainder if N is divided by 13?",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "1"
+    ],
+    "answer": "A",
+    "explanation": "Write N as 9(1 + 10 + 10² + ... + 10⁹⁸). Powers of 10 modulo 13 repeat every six terms, and each complete six-term cycle sums to 0 modulo 13. Since 99 = 16 × 6 + 3, only the first three terms remain: 9(1 + 10 + 100). Modulo 13, this is 9(1 + 10 + 9) = 180, which leaves remainder 11."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digit Sum",
+    "qno": 28,
+    "question": "Each digit of a 9-digit number is 1. It is multiplied by itself. What is the sum of the digits of the resulting number?",
+    "options": [
+      "64",
+      "80",
+      "81",
+      "100"
+    ],
+    "answer": "C",
+    "explanation": "The number is 111111111. Its square is 12345678987654321. The digit sum is (1 + 2 + ... + 9) + (8 + 7 + ... + 1) = 45 + 36 = 81."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digit Sums",
+    "qno": 29,
+    "question": "What is the sum of all digits which appear in all the integers from 10 to 100?",
+    "options": [
+      "855",
+      "856",
+      "910",
+      "911"
+    ],
+    "answer": "B",
+    "explanation": "For the integers 10 through 99, each tens digit from 1 to 9 appears 10 times, contributing 10 × (1 + 2 + ... + 9) = 450. The units digits 0 through 9 appear nine times each, contributing 9 × 45 = 405. The number 100 contributes another 1. The total is 450 + 405 + 1 = 856."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Geometry and Mensuration - Geometric Counting",
+    "qno": 30,
+    "question": "ABCD is a square. One point on each of AB and CD; and two distinct points on each of BC and DA are chosen. How many distinct triangles can be drawn using any three points as vertices out of these six points?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "24"
+    ],
+    "answer": "C",
+    "explanation": "There are six selected points. Choosing any three as vertices gives C(6,3) = 20 possible triangles, provided no three selected points are collinear. Since no side has more than two selected points, no three selected points lie on the same side."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p10",
+    "topic": "Municipal Waste Management",
+    "qno": 31,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Collection, processing and segregation of municipal waste should be with government agencies. 2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. Which of the assumptions given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage describes existing waste-management practices and the need for segregation and suitable waste-to-energy technology. It does not establish that waste management must be handled by government agencies or that private enterprises are best placed to provide technological inputs. Neither assumption necessarily follows."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p10",
+    "topic": "Waste-to-Energy",
+    "qno": 32,
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+    "options": [
+      "Generation of energy from municipal solid waste is inexpensive.",
+      "Biomethanation is the most ideal way of generating energy from municipal solid waste.",
+      "Segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.",
+      "The biodegradable component of India's municipal solid waste is not adequate to provide energy from waste efficiently/effectively."
+    ],
+    "answer": "C",
+    "explanation": "The passage places waste-to-energy after segregation, collection and recycling. Since segregation at source is rare, improving it is a key prerequisite for effective waste-to-energy processing."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p11",
+    "topic": "Organic Farming and Regulation",
+    "qno": 33,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Organic farming is inherently unsafe for both farmers and consumers. 2. Farmers and consumers need to be educated about eco-friendly food. Which of the assumptions given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The passage attributes potential harm to poor regulation, confusion and the incorrect use of organic products; it does not establish that organic farming is inherently unsafe. It does support the need for better information and guidance for farmers and consumers."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p11",
+    "topic": "Organic Farming and Sustainability",
+    "qno": 34,
+    "question": "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the author of the passage?",
+    "options": [
+      "In India, organic farming should not be promoted as a substitute for conventional farming.",
+      "There are no safe organic alternatives to chemical fertilizers.",
+      "In India, farmers need to be guided and helped to make their organic farming sustainable.",
+      "The aim of organic farming should not be to generate huge profits as there is still no global market for its products."
+    ],
+    "answer": "C",
+    "explanation": "The passage highlights gaps in regulation, research and understanding of organic farming practices. The practical implication is to provide farmers with guidance and improve regulation so that organic farming can be carried out safely and sustainably."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p12",
+    "topic": "Food and Nutrition Security",
+    "qno": 35,
+    "question": "Based on the above passage, the following assumptions have been made: 1. To implement the Sustainable Development Goals and to achieve the zero-hunger goal, monoculture agriculture practices are inevitable even if they do not address malnutrition. 2. Dependence on a few crops has negative consequences for human health and the ecosystem. 3. Government policies regarding food planning need to incorporate nutritional security. 4. For the present monoculture agriculture practices, farmers receive subsidies in various ways and government offers remunerative prices for grains and therefore they do not tend to consider crop diversity. Which of the above assumptions are valid?",
+    "options": [
+      "1, 2 and 4 only",
+      "2 and 3 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Statement 1 is not supported: the passage says intensive monoculture can worsen food and nutrition security. Statement 2 follows from the stated effects on nutrition and the quality of land and water. Statement 3 is a reasonable implication of the passage's focus on food and nutrition security. Statement 4 introduces specific claims about subsidies and government prices that are not stated in the passage."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Logic Puzzles",
+    "qno": 36,
+    "question": "A box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls. Consider: 1. The smallest n such that any n balls drawn must contain one full group of at least one colour is 175. 2. The smallest m such that any m balls drawn must contain at least one ball of each colour is 167. Which statements are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "For statement 1, the maximum number that can be drawn without exhausting any colour is (14−1)+(20−1)+(26−1)+(28−1)+(38−1)+(54−1) = 174. Therefore, 175 guarantees that all balls of at least one colour have been drawn. For statement 2, the maximum number that can be drawn while missing one colour is obtained by omitting the 14 black balls: 180−14 = 166. Thus, 167 guarantees at least one ball of every colour. Both statements are correct."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Coding-Decoding",
+    "qno": 37,
+    "question": "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written?",
+    "options": [
+      "SOCACT",
+      "SODBGT",
+      "SODBHT",
+      "SODBHU"
+    ],
+    "answer": "D",
+    "explanation": "Each letter is shifted three places forward in the alphabet, with wraparound after Z. Applying this to PLAYER gives P→S, L→O, A→D, Y→B, E→H and R→U. Therefore, the code is SODBHU."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Ranking and Ordering",
+    "qno": 38,
+    "question": "Consider: 1. A is older than B. 2. C and D are of the same age. 3. E is the youngest. 4. F is younger than D. 5. F is older than A. How many statements are required to determine the oldest person/persons?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": "D",
+    "explanation": "According to the published answer key, all five statements are required. Together, they establish the relevant age relationships: C and D are the same age, D is older than F, F is older than A, A is older than B, and E is the youngest. Hence, C and D are identified as the oldest persons."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Blood Relations",
+    "qno": 39,
+    "question": "There are 5 members A, B, C, D, E in a family. What is the relation of E to B? 1. A and B are a married couple. 2. D is the father of C. 3. E is D's son. 4. A and C are sisters. Which option is correct?",
+    "options": [
+      "Statement-1, Statement-2 and Statement-3 are sufficient",
+      "Statement-1, Statement-3 and Statement-4 are sufficient",
+      "All four statements together are sufficient",
+      "All four statements are not sufficient"
+    ],
+    "answer": "C",
+    "explanation": "Statement 1 establishes that A and B are married. Statements 2 and 4 establish that D is C's father and C is A's sister, so D is also A's father. Statement 3 establishes that E is D's son. Thus, E is A's brother, making E B's brother-in-law. All four statements together are sufficient."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Prime Numbers",
+    "qno": 40,
+    "question": "Choose the group which is different from the others:",
+    "options": [
+      "17, 37, 47, 97",
+      "31, 41, 53, 67",
+      "71, 73, 79, 83",
+      "83, 89, 91, 97"
+    ],
+    "answer": "D",
+    "explanation": "The first three groups contain only prime numbers. The fourth group contains 91, which is composite because 91 = 7 × 13. Therefore, option D is different."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p13",
+    "topic": "Climate Change and Seasonal Ecology",
+    "qno": 41,
+    "question": "With reference to the above passage, the following assumptions have been made: 1. Global warming is causing spring to come early and for longer durations. 2. Early spring and longer period of spring is not good for bird populations. Which of the above assumptions is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The passage links warmer winters and reduced snowfall to changes in the timing and duration of the spring transition. It mentions delays in birds' return but does not establish that an early or prolonged spring is generally harmful to bird populations. Therefore, only assumption 1 is supported by the answer key."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p14",
+    "topic": "Nitrogen Use Efficiency",
+    "qno": 42,
+    "question": "Which one of the following statements best reflects the most logical, rational and crucial message implied by the passage?",
+    "options": [
+      "An enhanced efficiency of use of nitrogen is imperative for both food production and environment.",
+      "Production of synthetic nitrogen fertilizers cannot be stopped as it will adversely affect global food security.",
+      "Alternatives to crops that require excess of nitrogen should be identified and cultivated.",
+      "Conventional agriculture using synthetic fertilizers should be replaced with agroforestry, agroecosystems and organic farming."
+    ],
+    "answer": "A",
+    "explanation": "The passage explains that synthetic nitrogen fertilizers support food production, but much of the nitrogen applied is lost to the environment and causes pollution. Improving nitrogen-use efficiency would help sustain crop production while reducing environmental damage."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p15",
+    "topic": "Climate Justice",
+    "qno": 43,
+    "question": "Which one of the following statements best reflects the most logical, rational and crucial message conveyed by the passage?",
+    "options": [
+      "Climate justice should be ingrained in detail in the rules of all the new climate compacts/agreements.",
+      "Environmental resources are unevenly distributed and exploited across the globe.",
+      "There is an impending issue of dealing with a huge number of climate change victims/climate refugees.",
+      "Climate change in all its connotations is mostly due to developed countries and therefore their share of burden should be more."
+    ],
+    "answer": "A",
+    "explanation": "The passage stresses that climate justice must address not only emissions mitigation but also support for adaptation and compensation for loss and damage. Therefore, climate agreements should incorporate these elements of justice."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Percentage - Compound Interest",
+    "qno": 44,
+    "question": "A principal P becomes Q in 1 year when compounded half-yearly with R% annual rate of interest. If the same principal P becomes Q in 1 year when compounded annually with S% annual rate of interest, which is correct?",
+    "options": [
+      "R = S",
+      "R > S",
+      "R < S",
+      "R ≤ S"
+    ],
+    "answer": "C",
+    "explanation": "With half-yearly compounding, Q = P(1 + R/200)². With annual compounding, Q = P(1 + S/100). Equating the two and expanding gives S = R + R²/400. For a positive interest rate, S > R; therefore, R < S."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Factors and Divisibility",
+    "qno": 45,
+    "question": "How many natural numbers are there which give a remainder of 31 when 1186 is divided by these natural numbers?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "D",
+    "explanation": "If the divisor is d, then 1186 = kd + 31, so d must divide 1186 − 31 = 1155. Also, d must be greater than 31 because the remainder must be smaller than the divisor. Since 1155 = 3 × 5 × 7 × 11, its positive divisors greater than 31 are 33, 35, 55, 77, 105, 165, 231, 385 and 1155. There are 9 such divisors."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digit Formation",
+    "qno": 46,
+    "question": "Let pp, qq and rr be 2-digit numbers where p<q<r. If pp+qq+rr=tt0, where tt0 is a 3-digit number ending with zero, consider: 1. The number of possible values of p is 5. 2. The number of possible values of q is 6. Which are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The repeated-digit numbers are pp = 11p, qq = 11q and rr = 11r. Thus, their sum is 11(p + q + r). For the result to end in zero, p + q + r must be a multiple of 10. Considering distinct digits with p < q < r, the possible values of p number 5 and the possible values of q number 6. Both statements are correct."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Number Formation",
+    "qno": 47,
+    "question": "What is the sum of all 4-digit numbers less than 2000 formed by the digits 1, 2, 3 and 4, where none of the digits is repeated?",
+    "options": [
+      "7998",
+      "8028",
+      "8878",
+      "9238"
+    ],
+    "answer": "A",
+    "explanation": "The thousands digit must be 1. The remaining digits 2, 3 and 4 can be arranged in 3! = 6 ways. The thousands-place contribution is 6 × 1000 = 6000. Each of 2, 3 and 4 appears twice in each of the hundreds, tens and units positions, contributing (2 + 3 + 4) × 2 × (100 + 10 + 1) = 1998. The total is 6000 + 1998 = 7998."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Circular Arrangement",
+    "qno": 48,
+    "question": "What is the number of selections of 10 consecutive things out of 12 things in a circle taken in the clockwise direction?",
+    "options": [
+      "3",
+      "11",
+      "12",
+      "66"
+    ],
+    "answer": "C",
+    "explanation": "Each selection consists of 10 consecutive objects in clockwise order. The selection is determined by its starting object. Since there are 12 possible starting positions around the circle, there are 12 selections."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Calendar and Day Calculation",
+    "qno": 49,
+    "question": "If today is Sunday, then which day is it exactly on 10^10th day?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "answer": "B",
+    "explanation": "The number of days elapsed is 10^10. Since 10^10 leaves a remainder of 4 when divided by 7, four days after Sunday is Thursday."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Clocks and Cyclic Events",
+    "qno": 50,
+    "question": "There are three traffic signals. Each signal changes colour from green to red and then red to green. The one-way intervals are 25, 39 and 60 seconds and green/red durations are equal. At 2:00 p.m. they turn green together. When will they next turn green together?",
+    "options": [
+      "4:00 p.m.",
+      "4:10 p.m.",
+      "4:20 p.m.",
+      "4:30 p.m."
+    ],
+    "answer": "B",
+    "explanation": "The full green-red cycles are 50, 78 and 120 seconds. Their least common multiple is 7,800 seconds, or 130 minutes. Thus, the signals next turn green together at 4:10 p.m."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p16",
+    "topic": "Food Security and Agroecosystems",
+    "qno": 51,
+    "question": "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+    "options": [
+      "Food-yielding trees should replace other trees in rural and tribal areas and community-owned lands.",
+      "Food security cannot be ensured in India with the present practice of conventional agriculture.",
+      "Wastelands and degraded areas in India should be converted into agroforestry systems to help the poor.",
+      "Agroecosystems should be developed in addition to or along with conventional agriculture."
+    ],
+    "answer": "D",
+    "explanation": "The passage recommends sourcing food from forests, wetlands and pastures alongside agricultural land. These sources can supplement conventional farming and help rural and tribal communities cope with seasonal shortages and crop failures."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p17",
+    "topic": "Antibiotic Pollution and Public Health",
+    "qno": 52,
+    "question": "Which one of the following statements best reflects the most logical and practical message conveyed by the passage?",
+    "options": [
+      "It is necessary to put proper effluent treatment protocols in place.",
+      "It is necessary to promote environmental awareness among people.",
+      "Spread of drug-resistant bacteria cannot be done away with, as it is inherent in modern medical care.",
+      "Pharma-manufacturing companies should be set up in remote rural areas, away from crowded towns and cities."
+    ],
+    "answer": "A",
+    "explanation": "The passage identifies untreated waste from pharmaceutical manufacturing as a source of pollution contributing to drug-resistant infections. Proper treatment of industrial effluents directly addresses the problem."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p18",
+    "topic": "Education and Foundational Learning",
+    "qno": 53,
+    "question": "Which one of the following statements best reflects the crux of the passage?",
+    "options": [
+      "To become a global power, India needs to invest in universal quality education.",
+      "India is unable to become a global power because it is not focusing or promoting knowledge economy.",
+      "Our education system should focus more on imparting skills during higher education.",
+      "Parents of many school children are illiterate and are unaware of the benefits of quality education."
+    ],
+    "answer": "A",
+    "explanation": "The passage emphasizes that foundational skills acquired through good-quality school education are essential for higher education, skill development and participation in the knowledge economy. Universal quality education is therefore the central message."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Circular Arrangement and Patterns",
+    "qno": 54,
+    "question": "40 children are standing in a circle and one has a ring. Child-1 passes to child-2, child-2 to child-4, child-4 to child-7 and so on. After how many such changes (including child-1) will the ring be in child-1's hands again?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "B",
+    "explanation": "The successive moves advance by 1, 2, 3, and so on. The cumulative advance after 15 moves is 1 + 2 + ... + 15 = 120 positions. Since 120 is divisible by 40, the ring returns to child-1 after 15 moves."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Number Series",
+    "qno": 55,
+    "question": "What is the middle term of the sequence Z, Z, Y, Y, Y, X, X, X, X, W, W, W, W, W, …, A?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "M"
+    ],
+    "answer": "B",
+    "explanation": "The letters appear in reverse alphabetical order, with Z appearing twice, Y three times, X four times, and so on until A appears 27 times. The total number of terms is 2 + 3 + ... + 27 = 377, so the middle is the 189th term. Counting the blocks, the 189th term is I."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 56,
+    "question": "Question: Is p greater than q? Statement-1: p×q is greater than zero. Statement-2: p² is greater than q². Which one of the following is correct?",
+    "options": [
+      "The Question can be answered by using one Statement alone, but not the other.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered using both Statements together, but not either alone.",
+      "The Question cannot be answered even using both Statements together."
+    ],
+    "answer": "D",
+    "explanation": "Statement 1 tells us p and q have the same sign, but not which is greater. Statement 2 tells us |p| > |q|, but this does not determine the ordering when both are negative. For example, p = −3 and q = −2 satisfy both statements but p is not greater than q; p = 3 and q = 2 also satisfy both and p is greater than q. Hence, the question cannot be answered uniquely."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 57,
+    "question": "Question: Is (p+q−r) greater than (p−q+r), where p, q, r are integers? Statement-1: (p−q) is positive. Statement-2: (p−r) is negative. Which is correct?",
+    "options": [
+      "The Question can be answered by using one Statement alone, but not the other.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered using both Statements together, but not either alone.",
+      "The Question cannot be answered even using both Statements together."
+    ],
+    "answer": "C",
+    "explanation": "The inequality simplifies to q > r. Statement 1 gives p > q but does not establish q's relation to r. Statement 2 gives p < r but does not establish q's relation to r. Together, p > q and p < r imply q < r, so the answer to the question is definitively no. Both statements together are sufficient, but neither alone is sufficient."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency and Sets",
+    "qno": 58,
+    "question": "In a party, 75 persons took tea, 60 took coffee and 15 took both. No one taking milk takes tea. Each person takes at least one drink. How many attended? Statement-1: 50 persons took milk. Statement-2: The number attending is five times the number taking milk only. Which is correct?",
+    "options": [
+      "The Question can be answered by using one Statement alone, but not the other.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered using both Statements together, but not either alone.",
+      "The Question cannot be answered even using both Statements together."
+    ],
+    "answer": "A",
+    "explanation": "The number taking tea or coffee is 75 + 60 − 15 = 120. Statement 1 alone does not determine how many milk drinkers also took coffee. With Statement 2, let x be the number taking only milk. Then the total is 120 + x, and 120 + x = 5x, so x = 30 and the total is 150. Therefore, Statement 2 alone is sufficient, but Statement 1 alone is not."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency and Number Properties",
+    "qno": 59,
+    "question": "Consider a 3-digit number. Question: What is the number? Statement-1: The sum of the digits equals the product of the digits. Statement-2: The number is divisible by the sum of its digits. Which is correct?",
+    "options": [
+      "The Question can be answered by using one Statement alone, but not the other.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered using both Statements together, but not either alone.",
+      "The Question cannot be answered even using both Statements together."
+    ],
+    "answer": "D",
+    "explanation": "Neither condition uniquely identifies a three-digit number. Even taken together, the statements do not provide enough information to determine a unique number. Therefore, the question cannot be answered even using both statements."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency and Ages",
+    "qno": 60,
+    "question": "For five children with ages a<b<c<d<e, each successive age differs by 2. Question: What is the youngest age? Statement-1: Eldest is 3 times youngest. Statement-2: Average age is 8 years. Which is correct?",
+    "options": [
+      "The Question can be answered by using one Statement alone.",
+      "The Question can be answered by using either Statement alone.",
+      "The Question can be answered using both Statements together, but not either alone.",
+      "The Question cannot be answered even using both Statements together."
+    ],
+    "answer": "B",
+    "explanation": "Let the youngest age be x. The five ages are x, x+2, x+4, x+6 and x+8. From Statement 1, x+8 = 3x, giving x = 4. From Statement 2, the average is x+4 = 8, also giving x = 4. Either statement alone is sufficient."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p19",
+    "topic": "Decision-Making and the Paradox of Choice",
+    "qno": 61,
+    "question": "Which one of the following statements best reflects the most logical message implied by the above passage?",
+    "options": [
+      "Modern technology enfeebles societal structure and makes life difficult.",
+      "Modern life is full of uncertainties and endless difficult choices.",
+      "We are influenced by the opinion of others and have no courage to follow our own convictions.",
+      "In our lives, having too few choices may not be a good thing, but having too many can be equally as difficult."
+    ],
+    "answer": "D",
+    "explanation": "The example of Buridan's ass illustrates how an excess of choices can prevent decisions. The passage argues that too many appealing options, amplified by technology and constant connectivity, can cause anxiety and make life more difficult."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p20",
+    "topic": "Household Finance and Financial Inclusion",
+    "qno": 62,
+    "question": "Regarding the financialization of household savings, which of the following statements best reflect the solutions implied by the passage? 1. A flexible environment is needed to develop solutions. 2. Households need customised solutions. 3. Innovations in financial technology are required. Select the correct answer.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The passage highlights bureaucratic barriers, scepticism about financial institutions and the lack of clear information for individual households. These concerns support flexibility and customised solutions. Financial technology may help, but the passage does not explicitly establish that technological innovation is required. Note that published solution keys differ on this question."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p21",
+    "topic": "Pharmaceutical Patents and Public Health",
+    "qno": 63,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Patent protection given to patentees puts a huge burden on public purchasing power in accessing patented medicines. 2. Dependence on other countries for pharmaceutical products is a huge burden for developing and poor countries. 3. Providing medicines to the public at affordable prices is a key goal during public health policy design in many countries. 4. Governments need to find an appropriate balance between the rights of patentees and the requirements of patients. Which assumptions are valid?",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "3 and 4",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The passage directly raises the risk that patent-protected medicines may be unaffordable, supporting statement 1. It also highlights the need to compensate innovators while considering public access to medicines, supporting statement 4. Dependence on other countries is not discussed, and statement 3 is not presented as an explicit assumption in the passage."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p25",
+    "topic": "Reading Comprehension - Assumptions",
+    "qno": 64,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Protection of privacy is not just a right, but it has value to the economy. 2. There is a fundamental link between privacy and innovation. Which assumptions are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage connects privacy protection with the growth of the digital economy and states that innovation is hindered when personal information is compromised. Thus, privacy has economic value, and there is a link between privacy and innovation. Both assumptions are valid."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Counting Applications",
+    "qno": 65,
+    "question": "In an examination, the maximum marks for each of the four papers P, Q, R and S are 100. Marks are integers. A student can score 99% in n different ways. What is n?",
+    "options": [
+      "16",
+      "17",
+      "23",
+      "35"
+    ],
+    "answer": "D",
+    "explanation": "The maximum total is 400, so a score of 99% is 396. The four papers must have deficits from 100 that sum to 4. The number of non-negative integer solutions to x₁ + x₂ + x₃ + x₄ = 4 is C(4+4−1, 4−1) = C(7,3) = 35."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Colour Arrangements",
+    "qno": 66,
+    "question": "A flag has to be designed with 4 horizontal stripes using some or all of the colours red, green and yellow. What is the number of different ways in which this can be done so that no two adjacent stripes have the same colour?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "answer": "C",
+    "explanation": "The first stripe can be any of the 3 colours. Each of the next three stripes has 2 choices, because it cannot match the preceding stripe. Total ways = 3 × 2 × 2 × 2 = 24."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Geometry and Mensuration - Rectangle Packing",
+    "qno": 67,
+    "question": "A rectangular floor measures 4 m in length and 2.2 m in breadth. Tiles of size 140 cm by 60 cm have to be laid such that the tiles do not overlap. A tile can be placed in any orientation so long as its edges are parallel to the edges of the floor. What is the maximum number of tiles that can be accommodated on the floor?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "C",
+    "explanation": "Eight tiles can be accommodated: arrange six tiles measuring 140 cm × 60 cm in a 2-column by 3-row block, occupying 280 cm × 180 cm. In the remaining 120 cm-wide strip, place two tiles rotated to 60 cm × 140 cm, side by side. This fits 8 tiles. Some published keys differ on this question; this answer follows the geometric packing arrangement."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Permutation and Combination - Task Assignment",
+    "qno": 68,
+    "question": "There are five persons P, Q, R, S and T, each one of whom has to be assigned one task. Neither P nor Q can be assigned Task-1. Task-2 must be assigned to either R or S. In how many ways can the assignment be done?",
+    "options": [
+      "6",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": "D",
+    "explanation": "Task-1 can be assigned to R, S or T. If Task-1 goes to R, Task-2 must go to S; if Task-1 goes to S, Task-2 must go to R. If Task-1 goes to T, Task-2 can go to either R or S. This gives 1 + 1 + 2 = 4 valid choices for the first two tasks. The remaining three persons can be assigned to the remaining tasks in 3! = 6 ways. Total = 4 × 6 = 24."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Arithmetic - Coins and Weights",
+    "qno": 69,
+    "question": "There are a large number of silver coins weighing 2 gm, 5 gm, 10 gm, 25 gm and 50 gm each. Consider the following statements: 1. To buy 78 gm of coins one must buy at least 7 coins. 2. To weigh 78 gm using these coins one can use less than 7 coins. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Statement 1 is correct: 78 gm can be made using 50 + 10 + 10 + 2 + 2 + 2 + 2, which uses 7 coins; no combination of six coins reaches 78 gm. Statement 2 is also correct if the coins are used as weights on a balance: 50 + 25 + 5 − 2 = 78 gm, using only four coins, with the 2 gm coin placed on the object’s side."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Inequalities",
+    "qno": 70,
+    "question": "Consider the following: I. A + B means A is neither smaller nor equal to B. II. A − B means A is not greater than B. III. A × B means A is not smaller than B. IV. A ÷ B means A is neither greater nor equal to B. V. A ± B means A is neither smaller nor greater than B. Statement: P × Q, P − T, T ÷ R, R ± S. Conclusion-1: Q ± T. Conclusion-2: S + Q. Which of the following is correct in respect of the above statement and the conclusions?",
+    "options": [
+      "Only Conclusion-1 follows from the statements",
+      "Only Conclusion-2 follows from the statements",
+      "Both Conclusion-1 and Conclusion-2 follow from the statements",
+      "Neither Conclusion-1 nor Conclusion-2 follows from the statements"
+    ],
+    "answer": "B",
+    "explanation": "The symbols mean: P × Q gives P ≥ Q; P − T gives P ≤ T; T ÷ R gives T < R; and R ± S gives R = S. Hence Q ≤ P ≤ T < R = S, so S > Q. The second conclusion follows. The first conclusion, Q = T, is not guaranteed."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p22",
+    "topic": "Unemployment, Education and Youth Aspirations",
+    "qno": 71,
+    "question": "Which one of the following statements most likely reflects what the author of the passage intends to say?",
+    "options": [
+      "Enrolment in schools and colleges is high but there is no quality education.",
+      "Unemployment must be seen as a function of rising education and aspirations of young Indians.",
+      "There are no labour-intensive industries to accommodate the huge number of unemployed people.",
+      "The education system should be properly designed so as to enable educated people to be self-employed."
+    ],
+    "answer": "B",
+    "explanation": "The passage argues that the reported unemployment rate can be misleading when more young people pursue education and are willing to wait for suitable jobs. Unemployment should therefore be understood in the context of rising education levels and aspirations."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p23",
+    "topic": "Science, Philosophy and Governance",
+    "qno": 72,
+    "question": "Which one of the following statements best reflects the most rational, logical and practical message conveyed by the passage?",
+    "options": [
+      "Modern statesmen need to be well trained in scientific methods and philosophical thinking to enable them to have a better perspective of their roles, responsibilities and goals.",
+      "It is not desirable to have governments managed by empirical statesmen unless well mixed with others who are grounded in learning and reflect wisdom.",
+      "As statesmen and bureaucrats are products of society, it is desirable to have a system of education that focuses on training citizens in scientific method and philosophical thinking from a very early age.",
+      "It is desirable that all scientists need to be philosophers as well to make their work goal-oriented, purposeful and useful to society."
+    ],
+    "answer": "A",
+    "explanation": "The passage argues that science needs philosophy to establish meaningful goals and that governance likewise needs broad perspective and direction. Option A applies this principle to the training of statesmen. Published answer keys differ on this question, with some selecting B."
+  },
+  {
+    "year": 2023,
+    "passageid": "2023_p24",
+    "topic": "Political Philosophy and the Purpose of the State",
+    "qno": 73,
+    "question": "Based on the above passage, which one of the following terms expresses the ultimate goal of the state?",
+    "options": [
+      "Personal safety",
+      "Health of body and mind",
+      "Communal harmony",
+      "Liberty"
+    ],
+    "answer": "D",
+    "explanation": "The passage says the state's ultimate purpose is not to dominate people but to free them from fear and enable them to exercise reason. Safety and well-being support this wider objective, which is liberty."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Mathematics - Remainders",
+    "qno": 74,
+    "question": "What is the remainder if 2^192 is divided by 6?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "D",
+    "explanation": "Powers of 2 alternate between remainders 2 and 4 when divided by 6: 2^1 leaves remainder 2, 2^2 leaves remainder 4, and the pattern repeats. Since 192 is even, 2^192 leaves remainder 4."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Letter Sequence",
+    "qno": 75,
+    "question": "Consider the sequence ABC__ABC_DABBCD_ ABCD that follows a certain pattern. Which one of the following completes the sequence?",
+    "options": [
+      "DACB",
+      "CDAB",
+      "DCCA",
+      "DDCA"
+    ],
+    "answer": "D",
+    "explanation": "The sequence is completed by inserting DDCA into the four blank positions, giving the pattern specified by option D."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Number System - Digit Formation",
+    "qno": 76,
+    "question": "AB and CD are 2-digit numbers. Multiplying AB with CD results in a 3-digit number DEF. Adding DEF to another 3-digit number GHI results in 975. Further A, B, C, D, E, F, G, H, I are distinct digits. If E = 0, F = 8, then what is A + B + C equal to?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "A",
+    "explanation": "Since E = 0 and F = 8, the product DEF has the form D08. The valid distinct-digit solution is 12 × 34 = 408, so A = 1, B = 2, C = 3 and D = 4. Then GHI = 975 − 408 = 567, and all nine digits are distinct. Thus A + B + C = 1 + 2 + 3 = 6."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Statements and Conclusions",
+    "qno": 77,
+    "question": "Consider the following statements in respect of five candidates P, Q, R, S and T. Two statements are true and one statement is false. True Statement: One of P and Q was selected for the job. False Statement: At least one of R and S was selected for the job. True Statement: At most two of R, S and T were selected for the job. Which of the following conclusions can be drawn? 1. At least four were selected for the job. 2. S was selected for the job. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The second statement is false, so neither R nor S was selected. The first statement says one of P and Q was selected, while the third limits the number selected among R, S and T to at most two. Neither conclusion follows: at least four were not selected, and S was not selected."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Conditional Statements",
+    "qno": 78,
+    "question": "Let P, Q, R, S and T be five statements such that: I. If P is true, then both Q and S are true. II. If R and S are true, then T is false. Which of the following can be concluded? 1. If T is true, then at least one of P and R must be false. 2. If Q is true, then P is true. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "If both P and R were true, P would imply S is true. Then R and S together would imply T is false. Therefore, if T is true, at least one of P and R must be false, so conclusion 1 follows. Conclusion 2 reverses the implication P → Q and is not necessarily true."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Geometry and Mensuration - Painted Cubes",
+    "qno": 79,
+    "question": "A cuboid of dimensions 7 cm × 5 cm × 3 cm is painted red, green and blue colour on each pair of opposite faces of dimensions 7 cm × 5 cm, 5 cm × 3 cm, 7 cm × 3 cm respectively. Then the cuboid is cut and separated into various cubes each of side length 1 cm. Which of the following statements is/are correct? 1. There are exactly 15 small cubes with no paint on any face. 2. There are exactly 6 small cubes with exactly two faces, one painted with blue and the other with green. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The unpainted cubes lie strictly inside the cuboid. Their number is (7 − 2)(5 − 2)(3 − 2) = 5 × 3 × 1 = 15, so statement 1 is true. A green face and a blue face meet along four edges of length 3 cm. On each edge, only the middle cube has exactly those two painted faces, giving 4 such cubes, not 6. Statement 2 is false."
+  },
+  {
+    "year": 2023,
+    "passageid": null,
+    "topic": "Logical Reasoning - Alphabetical Arrangement",
+    "qno": 80,
+    "question": "The letters of the word “INCOMPREHENSIBILITIES” are arranged alphabetically in reverse order. How many positions of the letter/letters will remain unchanged?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "C",
+    "explanation": "Arrange the letters in reverse alphabetical order, keeping the repeated letters. Comparing this arrangement with the original word shows that two positions remain unchanged. Therefore, the answer is Two."
+  }
+]

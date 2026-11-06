@@ -1,0 +1,142 @@
+[
+  {
+    "year": "2021",
+    "qno": "50",
+    "subject": "Indian Society",
+    "question": "Consider the following statements:\n1. 21st February is declared to be the International Mother Language Day by UNICEF.\n2. The demand that Bangla has to be one of the national languages was raised in the Constituent Assembly of Pakistan.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "International Mother Language Day on 21 February was proclaimed by UNESCO, not UNICEF, so statement 1 is incorrect. The demand for Bangla to be a national language of Pakistan was first raised in the Constituent Assembly of Pakistan (by Dhirendranath Datta in 1948), so statement 2 is correct."
+  },
+  {
+    "year": "2021",
+    "qno": "95",
+    "subject": "Indian Society",
+    "question": "With reference to India, the terms 'Halbi, Ho and Kui' pertain to",
+    "options": [
+      "dance forms of Northwest India",
+      "musical instruments",
+      "pre-historic cave paintings",
+      "tribal languages"
+    ],
+    "answer": "D",
+    "explanation": "Halbi, Ho and Kui are tribal languages spoken in central and eastern India (Halbi in Chhattisgarh/Odisha, Ho in Jharkhand/Odisha, Kui in Odisha)."
+  },
+  {
+    "year": "2019",
+    "qno": "51",
+    "subject": "Indian Society",
+    "question": "Consider the following statements about Particularly Vulnerable Tribal Groups (PVTGs) in India:\n1. PVTGs reside in 18 States and one Union Territory.\n2. A stagnant or declining population is one of the criteria for determining PVTG status.\n3. There are 95 PVTGs officially notified in the country so far.\n4. Irular and Konda Reddi tribes are included in the list of PVTGs.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1, 2 and 4",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "As per official data, 75 PVTGs are spread across 18 States and the Union Territory of Andaman and Nicobar Islands, so statement 1 is correct and statement 3 (95) is wrong. A stagnant or declining population is one of the criteria, along with pre-agricultural technology, low literacy and a subsistence economy. The Irular (Tamil Nadu) and Konda Reddi (Andhra Pradesh) tribes are on the PVTG list."
+  },
+  {
+    "year": "2019",
+    "qno": "76",
+    "subject": "Indian Society",
+    "question": "Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017?\n1. Pregnant women are entitled for three months pre-delivery and three months post-delivery paid leave.\n2. Enterprises with crèches must allow the mother minimum six crèche visits daily.\n3. Women with two children get reduced entitlements.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The Act provides 26 weeks of paid leave, with up to 8 weeks before delivery and the rest after, so statement 1 is wrong. The Act allows four crèche visits a day, not six. For a woman with two or more surviving children, leave is reduced to 12 weeks (6 weeks before delivery), so statement 3 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "80",
+    "subject": "Indian Society",
+    "question": "In the context of any country, which one of the following would be considered as part of its social capital?",
+    "options": [
+      "The proportion of literates in the population",
+      "The stock of its buildings, other infrastructure and machines",
+      "The size of population in the working age group",
+      "The level of mutual trust and harmony in the society"
+    ],
+    "answer": "D",
+    "explanation": "Social capital refers to networks, norms and trust that enable people to cooperate. The level of mutual trust and harmony is social capital. Literacy is human capital, buildings and machines are physical capital, and the working-age share is a demographic factor."
+  },
+  {
+    "year": "2018",
+    "qno": "30",
+    "subject": "Indian Society",
+    "question": "International Labour Organization's Conventions 138 and 182 are related to",
+    "options": [
+      "Child labour",
+      "Adaptation of agricultural practices to global climate change",
+      "Regulation of food prices and food security",
+      "Gender parity at the workplace"
+    ],
+    "answer": "A",
+    "explanation": "ILO Convention 138 sets the minimum age for admission to employment, and Convention 182 deals with the worst forms of child labour. India ratified both in 2017."
+  },
+  {
+    "year": "2018",
+    "qno": "70",
+    "subject": "Indian Society",
+    "question": "Who among the following were the founders of the \"Hind Mazdoor Sabha\" established in 1948?",
+    "options": [
+      "B. Krishna Pillai, E.M.S. Namboodiripad and K.C. George",
+      "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy",
+      "C.P. Ramaswamy Iyer, K. Kamaraj and Veeresalingam Pantulu",
+      "Ashok Mehta, T.S. Ramanujam and G.G. Mehta"
+    ],
+    "answer": "D",
+    "explanation": "The Hind Mazdoor Sabha was founded in December 1948 by socialists, including Ashok Mehta, T.S. Ramanujam and G.G. Mehta, who had broken away from the Congress-affiliated INTUC."
+  },
+  {
+    "year": "2026",
+    "qno": "82",
+    "subject": "Indian Society",
+    "question": "Which of the following statements with regard to the Grand Slam Tennis Tournaments is/are correct?\n1. The tournaments have a shared governance structure establishing the partnership among the four Grand Slam tournaments.\n2. They are open for entry to all internationally ranked tennis players above the age of 14.\n3. There is a limitation on the number of 'Wild Cards' a player may receive to compete in a Grand Slam Tournament.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The four Grand Slams operate under a shared governance framework (the Grand Slam Board and rulebook), and entry is open to ranked players with a minimum age requirement, which the key treats as correct (the age wording is loosely worded). No rule caps how many wild cards a player may receive, so statement 3 is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "99",
+    "subject": "Indian Society",
+    "question": "Consider the following statements in respect of the first Kho Kho World Cup:\nI. The event was held in Delhi, India.\nII. Indian men beat Nepal with a score of 78-40 in the final to become the World Champion in men category.\nIII. Indian women beat Nepal with a score of 54-36 in the final to become the World Champion in women category.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "The first Kho Kho World Cup (January 2025) was held in New Delhi and India won both titles against Nepal. The scores were 54-36 for the men and 78-40 for the women, so the figures in II and III are swapped and incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "100",
+    "subject": "Indian Society",
+    "question": "Consider the following statements:\nI. In the finals of the 45th Chess Olympiad held in 2024, Gukesh Dommaraju became the world's youngest winner after defeating the Russian player Ian Nepomniachtchi.\nII. Abhimanyu Mishra, an American chess player, holds the record of becoming world's youngest ever Grandmaster.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "II only",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "answer": "B",
+    "explanation": "Gukesh became the youngest World Chess Champion in December 2024 by defeating Ding Liren of China in the World Championship match, not at the Chess Olympiad and not against Nepomniachtchi, so I is incorrect. Abhimanyu Mishra became the youngest ever Grandmaster in 2021 at age 12, so II is correct."
+  }
+]

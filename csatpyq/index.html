@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UPSC CSAT Mock Test Engine</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Top Bar -->
+  <header>
+    <div class="title-group">
+      <h1 id="appHeaderTitle">UPSC CSAT Mock Test Engine</h1>
+    </div>
+
+    <div class="header-actions">
+      <div id="timerDisplay" class="timer-badge">02:00:00</div>
+      <button id="btnPause" class="btn btn-outline" type="button">Pause</button>
+      <button id="btnFullscreen" class="btn btn-outline" type="button">Fullscreen</button>
+      <button id="btnSubmitTop" class="btn btn-danger" type="button">Submit Test</button>
+      <button id="btnRetakeTop" class="btn btn-primary" type="button" style="display: none;">Retake Test</button>
+    </div>
+  </header>
+
+  <!-- Main Viewport: 72% Question Workspace / 28% Question Palette -->
+  <main class="test-container">
+    
+    <!-- Question Viewport -->
+    <section class="question-viewport">
+      
+      <!-- Passage Box -->
+      <div id="passageContainer" class="passage-card" style="display: none;">
+        <div class="passage-title">Reading Comprehension Passage</div>
+        <div id="passageText" class="passage-body"></div>
+      </div>
+
+      <!-- Question Card -->
+      <div class="question-card">
+        <div class="question-header">
+          <span id="questionNumber" class="q-number">Question 1</span>
+          
+          <!-- Review Only Meta: Topic + Year + Original QNo -->
+          <div id="reviewMetaGroup" class="review-meta-group" style="display: none;">
+            <span id="topicTag" class="tag tag-topic"></span>
+            <span id="sourceTag" class="tag tag-source"></span>
+          </div>
+        </div>
+
+        <div id="questionText" class="q-text">Loading question content...</div>
+
+        <div id="optionsContainer" class="options-group"></div>
+
+        <!-- Review Detailed Explanation -->
+        <div id="reviewDetails" class="review-box" style="display: none;">
+          <div class="review-meta">
+            <span id="userStatusText"></span>
+            <span id="correctAnswerText"></span>
+          </div>
+          <p id="explanationText"></p>
+        </div>
+      </div>
+
+      <!-- Bottom Button Bar -->
+      <div class="bottom-bar">
+        <div class="btn-group">
+          <button id="btnPrev" class="btn btn-outline" type="button">Previous</button>
+        </div>
+
+        <!-- Before Submit Actions -->
+        <div id="attemptActions" class="btn-group">
+          <button id="btnClear" class="btn btn-outline" type="button">Clear Response</button>
+          <button id="btnSaveNext" class="btn btn-primary" type="button">Save & Next</button>
+        </div>
+
+        <!-- While Review Actions -->
+        <div id="reviewActions" class="btn-group" style="display: none;">
+          <button id="btnNext" class="btn btn-primary" type="button">Next</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Right-Hand Question Palette -->
+    <aside class="right-palette">
+      <div class="palette-header">
+        <span>Question Palette</span>
+        <span id="paletteCount">0/80</span>
+      </div>
+      <div id="paletteLegend" class="palette-legend">
+        <strong>Status:</strong><br>
+        Attempted: <span class="legend-attempted">Green</span> | Unattempted: <span>No Color</span>
+      </div>
+      <div id="paletteGrid" class="palette-grid"></div>
+    </aside>
+  </main>
+
+  <!-- Start & Configuration Modal -->
+  <div id="startModal" class="modal-backdrop">
+    <div class="modal-card">
+      <h2 class="modal-title">Configure Mock Test</h2>
+      <div class="modal-body">
+        
+        <!-- Mode Chooser -->
+        <div class="form-group">
+          <label class="form-label">Mock Type:</label>
+          <div class="radio-group">
+            <label>
+              <input type="radio" name="mockMode" value="yearwise" checked>
+              <span>Year-wise Mock</span>
+            </label>
+            <label>
+              <input type="radio" name="mockMode" value="custom">
+              <span>Custom Mock (All Years)</span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Year Selector: Dynamically populated by app.js -->
+        <div class="form-group" id="yearSelectorGroup">
+          <label class="form-label" for="selectedYear">Select Year:</label>
+          <select id="selectedYear" class="form-select">
+            <option value="">Scanning repository for question files...</option>
+          </select>
+        </div>
+
+        <!-- Number of Questions Input with inline pool counter -->
+        <div class="form-group">
+          <label class="form-label" for="numQuestionsInput">
+            Number of Questions to Attempt (<span id="qCountLimits">1 - 80</span>) out of (<span id="poolAvailableCount">0</span>):
+          </label>
+          <input 
+            type="number" 
+            id="numQuestionsInput" 
+            class="form-input" 
+            min="1" 
+            max="80" 
+            value="80" 
+            placeholder="e.g. 1 - 80"
+          >
+          <small class="form-hint" id="timerEstimateHint">Calculated duration: 120 minutes (90s / question)</small>
+        </div>
+
+      </div>
+      <div style="text-align: right;">
+        <button id="btnStartConfirmed" class="btn btn-primary" type="button">Start Exam</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Submit Confirmation Modal -->
+  <div id="submitModal" class="modal-backdrop" style="display: none;">
+    <div class="modal-card">
+      <h2 class="modal-title">Confirm Submission</h2>
+      <div class="modal-body">
+        <p>Are you sure you want to finish and submit the test?</p>
+        <p style="margin-top: 10px; font-weight: 600;" id="submitSummaryStats"></p>
+      </div>
+      <div class="modal-actions">
+        <button id="btnCancelSubmit" class="btn btn-outline" type="button">Return to Test</button>
+        <button id="btnConfirmSubmit" class="btn btn-danger" type="button">Confirm Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Result Modal -->
+  <div id="resultModal" class="modal-backdrop" style="display: none;">
+    <div class="modal-card">
+      <h2 class="modal-title">Exam Performance</h2>
+      <div class="modal-body">
+        <table class="score-table">
+          <tr><td>Total Questions:</td><td id="resTotal">80</td></tr>
+          <tr><td>Attempted:</td><td id="resAttempted">0</td></tr>
+          <tr><td>Unattempted:</td><td id="resUnattempted">0</td></tr>
+          <tr><td>Correct (+2.5):</td><td id="resCorrect" style="color: var(--green-attempted);">0</td></tr>
+          <tr><td>Incorrect (-0.833):</td><td id="resWrong" style="color: var(--red-wrong);">0</td></tr>
+          <tr><td>Final Score:</td><td id="resFinalScore" style="font-size: 1.15rem;">0.00 / 200</td></tr>
+          <tr><td>UPSC Qualifier (≥ 33%):</td><td id="resStatus">--</td></tr>
+        </table>
+      </div>
+      <div class="modal-actions">
+        <button id="btnEnterReview" class="btn btn-primary" type="button">Review Test</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

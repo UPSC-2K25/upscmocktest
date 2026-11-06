@@ -1,0 +1,1654 @@
+[
+  {
+    "year": "2021",
+    "qno": "65",
+    "subject": "Science & Technology",
+    "question": "With reference to recent developments regarding 'Recombinant Vector Vaccines', consider the following statements:\n1. Genetic engineering is applied in the development of these vaccines.\n2. Bacteria and viruses are used as vectors.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Recombinant vector vaccines are produced by genetically engineering a harmless bacterium or virus (the vector) to carry genes encoding antigens of the target pathogen. Both statements are correct."
+  },
+  {
+    "year": "2021",
+    "qno": "66",
+    "subject": "Science & Technology",
+    "question": "In the context of hereditary diseases, consider the following statements:\n1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg.\n2. A child inherits mitochondrial diseases entirely from mother and not from father.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Mitochondrial replacement therapy (maternal spindle or pronuclear transfer) can be done before or after fertilization to avoid passing on defective mitochondria. Mitochondrial DNA is inherited from the mother, so mitochondrial diseases come from the mother only."
+  },
+  {
+    "year": "2021",
+    "qno": "67",
+    "subject": "Science & Technology",
+    "question": "Bollgard I and Bollgard II technologies are mentioned in the context of",
+    "options": [
+      "clonal propagation of crop plants",
+      "developing genetically modified crop plants",
+      "production of plant growth substances",
+      "production of biofertilizers"
+    ],
+    "answer": "B",
+    "explanation": "Bollgard I and II are Bt cotton technologies, genetically modified cotton carrying Bacillus thuringiensis genes that confer resistance to bollworms."
+  },
+  {
+    "year": "2021",
+    "qno": "68",
+    "subject": "Science & Technology",
+    "question": "In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?\n1. Area of the hole in the lid\n2. Temperature of the flame\n3. Weight of the lid\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The internal pressure, and hence the boiling temperature of water, is set by the weight of the lid (vent weight) and the area of the vent hole through which steam escapes. The flame temperature only affects how fast the pressure builds."
+  },
+  {
+    "year": "2021",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Bacteria\n2. Fungi\n3. Virus\nWhich of the above can be cultured in artificial/synthetic medium?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Bacteria and fungi can be grown on artificial culture media. Viruses are obligate intracellular parasites and need living host cells to multiply."
+  },
+  {
+    "year": "2021",
+    "qno": "70",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.\n2. Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Adenoviruses have double-stranded DNA genomes and retroviruses have single-stranded RNA genomes, so statement 1 is incorrect. Adenoviruses can cause the common cold, and AIDS is caused by HIV, a retrovirus."
+  },
+  {
+    "year": "2021",
+    "qno": "71",
+    "subject": "Science & Technology",
+    "question": "Water can dissolve more substances than any other liquid because",
+    "options": [
+      "it is dipolar in nature",
+      "it is a good conductor of heat",
+      "it has high value of specific heat",
+      "it is an oxide of hydrogen"
+    ],
+    "answer": "A",
+    "explanation": "Water molecules are polar (dipolar), with partial charges that interact with ions and polar molecules, which makes water the 'universal solvent'."
+  },
+  {
+    "year": "2021",
+    "qno": "72",
+    "subject": "Science & Technology",
+    "question": "With reference to street-lighting, how do sodium lamps differ from LED lamps?\n1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.\n2. As street-lights, sodium lamps have longer life span than LED lamps.\n3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.\nSelect the correct answer using the code given below.",
+    "options": [
+      "3 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Sodium lamps emit light in all directions (360 degrees) while LEDs are directional, and sodium light is nearly monochromatic whereas LEDs give better colour rendering. LEDs have a longer life than sodium lamps, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "73",
+    "subject": "Science & Technology",
+    "question": "The term 'ACE2' is talked about in the context of",
+    "options": [
+      "genes introduced in the genetically modified plants",
+      "development of India's own satellite navigation system",
+      "radio collars for wildlife tracking",
+      "spread of viral diseases"
+    ],
+    "answer": "D",
+    "explanation": "ACE2 (angiotensin-converting enzyme 2) is the human cell receptor used by SARS-CoV-2 to enter cells, and is therefore discussed in the context of the spread of viral disease."
+  },
+  {
+    "year": "2021",
+    "qno": "74",
+    "subject": "Science & Technology",
+    "question": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?",
+    "options": [
+      "Low-density polyethylene",
+      "Polycarbonate",
+      "Polyethylene terephthalate",
+      "Polyvinyl chloride"
+    ],
+    "answer": "B",
+    "explanation": "BPA is a key monomer used to make polycarbonate plastics (and epoxy resins)."
+  },
+  {
+    "year": "2021",
+    "qno": "75",
+    "subject": "Science & Technology",
+    "question": "'Triclosan', considered harmful when exposed to high levels for a long time, is most likely present in which of the following?",
+    "options": [
+      "Food preservatives",
+      "Fruit-ripening substances",
+      "Reused plastic containers",
+      "Toiletries"
+    ],
+    "answer": "D",
+    "explanation": "Triclosan is an antibacterial agent used in toothpastes, soaps, hand washes and other toiletries."
+  },
+  {
+    "year": "2021",
+    "qno": "76",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is a reason why astronomical distances are measured in light-years?",
+    "options": [
+      "Distances among stellar bodies do not change.",
+      "Gravity of stellar bodies does not change.",
+      "Light always travels in straight line.",
+      "Speed of light is always same."
+    ],
+    "answer": "D",
+    "explanation": "Because the speed of light in vacuum is constant, the distance light travels in a year is a fixed, reliable unit for the vast distances in astronomy."
+  },
+  {
+    "year": "2021",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the Laureus World Sports Award which was instituted in the year 2000:\n1. American golfer Tiger Woods was the first winner of this award.\n2. The award was received mostly by 'Formula One' players so far.\n3. Roger Federer received this award maximum number of times compared to others.\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Tiger Woods won the first Laureus World Sportsman of the Year award in 2000, and Roger Federer has won the award the most times (five). The award has not been received mostly by Formula One drivers, so statement 2 is incorrect."
+  },
+  {
+    "year": "2021",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the 32nd Summer Olympics:\n1. The official motto for this Olympics is 'A New World'.\n2. Sport Climbing, Surfing, Skateboarding, Karate and Baseball are included in this Olympics.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The motto of the Tokyo 2020 (32nd Summer) Olympics was 'United by Emotion', so statement 1 is incorrect. Sport climbing, surfing, skateboarding, karate and baseball/softball were added to the programme."
+  },
+  {
+    "year": "2021",
+    "qno": "100",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of the ICC World Test Championship:\n1. The finalists were decided by the number of matches they won.\n2. New Zealand was ranked ahead of England because it won more matches than England.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "In the inaugural World Test Championship (2019-21) the finalists were decided by the percentage of points won, not the number of matches won. New Zealand was ranked ahead of England on points percentage, not simply because of more wins."
+  },
+  {
+    "year": "2023",
+    "qno": "53",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "Carbon fibre composites are used widely in automobiles and aircraft because of their high strength-to-weight ratio, so statement 1 is correct. Carbon fibres can be recycled by pyrolysis, solvolysis and other methods, although recycling is difficult and costly. Statement 2 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "54",
+    "subject": "Science & Technology",
+    "question": "Consider the following actions:\n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously\n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive\n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode\nIn how many of the above actions is the function of accelerometer required?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Accelerometers measure acceleration and orientation. They trigger airbag deployment on a crash, detect free fall to park a laptop's hard drive heads, and sense tilt to rotate a smartphone display. All three need an accelerometer."
+  },
+  {
+    "year": "2023",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements:\n1. Biofilters provide waste treatment by removing uneaten fish feed.\n2. Biofilters convert ammonia present in fish waste to nitrate.\n3. Biofilters increase phosphorus as nutrient for fish in water.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "In a recirculating aquaculture system, mechanical filters remove solids such as uneaten feed. Biofilters host nitrifying bacteria that convert toxic ammonia first to nitrite and then to nitrate. They do not increase phosphorus. Only statement 2 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "56",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nObjects in space | Description\n1. Cepheids : Giant clouds of dust and gas in space\n2. Nebulae : Stars which brighten and dim periodically\n3. Pulsars : Neutron stars that are formed when massive stars run out of fuel and collapse\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Cepheids are pulsating variable stars that brighten and dim periodically, and nebulae are giant clouds of dust and gas, so the descriptions of pairs 1 and 2 are swapped. Pulsars are rapidly rotating neutron stars formed when massive stars exhaust their fuel and collapse, so pair 3 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "57",
+    "subject": "Science & Technology",
+    "question": "Which one of the following countries has its own Satellite Navigation System?",
+    "options": [
+      "Australia",
+      "Canada",
+      "Israel",
+      "Japan"
+    ],
+    "answer": "D",
+    "explanation": "Japan operates the Quasi-Zenith Satellite System (QZSS), a regional satellite navigation system. Australia, Canada and Israel do not have their own."
+  },
+  {
+    "year": "2023",
+    "qno": "60",
+    "subject": "Science & Technology",
+    "question": "With reference to green hydrogen, consider the following statements:\n1. It can be used directly as a fuel for internal combustion.\n2. It can be blended with natural gas and used as fuel for heat or power generation.\n3. It can be used in the hydrogen fuel cell to run vehicles.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Green hydrogen, produced by electrolysis using renewable electricity, can be burned in hydrogen internal combustion engines, blended with natural gas for heat and power, and used in fuel cells to power vehicles. All three are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "67",
+    "subject": "Science & Technology",
+    "question": "'Wolbachia method' is sometimes talked about with reference to which one of the following?",
+    "options": [
+      "Controlling the viral diseases spread by mosquitoes",
+      "Converting crop residues into packing material",
+      "Producing biodegradable plastics",
+      "Producing biochar from thermochemical conversion of biomass"
+    ],
+    "answer": "A",
+    "explanation": "Wolbachia is a bacterium that, when introduced into Aedes aegypti mosquitoes, reduces their ability to transmit viruses such as dengue, Zika and chikungunya. The World Mosquito Program uses it to control these diseases."
+  },
+  {
+    "year": "2023",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "'Aerial metagenomics' best refers to which one of the following situations?",
+    "options": [
+      "Collecting DNA samples from air in a habitat at one go",
+      "Understanding the genetic makeup of avian species of a habitat",
+      "Using air-borne devices to collect blood samples from moving animals",
+      "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies"
+    ],
+    "answer": "A",
+    "explanation": "Aerial metagenomics, or airborne environmental DNA sampling, involves filtering air to collect DNA shed by organisms, allowing many species in a habitat to be identified in one sampling."
+  },
+  {
+    "year": "2023",
+    "qno": "70",
+    "subject": "Science & Technology",
+    "question": "'Microsatellite DNA' is used in the case of which one of the following?",
+    "options": [
+      "Studying the evolutionary relationships among various species of fauna",
+      "Stimulating 'stem cells' to transform into diverse functional tissues",
+      "Promoting clonal propagation of horticultural plants",
+      "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+    ],
+    "answer": "A",
+    "explanation": "Microsatellites are short tandem repeat sequences that are highly variable. They are used as markers for population genetics, parentage and phylogenetic studies, and for studying evolutionary relationships among species."
+  },
+  {
+    "year": "2023",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following heavy industries:\n1. Fertilizer plants\n2. Oil refineries\n3. Steel plants\nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Green hydrogen can replace grey hydrogen in ammonia and fertiliser production and in refinery processes such as hydrotreating. It can also replace coking coal in direct reduction for green steel. All three industries can be decarbonised."
+  },
+  {
+    "year": "2017",
+    "qno": "10",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements is/are correct regarding Smart India Hackathon 2017?\n1. It is a centrally sponsored scheme for developing every city of our country into Smart Cities in a decade.\n2. It is an initiative to identify new digital technology innovations for solving the many problems faced by our country.\n3. It is a programme aimed at making all the financial transactions in our country completely digital in a decade.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "3 only",
+      "2 and 3 only"
+    ],
+    "answer": "B",
+    "explanation": "Smart India Hackathon 2017 was a nationwide initiative by the MHRD, AICTE and partners that asked students to build digital and technology solutions to problems faced by ministries and departments. Statement 1 describes the Smart Cities Mission and statement 3 describes the digital payments push, so only statement 2 is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "22",
+    "subject": "Science & Technology",
+    "question": "It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry?\n1. Production of algae based biofuels is possible in seas only and not on continents.\n2. Setting up and engineering the algae based biofuel production requires high level of expertise/technology until the construction is completed.\n3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Algae can be cultivated in open ponds and photobioreactors on land, so statement 1 is wrong. Setting up such systems needs high technical expertise, and economic viability needs large-scale facilities that can raise land, water and social concerns. Statements 2 and 3 are therefore valid limitations."
+  },
+  {
+    "year": "2017",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.\n2. Sexual transmission of Zika virus disease is possible.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Zika is mainly spread by Aedes mosquitoes, particularly Aedes aegypti, which also transmit dengue. Sexual transmission of Zika has also been documented. Both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "44",
+    "subject": "Science & Technology",
+    "question": "The terms 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are sometimes seen in the news in the context of",
+    "options": [
+      "Observation and understanding of the Universe",
+      "Study of the solar and the lunar eclipses",
+      "Placing satellites in the orbit of the Earth",
+      "Origin and evolution of living organisms on the Earth"
+    ],
+    "answer": "A",
+    "explanation": "These are concepts from cosmology and theoretical physics, dealing with black holes, the structure of matter and the fundamental forces of the universe."
+  },
+  {
+    "year": "2017",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "With reference to agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future?\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Genome sequencing helps locate genetic markers for traits such as disease resistance and drought tolerance. This speeds up marker-assisted breeding and shortens variety development time, and it also reveals how pathogens interact with their crop hosts. All three statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "73",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nCommonly used / consumed materials — Unwanted or controversial chemicals likely to be found in them\n1. Lipstick — Lead\n2. Soft drinks — Brominated vegetable oils\n3. Chinese fast food — Monosodium glutamate\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Lead has been found in some lipsticks, brominated vegetable oil has been used as an emulsifier in some soft drinks, and monosodium glutamate is a flavour enhancer widely used in Chinese fast food and a subject of controversy. All three pairs are correctly matched."
+  },
+  {
+    "year": "2017",
+    "qno": "74",
+    "subject": "Science & Technology",
+    "question": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices. What are the advantages of OLED displays over Liquid Crystal displays?\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "1, 2 and 3",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "explanation": "OLEDs can be built on flexible plastic substrates, which makes roll-up displays and wearable displays embedded in clothing possible. They can also be made transparent. All three statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "78",
+    "subject": "Science & Technology",
+    "question": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+    "options": [
+      "Production of biolarvicides",
+      "Manufacture of biodegradable plastics",
+      "Reproductive cloning of animals",
+      "Production of organisms free of diseases"
+    ],
+    "answer": "C",
+    "explanation": "In Somatic Cell Nuclear Transfer, the nucleus of a somatic cell is transferred into an enucleated egg cell to create a clone. It was used to create Dolly the sheep and is the basis of reproductive cloning of animals."
+  },
+  {
+    "year": "2017",
+    "qno": "85",
+    "subject": "Science & Technology",
+    "question": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n1. Service providers\n2. Data centres\n3. Body corporate\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Under the Information Technology Act and the CERT-In Rules, 2013, service providers, intermediaries, data centres and body corporates must report cyber security incidents to CERT-In. All three are covered."
+  },
+  {
+    "year": "2017",
+    "qno": "87",
+    "subject": "Science & Technology",
+    "question": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?",
+    "options": [
+      "To detect neutrinos",
+      "To detect gravitational waves",
+      "To detect the effectiveness of missile defence system",
+      "To study the effect of solar flares on our communication systems"
+    ],
+    "answer": "B",
+    "explanation": "eLISA is a planned European Space Agency space-based observatory designed to detect gravitational waves using laser interferometry between spacecraft."
+  },
+  {
+    "year": "2024",
+    "qno": "27",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Battery storage\n2. Biomass generators\n3. Fuel cells\n4. Rooftop solar photovoltaic units\nHow many of the above are considered \"Distributed Energy Resources\"?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Distributed Energy Resources (DERs) are small-scale generation or storage units located close to the point of consumption. Battery storage, biomass generators, fuel cells and rooftop solar PV units all qualify."
+  },
+  {
+    "year": "2024",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecrafts.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "RTGs convert heat from the natural radioactive decay of isotopes such as Plutonium-238 into electricity using thermocouples. They are not fission reactors, so statement 1 is incorrect. They power spacecraft such as Voyager and Cassini, and Pu-238 was produced as a by-product of the nuclear weapons programme. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nStatement-I:\nGiant stars live much longer than dwarf stars.\nStatement-II:\nCompared to dwarf stars, giant stars have a greater rate of nuclear reactions.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Massive (giant) stars burn their nuclear fuel much faster than small dwarf stars, so they have far shorter lifespans. Statement-I is incorrect. Giants do have a greater rate of nuclear reactions, so Statement-II is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "33",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is synthesised in human body that dilates blood vessels and increases blood flow?",
+    "options": [
+      "Nitric oxide",
+      "Nitrous oxide",
+      "Nitrogen dioxide",
+      "Nitrogen pentoxide"
+    ],
+    "answer": "A",
+    "explanation": "Nitric oxide (NO) is produced by endothelial cells in the body. It relaxes the smooth muscle of blood vessel walls, causing vasodilation and increased blood flow. Nitrous oxide is laughing gas, and nitrogen dioxide and pentoxide are not synthesised for this purpose in the body."
+  },
+  {
+    "year": "2024",
+    "qno": "34",
+    "subject": "Science & Technology",
+    "question": "Consider the following activities:\n1. Identification of narcotics on passengers at airports or in aircraft\n2. Monitoring of precipitation\n3. Tracking the migration of animals\nIn how many of the above activities can the radars be used?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Millimetre-wave radar based scanners are used for detecting concealed items, including narcotics, on passengers. Weather radars monitor precipitation. Radar is also used to track the migration of birds, bats and insects. All three uses are valid."
+  },
+  {
+    "year": "2024",
+    "qno": "36",
+    "subject": "Science & Technology",
+    "question": "In which of the following are hydrogels used?\n1. Controlled drug delivery in patients\n2. Mobile air-conditioning systems\n3. Preparation of industrial lubricants\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Hydrogels are water-rich polymer networks. They are used in controlled drug delivery, in evaporative and sorption-based cooling and air-conditioning systems, and as hydrogel-based lubricants and lubricant additives. All three uses are valid."
+  },
+  {
+    "year": "2024",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen?",
+    "options": [
+      "Hydrogen peroxide",
+      "Hydronium",
+      "Oxygen",
+      "Water vapour"
+    ],
+    "answer": "D",
+    "explanation": "In a hydrogen fuel cell, hydrogen combines with oxygen from the air to produce electricity, with water (emitted as water vapour) as the only by-product from the tailpipe."
+  },
+  {
+    "year": "2024",
+    "qno": "38",
+    "subject": "Science & Technology",
+    "question": "Recently, the term \"pumped-storage hydropower\" is actually and appropriately discussed in the context of which one of the following?",
+    "options": [
+      "Irrigation of terraced crop fields",
+      "Lift irrigation of cereal crops",
+      "Long duration energy storage",
+      "Rainwater harvesting system"
+    ],
+    "answer": "C",
+    "explanation": "Pumped-storage hydropower pumps water to an upper reservoir when electricity is surplus and releases it through turbines when demand is high. It is a major form of long duration energy storage that supports grid balancing and renewable integration."
+  },
+  {
+    "year": "2024",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "\"Membrane Bioreactors\" are often discussed in the context of:",
+    "options": [
+      "Assisted reproductive technologies",
+      "Drug delivery nanotechnologies",
+      "Vaccine production technologies",
+      "Wastewater treatment technologies"
+    ],
+    "answer": "D",
+    "explanation": "A Membrane Bioreactor (MBR) combines biological treatment (activated sludge) with membrane filtration to treat wastewater and produce high-quality effluent for reuse."
+  },
+  {
+    "year": "2024",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "Consider the following materials:\n1. Agricultural residues\n2. Corn grain\n3. Wastewater treatment sludge\n4. Wood mill waste\nWhich of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4",
+      "1, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Sustainable Aviation Fuel (SAF) can be produced from a wide range of biogenic feedstocks, including agricultural residues, corn grain and other crops, wastewater sludge and forestry or wood mill waste. All four are valid feedstocks."
+  },
+  {
+    "year": "2024",
+    "qno": "48",
+    "subject": "Science & Technology",
+    "question": "Which one of the following words/phrases is most appropriately used to denote \"an interoperable network of 3D virtual worlds that can be accessed simultaneously by millions of users, who can exert property rights over virtual items\"?",
+    "options": [
+      "Big data analytics",
+      "Cryptography",
+      "Metaverse",
+      "Virtual matrix"
+    ],
+    "answer": "C",
+    "explanation": "The Metaverse is described as a persistent, interoperable network of 3D virtual worlds accessed by many users at once, where users can own and trade virtual items (often using blockchain-based property rights)."
+  },
+  {
+    "year": "2019",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "For the measurement/estimation of which of the following are satellite images/remote sensing data used?\n1. Chlorophyll content in the vegetation of a specific location\n2. Greenhouse gas emissions from rice paddies of a specific location\n3. Land surface temperatures of a specific location\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Remote sensing is used to estimate vegetation chlorophyll through indices and spectral reflectance, methane emissions from paddies through satellite-based gas sensing and modelling, and land surface temperature through thermal infrared bands. All three are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "In the context of proposals to the use of hydrogen-enriched CNG (H-CNG) as fuel for buses in public transport, consider the following statements:\n1. The main advantage of the use of H-CNG is the elimination of carbon monoxide emissions.\n2. H-CNG as fuel reduces carbon dioxide and hydrocarbon emissions.\n3. Hydrogen up to one-fifth by volume can be blended with CNG as fuel for buses.\n4. H-CNG makes the fuel less expensive than CNG.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "H-CNG reduces CO2 and hydrocarbon emissions but does not eliminate CO emissions, so statement 1 is wrong. Blends of up to 18–20% hydrogen by volume are used, which is about one-fifth. H-CNG is not cheaper than CNG. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "75",
+    "subject": "Science & Technology",
+    "question": "With reference to communication technologies, what is/are the difference/differences between LTE (Long-Term Evolution) and VoLTE (Voice over Long-Term Evolution)?\n1. LTE is commonly marketed as 3G and VoLTE is commonly marketed as advanced 3G.\n2. LTE is data-only technology and VoLTE is voice-only technology.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "LTE is marketed as 4G, and VoLTE is a way of carrying voice calls over the LTE data network. VoLTE is therefore not 'advanced 3G' and not a voice-only technology, and LTE is not data-only technology. Both statements are incorrect."
+  },
+  {
+    "year": "2019",
+    "qno": "91",
+    "subject": "Science & Technology",
+    "question": "In the context of digital technologies for entertainment, consider the following statements:\n1. In Augmented Reality (AR), a simulated environment is created and the physical world is completely shut out.\n2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.\n3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.\n4. VR closes the world, and transposes an individual, providing complete immersion experience.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 and 4",
+      "1, 2 and 3",
+      "4 only"
+    ],
+    "answer": "B",
+    "explanation": "AR overlays computer-generated images on the real world, and VR replaces the real world with a fully simulated environment. Statements 1 and 2 swap the definitions and are wrong. Statements 3 and 4 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "92",
+    "subject": "Science & Technology",
+    "question": "The word 'Denisovan' is sometimes mentioned in media in reference to",
+    "options": [
+      "fossils of a kind of dinosaurs",
+      "an early human species",
+      "a cave system found in North-East India",
+      "a geological period in the history of Indian subcontinent"
+    ],
+    "answer": "B",
+    "explanation": "Denisovans are an extinct archaic human species or population, known from fossils in Denisova Cave in Siberia and related to Neanderthals."
+  },
+  {
+    "year": "2019",
+    "qno": "93",
+    "subject": "Science & Technology",
+    "question": "With reference to the recent developments in science, which one of the following statements is not correct?",
+    "options": [
+      "Functional chromosomes can be created by joining segments of DNA taken from cells of different species.",
+      "Pieces of artificial functional DNA can be created in laboratories.",
+      "A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.",
+      "Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes."
+    ],
+    "answer": "A",
+    "explanation": "Artificial DNA can be synthesised, DNA can be replicated in vitro (PCR), and cells can be cultured in dishes. Creating functional chromosomes by joining DNA segments from cells of different species has not been achieved, so statement A is the incorrect one."
+  },
+  {
+    "year": "2019",
+    "qno": "94",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nA digital signature is\n1. an electronic record that identifies the certifying authority issuing it\n2. used to serve as a proof of identity of an individual to access information or server on Internet\n3. an electronic method of signing an electronic document and ensuring that the original content is unchanged\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "A digital signature is an electronic method of signing a document that also verifies the content has not been altered. Statements 1 and 2 describe a digital certificate, which identifies the certifying authority and proves identity. Only statement 3 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "95",
+    "subject": "Science & Technology",
+    "question": "In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices?\n1. Location identification of a person\n2. Sleep monitoring of a person\n3. Assisting the hearing impaired person\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Wearables such as smartwatches and fitness bands do GPS tracking, sleep monitoring, and hearing assistance through hearing-aid wearables, so all three are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "96",
+    "subject": "Science & Technology",
+    "question": "'RNA interference (RNAi)' technology has gained popularity in the last few years. Why?\n1. It is used in developing gene silencing therapies.\n2. It can be used in developing therapies for the treatment of cancer.\n3. It can be used to develop hormone replacement therapies.\n4. It can be used to produce crop plants that are resistant to viral pathogens.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 4",
+      "2 and 3",
+      "1 and 3",
+      "1 and 4 only"
+    ],
+    "answer": "A",
+    "explanation": "RNAi silences specific genes, so it is used in gene-silencing therapies, in research on cancer therapies, and to make plants resistant to viruses. It is not used to develop hormone replacement therapies."
+  },
+  {
+    "year": "2019",
+    "qno": "97",
+    "subject": "Science & Technology",
+    "question": "Recently, scientists observed the merger of giant 'blackholes' billions of light-years away from the Earth. What is the significance of this observation?",
+    "options": [
+      "'Higgs boson particles' were detected.",
+      "'Gravitational waves' were detected.",
+      "Possibility of inter-galactic space travel through 'wormhole' was confirmed.",
+      "It enabled the scientists to understand 'singularity'."
+    ],
+    "answer": "B",
+    "explanation": "The merger of black holes produces ripples in space-time called gravitational waves, first detected directly by LIGO in 2015. That detection is the significance of the observation."
+  },
+  {
+    "year": "2019",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Which of the following are the reasons for the occurrence of multi-drug resistance in microbial pathogens in India?\n1. Genetic predisposition of some people\n2. Taking incorrect doses of antibiotics to cure diseases\n3. Using antibiotics in livestock farming\n4. Multiple chronic diseases in some people\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 and 3 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Multi-drug resistance is driven by incorrect or incomplete antibiotic doses, antibiotic use in livestock farming, and multiple chronic diseases that lead to prolonged and repeated antibiotic use. A genetic predisposition of people does not cause resistance in pathogens."
+  },
+  {
+    "year": "2019",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "What is Cas9 protein that is often mentioned in news?",
+    "options": [
+      "A molecular scissors used in targeted gene editing",
+      "A biosensor used in the accurate detection of pathogens in patients",
+      "A gene that makes plants pest-resistant",
+      "A herbicidal substance synthesized in genetically modified crops"
+    ],
+    "answer": "A",
+    "explanation": "Cas9 is an enzyme used in the CRISPR-Cas9 system. Guided by RNA, it cuts DNA at specific sites, so it works as molecular scissors for targeted gene editing."
+  },
+  {
+    "year": "2019",
+    "qno": "100",
+    "subject": "Science & Technology",
+    "question": "Which one of the following statements is not correct?",
+    "options": [
+      "Hepatitis B virus is transmitted much like HIV.",
+      "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+      "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+      "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+    ],
+    "answer": "B",
+    "explanation": "Hepatitis B has an effective vaccine, while Hepatitis C does not, so the statement is reversed. The other statements are correct: Hepatitis B spreads through blood and body fluids like HIV, far more people have Hepatitis B and C than HIV, and many infections are asymptomatic for years."
+  },
+  {
+    "year": "2022",
+    "qno": "19",
+    "subject": "Science & Technology",
+    "question": "With reference to Ayushman Bharat Digital Mission, consider the following statements:\n1. Private and public hospitals must adopt it.\n2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately.\n3. It has seamless portability across the country.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Ayushman Bharat Digital Mission (ABDM) is a voluntary scheme, so hospitals are not compelled to adopt it and citizens are not compelled to enrol. Its digital health ecosystem is designed for interoperability and seamless portability of health records across the country. Only statement 3 is correct."
+  },
+  {
+    "year": "2022",
+    "qno": "31",
+    "subject": "Science & Technology",
+    "question": "Consider the following:\n1. Aarogya Setu\n2. CoWIN\n3. DigiLocker\n4. DIKSHA\nWhich of the above are built on top of open-source digital platforms?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "All four are India's digital public goods built on open-source technologies. Aarogya Setu, CoWIN, DigiLocker and DIKSHA were all released as open-source platforms."
+  },
+  {
+    "year": "2022",
+    "qno": "32",
+    "subject": "Science & Technology",
+    "question": "With reference to Web 3.0, consider the following statements:\n1. Web 3.0 technology enables people to control their own data.\n2. In Web 3.0 world, there can be blockchain based social networks.\n3. Web 3.0 is operated by users collectively rather than a corporation.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Web 3.0 is a decentralised, blockchain-based vision of the internet. It gives users ownership and control over their data, supports decentralised social networks, and is governed collectively by users and communities instead of a single corporation. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "33",
+    "subject": "Science & Technology",
+    "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields.\n2. SaaS users can access their data through their mobile devices.\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "SaaS delivers software over the internet on a subscription basis. Users can usually customise interfaces and data fields, access their data from mobile devices, and web-based email services such as Outlook, Hotmail and Yahoo! Mail are typical examples. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "35",
+    "subject": "Science & Technology",
+    "question": "Which one of the following is the context in which the term \"qubit\" is mentioned?",
+    "options": [
+      "Cloud Services",
+      "Quantum Computing",
+      "Visible Light Communication Technologies",
+      "Wireless Communication Technologies"
+    ],
+    "answer": "B",
+    "explanation": "A qubit (quantum bit) is the basic unit of information in quantum computing. Unlike a classical bit, it can exist in a superposition of 0 and 1."
+  },
+  {
+    "year": "2022",
+    "qno": "36",
+    "subject": "Science & Technology",
+    "question": "Consider the following communication technologies:\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\nWhich of the above are considered Short-Range devices/technologies?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Short-range devices cover low-power radio and communication systems that operate over limited distances. CCTV (local wireless/wired links), RFID and WLAN all fall in this category."
+  },
+  {
+    "year": "2022",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues.\n2. Biofilms can form on food and food processing surfaces.\n3. Biofilms can exhibit antibiotic resistance.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Biofilms are communities of microorganisms embedded in a matrix. They form on implants such as catheters and prosthetics, on food-contact and processing surfaces, and the matrix and altered physiology make them far more tolerant of antibiotics. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "38",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements in respect of probiotics:\n1. Probiotics are made of both bacteria and yeast.\n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.\n3. Probiotics help in the digestion of milk sugars.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3",
+      "2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Probiotics include bacteria such as Lactobacillus and Bifidobacterium and yeasts such as Saccharomyces boulardii (statement 1). Many probiotic organisms occur naturally in the human gut, so statement 2 is wrong. Some probiotics help digest lactose, the milk sugar (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.\n2. Sputnik V vaccine is manufactured using vector based platform.\n3. COVAXIN is an inactivated pathogen based vaccine.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Covishield is a viral vector vaccine (the Oxford–AstraZeneca chimpanzee adenovirus vector), not an mRNA vaccine. Sputnik V uses adenovirus vectors (Ad26 and Ad5). Covaxin by Bharat Biotech uses an inactivated whole virus. Statements 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "40",
+    "subject": "Science & Technology",
+    "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail.\n2. Tsunamis could occur at equatorial regions.\n3. Power grids could be damaged.\n4. Intense auroras could occur over much of the Earth.\n5. Forest fires could take place over much of the planet.\n6. Orbits of the satellites could be disturbed.\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2, 4 and 5 only",
+      "2, 3, 5, 6 and 7 only",
+      "1, 3, 4, 6 and 7 only",
+      "1, 2, 3, 4, 5, 6 and 7"
+    ],
+    "answer": "C",
+    "explanation": "A major solar storm can disrupt GPS and navigation, induce currents that damage power grids, cause intense auroras at low latitudes, alter satellite orbits through atmospheric drag, and block HF radio communication in polar regions. It cannot cause tsunamis (a seismic or undersea phenomenon) or planet-wide forest fires."
+  },
+  {
+    "year": "2022",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.\n2. Containers made of it can be used to store any alcoholic beverage.\n3. Bottles made of it can be recycled into other products.\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "PET (polyester) fibres are commonly blended with wool and cotton to improve strength and crease resistance (statement 1), and PET bottles are widely recycled into fibres and other products (statement 3). Incineration of PET releases carbon dioxide, a greenhouse gas (statement 4 is wrong), and the claim that it suits storing 'any' alcoholic beverage is too sweeping (statement 2). Note: statement 2 is the one to verify."
+  },
+  {
+    "year": "2022",
+    "qno": "69",
+    "subject": "Science & Technology",
+    "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "NFTs can represent physical or digital assets, and each is a unique cryptographic token recorded on a blockchain. Because each is unique, NFTs are not interchangeable at equivalency like fungible currency, so they cannot serve as a general medium of exchange. Statement 3 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "97",
+    "subject": "Science & Technology",
+    "question": "Which one of the following statements best describes the role of B cells and T cells in the human body?",
+    "options": [
+      "They protect the body from environmental allergens.",
+      "They alleviate the body's pain and inflammation.",
+      "They act as immunosuppressants in the body.",
+      "They protect the body from the diseases caused by pathogens."
+    ],
+    "answer": "D",
+    "explanation": "B cells produce antibodies, and T cells carry out cell-mediated immunity. Together they form the adaptive immune system that defends the body against pathogens."
+  },
+  {
+    "year": "2022",
+    "qno": "98",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Other than those made by humans, nanoparticles do not exist in nature.\n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.\n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Nanoparticles occur naturally, for example in volcanic ash, sea spray and viruses, so statement 1 is wrong. Zinc oxide and titanium dioxide nanoparticles are used in sunscreens and other cosmetics (statement 2). Some engineered nanoparticles that enter the environment can pose health risks (statement 3)."
+  },
+  {
+    "year": "2022",
+    "qno": "99",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nDNA Barcoding can be a tool to:\n1. assess the age of a plant or animal.\n2. distinguish among species that look alike.\n3. identify undesirable animal or plant materials in processed foods.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "DNA barcoding uses a short standardised gene region to identify species. It can separate look-alike species and detect adulterants or unwanted plant or animal material in processed foods. It cannot determine the age of an organism."
+  },
+  {
+    "year": "2018",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "In which of the following areas can GPS technology be used?\n1. Mobile phone operations\n2. Banking operations\n3. Controlling the power grids\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "GPS provides precise timing as well as location. Mobile networks use GPS time for synchronising base stations, banks use it to timestamp and synchronise transactions, and power grids use it for synchronising measurements and control. All three uses are valid."
+  },
+  {
+    "year": "2018",
+    "qno": "57",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. The Earth's magnetic field has reversed every few hundred thousand years.\n2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.\n3. When living organisms originated, they modified the early atmosphere of the Earth.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Palaeomagnetic records show that the Earth's magnetic field has reversed many times, on average every few hundred thousand years, so statement 1 is correct. The early atmosphere had very little free oxygen and contained carbon dioxide, so statement 2 is wrong. Early photosynthetic organisms released oxygen and changed the atmosphere (the Great Oxidation Event), so statement 3 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "61",
+    "subject": "Science & Technology",
+    "question": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\n1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.\n2. IRNSS covers entire India and about 5500 sq. km beyond its borders.\n3. India will have its own satellite navigation system with full global coverage by the middle of 2019.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "The IRNSS (NavIC) constellation has seven satellites: three in geostationary orbit and four in inclined geosynchronous orbit, so statement 1 is correct. It covers India and a region extending about 1500 km around it, not 5500 sq. km, so statement 2 is wrong. IRNSS is a regional system, and there was no plan for full global coverage by 2019, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "62",
+    "subject": "Science & Technology",
+    "question": "Consider the following phenomena:\n1. Light is affected by gravity.\n2. The Universe is constantly expanding.\n3. Matter warps its surrounding space-time.\nWhich of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "General Relativity describes gravity as the warping of space-time by matter, so statement 3 holds. It predicts that light bends in a gravitational field (confirmed in the 1919 eclipse observations), so statement 1 holds. Its equations also imply a dynamic universe that expands or contracts, which Einstein initially tried to offset with the cosmological constant, so statement 2 holds as well."
+  },
+  {
+    "year": "2018",
+    "qno": "63",
+    "subject": "Science & Technology",
+    "question": "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements:\n1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.\n2. GM mustard has the genes that allow the plant cross-pollination and hybridization.\n3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "GM mustard (DMH-11) uses the barnase, barstar and bar genes from a soil bacterium. These create a male-sterility and fertility-restoration system for hybrid seed production, plus herbicide tolerance, and do not give pest resistance, so statement 1 is wrong. The system enables cross-pollination and hybridisation, so statement 2 is correct. It was developed by the Centre for Genetic Manipulation of Crop Plants at Delhi University, not by IARI and PAU, so statement 3 is wrong."
+  },
+  {
+    "year": "2018",
+    "qno": "64",
+    "subject": "Science & Technology",
+    "question": "Consider the following pairs:\nTerms sometimes seen in news — Context/Topic\n1. Belle II experiment — Artificial Intelligence\n2. Blockchain technology — Digital/Cryptocurrency\n3. CRISPR – Cas9 — Particle Physics\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Belle II experiment at KEK, Japan, is a particle physics experiment, not an AI one. Blockchain is the underlying technology of digital currencies such as Bitcoin, so pair 2 is correct. CRISPR-Cas9 is a gene-editing tool, not a particle physics topic. Only pair 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "66",
+    "subject": "Science & Technology",
+    "question": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.\nIn the context of emerging communication technologies, which one of the following terms best applies to the above scenario?",
+    "options": [
+      "Border Gateway Protocol",
+      "Internet of Things",
+      "Internet Protocol",
+      "Virtual Private Network"
+    ],
+    "answer": "B",
+    "explanation": "The scenario describes everyday objects such as phones, appliances, mirrors, cars and locks that are connected to the internet and exchange data and commands without human intervention. This is the Internet of Things (IoT)."
+  },
+  {
+    "year": "2018",
+    "qno": "84",
+    "subject": "Science & Technology",
+    "question": "\"3D printing\" has applications in which of the following?\n1. Preparation of confectionery items\n2. Manufacture of bionic ears\n3. Automotive industry\n4. Reconstructive surgeries\n5. Data processing technologies\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4 only",
+      "2, 3 and 5 only",
+      "1 and 4 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "3D printing is used to make chocolate and other confectionery, bionic ears using bio-ink and tissue engineering, automotive parts and prototypes, and implants and reconstructive surgical models. It also has applications in data processing technologies, such as printing electronic components and storage devices. All five are valid applications."
+  },
+  {
+    "year": "2018",
+    "qno": "95",
+    "subject": "Science & Technology",
+    "question": "With reference to India's satellite launch vehicles, consider the following statements:\n1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.\n2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.\n3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "1 and 2",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "PSLV mainly launches remote sensing (Earth observation) satellites into polar orbits, and GSLV is designed for geosynchronous transfer orbits to launch communication satellites, so statement 1 is correct. Satellites that appear fixed in the sky are geostationary, which are launched by GSLV and not by PSLV, so statement 2 is wrong. GSLV Mk III is a three-stage vehicle (solid boosters, a liquid core stage and a cryogenic upper stage), so statement 3 is wrong."
+  },
+  {
+    "year": "2026",
+    "qno": "41",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to genetic medicine is/are correct?\n1. Genetic medicines correct/compensate for the faulty genes responsible for disease.\n2. Engineered viruses and lipid nanoparticles are used as carriers of the genetic medicine.\n3. Genetic medicines alter the entire DNA sequence.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Genetic medicines (gene therapy, mRNA, antisense, gene editing) correct or compensate for faulty genes and use viral vectors and lipid nanoparticles for delivery. They target specific genes or transcripts and do not alter the entire DNA sequence."
+  },
+  {
+    "year": "2026",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to stealth technology is/are correct?\n1. Stealth objects have a very small radar cross-section and are coated with Radar Absorbing Material.\n2. Stealth objects can be detected using specific frequencies.\n3. Stealth objects are coated with metamaterials to increase the scattering of electromagnetic radiation.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Stealth platforms minimise radar cross-section through shaping and radar absorbing materials, and low-frequency or other specialised radars can still detect them. Coatings aim to absorb or deflect radiation away, not to increase scattering back, so statement 3 is wrong."
+  },
+  {
+    "year": "2026",
+    "qno": "44",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to Black Boxes used in modern aircrafts is/are correct?\n1. They carry a beacon emitting red light pulses to facilitate underwater detection.\n2. They record both the cockpit voice and flight data.\n3. Their memory units are made using either stainless steel or titanium.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "A black box comprises a cockpit voice recorder and a flight data recorder, with crash-protected memory housed in stainless steel or titanium. The underwater locator beacon emits ultrasonic acoustic pings, not red light pulses."
+  },
+  {
+    "year": "2026",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to Green Hydrogen is/are correct?\n1. It is decarbonized hydrogen obtained from natural gas reforming combined with carbon capture and storage (CCS).\n2. It is produced using electrolysis of water with electricity generated by renewable energy.\n3. National Green Hydrogen Mission of India aims for abatement of nearly 50 MMT of annual greenhouse gas emissions by 2030.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Green hydrogen is made by electrolysing water with renewable electricity. Hydrogen from natural gas with CCS is blue hydrogen. The National Green Hydrogen Mission targets abatement of nearly 50 MMT of annual greenhouse gas emissions by 2030."
+  },
+  {
+    "year": "2026",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements with regard to involvement of private entities in India's space programme:\n1. The Indian National Space Promotion and Authorisation Centre (IN-SPACe) is an autonomous agency formed to facilitate participation of private entities.\n2. Agnikul Cosmos launched the world's first flight using 3D-printed rocket engine.\n3. Skyroot Aerospace has developed liquid fuel for GSLV.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "IN-SPACe is an autonomous single-window agency for private space participation, and Agnikul's Agnibaan SOrTeD (2024) was the first flight with a single-piece 3D-printed semi-cryogenic engine. Skyroot builds its own Vikram launch vehicles and did not develop liquid fuel for ISRO's GSLV."
+  },
+  {
+    "year": "2026",
+    "qno": "48",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to GenomeIndia Project is correct?\n1. It is a part of the Human Genome Project.\n2. The project is funded by the Department of Biotechnology (DBT), Government of India.\n3. Its primary aim is to build a catalogue of genetic diversity of the Indian population.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "GenomeIndia is a national initiative of the Department of Biotechnology that sequenced thousands of Indian genomes to catalogue the genetic diversity of the population. It is an independent Indian project, not a part of the international Human Genome Project."
+  },
+  {
+    "year": "2026",
+    "qno": "49",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to the National Quantum Mission (NQM) is/are correct?\n1. It aims at developing intermediate-scale quantum computers with 50-1000 physical qubits.\n2. Its implementation includes setting up of four Thematic Hubs (T-Hubs) in academic and national R&D institutes across India.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The National Quantum Mission (2023-31) targets intermediate-scale quantum computers of 50-1000 physical qubits and establishes four Thematic Hubs, in quantum computing, communication, sensing and metrology, and materials and devices."
+  },
+  {
+    "year": "2026",
+    "qno": "50",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements with regard to India's Deep Ocean Mission is/are correct?\n1. It was launched by the Ministry of Ports, Shipping and Waterways, Government of India.\n2. Matsya-6000 has been designed to carry 3 people for deep sea exploration.\n3. Samudrayaan is a project under this mission.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Deep Ocean Mission is led by the Ministry of Earth Sciences, not the Ministry of Ports, Shipping and Waterways. Matsya-6000 is a crewed submersible for three people and Samudrayaan is the mission's crewed deep-sea project."
+  },
+  {
+    "year": "2026",
+    "qno": "79",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements about DHRUV64 is/are correct?\n1. It is the third chip fabricated under the DIR-V Programme with an overall aim to enable the creation of microprocessors for India.\n2. It is India's first homegrown 1.0 GHz, 64-bit dual-core microprocessor.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "DHRUV64, developed by C-DAC on the open RISC-V architecture, is the third chip fabricated under the Digital India RISC-V (DIR-V) Programme and is India's first indigenous 1.0 GHz, 64-bit dual-core microprocessor."
+  },
+  {
+    "year": "2026",
+    "qno": "81",
+    "subject": "Science & Technology",
+    "question": "'X', born in the UK, was conferred the Nobel Prize in 2025. He was a professor in an American university when this prize was announced. Identify 'X':",
+    "options": [
+      "Michel H. Devoret",
+      "Richard Robson",
+      "John Clarke",
+      "Joel Mokyr"
+    ],
+    "answer": "C",
+    "explanation": "John Clarke, born in Cambridge, UK, shared the 2025 Nobel Prize in Physics for macroscopic quantum tunnelling in electric circuits and was a professor at the University of California, Berkeley. Devoret was born in France, Richard Robson (Chemistry) was at the University of Melbourne, and Joel Mokyr (Economics) is Dutch-born."
+  },
+  {
+    "year": "2026",
+    "qno": "86",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements regarding the features of blockchain technology are correct?\n1. Records stored in the database may be made visible to relevant stakeholders without risk of alteration.\n2. Copies of the entire database are stored on multiple computers on a network, syncing within seconds.\n3. Consortium blockchain is a blend of public and private blockchains allowing selective data access.\n4. Mathematical algorithms make it impossible to change or delete any data once recorded and accepted.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 3",
+      "2 and 4 only",
+      "1, 2 and 4",
+      "1 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Blockchains provide tamper-resistant visibility to stakeholders, replicate the ledger across many nodes that sync rapidly, and use cryptographic hashing so recorded data cannot be changed or deleted. A consortium blockchain is a permissioned chain governed by a group of organisations; the public-private blend is a hybrid blockchain, so 3 is not accurate."
+  },
+  {
+    "year": "2020",
+    "qno": "37",
+    "subject": "Science & Technology",
+    "question": "In the context of recent advances in human reproductive technology, “Pronuclear Transfer” is used for",
+    "options": [
+      "fertilization of egg in vitro by the donor sperm",
+      "genetic modification of sperm producing cells",
+      "development of stem cells into functional embryos",
+      "prevention of mitochondrial diseases in offspring"
+    ],
+    "answer": "D",
+    "explanation": "In pronuclear transfer, the pronuclei of a fertilised egg of the intending parents are transferred into a donor egg whose own pronuclei are removed, so that the child avoids inheriting defective mitochondrial DNA from the mother, thereby preventing mitochondrial diseases."
+  },
+  {
+    "year": "2020",
+    "qno": "39",
+    "subject": "Science & Technology",
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\n1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.\n2. VLC is known as long-range optical wireless communication.\n3. VLC can transmit large amounts of data faster than Bluetooth.\n4. VLC has no electromagnetic interference.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "VLC uses visible light in roughly the 375-780 nm range, can transmit data at higher rates than Bluetooth, and does not cause or suffer electromagnetic interference. It is a short-range optical wireless technology, not long-range, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "40",
+    "subject": "Science & Technology",
+    "question": "With reference to “Blockchain Technology”, consider the following statements:\n1. It is a public ledger that everyone can inspect, but which no single user controls.\n2. The structure and design of blockchain is such that all the data in it are about cryptocurrency only.\n3. Applications that depend on basic features of blockchain can be developed without anybody’s permission.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only"
+    ],
+    "answer": "D",
+    "explanation": "A public blockchain is a distributed ledger that anyone can inspect and no single user controls (statement 1 correct), and open, permissionless blockchains allow anyone to build applications on them (statement 3 correct). Blockchains can store any kind of data such as contracts, supply-chain records and land records, not only cryptocurrency data, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "41",
+    "subject": "Science & Technology",
+    "question": "With reference to carbon nanotubes, consider the following statements:\n1. They can be used as carriers of drugs and antigens in the human body.\n2. They can be made into artificial blood capillaries for an injured part of human body.\n3. They can be used in biochemical sensors.\n4. Carbon nanotubes are biodegradable.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2, 3 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Carbon nanotubes are being used for targeted drug and antigen delivery, as scaffolds for artificial blood vessels and tissue repair, and in biochemical sensors. Research has shown that functionalised carbon nanotubes can be degraded by enzymes, so the official key treats all four statements as correct."
+  },
+  {
+    "year": "2020",
+    "qno": "42",
+    "subject": "Science & Technology",
+    "question": "Consider the following activities:\n1. Spraying pesticides on a crop field\n2. Inspecting the craters of active volcanoes\n3. Collecting breath samples from spouting whales for DNA analysis\nAt the present level of technology, which of the above activities can be successfully carried out by using drones?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Drones are already used for aerial spraying of pesticides, for inspecting and sampling the craters of active volcanoes, and for collecting exhaled breath (blow) samples from whales for DNA and health analysis."
+  },
+  {
+    "year": "2020",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "“The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometres long, with lasers shining between the craft.” The experiment in question refers to",
+    "options": [
+      "Voyager-2",
+      "New Horizons",
+      "LISA Pathfinder",
+      "Evolved LISA"
+    ],
+    "answer": "D",
+    "explanation": "The Evolved Laser Interferometer Space Antenna (eLISA/LISA) is a planned space-based gravitational wave observatory with three spacecraft in a triangular formation, with arms about a million kilometres long and laser links between them. LISA Pathfinder was only a technology demonstrator with a single spacecraft."
+  },
+  {
+    "year": "2020",
+    "qno": "44",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\n1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.\n2. A person’s genome can be edited before birth at the early embryonic stage.\n3. Human induced pluripotent stem cells can be injected into the embryo of a pig.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Germline editing of cells that give rise to eggs and sperm is technically possible with tools such as CRISPR-Cas9, as is editing the genome of an early embryo. Human induced pluripotent stem cells have been injected into pig embryos to create human-pig chimeras for research on growing organs. All three statements are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "What is the importance of using Pneumococcal Conjugate Vaccines in India?\n1. These vaccines are effective against pneumonia as well as meningitis and sepsis.\n2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.\n3. These vaccines have no side effects and cause no allergic reactions.",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Pneumococcal conjugate vaccines protect against Streptococcus pneumoniae infections such as pneumonia, meningitis and sepsis, and by preventing infections they reduce the need for antibiotics and so the spread of antimicrobial resistance. No vaccine is entirely free of side effects or allergic reactions, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "In India, the term “Public Key Infrastructure” is used in the context of",
+    "options": [
+      "Digital security infrastructure",
+      "Food security infrastructure",
+      "Health care and education infrastructure",
+      "Telecommunication and transportation infrastructure"
+    ],
+    "answer": "A",
+    "explanation": "Public Key Infrastructure (PKI) is the framework of policies, hardware, software and certificates, based on public-key cryptography, used to issue and manage digital certificates and signatures for secure electronic communication. In India it is governed under the IT Act, 2000 through Certifying Authorities."
+  },
+  {
+    "year": "2020",
+    "qno": "47",
+    "subject": "Science & Technology",
+    "question": "Which of the following statements are correct regarding the general difference between plant and animal cells?\n1. Plant cells have cellulose cell walls whilst animal cells do not.\n2. Plant cells do not have plasma membrane unlike animal cells which do.\n3. Mature plant cell has one large vacuole whilst animal cell has many small vacuoles.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Plant cells have a rigid cellulose cell wall that animal cells lack, and a mature plant cell typically has one large central vacuole while animal cells have several small ones. Both plant and animal cells have a plasma membrane (inside the cell wall in plants), so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "55",
+    "subject": "Science & Technology",
+    "question": "In India, why are some nuclear reactors kept under “IAEA Safeguards” while others are not?",
+    "options": [
+      "Some use uranium and others use thorium",
+      "Some use imported uranium and others use domestic supplies",
+      "Some are operated by foreign enterprises and others are operated by domestic enterprises",
+      "Some are State-owned and others are privately-owned"
+    ],
+    "answer": "B",
+    "explanation": "Under the India-US civil nuclear deal and the separation plan, reactors using imported uranium and other foreign-supplied fuel are placed under IAEA safeguards, while those using domestic uranium are kept outside safeguards."
+  },
+  {
+    "year": "2020",
+    "qno": "88",
+    "subject": "Science & Technology",
+    "question": "With reference to solar water pumps, consider the following statements:\n1. Solar power can be used for running surface pumps and not for submersible pumps.\n2. Solar power can be used for running centrifugal pumps and not the ones with piston.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Solar power can run both surface and submersible pumps, and both centrifugal and positive-displacement (piston) pumps. Both statements are incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "36",
+    "subject": "Science & Technology",
+    "question": "With reference to 'Direct Air Capture', an emerging technology, which of the following statements is/are correct?\nI. It can be used as a way of carbon sequestration.\nII. It can be a valuable approach for plastic production and in food processing.\nIII. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and II only",
+      "III only",
+      "I, II and III",
+      "None of the above statements is correct"
+    ],
+    "answer": "C",
+    "explanation": "Direct Air Capture removes CO2 from ambient air for storage (sequestration) or utilisation, such as a carbon feedstock for plastics, carbonation in food and beverages, and e-fuels made by combining captured CO2 with hydrogen. All three statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "41",
+    "subject": "Science & Technology",
+    "question": "Consider the following types of vehicles:\nI. Full battery electric vehicles\nII. Hydrogen fuel cell vehicles\nIII. Fuel cell-electric hybrid vehicles\nHow many of the above are considered as alternative powertrain vehicles?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Alternative powertrain vehicles are those not using conventional internal combustion engines alone, including battery electric, hydrogen fuel cell and fuel cell-electric hybrid vehicles. All three qualify."
+  },
+  {
+    "year": "2025",
+    "qno": "42",
+    "subject": "Science & Technology",
+    "question": "With reference to Unmanned Aerial Vehicles (UAVs), consider the following statements:\nI. All types of UAVs can do vertical landing.\nII. All types of UAVs can do automated hovering.\nIII. All types of UAVs can use battery only as a source of power supply.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Fixed-wing UAVs cannot land vertically or hover, and UAVs use various power sources (batteries, fuel engines, hybrid, solar). Hence none of the 'all types' statements is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "43",
+    "subject": "Science & Technology",
+    "question": "In the context of electric vehicle batteries, consider the following elements:\nI. Cobalt\nII. Graphite\nIII. Lithium\nIV. Nickel\nHow many of the above usually make up battery cathodes?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "C",
+    "explanation": "Lithium-ion cathodes typically use lithium, cobalt and nickel (e.g., NMC, NCA, LCO). Graphite is the usual anode material."
+  },
+  {
+    "year": "2025",
+    "qno": "45",
+    "subject": "Science & Technology",
+    "question": "Consider the following substances:\nI. Ethanol\nII. Nitroglycerine\nIII. Urea\nCoal gasification technology can be used in the production of how many of them?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Coal gasification produces syngas (CO and H2), which can be converted to methanol, ethanol, ammonia and hence urea, and to nitric acid and other chemicals used for explosives such as nitroglycerine. It can thus be used in the production of all three."
+  },
+  {
+    "year": "2025",
+    "qno": "46",
+    "subject": "Science & Technology",
+    "question": "What is the common characteristic of the chemical substances generally known as CL 20, HMX and LLM-105, which are sometimes talked about in media?",
+    "options": [
+      "These are alternatives to hydrofluorocarbon refrigerants",
+      "These are explosives in military weapons",
+      "These are high-energy fuels for cruise missiles",
+      "These are fuels for rocket propulsion"
+    ],
+    "answer": "B",
+    "explanation": "CL-20, HMX and LLM-105 are high-energy explosive compounds used in military munitions and warheads."
+  },
+  {
+    "year": "2025",
+    "qno": "48",
+    "subject": "Science & Technology",
+    "question": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:\nI. They are man-made proteins.\nII. They stimulate immunological function due to their ability to bind to specific antigens.\nIII. They are used in treating viral infections like that of Nipah virus.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "Monoclonal antibodies are laboratory-engineered proteins that bind specific antigens and support immune function, and they are used as therapy against viral infections, including their use in responding to Nipah virus."
+  },
+  {
+    "year": "2025",
+    "qno": "49",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nI. No virus can survive in ocean waters.\nII. No virus can infect bacteria.\nIII. No virus can change the cellular transcriptional activity in host cells.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Marine viruses are abundant in oceans, bacteriophages infect bacteria, and many viruses reprogram host cell transcription. All three absolute statements are incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "81",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nStatement I: Some rare earth elements are used in the manufacture of flat television screens and computer monitors.\nStatement II: Some rare earth elements have phosphorescent properties.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "A",
+    "explanation": "Rare earths such as europium, terbium and yttrium serve as phosphors that emit light, which is why they are used in flat screens and monitors. Statement II explains Statement I."
+  },
+  {
+    "year": "2025",
+    "qno": "82",
+    "subject": "Science & Technology",
+    "question": "Consider the following statements:\nI. Indian Railways have prepared a National Rail Plan (NRP) to create a 'future ready' railway system by 2028.\nII. 'Kavach' is an Automatic Train Protection system developed in collaboration with Germany.\nIII. 'Kavach' system consists of RFID tags fitted on track in station section.\nWhich of the statements given above are not correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "A",
+    "explanation": "The National Rail Plan targets a future-ready railway system by 2030, not 2028, so I is incorrect. Kavach is an indigenous ATP system developed by RDSO with Indian industry, not with Germany, so II is incorrect. Kavach does use RFID tags on tracks in station sections, so III is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "83",
+    "subject": "Science & Technology",
+    "question": "Consider the following space missions:\nI. Axiom-4\nII. SpaDeX\nIII. Gaganyaan\nHow many of the space missions given above encourage and support micro-gravity research?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Axiom-4 carried microgravity experiments to the ISS, SpaDeX carried microgravity payloads such as plant-growth experiments, and Gaganyaan is designed to support microgravity research. All three qualify."
+  },
+  {
+    "year": "2025",
+    "qno": "94",
+    "subject": "Science & Technology",
+    "question": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?\nI. It is designed to provide additional accuracy and integrity.\nII. It will allow more uniform and high quality air traffic management.\nIII. It will provide benefits only in aviation but not in other modes of transportation.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I, II and III",
+      "I and III only",
+      "I only",
+      "I and II only"
+    ],
+    "answer": "D",
+    "explanation": "GAGAN augments GPS to improve accuracy and integrity and supports better air traffic management. It also benefits other sectors such as railways, maritime transport, agriculture and surveying, so III is incorrect."
+  }
+]

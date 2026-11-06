@@ -1,0 +1,2264 @@
+[
+  {
+    "date": "2026-06-01",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "CBSE On-Screen Marking Platform — cybersecurity and data protection",
+        "summary": "Vulnerabilities in CBSE's On-Screen Marking platform raised concerns about cybersecurity, student data protection and accountability in digital education infrastructure. The issue highlights the importance of security audits and robust institutional safeguards in technology-enabled public services.",
+        "mainsquestion": "Examine the cybersecurity challenges associated with the digitisation of public education services in India."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Special Intensive Revision — electoral roll management",
+        "summary": "The enumeration phase of the third Special Intensive Revision of electoral rolls began in Odisha, Mizoram, Sikkim and Manipur. The exercise raises questions concerning voter inclusion, migration, documentation and the Election Commission's constitutional responsibility for maintaining accurate electoral rolls.",
+        "mainsquestion": "Discuss the importance of accurate electoral rolls in ensuring free and fair elections. Examine the challenges associated with Special Intensive Revision."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Nepal Relations — territorial dispute",
+        "summary": "Statements by Nepal's Prime Minister regarding alleged encroachment of Nepali territory by India revived tensions surrounding the Kalapani-Lipulekh-Limpiyadhura region. Historical treaty interpretations and differing territorial claims continue to complicate bilateral relations.",
+        "mainsquestion": "Examine the major challenges in India-Nepal relations and suggest measures for resolving longstanding territorial disputes."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Railway Infrastructure — development of a new railway zone in Andhra Pradesh",
+        "summary": "The proposed operationalisation of a new railway zone in Andhra Pradesh highlights the role of railway infrastructure in regional development, connectivity, logistics efficiency and economic integration.",
+        "mainsquestion": "Discuss the role of railway infrastructure reforms in promoting balanced regional development and improving India's logistics competitiveness."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "Adivasi Identity and Faith — constitutional protection of tribal communities",
+        "summary": "Debates concerning Adivasi identity, religious practices and the majoritarian influence on tribal communities highlight questions of cultural autonomy and constitutional protection. Tribal identity is closely connected with customary practices, land rights and community institutions.",
+        "mainsquestion": "Examine the challenges faced by tribal communities in preserving their cultural identity within India's constitutional and democratic framework."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Canada Relations — diplomatic and economic cooperation",
+        "summary": "The need to shape a new chapter in India-Canada relations highlights the importance of rebuilding diplomatic trust and strengthening cooperation in trade, education, technology and strategic affairs. Bilateral engagement also has implications for the Indian diaspora.",
+        "mainsquestion": "Evaluate the opportunities and challenges in rebuilding India-Canada relations in the contemporary geopolitical environment."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Prison Reforms — overcrowding and undertrial prisoners",
+        "summary": "Continued overcrowding in Indian prisons, largely associated with undertrial detention, reflects structural weaknesses in the criminal justice system. Delayed trials, inadequate legal aid and excessive pre-trial detention raise concerns about Article 21 and the right to personal liberty.",
+        "mainsquestion": "Prison overcrowding reflects deeper structural problems in India's criminal justice system. Discuss the causes and suggest comprehensive prison reforms."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Supreme Court — judicial independence and institutional accountability",
+        "summary": "Debates concerning the Supreme Court's institutional functioning highlight the importance of judicial independence, transparency and accountability. The credibility of constitutional institutions depends on effective internal procedures and public confidence.",
+        "mainsquestion": "Examine the importance of institutional accountability in maintaining the independence and credibility of the Indian judiciary."
+      },
+      {
+        "id": 9,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "James Webb Space Telescope — exoplanet atmospheric research",
+        "summary": "The James Webb Space Telescope captured atmospheric weather patterns on an exoplanet approximately 700 light-years away. Such observations demonstrate advances in infrared astronomy and help scientists understand planetary atmospheres and conditions beyond the Solar System.",
+        "mainsquestion": "Discuss the contribution of advanced space telescopes to the study of exoplanets and the search for potentially habitable worlds."
+      },
+      {
+        "id": 10,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Padma Barrage — transboundary water management",
+        "summary": "The Padma Barrage issue highlights the complexities of river infrastructure, ecological consequences and water management in the India-Bangladesh region. Large river projects require scientific assessment of downstream impacts and effective cooperation between riparian countries.",
+        "mainsquestion": "Examine the challenges of transboundary water management between India and Bangladesh, with particular reference to ecological sustainability."
+      },
+      {
+        "id": 11,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran-United States Relations — West Asian geopolitical tensions",
+        "summary": "Iran's stated distrust of the United States amid tougher American demands highlights the continuing challenges of nuclear diplomacy and regional security. Escalating tensions can affect global oil markets, maritime trade routes and India's energy security.",
+        "mainsquestion": "Analyse the implications of Iran-United States tensions for West Asian stability and India's strategic and energy interests."
+      },
+      {
+        "id": 12,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Japan-China Relations — Indo-Pacific security",
+        "summary": "Japan's Defence Minister made critical observations concerning China's regional conduct at the Shangri-La Dialogue. The development reflects growing strategic competition in East Asia and concerns over maritime security and the regional balance of power.",
+        "mainsquestion": "Examine the implications of growing Japan-China strategic competition for the Indo-Pacific security architecture and India's interests."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Industrial Production — new IIP series and manufacturing growth",
+        "summary": "Industrial output growth slowed to 4.9% under the new data series. The revised industrial production measurement framework highlights the importance of reliable economic statistics for understanding manufacturing performance, sectoral growth and economic policymaking.",
+        "mainsquestion": "Examine the structural constraints affecting India's industrial growth and discuss the importance of reliable industrial production statistics."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Myanmar Relations — border security and strategic cooperation",
+        "summary": "India reiterated concerns about anti-India elements operating from Myanmar, highlighting the security challenges arising from political instability across the border. Cooperation is essential for preventing insurgency, cross-border crime and disruptions to connectivity projects in Northeast India.",
+        "mainsquestion": "Discuss the strategic significance of Myanmar for India's Northeast and examine the challenges in managing the India-Myanmar border."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Middle East-Europe Economic Corridor — commerce and geopolitics",
+        "summary": "The India-Middle East-Europe Economic Corridor faces challenges arising from geopolitical tensions and competing commercial interests. Its success depends on infrastructure financing, regional stability, logistical integration and cooperation among participating countries.",
+        "mainsquestion": "Evaluate the strategic and economic significance of the India-Middle East-Europe Economic Corridor for India's connectivity and foreign policy."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Illicit Liquor — weak enforcement and public health",
+        "summary": "Weak regulatory enforcement and inadequate oversight contribute to the persistence of illicit liquor markets, particularly among economically vulnerable populations. The problem involves public health, state excise administration, organised crime and socioeconomic inequality.",
+        "mainsquestion": "Examine the socioeconomic and governance factors responsible for the persistence of illicit liquor markets in India."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "NFHS-6 — public health and nutritional outcomes",
+        "summary": "The National Family Health Survey provides important evidence regarding improvements in health indicators while highlighting continuing gaps in nutrition, reproductive health and healthcare access. Its findings are useful for evaluating the effectiveness of India's public health interventions.",
+        "mainsquestion": "Assess the contribution of national health surveys to evidence-based policymaking and discuss India's remaining public health challenges."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "China's Space Power — orbital rivalry and strategic competition",
+        "summary": "China's expanding space capabilities highlight the growing strategic importance of satellites, space infrastructure and orbital technologies. Competition in space has implications for national security, communication systems, navigation and military capabilities.",
+        "mainsquestion": "Examine the implications of growing strategic competition in outer space for India's national security and space programme."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Remittances — India's external sector and rupee stability",
+        "summary": "Remittances play an important role in supporting India's external balances and providing foreign exchange inflows. They can help offset pressures arising from merchandise trade deficits and fluctuations in foreign portfolio investment and foreign direct investment.",
+        "mainsquestion": "Discuss the role of remittances in strengthening India's balance of payments and examine the factors influencing their long-term sustainability."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Urban Air Pollution — summer pollution and public health",
+        "summary": "Summer pollution in cities is influenced by atmospheric conditions, dust, construction activities, vehicular emissions and industrial pollution. High temperatures and stagnant atmospheric conditions can aggravate ground-level ozone formation and respiratory health risks.",
+        "mainsquestion": "Examine the major sources of urban air pollution during summer and suggest an integrated strategy for improving urban air quality."
+      },
+      {
+        "id": 9,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Australia Relations — maritime security and defence cooperation",
+        "summary": "India and Australia discussed maritime security and agreed to advance defence industrial relations. Cooperation between the two countries is important for maritime domain awareness, Indo-Pacific stability, defence technology and protection of sea lanes.",
+        "mainsquestion": "Evaluate the significance of India-Australia defence cooperation in strengthening maritime security in the Indo-Pacific."
+      },
+      {
+        "id": 10,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Right to be Forgotten — privacy and judicial records",
+        "summary": "The Delhi High Court recognised the right to be forgotten and laid down principles concerning the de-indexing of judicial records. The issue involves balancing informational privacy and dignity under Article 21 against freedom of expression and the public interest in access to judicial information.",
+        "mainsquestion": "Critically examine the right to be forgotten in India in the context of informational privacy, freedom of expression and transparency of judicial records."
+      },
+      {
+        "id": 11,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "BRICS — ethical use of artificial intelligence in culture",
+        "summary": "BRICS cultural discussions identified the ethical use of artificial intelligence as an important area of cooperation. AI applications in cultural industries raise questions concerning copyright, cultural representation, data ownership and equitable technological development.",
+        "mainsquestion": "Discuss the ethical and regulatory challenges associated with the use of artificial intelligence in cultural and creative industries."
+      },
+      {
+        "id": 12,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Synthetic Biology — technological opportunities and biosecurity",
+        "summary": "Advances in synthetic biology offer opportunities in healthcare, agriculture, industrial biotechnology and environmental management. However, the technology also raises concerns about biosafety, unintended biological consequences, biosecurity and the ethical regulation of genetic engineering.",
+        "mainsquestion": "Examine the potential applications of synthetic biology in India and discuss the biosafety and biosecurity challenges associated with its development."
+      },
+      {
+        "id": 13,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "FemTech — women's healthcare and digital health innovation",
+        "summary": "The development of FemTech highlights the growing role of technology in addressing women's healthcare needs, including reproductive health and menstrual disorders. However, gaps in clinical research, data privacy and affordability can limit its benefits.",
+        "mainsquestion": "Discuss the potential of digital health technologies in improving women's healthcare in India, with particular reference to accessibility, affordability and privacy."
+      },
+      {
+        "id": 14,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "History of Red Pigment — trade networks and cultural exchange",
+        "summary": "The historical movement of red pigments through empires, trade networks and industrial production illustrates the relationship between material culture, technological development and long-distance commerce. Such exchanges contributed to cultural interaction and economic integration across historical societies.",
+        "mainsquestion": "Explain how the movement of commodities and technological knowledge through historical trade networks contributed to cultural exchange and economic transformation."
+      },
+      {
+        "id": 15,
+        "gs_paper": "GS Paper 3",
+        "priority": "Low",
+        "topic": "Prehistoric Marine Reptiles — palaeontology and evolution",
+        "summary": "Research into a large marine reptile from the dinosaur era provides insights into prehistoric marine ecosystems, evolutionary adaptations and the diversity of ancient life. Palaeontological discoveries contribute to understanding the geological and biological history of Earth.",
+        "mainsquestion": "Explain the significance of palaeontological research in understanding evolutionary processes and Earth's prehistoric biodiversity."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-03",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "CBSE On-Screen Marking — governance and accountability",
+        "summary": "The transfer of CBSE officials and the constitution of a panel to investigate the On-Screen Marking tender raised concerns about transparency in public procurement and accountability in educational institutions. The issue highlights the need for robust digital examination systems and institutional oversight.",
+        "mainsquestion": "Examine the importance of transparency and accountability in the digital transformation of India's education system."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "Southwest Monsoon — onset over Kerala",
+        "summary": "The India Meteorological Department revised its forecast for the onset of the southwest monsoon over Kerala to around June 4. Monsoon timing is crucial for agricultural operations, reservoir management, rural incomes and India's food security.",
+        "mainsquestion": "Discuss the significance of the southwest monsoon for India's agricultural economy and examine the consequences of changing monsoon patterns."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Forest Rights Act and PESA — tribal self-governance",
+        "summary": "Tribal rights activists raised concerns that the proposed FRA-PESA task force could undermine the statutory roles of existing institutions. The Forest Rights Act, 2006 and PESA Act, 1996 recognise community rights, customary governance and Gram Sabha authority in Scheduled Areas.",
+        "mainsquestion": "Critically examine the implementation of the Forest Rights Act and PESA in protecting tribal autonomy and strengthening grassroots democracy."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's Semiconductor Industry — strategic autonomy",
+        "summary": "A NITI Aayog assessment highlighted gaps in India's semiconductor ecosystem and its limited capacity to meet domestic demand. Strengthening local manufacturing, research, skilled manpower and supply-chain resilience is essential to reduce dependence on imported chips.",
+        "mainsquestion": "Examine the challenges facing India's semiconductor industry and discuss its importance for strategic autonomy and economic security."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Electric Vehicle Supply Chains — critical minerals and energy transition",
+        "summary": "The need to strengthen India's electric vehicle supply chains highlights dependence on imported batteries, critical minerals and advanced components. Domestic manufacturing, recycling and diversified mineral sourcing are important for a sustainable energy transition.",
+        "mainsquestion": "Discuss the challenges in developing a resilient domestic electric vehicle supply chain in India."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Nepal Relations — bilateral territorial disputes",
+        "summary": "The Centre reiterated that third-party involvement has no role in resolving bilateral matters between India and Nepal. The disagreement over territorial claims highlights the importance of diplomatic dialogue, historical evidence and bilateral mechanisms for dispute resolution.",
+        "mainsquestion": "Examine the challenges in India-Nepal relations and suggest measures to resolve bilateral territorial disputes."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Venezuela Relations — energy cooperation",
+        "summary": "The proposed visit of Venezuela's Acting President to India was expected to prioritise energy cooperation. Venezuela's substantial petroleum resources offer opportunities for diversification of India's crude oil imports, although sanctions and geopolitical uncertainties remain significant constraints.",
+        "mainsquestion": "Evaluate the significance of India's engagement with Latin America, particularly Venezuela, for energy security and South-South cooperation."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Supreme Court — judicial appointments and sanctioned strength",
+        "summary": "Five new judges joined the Supreme Court following an increase in its sanctioned strength, taking the working strength to 37. Adequate judicial strength is important for reducing pendency, improving access to justice and strengthening constitutional adjudication.",
+        "mainsquestion": "Examine the relationship between judicial vacancies, case pendency and access to justice in India."
+      },
+      {
+        "id": 9,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Indigenous RudraM-II Missile — defence indigenisation",
+        "summary": "The DRDO and Indian Air Force successfully conducted flight trials of the indigenous RudraM-II air-to-surface missile. The development strengthens India's indigenous defence manufacturing capabilities and contributes to reducing dependence on foreign weapons systems.",
+        "mainsquestion": "Discuss the role of indigenous missile development in strengthening India's defence preparedness and strategic autonomy."
+      },
+      {
+        "id": 10,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Foreigners Registration Rules — immigration governance",
+        "summary": "The Union Home Ministry amended foreigner registration regulations, including provisions relating to visitors staying in India for 180 days or less. The changes highlight the importance of balancing immigration administration, national security and ease of travel.",
+        "mainsquestion": "Examine the challenges involved in balancing national security and administrative efficiency in India's immigration policy."
+      },
+      {
+        "id": 11,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Climate Science — indigenous scientific instrumentation",
+        "summary": "A climate science report highlighted India's growing dependence on imported scientific equipment and problems arising from inadequate calibration. Reliable climate observations require indigenous instrument development, standardisation and long-term scientific research.",
+        "mainsquestion": "Why is indigenous scientific instrumentation essential for India's climate research capabilities? Discuss the institutional and technological challenges."
+      },
+      {
+        "id": 12,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Air Pollution and Maternal Health — placental barriers",
+        "summary": "An AIIMS Delhi study examined how air pollutants can cross placental barriers and affect foetal development. The findings highlight the need to address environmental pollution as a public health issue, particularly for pregnant women and children.",
+        "mainsquestion": "Discuss the impact of environmental pollution on maternal and child health and suggest policy interventions to reduce exposure."
+      },
+      {
+        "id": 13,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Wholesale Price Index — transition to Producer Price Index",
+        "summary": "The government announced plans to replace the Wholesale Price Index with a Producer Price Index, with a new series scheduled from June 15. The transition aims to improve the measurement of price changes at the producer level and strengthen economic analysis.",
+        "mainsquestion": "Explain the differences between the Wholesale Price Index and Producer Price Index. Discuss the significance of improving India's inflation measurement framework."
+      },
+      {
+        "id": 14,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Dairy Sector — climate change and heat stress",
+        "summary": "Extreme heat is creating challenges for India's record milk production by affecting cattle productivity, feed availability and animal health. Climate-resilient dairy farming requires improved housing, water access, veterinary services and heat-stress management.",
+        "mainsquestion": "Examine the impact of climate change on India's dairy sector and suggest measures to improve livestock resilience."
+      },
+      {
+        "id": 15,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Aircraft Noise Pollution — aviation regulation",
+        "summary": "Regulatory gaps surrounding aircraft noise expose Indian populations living near airports to chronic noise pollution. The issue highlights the need for effective aviation noise standards, urban planning and enforcement of environmental safeguards.",
+        "mainsquestion": "Discuss the environmental and public health consequences of aviation-related noise pollution and suggest appropriate regulatory measures."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-04",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "U.S. Tariffs on India — forced labour regulations and international trade",
+        "summary": "The United States proposed a 12.5% tariff on imports from India and 53 other countries, alleging inadequate enforcement of forced-labour regulations. The proposal raises questions about trade protectionism, labour standards and the use of regulatory measures as instruments of international economic pressure.",
+        "mainsquestion": "Examine the implications of labour-related trade restrictions for India's exports and its engagement with the global trading system."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's Startup Ecosystem — Startup India initiative",
+        "summary": "India's startup industry expanded significantly between 2016 and 2025 through supportive policies, improved access to capital and a growing entrepreneurial ecosystem. However, challenges involving funding concentration, research commercialisation and sustainable profitability remain.",
+        "mainsquestion": "Evaluate the achievements of the Startup India initiative and examine the challenges in developing an innovation-driven entrepreneurial ecosystem."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Climate Research — indigenous scientific instrumentation",
+        "summary": "Concerns about local instrumentation highlighted India's dependence on imported scientific equipment and the difficulty of translating research prototypes into commercially viable products. Indigenous instrumentation is important for accurate climate observations and technological self-reliance.",
+        "mainsquestion": "Examine the challenges facing indigenous scientific instrumentation in India and suggest measures to strengthen research and development."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Delhi-NCR Air Pollution — pollution reduction scheme",
+        "summary": "The Union Cabinet approved a ₹9,585-crore scheme aimed at reducing air pollution in Delhi-NCR through accelerated transition towards cleaner technologies and pollution-control interventions. Effective implementation requires coordination among urban local bodies, States and pollution-control agencies.",
+        "mainsquestion": "Critically examine the institutional and technological challenges in addressing air pollution in the National Capital Region."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Small Modular Reactors — nuclear energy and clean power",
+        "summary": "Fairwood Nuclear and South Korea's SK Securities signed a strategic collaboration agreement to support the development and financing of a small reactor project. Small modular reactors offer potential advantages in modular construction and flexible deployment, although safety, financing and regulatory challenges remain.",
+        "mainsquestion": "Discuss the potential of small modular reactors in India's clean energy transition and examine the associated safety and regulatory challenges."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Air Turbine Fuel Price Stabilisation Fund — aviation economics",
+        "summary": "The Union Cabinet approved a ₹10,000-crore ATF price stabilisation fund. The initiative highlights the importance of managing fuel-price volatility for aviation, an industry highly sensitive to energy costs and international commodity markets.",
+        "mainsquestion": "Examine the impact of aviation fuel-price volatility on India's civil aviation sector and discuss possible policy interventions."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "E85 Fuel — ethanol blending and energy transition",
+        "summary": "The Centre considered a policy to encourage the uptake of E85 fuel, containing a high proportion of ethanol. Ethanol blending can reduce petroleum import dependence and support agricultural diversification, but requires compatible vehicles, infrastructure and sustainable feedstock production.",
+        "mainsquestion": "Evaluate the potential of high-ethanol-blend fuels in India's energy transition, highlighting their economic and environmental limitations."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Wheat Procurement — agricultural markets and food security",
+        "summary": "Wheat procurement increased by 17% to 35 million tonnes, exceeding the 2026-27 season target. Procurement through public agencies supports food security and price stabilisation, while also raising questions concerning storage, distribution and agricultural diversification.",
+        "mainsquestion": "Discuss the role of government procurement in ensuring food security and examine the need to reform India's agricultural marketing and procurement systems."
+      },
+      {
+        "id": 9,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Census — data discrepancies and governance",
+        "summary": "A re-check was ordered following discrepancies between Census exercise data and existing government records, particularly regarding sanitation and household access to basic services. Reliable population data are essential for welfare targeting, resource allocation and evidence-based policymaking.",
+        "mainsquestion": "Examine the significance of reliable Census data for development planning and identify the challenges in conducting an accurate population enumeration exercise."
+      },
+      {
+        "id": 10,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Adivasi Trust — post-Maoist development and governance",
+        "summary": "The debate over rebuilding Adivasi trust after Maoist influence highlights the importance of inclusive development, land rights, public service delivery and respect for tribal institutions. Security measures alone cannot ensure sustainable peace in tribal regions.",
+        "mainsquestion": "Discuss why restoring trust among tribal communities is essential for addressing Left-Wing Extremism and achieving inclusive development."
+      },
+      {
+        "id": 11,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "S-400 Air Defence System — defence modernisation",
+        "summary": "Russia delivered the fourth squadron of the S-400 air defence system to India, strengthening the country's multi-layered air defence capabilities. The system contributes to detecting and intercepting aerial threats and reflects India's continuing defence cooperation with Russia.",
+        "mainsquestion": "Examine the importance of advanced integrated air defence systems in India's national security architecture."
+      },
+      {
+        "id": 12,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Quark-Gluon Plasma — fundamental physics",
+        "summary": "New experimental findings concerning the smallest possible liquid provide insights into the behaviour of quark-gluon plasma, a state of matter believed to have existed shortly after the Big Bang. Such research advances understanding of fundamental particles and the early universe.",
+        "mainsquestion": "Explain the significance of quark-gluon plasma research in understanding the early universe and fundamental properties of matter."
+      },
+      {
+        "id": 13,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Judicial Holidays — access to justice and court administration",
+        "summary": "The debate over judicial holidays highlighted the need to balance judges' workload, judicial efficiency and timely delivery of justice. Court vacations are connected with institutional working conditions, case management and the growing problem of pendency.",
+        "mainsquestion": "Discuss the factors contributing to judicial pendency in India and evaluate reforms required to improve the efficiency of the justice delivery system."
+      },
+      {
+        "id": 14,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Wheat Procurement and Food Security — agricultural policy",
+        "summary": "The increase in wheat procurement beyond the seasonal target highlights the role of minimum support prices and public procurement in protecting farmers from price volatility. Long-term sustainability requires improvements in storage, procurement efficiency and crop diversification.",
+        "mainsquestion": "Critically analyse the role of minimum support prices and government procurement in India's food security framework."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "World Environment Day 2026 — environmental sustainability",
+        "summary": "World Environment Day highlighted the importance of environmental protection, sustainable consumption and collective action against ecological degradation. Environmental governance requires coordination between governments, industries, communities and international institutions.",
+        "mainsquestion": "Examine the role of individual responsibility, government policy and international cooperation in achieving environmental sustainability."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Plastic Pollution — circular economy and waste management",
+        "summary": "Plastic pollution remains a major environmental challenge because of inadequate waste segregation, recycling limitations and the accumulation of plastic in terrestrial and marine ecosystems. Circular economy principles and extended producer responsibility are important tools for reducing plastic waste.",
+        "mainsquestion": "Critically examine India's plastic waste management framework and suggest measures to strengthen a circular economy."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Climate Change — extreme weather and adaptation",
+        "summary": "Increasing temperatures and changing precipitation patterns highlight the growing vulnerability of ecosystems, agriculture and human settlements to climate change. Adaptation measures must include resilient infrastructure, early warning systems and climate-sensitive planning.",
+        "mainsquestion": "Discuss the importance of climate adaptation in reducing India's vulnerability to extreme weather events."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Renewable Energy — India's energy transition",
+        "summary": "India's transition towards renewable energy requires expansion of solar and wind power, improved electricity storage and modernisation of transmission infrastructure. Grid integration and financial viability remain important challenges.",
+        "mainsquestion": "Examine the opportunities and challenges in accelerating India's renewable energy transition."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Tribal Rights — Forest Rights Act implementation",
+        "summary": "The implementation of the Forest Rights Act remains important for recognising individual and community forest rights. Administrative delays, inadequate awareness and conflicts over forest conservation can undermine the intended protection of forest-dwelling communities.",
+        "mainsquestion": "Critically analyse the implementation of the Forest Rights Act, 2006, with particular reference to community forest resource rights."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "India's Federal Structure — Centre-State coordination",
+        "summary": "The functioning of cooperative federalism depends on effective coordination between the Union and States in implementing development programmes. Fiscal devolution, administrative capacity and consultation are important determinants of successful federal governance.",
+        "mainsquestion": "Discuss the importance of cooperative federalism in achieving balanced regional development in India."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Agricultural Diversification — climate-resilient farming",
+        "summary": "Agricultural diversification towards pulses, oilseeds and climate-resilient crops can reduce dependence on water-intensive cultivation and improve farm incomes. Market access, procurement support and agricultural extension are essential for successful diversification.",
+        "mainsquestion": "Examine the need for agricultural diversification in India and identify the institutional and market-related constraints."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Environmental Governance — citizen participation",
+        "summary": "Community participation in environmental protection strengthens local accountability and encourages sustainable resource use. Environmental awareness needs to be supported by accessible information, decentralised institutions and effective enforcement.",
+        "mainsquestion": "Examine the role of community participation in strengthening environmental governance in India."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "World Environment Day — environmental protection",
+        "summary": "Environmental concerns highlighted around World Environment Day include ecosystem degradation, climate change and unsustainable resource consumption. India needs to integrate ecological considerations into infrastructure development and economic planning.",
+        "mainsquestion": "Discuss the challenges of balancing economic development with environmental protection in India."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Air Pollution — public health and environmental regulation",
+        "summary": "Air pollution continues to pose significant health risks in Indian urban centres. Transport emissions, industrial activity, construction dust and biomass burning require coordinated interventions involving pollution-control authorities and local governments.",
+        "mainsquestion": "Examine the causes of urban air pollution in India and suggest an integrated strategy to improve air quality."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Nepal Relations — border management",
+        "summary": "Border-related disagreements between India and Nepal highlight the importance of diplomatic engagement, historical understanding and effective bilateral mechanisms. People-to-people connections and economic interdependence remain important strengths of the relationship.",
+        "mainsquestion": "Discuss the importance of diplomatic dialogue in resolving India-Nepal border disputes."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Semiconductor Manufacturing — technological self-reliance",
+        "summary": "India's semiconductor ambitions require investment in fabrication facilities, advanced packaging, research and specialised human resources. International supply-chain disruptions have highlighted the strategic importance of domestic chip manufacturing capabilities.",
+        "mainsquestion": "Evaluate India's semiconductor manufacturing strategy in the context of technological self-reliance and global supply-chain resilience."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Monsoon Variability — agricultural and water security",
+        "summary": "Variations in monsoon rainfall affect agricultural productivity, groundwater recharge and reservoir storage. Better forecasting, crop diversification and water conservation are essential for reducing the vulnerability of rural livelihoods.",
+        "mainsquestion": "Analyse the implications of monsoon variability for India's food and water security."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Digital Personal Data Protection — privacy and governance",
+        "summary": "The expansion of digital public infrastructure raises questions about consent, data security and accountability in the handling of personal information. Effective data governance requires transparent procedures, institutional safeguards and accessible grievance redressal.",
+        "mainsquestion": "Critically examine the challenges of balancing digital innovation with the fundamental right to privacy in India."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Blue Economy — sustainable marine resources",
+        "summary": "Sustainable utilisation of marine resources can support employment, fisheries, coastal infrastructure and maritime trade. However, ocean pollution, habitat destruction and climate-related changes threaten the long-term viability of coastal economies.",
+        "mainsquestion": "Discuss the opportunities and ecological challenges associated with India's Blue Economy strategy."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "India's Neighbourhood First Policy — regional connectivity",
+        "summary": "Regional connectivity projects are important instruments of India's neighbourhood policy. Transport infrastructure, energy cooperation and cross-border trade can strengthen economic integration and political stability in South Asia.",
+        "mainsquestion": "Examine the role of connectivity and economic cooperation in advancing India's Neighbourhood First Policy."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-07",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India's Neighbourhood First Policy — South Asian cooperation",
+        "summary": "India's engagement with neighbouring countries remains important for regional connectivity, security and economic integration. Political instability, border disputes and competing geopolitical interests continue to complicate regional cooperation.",
+        "mainsquestion": "Critically examine the achievements and limitations of India's Neighbourhood First Policy."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Southwest Monsoon — agricultural preparedness",
+        "summary": "Monsoon variability remains a major determinant of agricultural production, groundwater recharge and rural livelihoods. Improved forecasting, irrigation infrastructure and crop diversification are necessary to reduce dependence on rainfall.",
+        "mainsquestion": "Discuss the importance of monsoon preparedness in ensuring agricultural stability and food security in India."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Renewable Energy — energy storage and grid integration",
+        "summary": "The increasing contribution of solar and wind power requires investment in energy storage, modern transmission networks and flexible electricity markets. Battery storage and pumped hydro can help address the intermittency of renewable energy.",
+        "mainsquestion": "Examine the challenges associated with integrating renewable energy into India's electricity grid."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Digital Governance — public service delivery",
+        "summary": "Digital platforms can improve transparency and access to public services, but digital exclusion, cybersecurity risks and inadequate digital literacy remain significant concerns. Inclusive digital governance requires accessible infrastructure and effective grievance redressal.",
+        "mainsquestion": "Discuss the opportunities and challenges associated with digital governance in India."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Marine Biodiversity — conservation of coastal ecosystems",
+        "summary": "Coastal ecosystems such as mangroves, coral reefs and seagrass beds provide important ecological services and protect communities against extreme weather. Habitat destruction, pollution and ocean warming threaten their long-term sustainability.",
+        "mainsquestion": "Examine the ecological and economic significance of coastal ecosystems and suggest measures for their conservation."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Public Health — strengthening primary healthcare",
+        "summary": "Strengthening primary healthcare is essential for improving preventive services, early diagnosis and equitable access to treatment. Investment in healthcare personnel, local infrastructure and public health surveillance can reduce pressure on tertiary hospitals.",
+        "mainsquestion": "Why is strengthening primary healthcare essential for achieving universal health coverage in India?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Agricultural Technology — precision farming",
+        "summary": "Precision agriculture uses satellite imagery, sensors, digital platforms and data analytics to improve the efficiency of agricultural inputs. Its wider adoption requires affordable technology, reliable connectivity and farmer training.",
+        "mainsquestion": "Discuss the potential of precision agriculture in improving farm productivity and resource-use efficiency in India."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Indian Cultural Heritage — preservation of archaeological sites",
+        "summary": "The preservation of archaeological and historical sites is important for protecting India's cultural heritage and promoting sustainable tourism. Conservation requires scientific restoration, local participation and effective regulation against encroachment.",
+        "mainsquestion": "Examine the challenges involved in protecting India's archaeological heritage in the context of urbanisation and tourism."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-08",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India's Foreign Policy — strategic autonomy",
+        "summary": "India's foreign policy requires balancing partnerships with major powers while preserving independent decision-making. Strategic autonomy enables India to pursue its national interests across different geopolitical groupings.",
+        "mainsquestion": "Examine the relevance of strategic autonomy in India's foreign policy amid growing geopolitical polarisation."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Food Security — climate-resilient agriculture",
+        "summary": "Changing rainfall patterns, extreme temperatures and water stress are creating new challenges for India's agricultural production. Climate-resilient crops, efficient irrigation and improved agricultural research are essential for long-term food security.",
+        "mainsquestion": "Discuss the measures required to make Indian agriculture climate-resilient and ensure sustainable food security."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Critical Minerals — strategic supply-chain security",
+        "summary": "Critical minerals such as lithium, cobalt and rare earth elements are essential for electric vehicles, renewable energy systems and advanced electronics. Dependence on concentrated global supply chains creates economic and strategic vulnerabilities for India.",
+        "mainsquestion": "Analyse the importance of critical minerals for India's energy transition and strategic autonomy."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Judicial Pendency — access to justice",
+        "summary": "The large number of pending cases in Indian courts continues to affect the timely delivery of justice. Judicial vacancies, procedural delays, inadequate infrastructure and frequent adjournments contribute to the problem.",
+        "mainsquestion": "Examine the causes of judicial pendency in India and suggest institutional and procedural reforms to improve access to justice."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Cybersecurity — protection of critical information infrastructure",
+        "summary": "Increasing digital connectivity exposes critical infrastructure to cyberattacks and data breaches. Protection of power networks, banking systems, telecommunications and government platforms requires stronger cyber resilience and inter-agency coordination.",
+        "mainsquestion": "Discuss the major cybersecurity threats facing India's critical information infrastructure and suggest a comprehensive national response."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Women in the Workforce — economic participation",
+        "summary": "Increasing women's participation in the labour force is important for inclusive economic growth and poverty reduction. Social norms, unpaid care work, occupational segregation and safety concerns continue to constrain women's economic opportunities.",
+        "mainsquestion": "Examine the structural barriers to women's workforce participation in India and suggest policy measures to overcome them."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Disaster Management — early warning systems",
+        "summary": "Early warning systems can significantly reduce mortality and economic losses associated with floods, cyclones and other extreme weather events. Their effectiveness depends on accurate forecasting, last-mile communication and community preparedness.",
+        "mainsquestion": "Evaluate the role of early warning systems in reducing disaster vulnerability in India."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Urbanisation — sustainable city planning",
+        "summary": "Rapid urbanisation is placing pressure on housing, transport, water supply and sanitation infrastructure. Sustainable urban planning requires integrated land-use policies, public transport and resilient municipal institutions.",
+        "mainsquestion": "Discuss the major challenges arising from rapid urbanisation in India and suggest measures for sustainable urban development."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-09",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Electoral governance — Special Intensive Revision (SIR)",
+        "summary": "The editorial 'A troubling judgment and endorsement of the SIR' raises concerns about the legal and democratic implications of the voter-roll revision exercise. The issue involves the Election Commission's powers, procedural fairness, transparency, the burden of proof on voters and the protection of universal adult suffrage.",
+        "mainsquestion": "Examine the constitutional and democratic concerns surrounding the Special Intensive Revision of electoral rolls. How can electoral integrity be balanced with the right to vote?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Oman Comprehensive Economic Partnership Agreement",
+        "summary": "The editorial 'The Oman CEPA, a new gateway for India's exports' highlights the potential of a trade agreement with Oman to improve market access and strengthen India's economic engagement with the Gulf. It is relevant to export diversification, services trade, investment and India's wider West Asia economic diplomacy.",
+        "mainsquestion": "Discuss the significance of India's trade agreements with Gulf countries in advancing its economic and strategic interests."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Bangladesh relations — trust deficit",
+        "summary": "The opinion article 'The trust deficit in India-Bangladesh ties' focuses on the political and diplomatic challenges affecting bilateral relations. Cooperation on border management, connectivity, water sharing, trade and security requires sustained engagement and confidence-building between the two neighbours.",
+        "mainsquestion": "Identify the major sources of mistrust in India-Bangladesh relations and suggest measures to rebuild bilateral confidence."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "NFHS-6 — health and demographic indicators",
+        "summary": "The article 'What is lost and gained in NFHS-6' examines the significance of the latest National Family Health Survey round and the implications of changes in its data and indicators. NFHS evidence is important for tracking nutrition, fertility, maternal and child health, and disparities across regions and social groups.",
+        "mainsquestion": "Evaluate the role of the National Family Health Survey in shaping evidence-based public health policy in India. What are the limitations of survey-based indicators?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Census 2027 — development, democracy and representation",
+        "summary": "The article 'Why Census 2027 matters for development, democracy and representation' highlights the importance of reliable population data for welfare planning, resource allocation and public administration. Census figures also have implications for political representation and future delimitation debates.",
+        "mainsquestion": "Discuss the importance of the Census for evidence-based governance and democratic representation in India."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "SIPRI Yearbook 2026 — India's nuclear arsenal",
+        "summary": "The report on India's expanded nuclear arsenal in 2025 brings attention to nuclear modernisation, strategic deterrence and the evolving regional security environment. India's nuclear policy must be understood in the context of credible minimum deterrence, its declared doctrine and developments in the capabilities of other nuclear-armed states.",
+        "mainsquestion": "Analyse the implications of nuclear modernisation in South Asia for India's national security and strategic stability."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Great Nicobar Island project — development and environmental security",
+        "summary": "The Great Nicobar project involves strategic infrastructure and connectivity development in a sensitive island ecosystem. Its evaluation requires balancing maritime security and economic objectives against biodiversity protection, forest diversion, coastal vulnerability and the rights of indigenous communities.",
+        "mainsquestion": "Critically examine the strategic and economic rationale of the Great Nicobar development project in light of its environmental and social costs."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Delimitation and political representation",
+        "summary": "The report 'Trinamool divide revives govt.'s delimitation hopes' connects political developments with the debate over delimitation. Delimitation raises questions about population-based representation, federal balance, regional disparities and the constitutional framework governing the allocation of legislative seats.",
+        "mainsquestion": "Discuss the constitutional principles and federal challenges involved in delimitation of constituencies in India."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Artificial Intelligence — misinformation and the 'Mythocalypse'",
+        "summary": "The editorial 'Securing India against the threat of a “Mythocalypse”' examines the risks created by AI-enabled misinformation and the rapid spread of fabricated or manipulated content. The challenge calls for stronger digital literacy, platform accountability, provenance mechanisms and safeguards that protect freedom of expression.",
+        "mainsquestion": "How can India address AI-enabled misinformation without undermining freedom of speech and democratic debate?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Myanmar relations — engagement and strategic interests",
+        "summary": "The editorial 'India's road through Myanmar is one of engagement' argues for sustained engagement with Myanmar in view of India's regional connectivity, border security and strategic interests. India's approach must also account for the political crisis, humanitarian concerns, insurgency risks and China's influence in the region.",
+        "mainsquestion": "Critically examine India's policy of engagement with Myanmar in the context of its neighbourhood and Act East priorities."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "China and the international order",
+        "summary": "The opinion article 'China's role in the international order' concerns China's growing influence in global institutions, trade, technology and security. Its rise raises questions about the existing rules-based order, strategic competition and the ability of middle powers to shape multilateral arrangements.",
+        "mainsquestion": "Assess China's growing influence on the international order and its implications for India's foreign policy."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Nepal relations — a new phase",
+        "summary": "The article 'A new phase in India-Nepal relations' highlights the importance of diplomatic engagement in managing bilateral differences. Connectivity, energy cooperation, trade, cross-border movement and unresolved boundary questions remain central to the relationship.",
+        "mainsquestion": "Examine the opportunities and persistent challenges in India-Nepal relations. Suggest a framework for a stable and mutually beneficial partnership."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Higher education — faculty vacancies in technical institutions",
+        "summary": "The report that one in every three faculty posts is vacant in top technical institutes highlights a structural challenge in India's higher education system. Faculty shortages can affect teaching quality, research output, institutional expansion and India's ability to develop advanced technological capabilities.",
+        "mainsquestion": "Examine the causes and consequences of faculty shortages in India's higher education institutions. Suggest measures to strengthen academic capacity."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "VB-G RAM G — rural employment and public expenditure",
+        "summary": "The Union government's allocation of ₹95,962 crore for VB-G RAM G brings attention to rural employment policy, livelihood security and public expenditure. Implementation effectiveness will depend on timely fund release, transparent beneficiary records, social audits and coordination between the Centre and States.",
+        "mainsquestion": "Discuss the role of rural employment programmes in strengthening livelihood security and rural development. What institutional safeguards are necessary for effective implementation?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Legislative functioning — disruptions in Parliament and State Assemblies",
+        "summary": "The Lok Sabha Speaker's concern over disruptions in legislatures highlights the impact of repeated interruptions on debate, scrutiny and accountability. Strengthening committee work, enforcing rules impartially and encouraging dialogue between government and opposition are important for improving legislative functioning.",
+        "mainsquestion": "Frequent disruptions weaken the deliberative and accountability functions of legislatures. Discuss reforms needed to improve the functioning of Parliament and State legislatures."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Zojila Tunnel — strategic border infrastructure",
+        "summary": "The breakthrough in the Zojila Tunnel project is significant for all-weather connectivity between Kashmir and Ladakh. The tunnel can reduce weather-related isolation, improve civilian access and strengthen the movement of essential supplies and defence logistics in a strategically sensitive Himalayan region.",
+        "mainsquestion": "Examine the role of strategic road and tunnel infrastructure in promoting regional development and strengthening India's border security."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–U.S. relations — safety of Indian seafarers and maritime security",
+        "summary": "The report of Indian seafarers killed and one missing after an attack on an oil tanker off Oman highlights the vulnerability of maritime workers amid West Asian tensions. The incident raises concerns about freedom of navigation, protection of Indian nationals, shipping safety and energy supply routes, particularly around the Strait of Hormuz.",
+        "mainsquestion": "Examine the implications of escalating West Asian tensions for India's maritime security, energy security and protection of overseas workers."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Federalism in higher education",
+        "summary": "The editorial 'Protecting Federalism Must Be the INDIA Bloc’s ‘Glue’' and the discussion on negotiating federalism in higher education highlight tensions between national standards and State autonomy. Education is on the Concurrent List, requiring coordination between the Union and States in regulation, funding, institutional governance and curriculum.",
+        "mainsquestion": "Discuss the challenges of maintaining cooperative federalism in higher education in India. Suggest measures to balance national standards with State autonomy."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Electoral rolls — Special Intensive Revision and citizenship verification",
+        "summary": "The debate over the Supreme Court's position on electoral-roll revision and citizenship verification raises questions about the Election Commission's powers, due process and voting rights. Transparent procedures, accessible documentation requirements and effective appeals are necessary to prevent wrongful exclusion from electoral rolls.",
+        "mainsquestion": "How can the Election Commission ensure accurate electoral rolls without compromising the constitutional right to vote and principles of procedural fairness?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Foreign Direct Investment — declining net FDI",
+        "summary": "The article 'The reality behind falling net FDI' examines the difference between gross and net foreign direct investment. Strong gross inflows can coexist with low net inflows when repatriation and outward investment are high. The trend highlights the need to improve domestic investment conditions, policy certainty and long-term investor confidence.",
+        "mainsquestion": "Distinguish between gross and net FDI. What does declining net FDI indicate about India's investment climate and external sector?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Delimitation — equitable political representation",
+        "summary": "The proposal for targeted splitting of seats in the next delimitation exercise brings attention to the challenge of balancing population-based representation with regional equity. Delimitation must account for constitutional provisions, demographic change and concerns that States which have controlled population growth could lose relative political influence.",
+        "mainsquestion": "Examine the constitutional and federal challenges associated with the next delimitation exercise in India."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Floating solar energy — renewable energy potential of reservoirs",
+        "summary": "A report estimating that Indian reservoirs could host 102 GW of floating solar capacity points to the potential of using existing water bodies for renewable energy generation. Floating solar can reduce land-use pressure and may limit water evaporation, but requires attention to ecological impacts, grid connectivity and project costs.",
+        "mainsquestion": "Assess the potential of floating solar power in India's renewable energy transition. What environmental and technical safeguards are required?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Land ports — border connectivity and trade facilitation",
+        "summary": "The proposal for 74 new land ports along India's international borders highlights the importance of integrated border infrastructure. Land ports can improve cross-border trade, passenger movement and customs efficiency, while supporting regional development and formalising trade flows.",
+        "mainsquestion": "Discuss the role of integrated land ports in strengthening India's border management, regional connectivity and trade with neighbouring countries."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Cotton and textile sector — quality regulation and PLI",
+        "summary": "The withdrawal of the Quality Control Order on cotton bales and approval of additional applicants under the textile PLI scheme highlight policy efforts to support the textile value chain. Regulatory changes affect raw-material availability, quality standards, competitiveness and employment in a major labour-intensive sector.",
+        "mainsquestion": "Examine the challenges facing India's textile industry and evaluate the role of quality regulation and production-linked incentives in improving its global competitiveness."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "FCRA Amendment Bill 2026 — regulation of civil society",
+        "summary": "The editorial 'FCRA Bill — expanding state control over civil society' examines concerns about the proposed regulation of foreign contributions to NGOs and other organisations. While preventing misuse of foreign funds is a legitimate objective, excessive executive control may affect freedom of association, institutional autonomy and the role of civil society in democratic accountability.",
+        "mainsquestion": "Critically examine the balance between national security and the autonomy of civil society organisations under India's foreign contribution regulatory framework."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Unpaid domestic work — recognition of homemakers",
+        "summary": "The Supreme Court's observation that homemakers are nation builders and its valuation of domestic work at a minimum of ₹30,000 per month for motor accident compensation recognises the economic contribution of unpaid care work. The issue highlights gendered divisions of labour and the need to incorporate unpaid work into policy and economic assessments.",
+        "mainsquestion": "Discuss the economic and social significance of unpaid care work in India. How can public policy improve its recognition and reduce the unequal burden on women?"
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Labour codes — implementation and workers' protection",
+        "summary": "The editorial 'Implementation complete, but workers still vulnerable' highlights the gap between formal labour-law reform and actual worker protection. Effective implementation requires adequate inspection, social security coverage, awareness, accessible grievance redressal and safeguards for informal and platform workers.",
+        "mainsquestion": "India's labour reforms will succeed only when statutory protections translate into better working conditions. Discuss the implementation challenges of the labour codes."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–France defence cooperation — Make in India",
+        "summary": "France's support for Make in India in defence and the proposed new model for the Rafale deal highlight the growing importance of strategic defence partnerships. Cooperation in manufacturing, technology transfer and maintenance can strengthen India's defence industrial base while reducing import dependence.",
+        "mainsquestion": "Evaluate the role of India–France defence cooperation in strengthening India's strategic autonomy and domestic defence manufacturing."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Rare earths — reducing dependence on China",
+        "summary": "India's effort to reduce dependence on China for rare earth elements is important for electronics, electric vehicles, renewable energy and defence technologies. Building resilient supply chains requires domestic exploration, processing capacity, recycling, research and diversified international partnerships.",
+        "mainsquestion": "Why are rare earth elements strategically important for India? Examine the challenges in building a secure and sustainable domestic supply chain."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "Population policy — should India incentivise larger families?",
+        "summary": "The opinion article 'Should India incentivise bigger families?' raises questions about changing fertility patterns, demographic ageing and regional variations in population growth. Population policy must be grounded in demographic evidence and reproductive autonomy rather than uniform incentives that ignore differences among States and communities.",
+        "mainsquestion": "Discuss the implications of India's changing fertility patterns for its demographic dividend, ageing population and future social-sector policies."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Dalit converts — Scheduled Caste status and social justice",
+        "summary": "The report on the panel's recommendations regarding Scheduled Caste status for Dalit converts raises questions about constitutional safeguards, caste-based discrimination and access to affirmative action. The debate involves the relationship between religion, social disadvantage and the legal criteria for Scheduled Caste recognition.",
+        "mainsquestion": "Examine the constitutional and social justice dimensions of extending Scheduled Caste status to Dalit converts to religions other than Hinduism, Sikhism and Buddhism."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Ethanol blending — energy transition and fuel policy",
+        "summary": "The decision to lift excise duty on higher ethanol-blend petrol has implications for India's biofuel programme and transport-sector decarbonisation. Higher blending can reduce petroleum imports and support agricultural value chains, but must be balanced against food security, water use, vehicle compatibility and lifecycle emissions.",
+        "mainsquestion": "Critically evaluate India's ethanol-blending programme as an instrument of energy security and decarbonisation. What are its agricultural and environmental trade-offs?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Retail inflation — food prices and monetary policy",
+        "summary": "Food prices pushed retail inflation to 3.9% in May 2026. Food-price volatility affects household purchasing power, real incomes and inflation expectations. Supply-side measures such as improved storage, efficient transport, market integration and timely imports or exports can complement monetary policy in managing food inflation.",
+        "mainsquestion": "Food inflation in India is often driven by supply-side constraints rather than excess demand. Examine the statement and suggest measures to ensure price stability."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India's maritime security — attacks on ships linked to India",
+        "summary": "India described attacks on ships with Indian links as unacceptable amid escalating U.S.–Iran tensions. The incident highlights risks to Indian seafarers, commercial shipping and energy routes. India must protect its maritime interests through diplomacy, naval preparedness and cooperation under international maritime law.",
+        "mainsquestion": "Examine the implications of instability around the Strait of Hormuz for India's maritime and energy security."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "AI-171 aircraft crash — aviation safety and accident investigation",
+        "summary": "The Aircraft Accident Investigation Bureau released an interim statement on the AI-171 crash probe. Aviation accident investigations are essential for identifying technical, operational and human factors, improving safety protocols and preventing recurrence. Transparent investigation and implementation of safety recommendations are crucial for public confidence.",
+        "mainsquestion": "Discuss the role of independent accident investigation and regulatory oversight in strengthening aviation safety in India."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Rights of persons with disabilities — equality of treatment",
+        "summary": "The editorial on equality of treatment for persons with disabilities highlights the need to move beyond formal legal recognition towards substantive equality. Accessibility, reasonable accommodation, inclusive education, employment opportunities and effective enforcement are central to the rights-based approach under the Rights of Persons with Disabilities Act, 2016.",
+        "mainsquestion": "India's disability policy must shift from welfare-based assistance to a rights-based framework. Discuss with reference to accessibility and equal participation."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Eighth Central Pay Commission — reforming public compensation",
+        "summary": "The discussion on the Eighth Central Pay Commission highlights the need to review public-sector pay structures, allowances and pension-related expenditure. Pay commissions must balance fair compensation and employee motivation with fiscal sustainability, productivity and the quality of public service delivery.",
+        "mainsquestion": "Examine the role of Central Pay Commissions in public administration. How can compensation reform be aligned with fiscal prudence and administrative efficiency?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Paraquat — pesticide regulation and public health",
+        "summary": "The opinion article on the human cost of the weed killer paraquat draws attention to the risks posed by highly hazardous pesticides. Its toxicity raises concerns about occupational exposure, accidental poisoning, environmental contamination and the adequacy of pesticide regulation. Risk assessment, safer alternatives and enforcement of protective standards are important.",
+        "mainsquestion": "Critically examine the challenges in regulating hazardous pesticides in India while balancing agricultural productivity with public health and environmental protection."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Bangladesh border management — BSF and BGB cooperation",
+        "summary": "Border talks between the Border Security Force and Border Guard Bangladesh addressed illegal and forced crossings. Effective border management requires coordination between security agencies while protecting human rights, preventing trafficking and maintaining stable bilateral relations.",
+        "mainsquestion": "Discuss the challenges of managing India's border with Bangladesh. How can bilateral cooperation improve border security while protecting vulnerable populations?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Domestic solar-cell manufacturing — energy transition",
+        "summary": "The report on the domestic-content mandate for solar-cell manufacturing highlights tensions between renewable-energy deployment and industrial self-reliance. Domestic manufacturing can reduce import dependence and strengthen supply chains, but cost and capacity constraints may affect project viability and the pace of solar expansion.",
+        "mainsquestion": "Evaluate the role of domestic manufacturing requirements in India's solar-energy strategy. How can India balance energy affordability with strategic supply-chain resilience?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Strait of Hormuz — global energy security",
+        "summary": "The proposed U.S.–Iran agreement to end the conflict and reopen the Strait of Hormuz highlights the strategic importance of this narrow maritime passage. Disruption to shipping through the strait can raise oil prices, increase insurance costs and threaten energy-importing economies such as India.",
+        "mainsquestion": "Why is the Strait of Hormuz strategically important for India? Examine the consequences of its disruption for India's energy and economic security."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India's engagement with Europe — Prime Minister's visit",
+        "summary": "The Prime Minister's Europe visit began in Nice, with technology and bilateral relations among its key areas of focus. Engagement with European partners can strengthen trade, investment, defence cooperation, technology partnerships and India's role in a changing international order.",
+        "mainsquestion": "Assess the growing importance of India–Europe relations in the context of trade, technology, defence and geopolitical changes."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Protests in Pakistan-occupied Kashmir — political and human rights concerns",
+        "summary": "Protests in Pakistan-occupied Kashmir draw attention to political grievances, governance, economic conditions and demands for greater rights. The developments also have implications for regional stability and India's position on the status of territories under Pakistan's control.",
+        "mainsquestion": "Examine the political and strategic significance of developments in Pakistan-occupied Kashmir for India's neighbourhood policy."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Zojila Tunnel — strategic connectivity in the Himalayas",
+        "summary": "The Zojila Tunnel is expected to improve all-weather connectivity between Kashmir and Ladakh. It can reduce seasonal isolation, support local economic activity and strengthen defence logistics. However, Himalayan infrastructure must account for fragile geology, ecological sensitivity and disaster risks.",
+        "mainsquestion": "Discuss the strategic and developmental significance of all-weather connectivity projects in the Himalayan region. What environmental safeguards are necessary?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Antibiotic resistance in soil — climate change and drought",
+        "summary": "Research reported that drought conditions can drive antibiotic resistance in soil bacteria. This highlights the connections between climate stress, environmental microbiology and public health. Soil health, responsible antibiotic use, wastewater management and surveillance are important components of a One Health response.",
+        "mainsquestion": "Explain how climate change can influence the spread of antimicrobial resistance. Discuss the relevance of the One Health approach in addressing this emerging threat."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Artificial intelligence sovereignty — access to advanced AI models",
+        "summary": "The U.S. move to block access to advanced AI models such as Mythos and Fable has brought AI sovereignty and technological dependence into focus. Countries need domestic research capacity, secure computing infrastructure, skilled talent and appropriate governance frameworks to retain strategic control over critical AI capabilities.",
+        "mainsquestion": "What is AI sovereignty? Examine the opportunities and challenges involved in building India's indigenous artificial intelligence ecosystem."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "DRDO — ballistic missile defence and defence technologies",
+        "summary": "DRDO showcased critical defence technologies through three flight tests. Indigenous development of multi-layered defence systems can strengthen national security, improve technological self-reliance and reduce dependence on foreign suppliers. Testing, integration, affordability and operational reliability remain important considerations.",
+        "mainsquestion": "Evaluate the significance of indigenous ballistic missile defence and advanced defence technologies for India's strategic autonomy."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Assam — Aadhaar verification and demographic governance",
+        "summary": "The decision to require a special verification process before issuing new Aadhaar cards to adults in Assam, alongside the study of demographic changes, raises questions about identity documentation, welfare access and migration management. Any verification framework must follow due process and prevent arbitrary exclusion from essential services.",
+        "mainsquestion": "Discuss the governance and constitutional challenges involved in identity verification and migration management in Assam. How can administrative safeguards prevent exclusion?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–France relations — Innovation Roadmap 2030",
+        "summary": "India and France adopted an Innovation Roadmap 2030 and discussed economic security during the Prime Minister's visit. Cooperation in artificial intelligence, nuclear energy, defence, space and advanced technologies can deepen the strategic partnership and strengthen India's access to critical technologies.",
+        "mainsquestion": "Examine the changing dimensions of India–France relations with particular reference to technology, economic security and strategic autonomy."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "West Asia — instability and India's diplomatic interests",
+        "summary": "Israeli strikes in Beirut complicated efforts to establish a U.S.–Iran truce. Continuing instability in West Asia has implications for India's energy supplies, diaspora, maritime trade and regional diplomatic relationships. India must balance its strategic partnerships while supporting de-escalation and regional stability.",
+        "mainsquestion": "Analyse the implications of continuing West Asian instability for India's foreign policy, energy security and diaspora."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Protection of Indian seafarers in the Gulf",
+        "summary": "Attacks on vessels in the Gulf region have raised concerns about the safety of Indian seafarers and the vulnerability of commercial shipping. Foreign-flagged vessels, international maritime jurisdiction and the risks faced by civilian crews complicate India's response. Diplomatic coordination and maritime safety mechanisms are essential.",
+        "mainsquestion": "Discuss the challenges in protecting Indian seafarers in conflict-prone maritime regions. What diplomatic and legal measures can India pursue?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Child sexual abuse — gaps in POCSO enforcement",
+        "summary": "The editorial 'Series of gaps: on underreporting of child sexual abuse' highlights the underreporting of abuse and weaknesses in the justice system. Delays, inadequate support for survivors, social stigma and poor investigation can undermine the objectives of the POCSO Act. Child-sensitive procedures and institutional accountability are necessary.",
+        "mainsquestion": "Despite a strong legal framework, child sexual abuse remains underreported and inadequately prosecuted in India. Examine the implementation gaps in the POCSO Act."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Insolvency and Bankruptcy Code — improving resolution efficiency",
+        "summary": "The opinion article 'Towards a fair, efficient insolvency regime' examines the need to improve the functioning of India's insolvency framework. Timely resolution, predictable creditor rights, efficient tribunals and protection of viable businesses are important for improving credit discipline and the investment climate.",
+        "mainsquestion": "Evaluate the performance of the Insolvency and Bankruptcy Code in resolving stressed assets. Suggest reforms to improve its efficiency and fairness."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Early childhood development — nutrition and cognitive outcomes",
+        "summary": "The editorial 'The seven-point IQ opportunity for Indian children' draws attention to the importance of early childhood development. Nutrition, maternal health, responsive caregiving, early learning and prevention of environmental risks influence cognitive development. Anganwadi services and integrated early childhood interventions can improve long-term human capital.",
+        "mainsquestion": "Why is investment in early childhood development critical for India's human capital formation? Discuss the role of Anganwadi services and nutrition programmes."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Semiconductors — India's memory-chip manufacturing ambitions",
+        "summary": "The report on expectations of more companies producing memory chips in India highlights the importance of semiconductor manufacturing for technological self-reliance. Progress depends on capital investment, skilled workers, reliable utilities, research capabilities and integration with global supply chains.",
+        "mainsquestion": "Examine the opportunities and challenges in developing a competitive semiconductor manufacturing ecosystem in India."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Dengue vaccine — public health and vaccine safety",
+        "summary": "Deaths reported in Brazil raised concerns about India's dengue vaccine candidate, DengiAll. Vaccine development for dengue requires careful evaluation of safety and efficacy because prior exposure to different dengue serotypes can influence disease severity. Robust clinical trials and post-marketing surveillance are essential for public confidence.",
+        "mainsquestion": "Discuss the scientific and public health challenges involved in developing a safe and effective dengue vaccine."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "U.S.–Iran agreement — reopening the Strait of Hormuz",
+        "summary": "The reported agreement between the United States and Iran to end hostilities and reopen the Strait of Hormuz has major implications for regional stability. The strait is a critical route for global oil and gas shipments. India has a direct interest in uninterrupted energy supplies, safe shipping and protection of its nationals in the region.",
+        "mainsquestion": "Examine the strategic importance of the Strait of Hormuz for India. How should India respond to geopolitical instability in this region?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Slovakia relations — expanding bilateral cooperation",
+        "summary": "India and Slovakia expanded bilateral ties through several memoranda of understanding covering areas including defence and education. Stronger engagement with Central and Eastern European countries can diversify India's European partnerships and create opportunities in technology, manufacturing and research.",
+        "mainsquestion": "Discuss the importance of India's engagement with Central and Eastern Europe in the context of its wider European strategy."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's exports — record goods exports and widening trade deficit",
+        "summary": "India's goods exports reached a record $45.2 billion in May, while the trade deficit widened. Export growth must be assessed alongside import demand, global commodity prices and the competitiveness of domestic manufacturing. Diversification of export markets and higher-value production are important for external-sector resilience.",
+        "mainsquestion": "A rise in exports does not necessarily imply an improvement in the external balance. Analyse the factors influencing India's trade deficit and suggest measures to strengthen export competitiveness."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Transgender rights — judicial scrutiny of new legislation",
+        "summary": "The Supreme Court's decision to stay High Court proceedings concerning the new transgender law brings attention to constitutional questions surrounding gender identity and legislative safeguards. Equality, dignity, privacy and protection against discrimination remain central to the legal framework governing transgender persons.",
+        "mainsquestion": "Examine the constitutional foundations of transgender rights in India. How can legislation ensure equality, dignity and meaningful participation?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Climate change — vulnerability of older persons",
+        "summary": "Research indicating that older persons increasingly bear the effects of climate change highlights the unequal distribution of climate risks. Heat stress, health conditions, mobility limitations and inadequate access to cooling or healthcare increase their vulnerability. Disaster planning must incorporate age-sensitive adaptation measures.",
+        "mainsquestion": "Climate change has differentiated impacts across social groups. Discuss the vulnerability of older persons and suggest measures for inclusive climate adaptation."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Heatwaves and surface ozone — public health risks",
+        "summary": "Research linking heatwaves and ozone exposure with increased cardiac mortality highlights the interaction between climate change and air pollution. High temperatures can intensify ground-level ozone formation, increasing risks for vulnerable populations. Air-quality monitoring, heat action plans and coordinated public-health responses are important.",
+        "mainsquestion": "Explain the relationship between heatwaves, ground-level ozone and public health. Suggest an integrated strategy to reduce climate-related health risks."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Wholesale Price Index — inflation and fuel-price transmission",
+        "summary": "Wholesale price inflation rose to 9.7% in May, driven substantially by higher fuel prices. Rising input costs can affect manufacturing, transport and retail prices, creating pressure on firms and consumers. The transition towards a Producer Price Index also raises questions about improving the measurement of price changes across production chains.",
+        "mainsquestion": "Discuss the causes and consequences of rising wholesale inflation in India. How can a Producer Price Index improve the measurement of price pressures?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Artificial intelligence — healthcare communication and extreme-weather forecasting",
+        "summary": "Two reports examine limitations in the use of AI: patients may use AI tools to understand cancer information but misunderstand medical advice, while AI systems may struggle with extreme-weather forecasting. These developments highlight the need for domain-specific validation, explainability, human oversight and responsible deployment in high-stakes applications.",
+        "mainsquestion": "Critically examine the opportunities and limitations of artificial intelligence in healthcare and extreme-weather forecasting. Why is human oversight essential?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "Monsoon — rainfall deficit and agricultural vulnerability",
+        "summary": "India's nationwide rainfall deficit reached 35% as monsoon progress stalled. Uneven monsoon distribution can affect sowing, reservoir levels, drinking-water availability and rural incomes. The situation highlights the importance of accurate seasonal forecasts, drought preparedness, crop diversification and efficient irrigation.",
+        "mainsquestion": "Examine the consequences of an uneven monsoon for Indian agriculture and rural livelihoods. Suggest measures to strengthen climate resilience."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "NEET examination integrity — digital platforms and cheating networks",
+        "summary": "The blocking of Telegram amid an investigation into NEET cheating networks highlights the challenges of regulating digital platforms used for examination fraud. Effective examination governance requires secure question-paper handling, technology-enabled monitoring, accountability of intermediaries and protection of legitimate digital communication.",
+        "mainsquestion": "Discuss the challenges of ensuring integrity in large-scale competitive examinations in the digital era. What reforms are needed in examination governance?"
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Drug regulation — over-the-counter sale of cough syrups",
+        "summary": "The government ended over-the-counter sales of cough syrups, bringing attention to prescription enforcement and pharmaceutical regulation. The issue highlights the need to prevent misuse, improve medicine safety and strengthen monitoring of drug distribution without compromising access to essential treatment.",
+        "mainsquestion": "Evaluate the challenges in regulating the sale and use of medicines in India. How can pharmaceutical safety be balanced with affordable access?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Aadhaar — privacy, identity and welfare delivery",
+        "summary": "The Supreme Court sought responses from the Centre and States on a plea concerning Aadhaar. The issue raises questions about the permissible use of identity data, privacy safeguards, exclusion from welfare benefits and the distinction between identity verification and proof of citizenship.",
+        "mainsquestion": "Examine the constitutional and governance challenges associated with Aadhaar-based authentication. How can India balance efficient welfare delivery with privacy and inclusion?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Tenth Schedule — merger provision and anti-defection law",
+        "summary": "The debate over the merger provision in the Tenth Schedule concerns the scope of protection available to legislators changing party affiliation. The deletion of the one-third split exception in 2003 was intended to curb defections, but questions remain about the two-thirds merger provision, the Speaker's role and legislative ethics.",
+        "mainsquestion": "Critically examine the effectiveness of the Tenth Schedule in preventing political defections. Does the merger exception undermine its original objective?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran–U.S. relations — diplomacy and West Asian stability",
+        "summary": "The editorial 'Moving from war to deal' examines the shift towards an agreement between Iran and the United States amid continuing regional divisions. Diplomatic progress depends on nuclear commitments, sanctions relief and regional security arrangements. Instability in West Asia has direct implications for India's energy security and diaspora.",
+        "mainsquestion": "Assess the prospects and limitations of diplomatic engagement between Iran and the United States. Examine its implications for India's interests in West Asia."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Refugee returns — UNHCR and humanitarian protection",
+        "summary": "The article on refugees returning home for reasons other than genuine safety highlights the distinction between physical return and sustainable, voluntary repatriation. Conflict, insecurity, economic pressure and inadequate access to basic services can make returns involuntary or premature. Refugee protection requires dignity, safety and durable solutions.",
+        "mainsquestion": "Discuss the principles governing voluntary and safe refugee repatriation. What challenges arise when refugees return to areas affected by conflict and instability?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "GRAPES-3 — cosmic-ray research and scientific infrastructure",
+        "summary": "GRAPES-3 is an Indian cosmic-ray experiment that studies high-energy particles and atmospheric phenomena. Such research contributes to understanding cosmic radiation, space-weather-related processes and fundamental physics, while demonstrating the importance of sustained investment in indigenous scientific infrastructure.",
+        "mainsquestion": "Explain the importance of large-scale scientific research facilities such as GRAPES-3 in strengthening India's basic science and technological capabilities."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–U.S. relations — safety of Indian seafarers",
+        "summary": "Prime Minister Narendra Modi raised the safety of Indian seafarers in his meeting with U.S. President Donald Trump. The issue reflects India's concern over maritime insecurity and the vulnerability of its citizens working on international shipping routes. Diplomatic coordination and adherence to international maritime law are essential to protect crews and commercial navigation.",
+        "mainsquestion": "Examine the importance of maritime diplomacy in protecting Indian seafarers and safeguarding India's commercial interests in conflict-prone regions."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran–U.S. framework — nuclear non-proliferation and sanctions relief",
+        "summary": "The proposed Iran–U.S. framework outlines nuclear commitments and financial relief. Its success depends on verification, reciprocal compliance and the management of regional security concerns. The issue is relevant to the Nuclear Non-Proliferation Treaty framework, sanctions diplomacy and the stability of global energy markets.",
+        "mainsquestion": "Discuss the role of diplomacy and verification mechanisms in preventing nuclear proliferation. What are the wider implications of an Iran–U.S. agreement for regional stability?"
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Health data — evidence-based public health governance",
+        "summary": "The editorial 'Health data must drive action, not just headlines' stresses the need to translate health statistics into effective public policy. Reliable data, transparent reporting, disease surveillance and evaluation of health programmes are essential for identifying gaps and directing resources towards vulnerable populations.",
+        "mainsquestion": "Why is reliable health data essential for effective public health governance? Discuss the institutional and technological reforms needed to improve India's health information systems."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Water security — Jal Jeevan Mission and integrated water governance",
+        "summary": "The article 'Water security is central for a Viksit Bharat' highlights the importance of safe drinking water, sanitation and sustainable water management. Programmes such as the Jal Jeevan Mission, Swachh Bharat Mission and Namami Gange need stronger coordination, source sustainability, local participation and reliable monitoring.",
+        "mainsquestion": "Water security is a prerequisite for inclusive development. Evaluate India's major water-related programmes and suggest an integrated approach to water governance."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "RBI — monetary policy and its expanding fiscal role",
+        "summary": "The discussion on the RBI's growing fiscal role raises questions about the relationship between monetary management and government financing. Central-bank functions must balance financial stability, inflation management, liquidity conditions and the preservation of institutional autonomy.",
+        "mainsquestion": "Examine the evolving relationship between monetary policy and fiscal policy in India. How can the RBI maintain its autonomy while supporting macroeconomic stability?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–Russia logistics agreement — defence and strategic cooperation",
+        "summary": "The India–Russia logistics agreement provides a framework for reciprocal logistical support and operational cooperation between the armed forces. Such arrangements can facilitate port access, refuelling and maintenance, while strengthening defence ties and expanding operational flexibility.",
+        "mainsquestion": "Assess the strategic significance of reciprocal logistics agreements for India's defence diplomacy and maritime capabilities."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Defence production — domestic manufacturing and self-reliance",
+        "summary": "India's defence production reached a record ₹1.78 lakh crore, reflecting growth in domestic manufacturing and procurement. Strengthening the defence industrial base requires research and development, private-sector participation, technology transfer, export competitiveness and reduced dependence on imported components.",
+        "mainsquestion": "Evaluate India's progress towards self-reliance in defence production. What structural reforms are needed to make the domestic defence industry globally competitive?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India–U.K. relations — implementation of the free trade agreement",
+        "summary": "India and the United Kingdom announced July 15 as the implementation date for their trade agreement. The agreement is expected to strengthen market access, investment and services cooperation. Its benefits will depend on effective implementation, regulatory coordination and the ability of domestic industries to compete.",
+        "mainsquestion": "Discuss the significance of the India–U.K. free trade agreement for India's trade diversification and economic diplomacy. Identify the challenges in its implementation."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran–U.S. accord — Strait of Hormuz, UNCLOS and nuclear commitments",
+        "summary": "The reported Iran–U.S. accord raises questions about freedom of navigation, the legality of imposing tolls in an international strait and commitments relating to nuclear weapons. The Strait of Hormuz is vital to global energy trade, making its security important for India’s energy supplies and maritime interests.",
+        "mainsquestion": "Examine the strategic and legal significance of the Strait of Hormuz. How should India safeguard its energy and maritime interests amid regional tensions?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India’s statistical system — improving economic data",
+        "summary": "The editorial 'Essential upgrades: On upgrades to India’s statistical databases' discusses improvements to the country’s statistical framework, including the measurement of GDP, CPI, WPI and IIP. Updated base years and methodologies can improve the accuracy and relevance of economic indicators, supporting evidence-based policymaking.",
+        "mainsquestion": "Why are periodic revisions to the base years and methodology of national economic statistics necessary? Discuss the challenges in strengthening India's statistical system."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "NFHS-6 — nutrition and public health",
+        "summary": "NFHS-6 indicates progress in some child nutrition indicators, including a reduction in stunting, while persistent wasting points to continuing nutritional challenges. The findings underline the importance of maternal health, early childhood nutrition, sanitation, healthcare access and targeted interventions for vulnerable groups.",
+        "mainsquestion": "Despite improvements in some nutrition indicators, malnutrition remains a major public health challenge in India. Discuss with reference to NFHS data and government interventions."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Trade competitiveness — barriers beyond tariffs",
+        "summary": "The article 'The real barriers to trade are no longer tariffs' highlights the growing importance of non-tariff barriers, standards, certification, logistics, regulatory compliance and supply-chain efficiency. Improving export competitiveness requires addressing these structural constraints in addition to negotiating lower customs duties.",
+        "mainsquestion": "Non-tariff barriers and domestic supply-side weaknesses increasingly shape international trade. Examine the challenges they pose for Indian exports."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Telegram and Section 69A — digital regulation and freedom of expression",
+        "summary": "The government described Telegram as having evolved into a 'new dark web', raising concerns about illegal activity on digital platforms. The issue brings into focus the use of Section 69A of the Information Technology Act, intermediary obligations, due process, privacy and the need to balance public safety with freedom of expression.",
+        "mainsquestion": "Critically examine India's framework for blocking online content. How can the State address unlawful digital activity while protecting constitutional freedoms?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Graduate employment — education and labour-market mismatch",
+        "summary": "The question of whether India is producing more graduates than the economy can absorb highlights the mismatch between educational qualifications and available employment. Skill gaps, uneven quality of higher education, limited formal-sector job creation and changing industry requirements affect graduate employability.",
+        "mainsquestion": "Analyse the mismatch between higher education outcomes and labour-market requirements in India. Suggest measures to improve graduate employability and job creation."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "India–U.K. social security cooperation — Double Contribution Convention",
+        "summary": "The revised Double Contribution Convention with the United Kingdom is intended to reduce the burden of making social-security contributions in both countries for eligible workers. Such arrangements can facilitate labour mobility, reduce compliance costs and strengthen economic ties.",
+        "mainsquestion": "Discuss the role of bilateral social-security agreements in facilitating international labour mobility and strengthening India's economic relations."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Mental health of Adivasi youth — social inclusion",
+        "summary": "The mental-health concerns of Adivasi youth need to be understood in the context of social exclusion, educational barriers, displacement, cultural disruption and limited access to healthcare. Culturally sensitive mental-health services and community participation are important for addressing these challenges.",
+        "mainsquestion": "Examine the social determinants of mental health among tribal youth in India. Suggest culturally appropriate interventions to improve access to care."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Telegram — judicial review of digital-platform restrictions",
+        "summary": "The Delhi High Court upheld restrictions on Telegram amid the NEET examination controversy. The issue highlights the responsibility of digital intermediaries to address unlawful content and the need for transparent, proportionate restrictions consistent with due process and freedom of expression.",
+        "mainsquestion": "Examine the role of courts in reviewing restrictions on digital platforms. How can India balance platform accountability with freedom of expression and access to information?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Right to walk on footpaths — Article 21 and urban governance",
+        "summary": "The Supreme Court's observation that walking on footpaths is a fundamental right connects pedestrian safety with the right to life and dignified mobility under Article 21. It highlights the need for accessible footpaths, safer street design, enforcement against encroachment and inclusive urban planning.",
+        "mainsquestion": "Discuss how the right to safe pedestrian infrastructure can be linked to Article 21. Suggest measures to make Indian cities more accessible and pedestrian-friendly."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Delhi winter air-quality framework — pollution control",
+        "summary": "Delhi's winter air-quality framework outlines restrictions and responses to seasonal pollution. Effective air-quality management requires coordinated action on transport emissions, road and construction dust, industrial pollution, waste burning and regional sources, supported by monitoring and enforcement.",
+        "mainsquestion": "Why do episodic restrictions often fail to provide a durable solution to Delhi's air-pollution problem? Suggest a coordinated airshed-based approach."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Three-language policy — linguistic diversity and education",
+        "summary": "CBSE schools in Nagaland described a compulsory three-language policy as unviable, bringing attention to the relationship between education policy, linguistic diversity and regional circumstances. Implementation must account for local languages, teacher availability, constitutional protections and the objectives of multilingual education.",
+        "mainsquestion": "Discuss the challenges of implementing a uniform language policy in India's linguistically diverse education system. How can multilingualism be promoted without undermining regional languages?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Renewable energy — electricity-grid readiness",
+        "summary": "The article 'India's cheapest power is here, the grid must catch up' highlights the challenge of integrating low-cost renewable electricity into the national grid. Transmission capacity, storage, grid flexibility, forecasting and market reforms are essential to ensure reliable power while expanding solar and wind generation.",
+        "mainsquestion": "India's renewable-energy transition requires investment in the grid alongside generation capacity. Examine the challenges and suggest measures for reliable integration of renewable power."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Drone partnerships — indigenous technology and defence cooperation",
+        "summary": "The shift from drone purchases to drone partnerships points towards cooperation in development, manufacturing, technology transfer and operational capabilities. Such partnerships can support domestic innovation and defence self-reliance, while raising questions about technology access, supply-chain dependence and security standards.",
+        "mainsquestion": "Evaluate the potential of international drone partnerships in strengthening India's defence capabilities and indigenous manufacturing ecosystem."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Anti-defection law — merger provision",
+        "summary": "The article 'Defection as merger' revisits the merger exception under the Tenth Schedule. The provision raises questions about collective party realignment, the role of the Speaker and the effectiveness of anti-defection safeguards in preserving legislative accountability and political stability.",
+        "mainsquestion": "Critically examine the merger exception under the Tenth Schedule. Does the anti-defection law adequately balance legislative stability with freedom of expression of elected representatives?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Glacial lakes in Arunachal Pradesh — Himalayan environmental change",
+        "summary": "A study reported the expansion of four glacial lakes in Arunachal Pradesh over a decade. Glacial lake expansion can increase the risk of glacial lake outburst floods, threatening downstream communities and infrastructure. Monitoring, early-warning systems, hazard mapping and climate adaptation are important for Himalayan disaster-risk reduction.",
+        "mainsquestion": "Explain the causes and consequences of glacial lake expansion in the Himalayas. Discuss measures to reduce the risk of glacial lake outburst floods."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-21",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran's renewed closure of the Strait of Hormuz and the fragile US-Iran understanding",
+        "summary": "Iran's renewed restrictions on the Strait of Hormuz exposed the fragility of the June 15 US-Iran understanding, amid continuing Israeli attacks in Lebanon. The episode highlights the strategic use of maritime chokepoints, the vulnerability of global energy supplies and India's dependence on stable West Asian shipping routes. India must pursue diplomatic de-escalation, energy diversification and freedom of navigation in accordance with international law.",
+        "mainsquestion": "Examine the implications of instability in the Strait of Hormuz for India's energy security and strategic interests. Suggest measures to reduce India's vulnerability."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Fertilizer security amid disruptions in the Strait of Hormuz",
+        "summary": "Disruption to shipping through the Strait of Hormuz can affect the availability and price of natural gas and fertilizer inputs, exposing India's dependence on imported resources. Fertilizer supply shocks can raise agricultural costs, affect crop productivity and increase the fiscal burden of subsidies. Long-term resilience requires diversified sourcing, domestic production, efficient fertilizer use and investment in alternative nutrients.",
+        "mainsquestion": "How can geopolitical disruptions to global energy and fertilizer supply chains affect Indian agriculture? Discuss measures to strengthen fertilizer security."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "A possible super El Niño and its implications for the Indian monsoon",
+        "summary": "A strong El Niño event can alter Pacific Ocean-atmosphere circulation and weaken the Indian summer monsoon, although its effect is not uniform in every year. Rainfall outcomes also depend on factors such as the Indian Ocean Dipole and regional climate conditions. A weak monsoon can affect agricultural output, rural incomes, water availability, food prices and power generation, making forecasting and preparedness essential.",
+        "mainsquestion": "Explain the relationship between El Niño and the Indian monsoon. How should India prepare for the possibility of a deficient monsoon?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Human activity and the emergence of extreme or unusual weather events",
+        "summary": "Research examining unusual weather patterns points to the role of human-induced climate change and atmospheric disturbances in shaping extreme events. Changes in temperature, moisture and atmospheric circulation can intensify rainfall variability and other hazards. Better climate attribution, local forecasting, resilient infrastructure and climate-informed urban and agricultural planning are important for reducing disaster risks.",
+        "mainsquestion": "How is human-induced climate change altering the frequency and intensity of extreme weather events? Discuss the importance of climate attribution studies for disaster management."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Parametric insurance and protection of informal workers against extreme heat",
+        "summary": "Informal workers, including street vendors and outdoor labourers, face income losses and health risks during extreme heat but often lack adequate social protection. Parametric insurance can provide payouts when predefined triggers, such as temperature thresholds, are reached, reducing delays associated with conventional loss assessments. Its effectiveness depends on reliable data, affordable premiums, transparent triggers and safeguards against gaps between measured conditions and actual losses.",
+        "mainsquestion": "Discuss the potential of parametric insurance as a climate-adaptation tool for informal workers in India. What institutional safeguards are necessary?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Anti-defection proceedings, merger provisions and legislative accountability",
+        "summary": "Disputes over disqualification and the merger exception under the Tenth Schedule highlight continuing weaknesses in India's anti-defection framework. Delays in decisions by presiding officers and disputes over party identity can undermine legislative accountability. Reform options include clearer timelines, greater institutional independence in deciding disqualification petitions and consistent judicial standards for determining a valid merger.",
+        "mainsquestion": "The anti-defection law seeks to ensure political stability but has raised concerns about legislative independence and impartial adjudication. Critically examine."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Ban on 16 fixed-dose combination medicines",
+        "summary": "The prohibition of fixed-dose combination medicines considered to lack adequate therapeutic justification raises concerns about irrational prescribing and patient safety. Unnecessary combinations can increase adverse drug reactions, antimicrobial resistance and treatment costs. Effective pharmaceutical regulation requires evidence-based approvals, pharmacovigilance, prescription oversight and public awareness, while ensuring access to clinically justified medicines.",
+        "mainsquestion": "Why is regulation of irrational fixed-dose combination medicines important for public health in India? Examine the challenges in ensuring pharmaceutical safety."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Ladakh's demands for statehood and inclusion under the Sixth Schedule",
+        "summary": "Demands in Ladakh for statehood, constitutional safeguards and inclusion under the Sixth Schedule reflect concerns over political representation, land, employment and protection of local identity. The debate raises questions about the balance between national security, administrative arrangements and democratic participation in strategically sensitive regions. A durable response requires dialogue, credible representation and safeguards suited to local circumstances.",
+        "mainsquestion": "Examine the constitutional and governance issues underlying demands for statehood and special safeguards in Ladakh."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-22",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Ammonia gas leak at a Tamil Nadu seafood unit and industrial safety",
+        "summary": "An ammonia leak at a seafood-processing unit in Tamil Nadu caused deaths and hospitalisations, highlighting serious gaps in industrial safety and emergency preparedness. Migrant workers in hazardous workplaces can face additional vulnerabilities because of poor access to information, healthcare and grievance mechanisms. Stronger factory inspections, gas-detection systems, worker training, emergency plans and accountability of employers are essential to prevent such incidents.",
+        "mainsquestion": "Industrial accidents expose weaknesses in occupational safety and disaster preparedness. Discuss the measures required to improve industrial safety in India, with special reference to migrant workers."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Accountability and institutional reform in the National Testing Agency",
+        "summary": "Concerns over examination integrity and the functioning of the National Testing Agency have renewed calls for institutional accountability. High-stakes examinations require secure question-paper handling, transparent procedures, reliable technology and prompt grievance redressal. Reforms should strengthen independent oversight, clarify institutional responsibility and protect candidates from the consequences of administrative failures.",
+        "mainsquestion": "Examine the institutional and governance reforms required to restore public confidence in India's national examination system."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Reducing India's strategic dependence on the Strait of Hormuz",
+        "summary": "The renewed uncertainty surrounding the Strait of Hormuz underlines India's exposure to geopolitical disruptions in West Asia. Dependence on a narrow maritime chokepoint can threaten crude oil, gas and fertilizer supplies, while raising freight and insurance costs. India needs diversified energy suppliers, strategic petroleum reserves, resilient maritime logistics and sustained engagement with regional and international partners.",
+        "mainsquestion": "Why is the Strait of Hormuz strategically important to India? Discuss policy options for reducing India's vulnerability to disruptions in this maritime corridor."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "DNA-based paternity testing: scientific evidence versus privacy rights",
+        "summary": "DNA testing can provide powerful scientific evidence in paternity disputes, but its use raises questions about privacy, consent and the dignity of individuals. Courts must balance the search for truth and the interests of justice against constitutional protections and the welfare of children. Clear legal standards are needed on when testing may be ordered, how samples are handled and how sensitive genetic information is protected.",
+        "mainsquestion": "Discuss the constitutional and ethical issues involved in the use of DNA testing in paternity disputes. How can the right to privacy be balanced with the interests of justice?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "DNA databases and the Criminal Procedure (Identification) Act, 2022",
+        "summary": "The collection of DNA profiles under the Criminal Procedure (Identification) Act, 2022 raises questions about forensic capacity, crime investigation and personal privacy. DNA evidence can assist identification and investigation, but large databases create risks of misuse, unauthorised access, errors and excessive retention of sensitive data. Strong safeguards on collection, purpose limitation, access, storage, deletion and independent oversight are necessary.",
+        "mainsquestion": "Evaluate the potential of DNA databases in strengthening criminal justice in India. What privacy and accountability safeguards should govern their use?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Regulating advertisements for junk food and high-fat, salt and sugar products",
+        "summary": "Advertising of foods high in fat, sugar and salt can influence children's dietary preferences and contribute to obesity and non-communicable diseases. Reliance on voluntary self-regulation may be inadequate where commercial incentives conflict with public-health goals. India needs stronger advertising standards, clear nutritional disclosures, restrictions on child-directed marketing and coordinated action across health, education and consumer-protection institutions.",
+        "mainsquestion": "Discuss the role of advertising regulation in addressing India's growing burden of non-communicable diseases. Suggest measures to protect children from misleading food marketing."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Britain ten years after Brexit: political and economic consequences",
+        "summary": "A decade after the Brexit referendum, the United Kingdom continues to face debates over trade, economic performance, migration and its relationship with European institutions. Brexit illustrates the complexities of economic integration and the political tensions between national sovereignty and regional cooperation. For India, developments in Britain's global economic role matter for trade negotiations, investment, mobility and strategic relations.",
+        "mainsquestion": "Assess the political and economic consequences of Brexit for the United Kingdom. What lessons does the experience offer about regional economic integration?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Biochar as a method to convert agricultural residue into a useful resource",
+        "summary": "Biochar is a carbon-rich material produced by heating biomass under limited oxygen. Converting agricultural residues into biochar can offer an alternative to open-field burning, improve certain soil properties and potentially store carbon for long periods. Wider adoption requires suitable production technology, quality standards, farmer awareness, viable markets and assessment of the lifecycle costs and environmental benefits.",
+        "mainsquestion": "Explain how biochar can contribute to sustainable agriculture and climate mitigation in India. Discuss the technological and economic barriers to its adoption."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Industrial safety after the Lucknow fire and Tamil Nadu ammonia leak",
+        "summary": "A major fire in a Lucknow commercial building and a deadly ammonia leak at a Tamil Nadu seafood unit highlighted persistent weaknesses in fire safety and industrial regulation. The incidents point to inadequate emergency exits, deficient safety equipment, poor compliance and weak inspection mechanisms. Effective prevention requires risk-based inspections, functional alarms and detection systems, worker training, emergency response plans and strict accountability of owners and regulators.",
+        "mainsquestion": "Industrial accidents in India often reflect failures of enforcement rather than absence of laws. Critically examine the challenges in ensuring industrial and fire safety."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "The challenge of India's digital sovereignty",
+        "summary": "Digital sovereignty concerns a country's ability to govern its data, digital infrastructure, platforms and technological systems. India's dependence on foreign cloud providers, software, semiconductor supply chains and digital platforms creates strategic and regulatory vulnerabilities. Strengthening domestic capabilities must be balanced with global interoperability, competition, privacy, cybersecurity and an open internet.",
+        "mainsquestion": "What is digital sovereignty? Examine the challenges India faces in achieving it while remaining integrated with the global digital economy."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "China's changing approach to the international order",
+        "summary": "China's approach to global institutions and international rules combines participation in existing multilateral structures with efforts to reshape norms and institutions in areas where it seeks greater influence. This selective approach has implications for global governance, strategic competition and the rules-based international order. India must strengthen partnerships, defend multilateral principles and preserve strategic autonomy.",
+        "mainsquestion": "Analyse how China's growing influence is reshaping the existing international order. What should be India's response?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "US-Iran negotiations and the proposed roadmap for an agreement",
+        "summary": "Diplomatic engagement between the United States and Iran was reported to have established a possible roadmap for further negotiations. Any agreement would have implications for regional stability, nuclear non-proliferation, sanctions, maritime security and global energy markets. India has a stake in de-escalation because of its energy dependence, diaspora interests and connectivity links with West Asia.",
+        "mainsquestion": "Discuss the significance of a possible US-Iran agreement for regional stability and India's strategic and economic interests."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Indian Knowledge Systems in higher education and the importance of scientific temper",
+        "summary": "The integration of Indian Knowledge Systems into higher education raises questions about how traditional knowledge can be studied and incorporated without weakening evidence-based inquiry. Article 51A(h) makes the development of scientific temper, humanism and the spirit of inquiry a fundamental duty. Universities should encourage rigorous research, critical evaluation and interdisciplinary engagement rather than treating traditional claims as beyond scientific scrutiny.",
+        "mainsquestion": "How can Indian Knowledge Systems be integrated into higher education while preserving scientific temper and critical inquiry?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Core sector slowdown, foreign investment and economic resilience",
+        "summary": "Growth in India's eight core industries slowed sharply to 0.5% in May 2026, with several energy-related sectors contracting. At the same time, net foreign direct investment rose to a near five-year high in April. These mixed indicators show how geopolitical disruptions can affect industrial production and energy costs even as capital inflows remain supportive. Policy priorities include energy diversification, stable macroeconomic management and investment in productive sectors.",
+        "mainsquestion": "Recent economic indicators reveal both resilience and vulnerability in the Indian economy. Analyse with reference to core-sector performance and foreign investment."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 1",
+        "priority": "Medium",
+        "topic": "Rakhigarhi skeletal remains and the study of the Harappan civilisation",
+        "summary": "The Archaeological Survey of India transferred skeletal remains from Rakhigarhi to the Anthropological Survey of India for scientific investigation, including ancient-DNA analysis. Such research can improve understanding of population history, migration and the Harappan civilisation. However, genetic findings from limited samples must be interpreted cautiously and alongside archaeological, linguistic and other evidence, avoiding ideological conclusions.",
+        "mainsquestion": "Examine how ancient-DNA analysis and interdisciplinary research can improve our understanding of the Harappan civilisation and ancient population movements."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "One Nation One Subscription and India's scholarly publishing ecosystem",
+        "summary": "The One Nation One Subscription initiative seeks to provide broad access to academic journals for Indian universities and research institutions. However, access to foreign-published research does not by itself address the challenge of making Indian research widely available and affordable. India needs stronger domestic journals, open-access publishing, transparent subscription costs and institutional support for publicly funded research.",
+        "mainsquestion": "One Nation One Subscription can improve access to research, but knowledge sovereignty requires more than access to foreign journals. Discuss."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Amendments to the Foreign Contribution Regulation Rules",
+        "summary": "The Centre tightened compliance requirements governing foreign contributions received by NGOs. The regulatory framework seeks to ensure transparency, prevent misuse of overseas funds and protect national interests. However, extensive restrictions can also affect civil society organisations delivering welfare services and supporting public participation. Effective regulation must be proportionate, transparent, predictable and consistent with constitutional freedoms.",
+        "mainsquestion": "Examine the objectives and implications of regulating foreign contributions to NGOs in India. How can national security concerns be balanced with freedom of association?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "International Maritime Organization's plan to evacuate vessels stranded in the Persian Gulf",
+        "summary": "The International Maritime Organization announced efforts to facilitate the evacuation of vessels stranded amid instability in the Persian Gulf. The situation highlights the vulnerability of global shipping to conflict and restrictions around strategic maritime corridors. Safe evacuation requires coordination among coastal States, shipping companies and international institutions, while respecting navigational rights and seafarer safety.",
+        "mainsquestion": "Discuss the role of international institutions in ensuring maritime safety during regional conflicts. Examine the implications of Persian Gulf instability for India."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "China's call to resume dialogue mechanisms amid West Asian tensions",
+        "summary": "China called for the resumption of dialogue mechanisms as geopolitical tensions continued to affect West Asia. The appeal reflects the growing diplomatic role of major powers in regional crises and the importance of communication channels in preventing escalation. India should support inclusive diplomacy, protect its regional interests and maintain constructive engagement with all relevant actors.",
+        "mainsquestion": "Assess the role of major powers in facilitating dialogue and conflict de-escalation in West Asia. What diplomatic approach should India adopt?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Concerns over the implementation of VB-G RAM G and rural employment",
+        "summary": "Concerns were raised about the possible effects of the VB-G RAM G framework on rural workers and employment security. Any restructuring of rural employment programmes must be assessed in terms of work availability, wage payments, funding responsibilities, local implementation and accountability. Rural livelihood protection requires predictable financing, timely payments and effective monitoring of employment guarantees.",
+        "mainsquestion": "Discuss the role of rural employment guarantees in protecting livelihood security. What safeguards are necessary when restructuring such programmes?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Reconnecting public health systems with people's needs",
+        "summary": "Public health systems need to move beyond a narrow focus on hospital-based treatment and address prevention, primary care, nutrition, sanitation and social determinants of health. Fragmented services and unequal access affect vulnerable populations disproportionately. Strengthening local health institutions, community participation, public health staffing and accountable financing is essential to achieve universal and equitable healthcare.",
+        "mainsquestion": "A responsive public health system must prioritise prevention and primary healthcare alongside curative services. Discuss in the Indian context."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Moving Indian innovation from invention to global-scale enterprises",
+        "summary": "India has developed capabilities in start-ups, research and technology, but converting innovation into globally competitive large enterprises remains a challenge. Barriers include limited patient capital, regulatory complexity, gaps in advanced manufacturing, weak university-industry collaboration and inadequate scale-up support. A stronger innovation ecosystem requires research funding, predictable regulation, skilled workers and access to global markets.",
+        "mainsquestion": "India's next innovation challenge is to move from start-up creation to globally competitive scale-ups. Examine the barriers and suggest policy measures."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's uneven industrial climate strategy",
+        "summary": "Industrial decarbonisation is essential for India's climate commitments, but sectors differ in their technological readiness, energy needs and capacity to absorb transition costs. Steel, cement, chemicals and other hard-to-abate industries require clean energy, efficiency improvements, green hydrogen and new production technologies. A credible strategy must combine clear standards, finance, innovation and support for workers and regions affected by industrial change.",
+        "mainsquestion": "Critically examine the challenges in decarbonising India's industrial sector. How can India balance climate commitments with industrial competitiveness?"
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "El Niño risks and agricultural preparedness in India",
+        "summary": "Concerns over a possible El Niño and uneven monsoon conditions placed several districts across multiple States under close watch. El Niño can influence rainfall patterns and increase risks to agriculture, water availability and food prices, although regional outcomes vary. Preparedness requires accurate forecasts, contingency crop plans, efficient irrigation, resilient seed varieties and timely support for farmers.",
+        "mainsquestion": "Explain how El Niño can affect India's monsoon-dependent agriculture. Discuss the measures required to strengthen agricultural resilience against rainfall variability."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Kolkata building collapse and accountability in urban construction",
+        "summary": "The collapse of a building in Kolkata, which killed several people, exposed failures in construction oversight, building approvals and enforcement of safety standards. Fragmented responsibility among municipal bodies, developers and enforcement agencies can allow unsafe structures to persist. Stronger building audits, transparent approval systems, independent structural assessments and clear accountability are essential for safer urbanisation.",
+        "mainsquestion": "Urban disasters often arise from failures of planning and regulatory enforcement. Examine the causes of building collapses in Indian cities and suggest reforms."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Right to timely trauma care as part of the right to life",
+        "summary": "The Supreme Court's approach to trauma care reinforces the State's responsibility to ensure timely emergency medical treatment. Delays in stabilisation, referral and transport can turn preventable injuries into deaths. India needs accessible emergency departments, trained first responders, coordinated ambulance networks, trauma-care protocols and reliable financing, particularly along highways and in underserved regions.",
+        "mainsquestion": "Discuss the constitutional and public-health dimensions of the right to timely trauma care in India. What institutional reforms are required?"
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Foreign contributions and accountability under the FCRA",
+        "summary": "Debates over the Foreign Contribution (Regulation) Act highlight the balance between national security, financial transparency and the autonomy of civil society organisations. Foreign funding can support welfare and development activities, but weak oversight may create risks of diversion or non-compliance. Regulation should be proportionate, predictable and transparent, with effective appeal mechanisms and safeguards against arbitrary restrictions.",
+        "mainsquestion": "How can India regulate foreign contributions to voluntary organisations without undermining civil society and freedom of association?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "El Niño risks and the Indian monsoon",
+        "summary": "The possibility of a strong El Niño raises concerns about rainfall variability, agricultural production and water security. El Niño influences Pacific Ocean temperatures and atmospheric circulation, but its impact on the Indian monsoon also depends on other ocean-atmosphere factors. Preparedness requires accurate seasonal forecasts, crop contingency plans, resilient seeds, irrigation efficiency and timely support for vulnerable farmers.",
+        "mainsquestion": "Explain the influence of El Niño on the Indian monsoon. How can India strengthen agricultural resilience against possible rainfall deficits?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Pollinators and their contribution to agricultural productivity",
+        "summary": "Bees, butterflies, birds and other pollinators support the reproduction of many crops and wild plants. Habitat loss, pesticide exposure, climate change and disease threaten pollinator populations, with consequences for biodiversity, food production and rural livelihoods. Conservation requires pesticide management, restoration of natural habitats, diversified farming systems and monitoring of pollinator health.",
+        "mainsquestion": "Assess the ecological and economic importance of pollinators for Indian agriculture. Suggest measures to protect them."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-China engagement and the management of bilateral differences",
+        "summary": "Continuing diplomatic engagement between India and China reflects the need to manage the border situation while addressing wider political and economic differences. Confidence-building measures, military communication and diplomatic dialogue can reduce the risk of escalation. India must combine sustained engagement with border infrastructure, defence preparedness and diversification of critical supply chains.",
+        "mainsquestion": "Examine the opportunities and limitations of the ongoing India-China diplomatic engagement. How can India safeguard its strategic interests?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Mekedatu project and the Cauvery water-sharing dispute",
+        "summary": "The proposed Mekedatu balancing reservoir in Karnataka has renewed tensions with Tamil Nadu over the sharing of Cauvery waters. The dispute involves competing claims over drinking-water needs, irrigation, downstream flows and project approvals. Sustainable resolution requires transparent hydrological data, compliance with tribunal and court decisions, basin-level planning and cooperative federalism.",
+        "mainsquestion": "Inter-State river disputes require both constitutional mechanisms and cooperative water governance. Discuss with reference to the Cauvery basin."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "India's trade negotiations with the United States and the United Kingdom",
+        "summary": "India's trade negotiations with major partners involve difficult questions concerning market access, agriculture, standards, services and domestic regulatory priorities. Trade agreements can expand exports and investment, but poorly designed commitments may expose vulnerable sectors to adjustment pressures. India needs evidence-based negotiations, stronger export competitiveness and support for small firms to use new market opportunities.",
+        "mainsquestion": "Discuss the opportunities and challenges associated with India's current trade negotiations with major economies."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-26",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 4",
+        "priority": "High",
+        "topic": "Keeping humanity at the centre of the AI revolution",
+        "summary": "Rapid advances in artificial intelligence raise ethical questions concerning accountability, privacy, bias, employment and human autonomy. AI systems used in public services and high-stakes decisions must be transparent, explainable and subject to human oversight. A human-centred framework should combine innovation with rights protection, safety standards, accountability and equitable access.",
+        "mainsquestion": "How can India ensure that artificial intelligence remains human-centric while promoting innovation and economic growth?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Kolkata warehouse collapse and fragmented institutional accountability",
+        "summary": "The warehouse collapse in Kolkata, which caused multiple deaths, raised questions about construction permissions, safety inspections and the quality of materials. Where several agencies share responsibility, enforcement failures can go unaddressed. Risk-based inspections, digital records of approvals, independent structural audits and clear assignment of responsibility are essential to improve urban safety.",
+        "mainsquestion": "Why does fragmented accountability undermine urban disaster prevention in India? Suggest institutional and regulatory reforms."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Safety of Indian seafarers on vessels affected by international sanctions",
+        "summary": "The deployment of Indian seafarers on ships subject to international sanctions creates legal, diplomatic and occupational-safety concerns. Seafarers may face detention, insurance restrictions, port-access problems and uncertainty over consular protection. India needs clear employment standards, risk disclosures, stronger maritime oversight and coordination with flag States and international maritime bodies.",
+        "mainsquestion": "Examine the legal and humanitarian challenges faced by Indian seafarers working on vessels affected by international sanctions."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's shipbuilding ambitions and cooperation with South Korea",
+        "summary": "India's shipbuilding ambitions require modern shipyards, advanced technology, skilled labour and a reliable domestic supply chain. Cooperation with South Korea can support technology transfer, design capabilities and industrial investment. A successful strategy must also improve port connectivity, financing, component manufacturing and the competitiveness of Indian shipyards.",
+        "mainsquestion": "Discuss the strategic and economic significance of developing India's domestic shipbuilding industry. How can international partnerships support this objective?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "The Strait of Hormuz transit-route dispute and freedom of navigation",
+        "summary": "Disputes over passage through the Strait of Hormuz underline the importance of international maritime law and the security of global shipping lanes. Restrictions or threats to commercial vessels can disrupt energy supplies, raise insurance costs and affect trade. India has a strong interest in freedom of navigation, protection of seafarers and diplomatic efforts to prevent escalation.",
+        "mainsquestion": "Examine the implications of restrictions on maritime transit through the Strait of Hormuz for international law and India's energy security."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 1",
+        "priority": "High",
+        "topic": "The Emergency of 1975 and democratic memory in school education",
+        "summary": "The inclusion of the Emergency in school textbooks has revived discussion on how constitutional crises and democratic institutions should be taught. The period provides lessons on civil liberties, executive power, press freedom, judicial independence and the importance of institutional checks. Textbooks should present historical events accurately, encourage critical understanding and avoid partisan distortion.",
+        "mainsquestion": "What lessons does the Emergency of 1975 offer about constitutional safeguards and democratic accountability in India?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Home-based care and gaps in India's health insurance system",
+        "summary": "India's ageing population and growing burden of chronic illness are increasing demand for home-based care, rehabilitation and long-term support. Traditional health insurance often focuses on hospitalisation and may not adequately cover sustained care at home. Policy reform should expand primary healthcare, define standards for home-care services, support caregivers and develop affordable insurance products.",
+        "mainsquestion": "Discuss the challenges in financing home-based and long-term care in India. Suggest measures to make healthcare more inclusive for elderly and chronically ill persons."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Drug track-and-trace systems and patient safety",
+        "summary": "Track-and-trace mechanisms can help identify the movement of medicines through the supply chain and reduce the circulation of counterfeit or substandard drugs. Their effectiveness depends on interoperable technology, reliable product identification, regulatory capacity and participation by manufacturers and distributors. Stronger pharmacovigilance and transparent recall systems are also necessary to protect patients.",
+        "mainsquestion": "Evaluate the role of digital track-and-trace systems in improving pharmaceutical regulation and patient safety in India."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-27",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Iran's assertion of control over shipping in the Strait of Hormuz",
+        "summary": "Iran's renewed assertion of control over shipping through the Strait of Hormuz highlights the vulnerability of a major global energy corridor to geopolitical conflict. Disruption can affect oil and gas supplies, freight costs and maritime insurance. India must support freedom of navigation, protect its seafarers and diversify energy sources while pursuing diplomatic de-escalation.",
+        "mainsquestion": "Analyse the strategic significance of the Strait of Hormuz for India. What diplomatic and economic measures can reduce the risks arising from disruptions to this route?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Special Intensive Revision of electoral rolls and democratic accountability",
+        "summary": "The reported deletion of a large number of names during the first year of Special Intensive Revision has raised concerns about electoral inclusion and the accuracy of voter lists. Electoral-roll revision is important for preventing duplication and ensuring clean elections, but errors can disenfranchise eligible citizens. Transparent procedures, accessible claims and objections, clear documentation requirements and independent monitoring are essential.",
+        "mainsquestion": "How can the Election Commission balance the integrity of electoral rolls with the constitutional principle of universal adult suffrage?"
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "CBSE's three-language policy and the National Education Policy",
+        "summary": "Debate over the implementation of the three-language approach in schools reflects tensions between educational objectives, linguistic diversity and federal sensitivities. Multilingual learning can improve communication and cognitive development, but implementation must account for teacher availability, regional languages and student choice. A consultative approach is necessary to avoid imposing a uniform model across diverse States.",
+        "mainsquestion": "Examine the opportunities and challenges of implementing the three-language approach under NEP 2020 in India's multilingual federal structure."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Ethnic tensions and reconciliation efforts in Manipur",
+        "summary": "Disputes surrounding public apologies and past killings reflect the continuing difficulty of rebuilding trust among communities affected by ethnic violence in Manipur. Sustainable peace requires accountability for violence, rehabilitation of displaced people, restoration of livelihoods and credible political dialogue. Security measures must be accompanied by inclusive reconciliation and confidence-building.",
+        "mainsquestion": "Discuss the governance and security challenges in restoring peace in Manipur. Why must reconciliation and accountability accompany law-and-order measures?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Fire safety failures and urban disaster preparedness after the Lucknow fire",
+        "summary": "The Lucknow fire exposed weaknesses in building safety, emergency access and enforcement of fire regulations in rapidly growing cities. Dense development, unauthorised construction and inadequate inspection capacity increase the scale of urban disasters. Municipal authorities need updated fire-safety audits, functional exits, emergency access routes, trained responders and strict compliance monitoring.",
+        "mainsquestion": "Urban fire disasters reveal the gap between safety regulations and their enforcement. Discuss the reforms required to improve fire preparedness in Indian cities."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's anti-narcotics strategy and coordination against drug trafficking",
+        "summary": "The emphasis on coordination among agencies against narcotics trafficking highlights the cross-border and organised nature of the drug trade. Trafficking networks exploit maritime routes, porous borders, financial channels and digital communication. Effective action requires intelligence sharing, financial investigation, international cooperation, demand reduction, rehabilitation and stronger border management.",
+        "mainsquestion": "Examine the challenges in combating organised drug trafficking in India. Discuss the importance of an integrated strategy combining enforcement and public health."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Odisha textbook errors and accountability in school education",
+        "summary": "Errors in school textbooks and subsequent administrative action highlight the importance of quality control in educational content. Textbooks shape historical understanding, scientific literacy and civic values. Transparent review processes, expert scrutiny, teacher feedback and timely correction mechanisms are necessary to maintain academic standards and public trust.",
+        "mainsquestion": "Why is quality assurance in school textbooks important for educational governance and nation-building? Suggest institutional measures to improve it."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "India-New Zealand Free Trade Agreement and trade diversification",
+        "summary": "The India-New Zealand trade partnership offers opportunities to diversify export markets, improve investment flows and deepen economic engagement in the Indo-Pacific. The benefits of an FTA depend on market access, rules of origin, standards compliance and the ability of domestic producers to compete. India must ensure that small businesses, farmers and service providers can benefit from trade opportunities.",
+        "mainsquestion": "Assess the economic and strategic significance of India's trade engagement with New Zealand. What factors determine whether an FTA delivers broad-based benefits?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-28",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Amended FCRA Rules, 2026 and regulation of foreign donations",
+        "summary": "The amended Foreign Contribution Regulation Rules raise questions about the compliance obligations imposed on organisations receiving overseas donations. The FCRA seeks transparency and protection against misuse of foreign funds, but excessive administrative burdens can affect legitimate welfare and advocacy work. A sound regulatory framework should provide clear procedures, proportional penalties, timely decisions and effective review mechanisms.",
+        "mainsquestion": "Critically examine the implications of the amended FCRA Rules for civil society organisations and democratic accountability in India."
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Thermal energy storage and the challenge of storing solar power",
+        "summary": "Thermal energy storage can capture energy from sunlight or other sources and release it later as heat or electricity, helping address the intermittency of renewable power. Technologies such as molten-salt storage can support dispatchable energy and improve grid reliability. Wider adoption depends on cost reductions, system efficiency, suitable materials and integration with India's electricity infrastructure.",
+        "mainsquestion": "Explain the role of thermal energy storage in India's renewable energy transition. Discuss its technological and economic challenges."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "National fire safety standards for high-risk buildings",
+        "summary": "A petition seeking a national minimum fire and life-safety framework for high-risk public buildings highlights gaps in enforcement across States and urban local bodies. Differences in building codes, inspection capacity and emergency response can expose occupants to avoidable risks. National minimum standards, regular safety audits, accessible evacuation routes and clear liability rules can improve public safety.",
+        "mainsquestion": "Should India adopt a uniform minimum fire and life-safety framework for high-risk buildings? Discuss the need for national standards alongside State-level implementation."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "CGHS reforms to expedite treatment and medical reimbursement",
+        "summary": "Enhancing the financial powers of officials under the Central Government Health Scheme aims to reduce delays in approving treatment and reimbursements. Administrative bottlenecks can undermine access to healthcare even when beneficiaries are formally covered. Delegation of authority, digital processing, transparent timelines and grievance redressal can improve the efficiency of publicly funded health schemes.",
+        "mainsquestion": "Discuss how administrative decentralisation and digital governance can improve the delivery of publicly funded healthcare schemes in India."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Proof of Indian citizenship and the distinction between identity and citizenship documents",
+        "summary": "Debates over whether a passport, Aadhaar or voter identity card conclusively establishes citizenship highlight the distinction between identity verification and legal nationality. Different documents serve different statutory purposes and should not be treated as interchangeable. Clear procedures, due process and accessible appeals are important where citizenship status affects voting rights and access to public services.",
+        "mainsquestion": "Distinguish between identity, residence and citizenship documents in India. Discuss the importance of due process in determining citizenship."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Delhi's electric vehicle policy and the transition to clean urban mobility",
+        "summary": "Debate over Delhi's electric vehicle policy highlights the need to align vehicle electrification with charging infrastructure, electricity-grid capacity and affordability. EVs can reduce local tailpipe emissions, but their overall environmental benefits depend on electricity generation, battery production and recycling. A comprehensive policy must support public transport, charging networks, battery safety and responsible end-of-life management.",
+        "mainsquestion": "Evaluate the role of electric mobility in reducing urban air pollution. What infrastructure and regulatory measures are necessary for a sustainable EV transition?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Sea turtles and the use of internal magnetic cues during migration",
+        "summary": "Research on green sea turtles indicates that they use internal navigational cues, including Earth's magnetic field, to orient themselves during long-distance journeys. Understanding animal navigation can improve knowledge of migration, habitat use and the effects of changing environmental conditions. Conservation efforts must protect nesting beaches, feeding grounds and migration corridors from artificial lighting, fishing and coastal development.",
+        "mainsquestion": "How does scientific research on animal navigation contribute to biodiversity conservation? Discuss the threats facing migratory marine species such as sea turtles."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 3",
+        "priority": "Medium",
+        "topic": "Elephant conservation and the ecological role of large herbivores",
+        "summary": "Research highlighting the relationship between elephant activity and forest health points to the wider ecological role of large herbivores. Elephants can disperse seeds, modify vegetation and influence forest structure, although their effects vary across ecosystems. Conservation requires habitat connectivity, protection of corridors, conflict mitigation and community participation.",
+        "mainsquestion": "Explain the ecological importance of elephants in maintaining forest ecosystems. Discuss measures to reduce human-elephant conflict in India."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-Seychelles relations and the Indian Ocean as a shared strategic space",
+        "summary": "The Prime Minister's visit to Seychelles highlighted India's engagement with island countries in the Indian Ocean. Cooperation in maritime security, development assistance, climate resilience, healthcare and capacity-building supports India's regional partnerships. India must sustain its role as a reliable development and security partner while respecting the sovereignty and priorities of smaller island States.",
+        "mainsquestion": "Examine the strategic significance of Seychelles in India's Indian Ocean policy. How can India strengthen partnerships with island countries?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Iran-US tensions and the security of the Persian Gulf",
+        "summary": "Continuing tensions involving Iran, the United States and regional actors threaten maritime security and energy flows through the Persian Gulf. The risks extend beyond oil supplies to shipping insurance, global trade and the safety of seafarers. India needs active diplomacy, diversified energy sources, strategic reserves and stronger maritime-domain awareness.",
+        "mainsquestion": "Assess the impact of continuing Iran-US tensions on India's energy security and regional diplomacy."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "International law and attacks on neutral commercial ships",
+        "summary": "The legality of attacking neutral commercial vessels during an armed conflict depends on the applicable rules of international humanitarian law and the law of the sea. Civilian vessels are generally protected unless they meet specific conditions that make them lawful military objectives. The protection of crews, distinction between civilian and military targets and proportionality are central to maritime conflict law.",
+        "mainsquestion": "Examine the legal principles governing attacks on neutral commercial vessels during armed conflict. What are the implications for freedom of navigation?"
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Adolescent malnutrition and the role of schools",
+        "summary": "Adolescent nutrition is essential for physical growth, cognitive development and long-term health. Schools can support better nutrition through health screening, nutrition education, safe drinking water, sanitation and access to balanced meals. Addressing anaemia and undernutrition among adolescents also requires coordination between health services, families and education institutions.",
+        "mainsquestion": "Why should adolescent nutrition be treated as a priority in India's human-capital strategy? Discuss the role of schools and public-health programmes."
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "India-United Kingdom trade ties and the implementation of the trade agreement",
+        "summary": "The next phase of India-UK trade relations offers opportunities in goods, services, investment and professional mobility. The benefits of a trade agreement depend on implementation, regulatory cooperation and the ability of Indian businesses to meet standards in the British market. India must also support sectors and workers that may face greater competition.",
+        "mainsquestion": "Discuss the opportunities and challenges arising from deeper India-UK trade relations. How can India maximise the benefits of trade agreements?"
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Credibility of government-school surveys and evidence-based education policy",
+        "summary": "Questions about survey findings on fees charged by government schools underline the importance of reliable data in education governance. Incorrect or poorly designed surveys can distort policy priorities and undermine public confidence. Independent verification, transparent methodology, school-level records and social audits are important for evidence-based decision-making.",
+        "mainsquestion": "Explain the importance of reliable administrative data and independent surveys in improving public education policy."
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Digital surveillance, algorithmic control and constitutional safeguards",
+        "summary": "The idea of digital slavery draws attention to risks arising from excessive surveillance, opaque algorithms, data exploitation and dependence on digital platforms. Constitutional protections of privacy, dignity and personal liberty must extend to the digital environment. India needs strong data governance, transparency, user choice, independent oversight and effective remedies against misuse.",
+        "mainsquestion": "Examine the constitutional challenges posed by digital surveillance and algorithmic control. Suggest safeguards to protect individual liberty in the digital age."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "Medical-device regulation and ease of doing business in healthcare",
+        "summary": "Proposals to simplify licensing for medical devices seek to reduce procedural delays and support domestic manufacturing. Regulatory simplification must not weaken safety, quality testing or post-market surveillance. A risk-based licensing framework, clear standards and effective monitoring can encourage innovation while protecting patients.",
+        "mainsquestion": "How can India simplify medical-device regulation while ensuring patient safety and quality standards?"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "articles": [
+      {
+        "id": 1,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Industrial production growth and the adoption of a new Producer Price Index framework",
+        "summary": "Industrial production growth reached 5.1%, while the government moved towards adopting a Producer Price Index in the new industrial production data framework. A producer-price measure can offer a more detailed picture of price movements at the production stage than a wholesale-price measure. Reliable and timely industrial statistics are essential for monetary policy, economic planning and assessment of structural change.",
+        "mainsquestion": "Discuss the importance of improving India's price and industrial production statistics. How can a Producer Price Index strengthen economic policymaking?"
+      },
+      {
+        "id": 2,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Examination paper leaks and governance reforms in teacher eligibility tests",
+        "summary": "Suspected inter-State networks involved in examination paper leaks highlight weaknesses in examination security and public recruitment systems. Leaks undermine merit, impose financial and emotional costs on candidates and weaken trust in public institutions. Secure question-paper management, independent audits, digital tracking, strict penalties and transparent investigations are essential.",
+        "mainsquestion": "Examination leaks represent a failure of public administration and institutional integrity. Examine the reforms needed to secure public examinations in India."
+      },
+      {
+        "id": 3,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "CBSE's three-language policy and flexibility in school education",
+        "summary": "CBSE's decision to provide flexibility in implementing the three-language approach for Classes 7 to 9 reflects the practical challenges of multilingual education. The policy must account for regional language diversity, teacher availability, student learning needs and the federal character of education. Gradual implementation and consultation with States can help avoid unnecessary language conflicts.",
+        "mainsquestion": "Discuss how multilingual education can be promoted without undermining linguistic diversity and federal principles."
+      },
+      {
+        "id": 4,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Transparency and accountability in reporting military casualties during Operation Sindoor",
+        "summary": "Debates over disclosure of military casualties during Operation Sindoor raise questions about transparency, national security and democratic oversight. Governments must protect operationally sensitive information while ensuring credible public communication and accountability to Parliament and citizens. Clear protocols can help balance security requirements with the public's legitimate interest in information.",
+        "mainsquestion": "How can democratic accountability and transparency be balanced with operational secrecy in matters of national security?"
+      },
+      {
+        "id": 5,
+        "gs_paper": "GS Paper 2",
+        "priority": "High",
+        "topic": "Food poisoning incidents and gaps in food-safety regulation",
+        "summary": "An increase in food-poisoning cases points to weaknesses in food handling, hygiene, inspection and enforcement across the food supply chain. Effective food safety requires risk-based inspections, laboratory capacity, traceability, clear standards and prompt product recalls. Public awareness and accountability of food businesses are equally important in preventing outbreaks.",
+        "mainsquestion": "Examine the institutional challenges in enforcing food-safety standards in India. Suggest measures to strengthen food regulation and consumer protection."
+      },
+      {
+        "id": 6,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "India's operationally deployed nuclear warheads and nuclear doctrine",
+        "summary": "Discussion of India's operationally deployed nuclear warheads highlights the distinction between total nuclear stockpiles, deployed weapons and delivery systems. India's nuclear posture is shaped by credible minimum deterrence and its declared no-first-use policy, alongside the need for a survivable nuclear triad. Transparency about strategic capabilities must be balanced with deterrence requirements and regional stability.",
+        "mainsquestion": "Explain the key features of India's nuclear doctrine. How does credible minimum deterrence contribute to strategic stability in South Asia?"
+      },
+      {
+        "id": 7,
+        "gs_paper": "GS Paper 3",
+        "priority": "High",
+        "topic": "Delhi Electric Vehicle Policy 2026-2030",
+        "summary": "Delhi's EV policy seeks to accelerate the shift towards cleaner transport and reduce urban pollution. The transition requires affordable vehicles, reliable charging infrastructure, grid readiness, battery recycling and integration with public transport. The environmental gains of electrification also depend on the energy mix and responsible management of battery materials.",
+        "mainsquestion": "Evaluate the potential of electric vehicles to address urban air pollution in India. Discuss the infrastructure and policy challenges in scaling up electric mobility."
+      },
+      {
+        "id": 8,
+        "gs_paper": "GS Paper 2",
+        "priority": "Medium",
+        "topic": "India-US trade negotiations and the challenge of concluding a bilateral trade agreement",
+        "summary": "Differences over agriculture, tariffs, energy and regulatory issues have complicated India-US trade negotiations. A bilateral trade agreement could improve market access and investment, but India must protect legitimate domestic interests while pursuing predictable rules and stronger export opportunities. Negotiations require sector-specific assessment, transparent consultation and long-term strategic thinking.",
+        "mainsquestion": "Analyse the major opportunities and challenges in concluding a bilateral trade agreement between India and the United States."
+      }
+    ]
+  }
+]

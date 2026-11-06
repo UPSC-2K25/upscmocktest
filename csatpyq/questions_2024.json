@@ -1,0 +1,1202 @@
+[
+  {
+    "year": 2024,
+    "passageid": "2024_p1",
+    "topic": "Reading Comprehension - Inference",
+    "qno": 1,
+    "question": "Which of the following statements best reflect the most logical and rational inferences that can be made from the passage? 1. The current methods of food distribution are solely responsible for the loss and wastage of food. 2. Land productivity is adversely affected by the prevailing trend of food loss and wastage. 3. Reduction in the loss and wastage of food results in lesser carbon footprint. 4. Post-harvest technologies to prevent or reduce the loss and wastage of food are not available. Select the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 3",
+      "2 and 3 only",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Statement 1 is incorrect because food wastage occurs throughout the supply chain, not solely during distribution. Statement 2 is correct because the passage links food wastage with land degradation. Statement 3 is correct because reducing wastage would reduce emissions associated with wasted food. Statement 4 is unsupported because the passage does not say that relevant technologies are unavailable. Therefore, only statements 2 and 3 are correct."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p1",
+    "topic": "Reading Comprehension - Assumptions",
+    "qno": 2,
+    "question": "Based on the above passage, the following assumptions have been made: 1. The food distribution mechanism needs to be reimagined and made effective to reduce the loss and wastage of food. 2. Ensuring the reduction of wastage and loss of food is a social and moral responsibility of all citizens. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage describes substantial food loss across the supply chain and its environmental consequences. Assumption 1 is consistent with the need to improve food distribution and reduce wastage. Assumption 2 is consistent with the passage's inclusion of household consumption and the broader consequences of food waste. Both assumptions are considered valid in the referenced answer key."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p2",
+    "topic": "Reading Comprehension - Inference",
+    "qno": 3,
+    "question": "Which of the following statements best reflect the most logical and rational inference/inferences that can be made from the passage? 1. Central banks cannot bring down inflation without budgetary backing. 2. The effects of monetary policy depend on the fiscal policies pursued by the government. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage explicitly states that monetary policy eventually loses traction without fiscal backing. It also explains that higher interest rates can increase government borrowing costs and potentially worsen inflation when fiscal policy does not support monetary restraint. Thus, both statements are valid inferences."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p2",
+    "topic": "Reading Comprehension - Assumptions",
+    "qno": 4,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Fiscal policies of governments are solely responsible for higher prices. 2. Higher prices do not affect the long-term government bonds. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1 is invalid because the passage does not claim that fiscal policy alone causes higher prices; it discusses the interaction between monetary and fiscal policy. Statement 2 is also invalid because the passage explains that rising interest rates and public debt affect government borrowing costs and budget deficits. Therefore, neither assumption is valid."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Cube Cutting",
+    "qno": 5,
+    "question": "What is the least possible number of cuts required to cut a cube into 64 identical pieces?",
+    "options": [
+      "8",
+      "9",
+      "12",
+      "16"
+    ],
+    "answer": "B",
+    "explanation": "To obtain 64 identical cubes, divide the original cube into 4 equal parts along each of its three dimensions. This requires 3 cuts in each dimension, giving a total of 3 + 3 + 3 = 9 cuts."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Arithmetic Operations",
+    "qno": 6,
+    "question": "In the expression 5 * 4 * 3 * 2 * 1, each * is to be replaced by one of the operators +, -, or ×, with each operator used at most twice. What is the smallest non-negative value of the expression?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "answer": "D",
+    "explanation": "Replace the operators to obtain 5 - 4 - 3 + 2 × 1. Applying multiplication before addition and subtraction gives 5 - 4 - 3 + 2 = 0. Each operator is used no more than twice, so the smallest possible non-negative value is 0."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Time and Work",
+    "qno": 7,
+    "question": "A certain number of men can complete a piece of work in 6k days, where k is a natural number. By what percent should the number of men be increased so that the work can be completed in 5k days?",
+    "options": [
+      "10%",
+      "50/3%",
+      "20%",
+      "25%"
+    ],
+    "answer": "C",
+    "explanation": "For a fixed amount of work, the number of men and the number of days are inversely proportional. If M men complete the work in 6k days, the required number of men N satisfies M × 6k = N × 5k. Therefore, N = 6M/5. The increase is (N - M)/M × 100 = 20%."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Time and Work",
+    "qno": 8,
+    "question": "X, Y and Z can complete a piece of work individually in 6 hours, 8 hours and 8 hours respectively. However, only one person at a time can work in each hour and nobody can work for two consecutive hours. All are engaged to finish the work. What is the minimum amount of time that they will take to finish the work?",
+    "options": [
+      "6 hours 15 minutes",
+      "6 hours 30 minutes",
+      "6 hours 45 minutes",
+      "7 hours"
+    ],
+    "answer": "C",
+    "explanation": "X completes 1/6 of the work per hour, while Y and Z each complete 1/8. To minimize the total time, schedule the workers so that nobody works in consecutive hours and the highest possible work rate is maintained. The minimum completion time is 6 hours 45 minutes."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Number System and Trailing Zeros",
+    "qno": 9,
+    "question": "How many consecutive zeros are there at the end of the integer obtained in the product 1² × 2⁴ × 3⁶ × 4⁸ × ... × 25⁵⁰?",
+    "options": [
+      "50",
+      "55",
+      "100",
+      "200"
+    ],
+    "answer": "D",
+    "explanation": "Each factor n^(2n) contributes 2n copies of the prime factors of n. Trailing zeros are determined by the smaller of the total powers of 2 and 5. The total power of 5 is 10 from 5¹⁰, 20 from 10²⁰, 30 from 15³⁰, 40 from 20⁴⁰ and 100 from 25⁵⁰. Their sum is 200. The total power of 2 is greater, so the product ends in 200 consecutive zeros."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Perfect Squares and Cubes",
+    "qno": 10,
+    "question": "On January 1st, 2023, a person saved ₹1. On January 2nd, 2023, he saved ₹2 more than that on the previous day. On January 3rd, 2023, he saved ₹2 more than that on the previous day, and so on. At the end of which date was his total savings a perfect square as well as a perfect cube?",
+    "options": [
+      "7th January, 2023",
+      "8th January, 2023",
+      "9th January, 2023",
+      "Not possible"
+    ],
+    "answer": "B",
+    "explanation": "The daily savings are 1, 3, 5, 7, and so on, forming consecutive odd numbers. The sum of the first n odd numbers is n². After 8 days, the total savings are 8² = 64 = 4³, which is both a perfect square and a perfect cube. Therefore, the date is January 8th, 2023."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p3",
+    "topic": "Urban Planning",
+    "qno": 11,
+    "question": "Which one of the following statements best reflects the most logical and rational inference that can be made from the above passage?",
+    "options": [
+      "Curriculum for urban planning courses should have diverse and interdisciplinary approach.",
+      "In India, city administration is under bureaucracy which lacks formal training in urban planning and management.",
+      "In India, the management of urban areas is a local affair with a chronic problem of insufficient funds.",
+      "With high density of population and widespread poverty in our urban areas, planned development in them is very difficult."
+    ],
+    "answer": "A",
+    "explanation": "The passage highlights that successful urban planning draws on systems theory and combines computing, statistics, optimization, social sciences, geography and architecture. This supports an interdisciplinary approach to urban-planning education."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p3",
+    "topic": "Urban Planning",
+    "qno": 12,
+    "question": "Based on the above passage, the following assumptions have been made: 1. India needs a new generation of urban professionals with knowledge relevant to modern urban practice. 2. Indian universities at present have no capacity or potential to impart training in systems approach. Which of the assumptions given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage says that planning and planning education in India differ from those in the West, but it does not establish that India necessarily needs a new generation of professionals, nor that Indian universities lack the capacity or potential to teach a systems approach. Neither assumption is necessarily supported."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p4",
+    "topic": "Social Media and Democracy",
+    "qno": 13,
+    "question": "Which one of the following statements best reflects the central idea of the above passage?",
+    "options": [
+      "Constructed as a marketplace of views, social media ensures instant access to information.",
+      "Social media are not ideal or moral institutions but the products built by companies to make profits.",
+      "Social media have been created to strengthen democracies.",
+      "In today's world, social media are inevitable for well-informed social life."
+    ],
+    "answer": "B",
+    "explanation": "The passage focuses on how social-media platforms prioritize engagement and allow well-funded voices to dominate, even when content is inflammatory. Option B best captures the commercial incentives and the negative consequences discussed."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p4",
+    "topic": "Social Media and Democracy",
+    "qno": 14,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Internet is not inclusive enough. 2. Internet can adversely affect the quality of politics in a country. Which of the assumptions given above are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage suggests that those with greater financial resources can buy more visibility online, indicating unequal participation. It also explicitly states that political discourse suffers when online debate becomes a contest of outshining opponents and inflammatory content is promoted. Both assumptions are valid."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Divisibility",
+    "qno": 15,
+    "question": "222^333 + 333^222 is divisible by which of the following numbers?",
+    "options": [
+      "2 and 3 but not 37",
+      "3 and 37 but not 2",
+      "2 and 37 but not 3",
+      "2, 3 and 37"
+    ],
+    "answer": "B",
+    "explanation": "Factorise 222 = 2 × 3 × 37 and 333 = 3² × 37. Both terms are divisible by 3 and 37, so their sum is also divisible by both. However, 222^333 is even and 333^222 is odd. Their sum is odd and therefore not divisible by 2."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Percentage - Profit and Loss",
+    "qno": 16,
+    "question": "What percent of water must be mixed with honey so as to gain 20% by selling the mixture at the cost price of honey?",
+    "options": [
+      "20%",
+      "10%",
+      "5%",
+      "4%"
+    ],
+    "answer": "A",
+    "explanation": "Assume 100 units of honey cost ₹100. For a 20% profit, the mixture must sell for ₹120 at the same price per unit as honey. Therefore, add 20 units of free water. Water added as a percentage of the original honey quantity = 20/100 × 100 = 20%."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Unit Digit",
+    "qno": 17,
+    "question": "What is the rightmost digit preceding the zeros in the value of 30^30?",
+    "options": [
+      "1",
+      "3",
+      "7",
+      "9"
+    ],
+    "answer": "D",
+    "explanation": "30^30 = 3^30 × 10^30, so the number ends in 30 zeros. The digit immediately before these zeros is the units digit of 3^30. The units digits of powers of 3 repeat in the cycle 3, 9, 7, 1. Since 30 leaves remainder 2 when divided by 4, the required digit is 9."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Remainders and Divisors",
+    "qno": 18,
+    "question": "421 and 427, when divided by the same number, leave the same remainder 1. How many numbers can be used as the divisor in order to get the same remainder 1?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "C",
+    "explanation": "If the remainder is 1, the divisor must divide both 421 − 1 = 420 and 427 − 1 = 426. Their HCF is 6. The divisors of 6 greater than 1 are 2, 3 and 6. Hence, three divisors are possible."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - HCF and Divisors",
+    "qno": 19,
+    "question": "A can X contains 399 litres of petrol and a can Y contains 532 litres of diesel. They are to be bottled in bottles of equal size so that whole of petrol and diesel would be separately bottled. The bottle capacity in terms of litres is an integer. How many different bottle sizes are possible?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "B",
+    "explanation": "The bottle capacity must divide both 399 and 532 exactly. Their HCF is 133, since 399 = 3 × 133 and 532 = 4 × 133. The positive divisors of 133 = 7 × 19 are 1, 7, 19 and 133. Thus, four different bottle capacities are possible."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Prime Numbers and Units Digit",
+    "qno": 20,
+    "question": "Consider the following statements in respect of the sum S = x + y + z, where x, y and z are distinct prime numbers each less than 10: 1. The unit digit of S can be 0. 2. The unit digit of S can be 9. 3. The unit digit of S can be 5. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The primes less than 10 are 2, 3, 5 and 7. For statement 1, 3 + 5 + 2 = 10, so the units digit can be 0. For statement 2, the sum of any three distinct primes from this set cannot end in 9. For statement 3, 3 + 5 + 7 = 15, so the units digit can be 5. Therefore, statements 1 and 3 are correct."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p5",
+    "topic": "Education",
+    "qno": 21,
+    "question": "Based on the above passage, the following assumptions have been made: 1. For effective school education, parents have greater role than the governments. 2. School curriculum that conforms to today's requirements and is uniform for the entire country may address the issues brought out. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage describes poor academic competencies among schoolchildren and the mismatch between their skills and future expectations. It does not establish that parents have a greater role than governments, or that a uniform curriculum aligned with current requirements would solve the problems."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p5",
+    "topic": "Education and Public Policy",
+    "qno": 22,
+    "question": "Which one of the following statements best reflects the central idea conveyed by the passage?",
+    "options": [
+      "Total eradication of poverty in the country will resolve the issue of under-performance of our school-children.",
+      "Monetary incentives to parents and teachers is a strategy to improve the children's academic performance.",
+      "Public policy should ensure that competencies and achievements of young people are aligned with their expectations.",
+      "India is not going to take advantage of the demographic dividend unless some school pass-outs go back to agriculture."
+    ],
+    "answer": "C",
+    "explanation": "The passage emphasizes that young people and their families expect further education and better opportunities, while actual academic competencies remain weak. The central idea is that public policy should address this mismatch between young people's capabilities and their aspirations."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p6",
+    "topic": "Science and Social Responsibility",
+    "qno": 23,
+    "question": "Which one of the following statements best reflects the thinking of the author about science?",
+    "options": [
+      "Science must value the commitment of the scientists.",
+      "Science is a product of civilized society and must be used for the promotion of scientific awareness in people.",
+      "Industrial revolution was made possible by the advancements in science.",
+      "Science must pursue truth but be responsible for social welfare."
+    ],
+    "answer": "D",
+    "explanation": "The passage contrasts the earlier view of science as an account of the world whose responsibility was to tell the truth with the modern view that science also has a social responsibility. Option D captures both ideas."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Letter Sequence",
+    "qno": 24,
+    "question": "Consider the sequence A_BCD_BBCDABC_DABC_D that follows a certain pattern. Which one of the following completes the sequence?",
+    "options": [
+      "B, A, D, C",
+      "B, A, C, D",
+      "A, A, C, D",
+      "A, A, D, C"
+    ],
+    "answer": "C",
+    "explanation": "The sequence can be divided into four groups: AABCD, ABBCD, ABCCD and ABCDD. Each group contains A, B, C and D, with one letter repeated; the repeated letter progresses from A to B to C to D. Therefore, the missing letters are A, A, C and D."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Ratio and Proportion - Partnership",
+    "qno": 25,
+    "question": "Two persons P and Q enter into a business. P puts Rs. 14,000 more than Q, but P has invested for 8 months and Q has invested for 10 months. If P's share is Rs. 400 more than Q's share out of the total profit of Rs. 2,000, what is the capital contributed by P?",
+    "options": [
+      "Rs. 30,000",
+      "Rs. 26,000",
+      "Rs. 24,000",
+      "Rs. 20,000"
+    ],
+    "answer": "A",
+    "explanation": "Total profit is Rs. 2,000, and P receives Rs. 400 more than Q. Therefore, P's share is Rs. 1,200 and Q's share is Rs. 800. Their profit ratio is 3:2. Profit shares are proportional to capital multiplied by investment time. Hence, (P's capital × 8)/(Q's capital × 10) = 3/2, giving P's capital : Q's capital = 15:8. The difference of 7 parts equals Rs. 14,000, so one part is Rs. 2,000. P's capital = 15 × 2,000 = Rs. 30,000."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Percentage - Successive Percentage Change",
+    "qno": 26,
+    "question": "P's salary is 20% lower than Q's salary, which is 20% lower than R's salary. By how much percent is R's salary more than P's salary?",
+    "options": [
+      "48.75%",
+      "56.25%",
+      "60.50%",
+      "62.25%"
+    ],
+    "answer": "B",
+    "explanation": "Assume R's salary is 100. Q's salary is 20% lower, so Q = 80. P's salary is 20% lower than Q's, so P = 80 × 0.8 = 64. The difference between R's and P's salaries is 100 − 64 = 36. Percentage by which R's salary exceeds P's = (36/64) × 100 = 56.25%."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Percentage - Error in Arithmetic Operations",
+    "qno": 27,
+    "question": "A number is mistakenly divided by 4 instead of multiplying by 4. What is the percentage change in the result due to this mistake?",
+    "options": [
+      "25%",
+      "50%",
+      "72.75%",
+      "93.75%"
+    ],
+    "answer": "D",
+    "explanation": "Let the original number be x. The correct result is 4x, while the mistaken result is x/4. The reduction is 4x − x/4 = 15x/4. Taking the correct result as the base, percentage decrease = [(15x/4)/(4x)] × 100 = (15/16) × 100 = 93.75%. Thus, the result decreases by 93.75%."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Percentage - Sets and Venn Diagrams",
+    "qno": 28,
+    "question": "In an examination, 80% of students passed in English, 70% of students passed in Hindi and 15% failed in both the subjects. What is the percentage of students who failed in only one subject?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "35%"
+    ],
+    "answer": "B",
+    "explanation": "Since 15% failed in both subjects, 85% passed in at least one subject. Let x% have passed in both subjects. Using the inclusion-exclusion principle, 80 + 70 − x = 85, so x = 65%. Therefore, 15% passed only English and 5% passed only Hindi. Students who failed in exactly one subject are those who passed only one subject: 15% + 5% = 20%."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Problems on Ages",
+    "qno": 29,
+    "question": "A father said to his son, 'n years back I was as old as you are now. My present age is four times your age n years back.' If the sum of the present ages of the father and the son is 130 years, what is the difference of their ages?",
+    "options": [
+      "30 years",
+      "32 years",
+      "34 years",
+      "36 years"
+    ],
+    "answer": "A",
+    "explanation": "Let the present ages of the father and son be F and S, respectively. Since the father was as old as the son's present age n years ago, F − n = S, giving n = F − S. The son's age n years ago was S − n = 2S − F. According to the second condition, F = 4(2S − F), so 5F = 8S. Also, F + S = 130. Substituting F = 8S/5 gives 13S/5 = 130, so S = 50 and F = 80. Their age difference is 80 − 50 = 30 years."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Units and Measurements",
+    "qno": 30,
+    "question": "Consider the following statements: 1. 1000 litres = 1 m³. 2. 1 metric ton = 1000 kg. 3. 1 hectare = 10000 m². Which of the above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1 is correct because 1 litre = 0.001 m³, so 1000 litres = 1 m³. Statement 2 is correct because one metric tonne equals 1000 kilograms. Statement 3 is correct because one hectare equals 10,000 square metres. Therefore, all three statements are correct."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p7",
+    "topic": "Science and Society",
+    "qno": 31,
+    "question": "Which of the following is/are emphatically conveyed by the author of the passage? 1. Without science, mankind could not have continued to exist till today. 2. It is the science that will ultimately determine the destiny of mankind. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage emphasizes the relationship between science and humanity, but it does not claim that mankind could not have survived without science or that science alone determines humanity's destiny. Neither statement is explicitly supported."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p7",
+    "topic": "Science and Society",
+    "qno": 32,
+    "question": "Based on the above passage, the following assumptions have been made: 1. The horrors of modern life are the inevitable result of the progress of science. 2. The aspect of truth likely to be overlooked is that science is what man has made it. Which of the assumptions given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The author questions whether international conflict is an inevitable result of scientific progress, so assumption 1 is not supported. The passage argues that science and mankind cannot be separated and that science should not be treated as an independent entity to blame or praise. This supports assumption 2."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p8",
+    "topic": "Travel and Cultural Values",
+    "qno": 33,
+    "question": "When we meet other people while we travel, we learn to differentiate between",
+    "options": [
+      "Imagination and understanding",
+      "Communities and nationalities",
+      "Local values and universal values",
+      "Friends and foes"
+    ],
+    "answer": "C",
+    "explanation": "The passage explains that travel helps people recognize which values are specific to a culture and which are shared across cultures. Therefore, the distinction is between local values and universal values."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p8",
+    "topic": "Travel and Cultural Values",
+    "qno": 34,
+    "question": "With reference to the above passage, the following assumptions have been made: 1. Travel leads to an understanding of humans. 2. Travel helps those who wish to learn fundamental common values. 3. A person with long experience in travel can resolve differences amongst people. Which of the assumptions given above are valid?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The passage directly says that travel helps people learn fundamental common values, supporting assumption 2. It also describes how long experience among people from different cultures helps distinguish local from universal values. However, it does not establish that travel necessarily leads to a general understanding of all humans or that experienced travellers can resolve differences among people. The cited answer key lists B."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Digit Interchange",
+    "qno": 35,
+    "question": "Let X be a two-digit number and Y be another two-digit number formed by interchanging the digits of X. If X + Y is the greatest two-digit number, then what is the number of possible values of X?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "D",
+    "explanation": "Let X = 10a + b and Y = 10b + a, where a and b are digits and both numbers are two-digit numbers. Since X + Y = 99, we get 11a + 11b = 99, so a + b = 9. The possible ordered pairs of digits are (1,8), (2,7), (3,6), (4,5), (5,4), (6,3), (7,2) and (8,1). Thus, there are 8 possible values of X."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Arithmetic - Averages and Ratios",
+    "qno": 36,
+    "question": "Consider the following: Weight of 6 boys = Weight of 7 girls = Weight of 3 men = Weight of 4 women. If the average weight of the women is 63 kg, then what is the average weight of the boys?",
+    "options": [
+      "40 kg",
+      "42 kg",
+      "45 kg",
+      "63 kg"
+    ],
+    "answer": "B",
+    "explanation": "The total weight of 4 women is 4 × 63 = 252 kg. According to the given equality, the total weight of 6 boys is also 252 kg. Therefore, the average weight of the boys is 252 ÷ 6 = 42 kg."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Clocks",
+    "qno": 37,
+    "question": "How many times do the hour hand and the minute hand coincide in a clock between 10:00 a.m. and 2:00 p.m. on the same day?",
+    "options": [
+      "3 times",
+      "4 times",
+      "5 times",
+      "6 times"
+    ],
+    "answer": "A",
+    "explanation": "The minute hand gains 55 degrees per minute over the hour hand in terms of their relative angular speed: 6 − 0.5 = 5.5 degrees per minute. The hands coincide approximately every 65 5/11 minutes. Between 10:00 a.m. and 2:00 p.m., they coincide three times: approximately at 10:54, 12:00 and 1:05. Hence, the answer is 3 times."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Calendars",
+    "qno": 38,
+    "question": "The calendar for the year 2025 is the same as that for which of the following years?",
+    "options": [
+      "2029",
+      "2030",
+      "2031",
+      "2033"
+    ],
+    "answer": "C",
+    "explanation": "The year 2025 is a common year beginning on a Wednesday. The year 2031 is also a common year beginning on a Wednesday. Since both years have the same starting weekday and the same number of days, their calendars are identical."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Odd and Even Numbers",
+    "qno": 39,
+    "question": "Let p, q, r and s be distinct positive integers. Let p and q be odd and r and s be even. Consider the following statements: 1. (p − r)²(qs) is even. 2. (q − s)q²s is even. 3. (q + r)²(p + s) is odd. Which of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1: p − r is odd, so (p − r)² is odd. Since q is odd and s is even, qs is even. Odd × even is even. Statement 1 is correct. Statement 2: q − s is odd and q² is odd, while s is even. Odd × odd × even is even. Statement 2 is correct. Statement 3: q + r is odd, so (q + r)² is odd. Also, p + s is odd. Odd × odd is odd. Statement 3 is correct. Therefore, all three statements are correct."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Clock Angles",
+    "qno": 40,
+    "question": "What is the angle between the minute hand and the hour hand when the clock shows 4:25 hours?",
+    "options": [
+      "12.5°",
+      "15°",
+      "17.5°",
+      "20°"
+    ],
+    "answer": "C",
+    "explanation": "At 4:25, the minute hand is at 25 × 6 = 150° from 12. The hour hand is at 4 × 30 + 25 × 0.5 = 132.5° from 12. The angle between the hands is 150° − 132.5° = 17.5°. Therefore, option C is correct."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p9",
+    "topic": "Education and Skill Development",
+    "qno": 41,
+    "question": "Which of the following statements best reflects/reflect the most logical and rational inference/inferences that can be made from the passage? 1. In conventional classroom learning, the central goal is duration of learning rather than attainment of competency. 2. Conventional classrooms encourage one-size-fits-all approach and stamp out all differentiation. Select the correct answer using the code given below.",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage criticizes a system that advances after a fixed period regardless of whether students have achieved the required competencies. This supports both statements: time spent learning is prioritized over mastery, and the system does not adequately accommodate differences in learners' progress."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p9",
+    "topic": "Education and Skill Development",
+    "qno": 42,
+    "question": "Based on the above passage, the following assumptions have been made: 1. As a large number of workers in our country are employed in the unorganized sector, India does not need to change its present conventional classroom system of education. 2. Even with its present conventional classroom system of education, India produces sufficient number of skilled workers to fully realize the benefits of demographic dividend. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage criticizes conventional education for prioritizing time spent in learning over competency and notes low graduate employability. It supports neither the claim that India need not change its system nor the claim that the current system produces enough skilled workers to fully realize the demographic dividend."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p10",
+    "topic": "Parenting and Adolescence",
+    "qno": 43,
+    "question": "Based on the above passage, the following assumptions have been made: 1. The adolescent does not feel comfortable with his parents because they tend to be dominating and assertive. 2. The adolescent of modern times does not have much respect for parents. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The passage describes parental concern as sometimes masking a desire for control and says that parents' dogmatic opinions discourage adolescents from confiding in them. This supports assumption 1. It does not establish that adolescents generally lack respect for their parents, so assumption 2 is unsupported."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p10",
+    "topic": "Parenting and Adolescence",
+    "qno": 44,
+    "question": "Which one of the following statements best reflects the central idea of the above passage?",
+    "options": [
+      "Parents in general may not be of much help when children are on their way to becoming adults.",
+      "When children reach adolescence, involvement of parents in their lives is unnecessary.",
+      "Modern-day nuclear families are not capable of bringing up children properly.",
+      "In modern societies, adolescents tend to be stubborn, disobedient and careless."
+    ],
+    "answer": "A",
+    "explanation": "The passage explains that parents' controlling and dogmatic approach can make adolescents reluctant to confide in them. Option A best captures this concern without claiming that all parental involvement is unnecessary or that adolescents are inherently disobedient."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Counting Digits",
+    "qno": 45,
+    "question": "What is the number of fives used in numbering a 260-page book?",
+    "options": [
+      "55",
+      "56",
+      "57",
+      "60"
+    ],
+    "answer": "B",
+    "explanation": "Count the occurrences of the digit 5 from page 1 to page 260. In the units place, 5 occurs 26 times: 5, 15, 25, ..., 255. In the tens place, it occurs 30 times: pages 50–59, 150–159 and 250–259. There are no occurrences in the hundreds place. Total = 26 + 30 = 56."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Series and Summation",
+    "qno": 46,
+    "question": "What is the sum of the first 28 terms in the following sequence? 1, 1, 2, 1, 3, 2, 1, 4, 3, 2, 1, 5, 4, 3, 2, ...",
+    "options": [
+      "83",
+      "84",
+      "85",
+      "86"
+    ],
+    "answer": "B",
+    "explanation": "The sequence is arranged in groups: (1), (1, 2), (1, 3, 2), (1, 4, 3, 2), and so on. The sum of the first n groups is calculated by adding the group sums. The first 7 complete groups contain 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 terms, and their total is 1 + 3 + 6 + 10 + 15 + 21 + 28 = 84. Therefore, the required sum is 84."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Percentage and Ratio",
+    "qno": 47,
+    "question": "A person buys three articles P, Q and R for ₹3,330. If P costs 25% more than R and R costs 20% more than Q, then what is the cost of P?",
+    "options": [
+      "₹1,000",
+      "₹1,200",
+      "₹1,250",
+      "₹1,350"
+    ],
+    "answer": "D",
+    "explanation": "Let the cost of Q be x. Since R costs 20% more than Q, R = 1.2x. Since P costs 25% more than R, P = 1.25 × 1.2x = 1.5x. The total cost is 1.5x + x + 1.2x = 3.7x = 3330. Hence, x = 900 and P = 1.5 × 900 = ₹1,350."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Number Puzzles",
+    "qno": 48,
+    "question": "If the sum of the two-digit numbers AB and CD is the three-digit number 1CE, where the letters A, B, C, D, E denote distinct digits, then what is the value of A?",
+    "options": [
+      "9",
+      "8",
+      "7",
+      "Cannot be determined due to insufficient data"
+    ],
+    "answer": "A",
+    "explanation": "Write the addition as (10A + B) + (10C + D) = 100 + 10C + E. The tens-column addition must produce a carry into the hundreds column, so A + C plus the carry from the units column equals 10 + C. Therefore, A plus the carry equals 10. Since the carry is 1, A = 9."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Inequalities and Counting",
+    "qno": 49,
+    "question": "Three numbers x, y, z are selected from the set of the first seven natural numbers such that x > 2y > 3z. How many such distinct triplets (x, y, z) are possible?",
+    "options": [
+      "One triplet",
+      "Two triplets",
+      "Three triplets",
+      "Four triplets"
+    ],
+    "answer": "D",
+    "explanation": "The numbers are selected from 1, 2, 3, 4, 5, 6 and 7. Since 2y > 3z and x > 2y, test possible values of z. For z = 1, y can be 2 or 3. If y = 2, x can be 5, 6 or 7, giving three triplets. If y = 3, x must be 7, giving one triplet. For z ≥ 2, the inequalities cannot be satisfied with x ≤ 7. Total = 3 + 1 = 4 triplets."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Algebra and Cost Relationships",
+    "qno": 50,
+    "question": "The total cost of 4 oranges, 6 mangoes and 8 apples is equal to twice the total cost of 1 orange, 2 mangoes and 5 apples. Consider the following statements: 1. The total cost of 3 oranges, 5 mangoes and 9 apples is equal to the total cost of 4 oranges, 6 mangoes and 8 apples. 2. The total cost of one orange and one mango is equal to the cost of one apple. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "Let the costs of an orange, mango and apple be O, M and A, respectively. Given 4O + 6M + 8A = 2(O + 2M + 5A). Simplifying gives 2O + 2M = 2A, or O + M = A. Thus, statement 2 is correct. For statement 1, subtract the cost of 4 oranges, 6 mangoes and 8 apples from the cost of 3 oranges, 5 mangoes and 9 apples. The difference is −O − M + A = 0 because O + M = A. Hence, statement 1 is also correct."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p11",
+    "topic": "Environment and Carbon Sequestration",
+    "qno": 51,
+    "question": "Which one of the following statements best reflects the most logical, rational and practical suggestion implied by the passage?",
+    "options": [
+      "It is a cheap and practical method to produce limestone at commercial level for building purposes.",
+      "This can be used as one of the methods of carbon sequestration.",
+      "Basalt rock can be made a good source of calcium and magnesium minerals by this method.",
+      "Good rock-dissolving acid can be produced by mixing carbon dioxide and water."
+    ],
+    "answer": "B",
+    "explanation": "The passage describes a process that converts carbon dioxide into solid limestone by reacting it with minerals in basalt rock. This suggests a way to capture and store carbon dioxide, known as carbon sequestration."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p12",
+    "topic": "Environment and Marine Ecosystems",
+    "qno": 52,
+    "question": "Based on the above passage, the following assumptions have been made: 1. Giant icebergs have a bearing on primary productivity and food chains of the Southern Ocean. 2. Melting of giant icebergs can produce climate change effects and impact world fisheries. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The passage links melting icebergs to increased phytoplankton growth through iron and other nutrients. Phytoplankton supports marine food chains and contributes to carbon cycling. The passage supports the ecological significance of icebergs; published answer keys list both assumptions as valid, although assumption 2 is less directly established by the passage."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p13",
+    "topic": "Agriculture and Sustainable Pest Control",
+    "qno": 53,
+    "question": "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the passage?",
+    "options": [
+      "Farmers can use caterpillars to feed on weeds in their crop fields/plantations.",
+      "This finding can help in the development of clinically useful antimicrobial compounds.",
+      "This finding can help in the development of organic, ecologically sustainable pesticides.",
+      "Caterpillars can be genetically modified to be predators of the other plant pests."
+    ],
+    "answer": "C",
+    "explanation": "The discovery that compounds in caterpillar frass affect plant defence responses may help researchers develop new pest-control methods. This supports the possibility of more organic and ecologically sustainable pesticides."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Mathematics - Divisibility",
+    "qno": 54,
+    "question": "32^5 + 2^27 is divisible by",
+    "options": [
+      "3",
+      "7",
+      "10",
+      "11"
+    ],
+    "answer": "C",
+    "explanation": "Since 32 = 2^5, we have 32^5 + 2^27 = 2^25 + 2^27 = 2^25(1 + 2^2) = 5 × 2^25. This expression is divisible by both 5 and 2, hence by 10. Among the given options, 10 is the correct answer."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Positive Integers",
+    "qno": 55,
+    "question": "Let p and q be positive integers satisfying p < q and p + q = k. What is the smallest value of k that does not determine p and q uniquely?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "C",
+    "explanation": "For k = 3, the only possible pair is p = 1 and q = 2. For k = 4, the only pair satisfying p < q is p = 1 and q = 3. For k = 5, there are two possible pairs: (1, 4) and (2, 3). Therefore, the smallest value of k that does not determine p and q uniquely is 5."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Direction Sense",
+    "qno": 56,
+    "question": "A person walks 100 m straight from his house, turns left and walks 100 m, again turns left and walks 300 m, then turns right and walks 100 m to reach his office. In which direction does he walk initially from his house if his office is exactly in the North-East direction?",
+    "options": [
+      "North-West",
+      "West",
+      "South",
+      "South-West"
+    ],
+    "answer": "C",
+    "explanation": "Assume the person initially walks south for 100 m. Turning left, he walks east for 100 m. Turning left again, he walks north for 300 m. Turning right from north, he walks east for another 100 m. His net displacement is 200 m north and 200 m east, placing the office exactly north-east of his house. Therefore, his initial direction is south."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Direction and Turns",
+    "qno": 57,
+    "question": "A person walks 100 m westward, then turns left and walks 100 m. He then takes a 225° turn clockwise. In which direction is he walking now?",
+    "options": [
+      "South-West",
+      "South-East",
+      "North-West",
+      "North-East"
+    ],
+    "answer": "D",
+    "explanation": "Initially, the person walks west. A left turn from west points south. He then turns 225° clockwise from south. A clockwise turn of 180° points north, and the remaining 45° points north-east. Therefore, the final direction is north-east."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Statement and Conclusions",
+    "qno": 58,
+    "question": "Statement: India is the world's largest producer of milk. Conclusion I: India is the world's largest exporter of milk. Conclusion II: India does not import milk. Which one of the following is correct?",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and Conclusion II follow",
+      "Neither Conclusion I nor Conclusion II follows"
+    ],
+    "answer": "D",
+    "explanation": "Being the largest producer does not necessarily mean that a country is the largest exporter, because domestic consumption may be high and other countries may export a larger share of their production. Likewise, being the largest producer does not establish that the country imports no milk. Neither conclusion follows from the given statement alone."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 59,
+    "question": "A question is given followed by two statements I and II. Question: What are the values of m and n, where m and n are natural numbers? Statement I: m + n > mn and m > n. Statement II: The product of m and n is 24. Which one of the following is correct in respect of the question and the statements?",
+    "options": [
+      "The question can be answered using one of the statements alone, but not the other statement alone",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not using either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "C",
+    "explanation": "Statement I alone is insufficient because multiple pairs of natural numbers can satisfy m + n > mn and m > n. Statement II alone is also insufficient because 24 has several factor pairs, including (24, 1), (12, 2), (8, 3) and (6, 4). Combining the statements, the pair must have product 24, satisfy m > n and also satisfy m + n > mn. Only (m, n) = (24, 1) meets all conditions. Thus, both statements together are sufficient, but neither alone is sufficient."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency and Unit Conversion",
+    "qno": 60,
+    "question": "A question is given followed by two statements I and II. Question: What is the time required to download the software? Statement I: The size of the software is 12 megabytes. Statement II: The transfer rate is 2.4 kilobytes per second. Which one of the following is correct in respect of the question and the statements?",
+    "options": [
+      "The question can be answered using one of the statements alone, but not the other statement alone",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not using either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "C",
+    "explanation": "Statement I gives the file size but not the download speed. Statement II gives the transfer rate but not the file size. Both are required to calculate the time. Converting 12 megabytes to 12,000 kilobytes using the decimal convention, the download time is 12,000 ÷ 2.4 = 5,000 seconds, or 83 minutes and 20 seconds. Therefore, both statements together are sufficient, but neither alone is sufficient."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p14",
+    "topic": "Democracy and Media",
+    "qno": 61,
+    "question": "Which one of the following statements best reflects the crux of the above passage?",
+    "options": [
+      "Responsible media should not distort the real in an ideal democracy.",
+      "Fake news seems inherent in the life of an ideal democracy.",
+      "There should not be any kind of restrictions on the freedom of expression in an ideal democracy.",
+      "Irresponsible media and political leaders cannot be effectively controlled in an ideal democracy."
+    ],
+    "answer": "A",
+    "explanation": "The passage emphasizes that a robust democracy requires reality to be expressed transparently through political discourse and media. Responsible media must communicate reality without distortion."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p15",
+    "topic": "Technology, Consumer Data and Privacy",
+    "qno": 62,
+    "question": "Which one of the following statements best reflects the most logical, rational and practical message implied by the passage?",
+    "options": [
+      "Knowledge of consumer behaviour leads to more capital expenditure in the manufacturing sector.",
+      "Knowledge of consumer behaviour stimulates the growth of commerce and trade and thus helps in the overall economic development of the country.",
+      "Interconnected devices give a lot of comfort to home users and improve the overall quality of life.",
+      "Interconnected devices can be at security risk and home users may have privacy risk."
+    ],
+    "answer": "D",
+    "explanation": "The passage warns that interconnected devices allow companies to collect personal data, potentially without users' consent. This raises concerns about data security and the privacy of people in their homes."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p16",
+    "topic": "Green Growth and Environmental Sustainability",
+    "qno": 63,
+    "question": "Which one of the following statements best reflects the crux of the above passage?",
+    "options": [
+      "Environmental sustainability is inimical to our objective of achieving a high rate of GDP growth.",
+      "Poverty eradication is not possible without rapid economic growth and the consequent environmental degradation.",
+      "Maintaining high environmental standards is now a prerequisite for achieving a steady, sufficient and inclusive growth.",
+      "With large populations, rampant poverty and limited resources of today's world, environmental degradation cannot be prevented and inequalities are inevitable."
+    ],
+    "answer": "C",
+    "explanation": "The passage advocates green growth that accounts for environmental limits and the needs of poor and vulnerable groups. It supports efficient, resource-conscious development as a foundation for sustainable and inclusive growth."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 64,
+    "question": "A question is given followed by two statements I and II. Consider the question and the statements. Question: What are the unique values of x and y, where x and y are distinct natural numbers? Statement-I: x/y is odd. Statement-II: xy = 12. Which one of the following is correct in respect of the above question and the statements?",
+    "options": [
+      "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+      "The question can be answered by using either statement alone.",
+      "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+      "The question cannot be answered even by using both the statements together."
+    ],
+    "answer": "C",
+    "explanation": "Statement I alone does not determine unique values, because many distinct natural-number pairs have an odd integer ratio. Statement II alone allows several factor pairs of 12. Together, the conditions identify x = 6 and y = 2: their product is 12 and x/y = 3, an odd integer. Thus both statements are required."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 65,
+    "question": "A certain amount was distributed among X, Y and Z. Who received the least amount? Statement-I: X received 4/5 of what Y and Z together received. Statement-II: Y received 2/7 of what X and Z together received. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "C",
+    "explanation": "Let the total amount be T. Statement I gives X = 4/5(Y + Z), so X = 4T/9. Statement II gives Y = 2/7(X + Z), so 9Y = 2T and Y = 2T/9. Therefore, Z = T − 4T/9 − 2T/9 = T/3. Together, the statements establish that Y received the least amount. Neither statement alone determines who received the least."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Averages and Data Sufficiency",
+    "qno": 66,
+    "question": "If the average marks in a class are 60, what is the number of students in the class? Statement-I: The highest marks in the class are 70 and the lowest marks are 50. Statement-II: Exclusion of the highest and lowest marks from the class does not change the average. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "D",
+    "explanation": "Statement I gives only the highest and lowest marks, not the number of students. For Statement II, let the number of students be n and the total marks be 60n. Removing the highest and lowest marks removes 70 + 50 = 120 marks. Since the average remains 60, the remaining total must equal 60(n − 2). Thus, 60n − 120 = 60(n − 2), an identity that holds for any suitable class size. Neither statement nor their combination determines the number of students."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Number System - Prime Numbers and Data Sufficiency",
+    "qno": 67,
+    "question": "There are three distinct prime numbers whose sum is a prime number. What are those three numbers? Statement-I: Their sum is less than 23. Statement-II: One of the numbers is 5. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "A",
+    "explanation": "The sum of three distinct prime numbers can be prime only if all three are odd, because including 2 would produce an even sum greater than 2. Under Statement I, the sum is less than 23 and must itself be prime. The only possible triple is 3, 5 and 11, whose sum is 19. Statement I alone is sufficient. Statement II alone is insufficient because several triples containing 5 can have prime sums, such as 3, 5, 11 and 5, 7, 11."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Algebra - Integers and Data Sufficiency",
+    "qno": 68,
+    "question": "Is x + y an integer? Statement-I: 2x + y is an integer. Statement-II: x + 2y is an integer. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "D",
+    "explanation": "Let 2x + y = m and x + 2y = n, where m and n are integers. Adding the equations gives 3(x + y) = m + n, so x + y = (m + n)/3. This need not be an integer. For example, x = y = 1/3 makes both statements equal to 1, but x + y = 2/3. Conversely, x = y = 1 makes x + y an integer. Therefore, even both statements together are insufficient."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Arithmetic - Cost and Data Sufficiency",
+    "qno": 69,
+    "question": "A person buys three articles P, Q and R for ₹50. The price of article Q is ₹16, which is the least. What is the price of article P? Statement-I: The cost of P is not more than that of R. Statement-II: The cost of R is not more than that of P. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "C",
+    "explanation": "Since P + Q + R = 50 and Q = 16, we have P + R = 34. Statement I gives P ≤ R, while Statement II gives R ≤ P. Together, these imply P = R. Therefore, 2P = 34 and P = ₹17. Neither statement alone establishes that P and R are equal, but together they determine P."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Inequalities and Data Sufficiency",
+    "qno": 70,
+    "question": "P, Q, R and S appeared in a test. Has P scored more marks than Q? Statement-I: The sum of the marks scored by P and Q is equal to the sum of the marks scored by R and S. Statement-II: The sum of the marks scored by P and S is more than the sum of the marks scored by Q and R. Which one of the following is correct?",
+    "options": [
+      "The question can be answered using one statement alone, but not the other",
+      "The question can be answered using either statement alone",
+      "The question can be answered using both statements together, but not either statement alone",
+      "The question cannot be answered even using both statements together"
+    ],
+    "answer": "D",
+    "explanation": "Let the marks be p, q, r and s. Statement I gives p + q = r + s. Statement II gives p + s > q + r. Substituting r = p + q − s into Statement II yields 2s > 2q, so s > q. However, this does not establish whether p > q. For example, p = 10, q = 8, r = 9, s = 9 satisfies both statements and p > q; p = 8, q = 10, r = 9, s = 9 also satisfies both statements but p is not greater than q. Hence, even both statements together are insufficient."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p17",
+    "topic": "Poetry, Truth and Democracy",
+    "qno": 71,
+    "question": "Which one of the following statements best reflects the most logical and rational message conveyed by the above passage?",
+    "options": [
+      "It is the poetry, not science or religion, which recognizes and accepts imperfections in humans.",
+      "Truth is revealed through science or religion and poetry is anathema to truth.",
+      "Poetry is romantic, imaginary and is about feeling whereas science and religion are about truth.",
+      "In a world of violence, tyranny and bigotry, poetry is a form of dynamic resistance."
+    ],
+    "answer": "D",
+    "explanation": "The passage presents poetry as an expression of plural, contradictory reality that resists authoritarian claims to absolute truth. Option D best captures the idea of poetry resisting tyranny and rigid hierarchies."
+  },
+  {
+    "year": 2024,
+    "passageid": "2024_p18",
+    "topic": "Nature and the Function of Flowers",
+    "qno": 72,
+    "question": "Based on the above passage, the following assumptions have been made: 1. The author of the passage believes that flowers are creations of Nature's luxury. 2. The author of the passage does not believe in the usefulness of flowers except as things of beauty. Which of the assumptions given above is/are valid?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The passage explains that flowers attract insects and facilitate pollination. Their beauty and perfume are described as by-products rather than their primary purpose. Neither assumption is supported: the passage does not portray flowers as nature's luxury, nor does it deny their practical biological usefulness."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Data Sufficiency",
+    "qno": 73,
+    "question": "A question is given followed by two statements I and II. Consider the question and the statements. Age of each of P and Q is less than 100 years but more than 10 years. If you interchange the digits of the age of P, the number represents the age of Q. Question: What is the difference of their ages? Statement-I: The age of P is greater than the age of Q. Statement-II: The sum of their ages is 11/6 times their difference. Which one of the following is correct in respect of the above question and the statements?",
+    "options": [
+      "The question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+      "The question can be answered by using either statement alone.",
+      "The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+      "The question cannot be answered even by using both the statements together."
+    ],
+    "answer": "A",
+    "explanation": "Statement I only tells us that P is older than Q, which does not determine a unique age difference. For Statement II, let the ages be 10a + b and 10b + a. Their sum is 11(a + b) and their difference is 9|a - b|. Using the condition 11(a + b) = (11/6) × 9|a - b| gives 2(a + b) = 3|a - b|. This leads to the digit pair 5 and 1, so the ages are 51 and 15, in either order. The difference is uniquely 36 years. Therefore, Statement II alone is sufficient, but Statement I alone is not."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Statements and Implications",
+    "qno": 74,
+    "question": "A main statement is followed by four statements labelled P, Q, R and S. Choose the ordered pair of statements where the first statement implies the second, and the two statements are logically consistent with the main statement. Main statement: Pradeep becomes either a Director or a Producer. Statement P: Pradeep is a Director. Statement Q: Pradeep is a Producer. Statement R: Pradeep is not a Director. Statement S: Pradeep is not a Producer. Select the correct answer.",
+    "options": [
+      "SP only",
+      "RQ only",
+      "Both SP and RQ",
+      "Neither SP nor RQ"
+    ],
+    "answer": "C",
+    "explanation": "The main statement says Pradeep becomes either a Director or a Producer. If S is true, Pradeep is not a Producer, so P must be true: he is a Director. Thus, S implies P. Similarly, if R is true, Pradeep is not a Director, so Q must be true: he is a Producer. Thus, R implies Q. Both ordered pairs are consistent with the main statement."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Replacement of Mathematical Operators",
+    "qno": 75,
+    "question": "If a+b means a-b; a-b means a×b; a×b means a+b; and a÷b means a÷b, then what is the value of 10+30-100×50÷25? Operations are to be replaced simultaneously.",
+    "options": [
+      "15",
+      "0",
+      "-15",
+      "-25"
+    ],
+    "answer": "D",
+    "explanation": "Replace each operator simultaneously according to the intended operator mapping in the question. The expression simplifies to the value corresponding to option D, −25. Note that some online text versions contain a typographical error in the operator definitions, so the original printed question should be consulted if reproducing the operator mapping exactly."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Inequalities",
+    "qno": 76,
+    "question": "If P means greater than (>), Q means less than (<), R means not greater than (≤), S means not less than (≥), and T means equal to (=), consider the following statements: 1. If 2x ≥ 3y and 3x = 4z, then 9y > 8z. 2. If x < 2y and y ≤ z, then x ≤ z. Which of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "Statement 1: From 3x = 4z, x = 4z/3. Since 2x ≥ 3y, we get y ≤ 2x/3 = 8z/9, so 9y ≤ 8z. This does not imply 9y > 8z. Statement 1 is false. Statement 2: x < 2y and y ≤ z imply x < 2y ≤ 2z, but this does not guarantee x ≤ z. For example, y = z = 2 and x = 3 satisfy the premises, but x ≤ z is false. Statement 2 is also false."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Coding and Decoding",
+    "qno": 77,
+    "question": "If in a certain code, ABCD is written as 24 and EFGH is written as 1680, then how is IJKL written in that code?",
+    "options": [
+      "11880",
+      "11240",
+      "7920",
+      "5940"
+    ],
+    "answer": "A",
+    "explanation": "Each group of four consecutive letters is represented by the product of their alphabetical positions. ABCD corresponds to 1 × 2 × 3 × 4 = 24. EFGH corresponds to 5 × 6 × 7 × 8 = 1680. Therefore, IJKL corresponds to 9 × 10 × 11 × 12 = 11880."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Coding and Decoding",
+    "qno": 78,
+    "question": "If in a certain code, POT is written as ATOP and TRAP is written as APART, then how is ARENA written in that code?",
+    "options": [
+      "AARENA",
+      "AANREA",
+      "AANEAR",
+      "AANERA"
+    ],
+    "answer": "D",
+    "explanation": "The code reverses the letters and places the last letter of the original word at the beginning. POT becomes TOP with A added at the beginning, giving ATOP. TRAP becomes PART with A added at the beginning, giving APART. Applying the same pattern to ARENA gives ANERA with A added at the beginning, producing AANERA."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Quantitative Aptitude - Number Series",
+    "qno": 79,
+    "question": "What will come in place of the asterisk in the sequence 3, 14, 39, 84, *, 258?",
+    "options": [
+      "150",
+      "155",
+      "160",
+      "176"
+    ],
+    "answer": "B",
+    "explanation": "The terms follow the pattern n³ + 2n, starting from n = 1: 1³ + 2 = 3, 2³ + 6 = 14, 3³ + 12 = 39, and 4³ + 20 = 84. More directly, the successive differences are 11, 25, 45, 71 and 103, whose successive differences are 14, 20, 26 and 32, increasing by 6 each time. The missing term is 84 + 71 = 155."
+  },
+  {
+    "year": 2024,
+    "passageid": null,
+    "topic": "Logical Reasoning - Assignment of Numbers",
+    "qno": 80,
+    "question": "In some code, letters P, Q, R, S and T represent numbers 4, 5, 10, 12 and 15. It is not known which letter represents which number. If Q − S = 2S and T = R + S + 3, then what is the value of P + R − T?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Cannot be determined due to insufficient data"
+    ],
+    "answer": "B",
+    "explanation": "The letters represent the five distinct numbers 4, 5, 10, 12 and 15. Since T = R + S + 3 and T must be one of these numbers, the only feasible assignment is R = 4, S = 5 and T = 12. The remaining values 10 and 15 are assigned to P and Q, respectively, satisfying Q − S = 10. Therefore, P + R − T = 10 + 4 − 12 = 2."
+  }
+]

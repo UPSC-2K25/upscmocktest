@@ -1,0 +1,660 @@
+[
+  {
+    "year": "2021",
+    "qno": "20",
+    "subject": "Biogeography",
+    "question": "In the nature, which of the following is/are most likely to be found surviving on a surface without soil?\n1. Fern\n2. Lichen\n3. Moss\n4. Mushroom\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 4 only",
+      "2 only",
+      "2 and 3",
+      "1, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "Lichens and mosses are pioneer species that can colonise bare rock and other soil-less surfaces. Ferns need soil or humus, and mushrooms (fungi) need organic substrate."
+  },
+  {
+    "year": "2021",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "Which one of the following is used in preparing a natural mosquito repellent?",
+    "options": [
+      "Congress grass",
+      "Elephant grass",
+      "Lemongrass",
+      "Nut grass"
+    ],
+    "answer": "C",
+    "explanation": "Lemongrass contains citronella and citral, essential oils widely used as natural mosquito repellents."
+  },
+  {
+    "year": "2021",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "Consider the following kinds of organisms:\n1. Copepods\n2. Cyanobacteria\n3. Diatoms\n4. Foraminifera\nWhich of the above are primary producers in the food chains of oceans?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Cyanobacteria and diatoms are photosynthetic phytoplankton, the primary producers of ocean food chains. Copepods and foraminifera are heterotrophic zooplankton (consumers)."
+  },
+  {
+    "year": "2021",
+    "qno": "23",
+    "subject": "Biogeography",
+    "question": "Consider the following animals:\n1. Hedgehog\n2. Marmot\n3. Pangolin\nTo reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Hedgehogs and pangolins roll into a tight ball to protect their soft undersides and head from predators. Marmots are burrowing rodents that escape into burrows and do not roll up."
+  },
+  {
+    "year": "2021",
+    "qno": "26",
+    "subject": "Biogeography",
+    "question": "Which one of the following is a filter feeder?",
+    "options": [
+      "Catfish",
+      "Octopus",
+      "Oyster",
+      "Pelican"
+    ],
+    "answer": "C",
+    "explanation": "Oysters are bivalve molluscs that filter plankton and organic particles from the water they pump through their gills. Catfish, octopus and pelican actively capture prey."
+  },
+  {
+    "year": "2021",
+    "qno": "30",
+    "subject": "Biogeography",
+    "question": "Which of the following have species that can establish symbiotic relationship with other organisms?\n1. Cnidarians\n2. Fungi\n3. Protozoa\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Cnidarians (corals with zooxanthellae), fungi (mycorrhiza, lichens) and protozoa (e.g., those in termite guts) all include species forming symbiotic relationships."
+  },
+  {
+    "year": "2021",
+    "qno": "60",
+    "subject": "Biogeography",
+    "question": "\"Leaf litter decomposes faster than in any other biome and as a result the soil surface is often almost bare. Apart from trees, the vegetation is largely composed of plant forms that reach up into the canopy vicariously, by climbing the trees or growing as epiphytes, rooted on the upper branches of trees.\" This is the most likely description of",
+    "options": [
+      "coniferous forest",
+      "dry deciduous forest",
+      "mangrove forest",
+      "tropical rain forest"
+    ],
+    "answer": "D",
+    "explanation": "Rapid decomposition of litter owing to heat and humidity, and abundant lianas and epiphytes reaching the canopy, are typical features of tropical rain forests."
+  },
+  {
+    "year": "2021",
+    "qno": "61",
+    "subject": "Biogeography",
+    "question": "The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions?\n1. Burrowing animals and termites\n2. Fire\n3. Grazing herbivores\n4. Seasonal rainfall\n5. Soil properties",
+    "options": [
+      "1 and 2",
+      "4 and 5",
+      "2, 3 and 4",
+      "1, 3 and 5"
+    ],
+    "answer": "C",
+    "explanation": "In savannas, recurrent fire, grazing and browsing herbivores, and strongly seasonal rainfall with a long dry spell prevent closed forest from developing. Burrowing animals/termites and soil properties are not the principal controls."
+  },
+  {
+    "year": "2023",
+    "qno": "3",
+    "subject": "Biogeography",
+    "question": "Consider the following trees:\n1. Jackfruit (Artocarpus heterophyllus)\n2. Mahua (Madhuca indica)\n3. Teak (Tectona grandis)\nHow many of the above are deciduous trees?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "Mahua (Madhuca indica) and Teak (Tectona grandis) are prominent deciduous trees typical of tropical moist and dry deciduous forests in India. Jackfruit (Artocarpus heterophyllus) is an evergreen tree native to tropical evergreen and semi-evergreen forest ecosystems. Thus, only two of the listed trees are deciduous."
+  },
+  {
+    "year": "2023",
+    "qno": "12",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\nStatement-I:\nMarsupials are not naturally found in India.\nStatement-II:\nMarsupials can thrive only in montane grasslands with no predators.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Marsupials are naturally found in Australasia (Australia, New Guinea) and the Americas (opossums), and not in India. They live in many habitats, including forests, deserts and grasslands, so the claim that they thrive only in predator-free montane grasslands is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "14",
+    "subject": "Biogeography",
+    "question": "Consider the following fauna:\n1. Lion-tailed Macaque\n2. Malabar Civet\n3. Sambar Deer\nHow many of the above are generally nocturnal or most active after sunset?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Malabar civet is nocturnal and the sambar is mainly crepuscular and nocturnal, so both are most active after sunset. The lion-tailed macaque is diurnal. Hence only two."
+  },
+  {
+    "year": "2023",
+    "qno": "15",
+    "subject": "Biogeography",
+    "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+    "options": [
+      "Butterflies",
+      "Dragonflies",
+      "Honeybees",
+      "Wasps"
+    ],
+    "answer": "C",
+    "explanation": "Honeybees perform the waggle dance, discovered by Karl von Frisch, to communicate the direction and distance of food sources to hive mates."
+  },
+  {
+    "year": "2023",
+    "qno": "16",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psychoactive properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Some mushrooms are medicinal (e.g. reishi), some are psychoactive (psilocybin mushrooms), some have insecticidal compounds (e.g. fly agaric) and some, such as Panellus and Mycena species, are bioluminescent. All four are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "17",
+    "subject": "Biogeography",
+    "question": "Consider the following statements regarding the Indian squirrels:\n1. They build nests by making burrows in the ground.\n2. They store their food materials like nuts and seeds in the ground.\n3. They are omnivorous.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Indian squirrels, such as the Indian palm squirrel and the giant squirrel, build nests in trees and not in ground burrows. They do not typically store food in the ground like some other squirrels. They are omnivorous, eating fruits, nuts, insects and bird eggs. Only statement 3 is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some microorganisms can grow in environments with temperature above the boiling point of water.\n2. Some microorganisms can grow in environments with temperature below the freezing point of water.\n3. Some microorganisms can grow in highly acidic environment with a pH below 3.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Hyperthermophiles live near hydrothermal vents at temperatures above 100°C under pressure. Psychrophiles grow in subzero brines and sea ice. Acidophiles thrive at pH below 3. All three are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "19",
+    "subject": "Biogeography",
+    "question": "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?",
+    "options": [
+      "Fishing cat",
+      "Orangutan",
+      "Otter",
+      "Sloth bear"
+    ],
+    "answer": "B",
+    "explanation": "Orangutans are known to fashion and use sticks as tools, for example to extract insects from tree holes or seeds from fruits. The other animals are not known for this kind of tool making."
+  },
+  {
+    "year": "2023",
+    "qno": "63",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\nStatement-I:\nThe soil in tropical rain forests is rich in nutrients.\nStatement-II:\nThe high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "D",
+    "explanation": "Tropical rain forest soils are generally nutrient-poor because heavy rain leaches nutrients and rapid decomposition means nutrients are quickly absorbed by vegetation and held in the biomass. Statement-I is incorrect. Statement-II is correct, since high heat and moisture cause fast decomposition."
+  },
+  {
+    "year": "2017",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences?\n1. Pollination of some plants could be adversely affected.\n2. There could be a drastic increase in the fungal infections of some cultivated plants.\n3. It could lead to a fall in the population of some species of wasps, spiders and birds.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Butterflies are pollinators, so their decline can hurt the pollination of some plants (1). They are also prey for wasps, spiders and birds, so predator populations may fall (3). There is no direct link between fewer butterflies and a drastic rise in fungal infections of crops (2). Hence, 1 and 3 only."
+  },
+  {
+    "year": "2017",
+    "qno": "67",
+    "subject": "Biogeography",
+    "question": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Chambal River",
+      "Pulicat Lake",
+      "Deepor Beel"
+    ],
+    "answer": "B",
+    "explanation": "The National Chambal Sanctuary along the Chambal River is the stronghold of the critically endangered gharial and holds the largest wild population."
+  },
+  {
+    "year": "2024",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Carabid beetles\n2. Centipedes\n3. Flies\n4. Termites\n5. Wasps\nParasitoid species are found in how many of the above kind of organisms?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All five"
+    ],
+    "answer": "B",
+    "explanation": "Parasitoids live in or on a host and eventually kill it. Parasitoid species occur among carabid beetles (e.g. some Lebiini), flies (e.g. tachinid flies) and wasps (e.g. ichneumonoid and braconid wasps). Centipedes are predators and termites are social detritivores, with no parasitoid species. Hence three."
+  },
+  {
+    "year": "2024",
+    "qno": "19",
+    "subject": "Biogeography",
+    "question": "Consider the following plants:\n1. Groundnut\n2. Horse-gram\n3. Soybean\nHow many of the above belong to the pea family?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "The pea family is Fabaceae (Leguminosae). Groundnut, horse-gram and soybean are all legumes belonging to this family."
+  },
+  {
+    "year": "2024",
+    "qno": "21",
+    "subject": "Biogeography",
+    "question": "The organisms \"Cicada, Froghopper and Pond skater\" are:",
+    "options": [
+      "Birds",
+      "Fish",
+      "Insects",
+      "Reptiles"
+    ],
+    "answer": "C",
+    "explanation": "Cicadas, froghoppers and pond skaters all belong to the insect order Hemiptera (true bugs)."
+  },
+  {
+    "year": "2024",
+    "qno": "23",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nCountry | Animal found in its natural habitat\n1. Brazil | Indri\n2. Indonesia | Elk\n3. Madagascar | Bonobo\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The indri is a lemur endemic to Madagascar, not Brazil. Elk occur in North America and parts of Eurasia, not Indonesia. The bonobo is endemic to the Democratic Republic of the Congo, not Madagascar. None of the pairs is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "25",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Lions do not have a particular breeding season.\n2. Unlike most other big cats, cheetahs do not roar.\n3. Unlike male lions, male leopards do not proclaim their territory by scent marking.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Lions breed throughout the year. Cheetahs purr and chirp but cannot roar, unlike lions, tigers, leopards and jaguars. Male leopards do mark their territory by scent marking (urine spraying, scrapes and rubbing), so statement 3 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "28",
+    "subject": "Biogeography",
+    "question": "Which one of the following shows a unique relationship with an insect that has coevolved with it and that is the only insect that can pollinate this tree?",
+    "options": [
+      "Fig",
+      "Mahua",
+      "Sandalwood",
+      "Silk cotton"
+    ],
+    "answer": "A",
+    "explanation": "Fig trees (Ficus) have an obligate mutualism with fig wasps (family Agaonidae). Each fig species is typically pollinated by its own specific wasp species, which in turn depends on the fig for reproduction. This is a classic example of coevolution."
+  },
+  {
+    "year": "2024",
+    "qno": "29",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Butterflies\n2. Fish\n3. Frogs\nHow many of the above have poisonous species among them?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Some butterflies (e.g. monarch and other milkweed-feeding species) are poisonous to predators. Several fish, such as pufferfish, are poisonous. Poison dart frogs are well-known poisonous amphibians. All three groups contain poisonous species."
+  },
+  {
+    "year": "2024",
+    "qno": "30",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Cashew\n2. Papaya\n3. Red sanders\nHow many of the above trees are actually native to India?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Cashew is native to north-eastern Brazil and papaya to Central America and southern Mexico; both were introduced to India by the Portuguese. Red sanders (Pterocarpus santalinus) is endemic to the Eastern Ghats of southern India. Only one is native."
+  },
+  {
+    "year": "2019",
+    "qno": "18",
+    "subject": "Biogeography",
+    "question": "Which one of the following National Parks lies completely in the temperate alpine zone?",
+    "options": [
+      "Manas National Park",
+      "Namdapha National Park",
+      "Neora Valley National Park",
+      "Valley of Flowers National Park"
+    ],
+    "answer": "D",
+    "explanation": "The Valley of Flowers National Park (Uttarakhand, about 3,200–6,700 m) lies entirely in the temperate alpine zone. Manas is in the tropical and subtropical foothills, Namdapha spans tropical to alpine zones, and Neora Valley is mainly subtropical and temperate forest."
+  },
+  {
+    "year": "2019",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Asiatic lion is naturally found in India only.\n2. Double-humped camel is naturally found in India only.\n3. One-horned rhinoceros is naturally found in India only.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "The Asiatic lion is found naturally only in Gir, Gujarat. The double-humped (Bactrian) camel is found in Central Asia, with a small population in the Nubra Valley, India. The one-horned rhino is also found in Nepal. Only statement 1 is correct."
+  },
+  {
+    "year": "2019",
+    "qno": "28",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Some species of turtles are herbivores.\n2. Some species of fish are herbivores.\n3. Some species of marine mammals are herbivores.\n4. Some species of snakes are viviparous.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Green turtles are herbivorous as adults, many fish such as parrotfish and grass carp are herbivores, and manatees and dugongs are herbivorous marine mammals. Many snakes, such as boas, vipers and garter snakes, are viviparous. All four statements are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "29",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nWildlife : Naturally found in\n1. Blue-finned Mahseer : Cauvery River\n2. Irrawaddy Dolphin : Chambal River\n3. Rusty-spotted Cat : Eastern Ghats\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The blue-finned mahseer is a Cauvery species. The rusty-spotted cat occurs in the Eastern Ghats among other places. The Irrawaddy dolphin is found in Chilika Lake and the Mekong/Irrawaddy rivers, not the Chambal. The Chambal holds gharials and Gangetic dolphins."
+  },
+  {
+    "year": "2019",
+    "qno": "31",
+    "subject": "Biogeography",
+    "question": "Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of",
+    "options": [
+      "anti-malarial drug",
+      "biodiesel",
+      "pulp for paper industry",
+      "textile fibre"
+    ],
+    "answer": "D",
+    "explanation": "Himalayan nettle (Girardinia diversifolia) yields a strong natural fibre. It is used for textiles in Uttarakhand and elsewhere as a sustainable livelihood source."
+  },
+  {
+    "year": "2019",
+    "qno": "33",
+    "subject": "Biogeography",
+    "question": "Consider the following States:\n1. Chhattisgarh\n2. Madhya Pradesh\n3. Maharashtra\n4. Odisha\nWith reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order?",
+    "options": [
+      "2-3-1-4",
+      "2-3-4-1",
+      "3-2-4-1",
+      "3-2-1-4"
+    ],
+    "answer": "C",
+    "explanation": "As a share of total area, forest cover in the ISFR 2017 is roughly Maharashtra ~16%, Madhya Pradesh ~25%, Odisha ~33% and Chhattisgarh ~41%. The ascending order is therefore 3-2-4-1."
+  },
+  {
+    "year": "2022",
+    "qno": "45",
+    "subject": "Biogeography",
+    "question": "With reference to \"Gucchi\" sometimes mentioned in the news, consider the following statements:\n1. It is a fungus.\n2. It grows in some Himalayan forest areas.\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "3 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Gucchi is the morel mushroom (Morchella), an edible fungus that grows wild in Himalayan forests, especially in Jammu and Kashmir and Himachal Pradesh. It has resisted commercial cultivation and is mostly collected from the wild, so statement 3 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "47",
+    "subject": "Biogeography",
+    "question": "Which of the following is not a bird?",
+    "options": [
+      "Golden Mahseer",
+      "Indian Nightjar",
+      "Spoonbill",
+      "White Ibis"
+    ],
+    "answer": "A",
+    "explanation": "The Golden Mahseer (Tor putitora) is a freshwater fish. The Indian Nightjar, Spoonbill and White Ibis are all birds."
+  },
+  {
+    "year": "2022",
+    "qno": "48",
+    "subject": "Biogeography",
+    "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4",
+      "1, 3, 5 and 6 only",
+      "2, 4, 5 and 6 only",
+      "1, 2, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "explanation": "Alfalfa, chickpea and clover are legumes that fix atmospheric nitrogen through symbiosis with Rhizobium bacteria in root nodules. Amaranth, purslane and spinach are not legumes and are not nitrogen fixers."
+  },
+  {
+    "year": "2022",
+    "qno": "90",
+    "subject": "Biogeography",
+    "question": "Certain species of which one of the following organisms are well known as cultivators of fungi?",
+    "options": [
+      "Ant",
+      "Cockroach",
+      "Crab",
+      "Spider"
+    ],
+    "answer": "A",
+    "explanation": "Leaf-cutter ants and other attine ants cultivate fungi in their nests as food. Termites do the same, but they are not an option here."
+  },
+  {
+    "year": "2018",
+    "qno": "2",
+    "subject": "Biogeography",
+    "question": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves\n3. Thorns instead of leaves\nSelect the correct answer using the code given below:",
+    "options": [
+      "2 and 3 only",
+      "2 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Xerophytes in deserts reduce transpiration through several leaf adaptations. These include a thick, hard, waxy cuticle, tiny leaves that reduce surface area, and leaves modified into thorns or spines (as in cacti). All three modifications occur."
+  },
+  {
+    "year": "2018",
+    "qno": "87",
+    "subject": "Biogeography",
+    "question": "Consider the following statements:\n1. Most of the world's coral reefs are in tropical waters.\n2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines.\n3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Reef-building corals need warm, clear, shallow water, so most reefs lie in tropical waters. Australia, Indonesia and the Philippines together hold more than one-third of the world's reef area. Reefs also support more animal phyla than tropical rainforests do, because the sea hosts a far wider range of body plans. All three statements are correct."
+  },
+  {
+    "year": "2018",
+    "qno": "99",
+    "subject": "Biogeography",
+    "question": "Consider the following:\n1. Birds\n2. Dust blowing\n3. Rain\n4. Wind blowing\nWhich of the above spread plant diseases?",
+    "options": [
+      "1 and 3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "D",
+    "explanation": "Birds carry pathogens and spores on their bodies and in droppings. Wind and blowing dust carry fungal spores and other pathogens over long distances. Rain splash spreads bacteria and fungal spores between plants. All four agents spread plant diseases."
+  },
+  {
+    "year": "2026",
+    "qno": "22",
+    "subject": "Biogeography",
+    "question": "With respect to the Western Hoolock Gibbons, which of the following statements is/are correct?\n1. A Sanctuary in North-east India is home to this ape species listed as Endangered in the International Union for Conservation of Nature (IUCN) Red List.\n2. They have specialized brachiation and can easily swing between trees.\n3. They possess a strong and heavy build like gorillas, yet are remarkably agile tree climbers.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Western Hoolock Gibbon is found in Hoollongapar Gibbon Sanctuary in Assam and is IUCN-listed Endangered, and gibbons move by brachiation. They are lightly built apes, not heavy like gorillas."
+  },
+  {
+    "year": "2026",
+    "qno": "27",
+    "subject": "Biogeography",
+    "question": "Which of the following statements with regard to the arrival of Amur Falcons at Doyang Lake in Nagaland each year from Mongolia is/are correct?\n1. It showcases how sustained local conservation efforts can contribute to the arrival and protection of international migratory birds.\n2. It reflects the global success of advanced tracking technologies that guide migratory birds back to their stopover sites.\n3. It confirms that Amur Falcons have adapted to permanent residency in India due to favourable habitat changes.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "A",
+    "explanation": "Amur Falcons are long-distance migrants that stop over at Doyang Lake, and local community-led conservation after the earlier mass hunting has made Nagaland a safe stopover. Tracking is a research tool, not what guides the birds, and the falcons do not reside permanently in India."
+  },
+  {
+    "year": "2026",
+    "qno": "36",
+    "subject": "Biogeography",
+    "question": "Consider the following statements about Rhynchostylis retusa (Foxtail orchid):\n1. It is an epiphytic orchid.\n2. The species is endemic to North-east India.\n3. It is the State flower of Arunachal Pradesh and Assam.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 3",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Rhynchostylis retusa is an epiphytic orchid and is the State flower of both Arunachal Pradesh and Assam (where it is called Kopou Phool). It is widespread across India and South and South-east Asia, so it is not endemic to the North-east."
+  },
+  {
+    "year": "2020",
+    "qno": "74",
+    "subject": "Biogeography",
+    "question": "With reference to India’s biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are",
+    "options": [
+      "Birds",
+      "Primates",
+      "Reptiles",
+      "Amphibians"
+    ],
+    "answer": "A",
+    "explanation": "The Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are all bird species found in India."
+  },
+  {
+    "year": "2025",
+    "qno": "37",
+    "subject": "Biogeography",
+    "question": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements:\nI. It is an omnivorous crustacean.\nII. Its natural habitat in India is only limited to some forest areas.\nIII. In its natural habitat, it is an arboreal species.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I only",
+      "I and III",
+      "II only",
+      "II and III"
+    ],
+    "answer": "D",
+    "explanation": "The Gooty (peacock) tarantula is a spider (an arachnid, not a crustacean) and is carnivorous, so I is wrong. It is endemic to a small patch of forest in the Eastern Ghats of Andhra Pradesh and lives on trees (arboreal)."
+  },
+  {
+    "year": "2025",
+    "qno": "39",
+    "subject": "Biogeography",
+    "question": "Consider the following pairs:\nPlant : Description\nI. Cassava : Woody shrub\nII. Ginger : Herb with pseudostem\nIII. Malabar spinach : Herbaceous climber\nIV. Mint : Annual shrub\nV. Papaya : Woody shrub\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "All the five"
+    ],
+    "answer": "B",
+    "explanation": "Cassava is a woody shrub, ginger a herb with a pseudostem and Malabar spinach a herbaceous climber. Mint is a perennial herb (not an annual shrub) and papaya is a soft-wooded, tree-like herb rather than a woody shrub, so only three are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "40",
+    "subject": "Biogeography",
+    "question": "With reference to the planet Earth, consider the following statements:\nI. Rain forests produce more oxygen than that produced by oceans.\nII. Marine phytoplankton and photosynthetic bacteria produce about 50% of world's oxygen.\nIII. Well-oxygenated surface water contains several folds higher oxygen than that in atmospheric air.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "II only",
+      "I and III",
+      "None of the above statements is correct"
+    ],
+    "answer": "B",
+    "explanation": "Oceanic phytoplankton and photosynthetic bacteria produce roughly half of Earth's oxygen, more than rain forests, so I is wrong. Water holds far less oxygen than air by volume, so III is wrong."
+  }
+]

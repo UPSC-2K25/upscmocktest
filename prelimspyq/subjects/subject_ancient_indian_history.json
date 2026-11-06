@@ -1,0 +1,646 @@
+[
+  {
+    "year": "2021",
+    "qno": "32",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?",
+    "options": [
+      "Dholavira",
+      "Kalibangan",
+      "Rakhigarhi",
+      "Ropar"
+    ],
+    "answer": "A",
+    "explanation": "Dholavira, a Harappan city in Kutch, is famous for its sophisticated water conservation system with dams, channels and a series of interconnected reservoirs."
+  },
+  {
+    "year": "2021",
+    "qno": "34",
+    "subject": "Ancient Indian History",
+    "question": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\n1. The Guptas of Magadha\n2. The Paramaras of Malwa\n3. The Pushyabhutis of Thanesar\n4. The Maukharis of Kanauj\n5. The Yadavas of Devagiri\n6. The Maitrakas of Valabhi\nSelect the correct answer using the code given below.",
+    "options": [
+      "1, 2 and 5",
+      "1, 3, 4 and 6",
+      "2, 3 and 4",
+      "5 and 6"
+    ],
+    "answer": "B",
+    "explanation": "In the period between the Gupta decline and Harsha, the Later Guptas of Magadha, Pushyabhutis of Thanesar, Maukharis of Kanauj and Maitrakas of Valabhi held power. The Paramaras (c. 9th century) and Yadavas of Devagiri (c. 12th century) rose much later."
+  },
+  {
+    "year": "2021",
+    "qno": "37",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\n(Historical place : Well-known for)\n1. Burzahom : Rock-cut shrines\n2. Chandraketugarh : Terracotta art\n3. Ganeshwar : Copper artefacts\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "3 only",
+      "2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Burzahom is a Neolithic site known for pit dwellings, not rock-cut shrines. Chandraketugarh (West Bengal) is famed for terracotta art, and Ganeshwar (Rajasthan) for copper artefacts of the Ganeshwar-Jodhpura culture."
+  },
+  {
+    "year": "2021",
+    "qno": "40",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the history of ancient India, which of the following statements is/are correct?\n1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.\n2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.\n3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Both Mitakshara and Dayabhaga are schools of Hindu law applying to all Hindus of their regions, not caste-based, so statement 1 is wrong. Under Mitakshara sons acquire a right by birth, while under Dayabhaga they inherit only after the father's death. Statement 3 is wrong because the distinction is not based on the gender of property holders."
+  },
+  {
+    "year": "2023",
+    "qno": "41",
+    "subject": "Ancient Indian History",
+    "question": "In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?",
+    "options": [
+      "Andhra",
+      "Gandhara",
+      "Kalinga",
+      "Magadha"
+    ],
+    "answer": "A",
+    "explanation": "Dhanyakataka (near Amaravati in Andhra Pradesh) was a major Buddhist centre of the Mahasanghika school, and it was the capital of the Satavahanas for a time. It is associated with the Amaravati stupa."
+  },
+  {
+    "year": "2023",
+    "qno": "42",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India, consider the following statements:\n1. The concept of Stupa is Buddhist in origin.\n2. Stupa was generally a repository of relics.\n3. Stupa was a votive and commemorative structure in Buddhist tradition.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "As per the official key, all three are treated as correct. Stupas were funerary mounds holding relics of the Buddha and other saints, and in the Buddhist tradition they were also votive and commemorative structures."
+  },
+  {
+    "year": "2023",
+    "qno": "43",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as",
+    "options": [
+      "capital cities",
+      "ports",
+      "centres of iron-and-steel making",
+      "shrines of Jain Tirthankaras"
+    ],
+    "answer": "B",
+    "explanation": "Korkai (Pandya), Poompuhar or Kaveripattinam (Chola) and Muchiri or Muziris (Chera) were important ports of the Sangam age, engaged in trade with the Roman world."
+  },
+  {
+    "year": "2023",
+    "qno": "44",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems?",
+    "options": [
+      "Kings employing women bodyguards",
+      "Learned persons assembling in royal courts to discuss religious and philosophical matters",
+      "Young girls keeping watch over agricultural fields and driving away birds and animals",
+      "A king defeated in a battle committing ritual suicide by starving himself to death"
+    ],
+    "answer": "D",
+    "explanation": "In Sangam literature, 'Vattakirutal' (Vadakkiruttal) was the practice of a defeated or humiliated king sitting facing north and fasting to death. Chera king Cheraman Perumcheral Irumporai is associated with it."
+  },
+  {
+    "year": "2023",
+    "qno": "46",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient Indian History, consider the following pairs:\nLiterary work | Author\n1. Devichandragupta : Bilhana\n2. Hammira-Mahakavya : Nayachandra Suri\n3. Milinda-panha : Nagarjuna\n4. Nitivakyamrita : Somadeva Suri\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Devichandragupta is a play by Vishakhadatta, not Bilhana. Hammira-Mahakavya is by Nayachandra Suri and Nitivakyamrita is by Somadeva Suri, so these pairs are correct. Milinda-panha is an anonymous Buddhist text recording the dialogue between Menander and Nagasena, not a work of Nagarjuna."
+  },
+  {
+    "year": "2023",
+    "qno": "47",
+    "subject": "Ancient Indian History",
+    "question": "\"Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.\"\nThe above statement reflects one of the core beliefs of which one of the following religious sects of ancient India?",
+    "options": [
+      "Buddhism",
+      "Jainism",
+      "Shaivism",
+      "Vaishnavism"
+    ],
+    "answer": "B",
+    "explanation": "Jainism holds that all objects, including rocks and water, possess souls (jiva), which are classed by their number of senses. This extended animism is a hallmark of Jain belief."
+  },
+  {
+    "year": "2017",
+    "qno": "2",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\n1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.\n3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "The Rigvedic Aryans used body armour (varman) and helmets in warfare, while Harappan sites show no such evidence, so statement 1 is correct. Statement 2 is wrong because the Indus people knew gold, silver and copper (and bronze) but not iron, which came later. The horse was central to Rigvedic life, whereas Harappan sites offer no convincing evidence of the domesticated horse, so statement 3 is correct. Thus, 1 and 3 only."
+  },
+  {
+    "year": "2017",
+    "qno": "53",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the religious history of India, consider the following statements:\n1. Sautrantika and Sammitiya were the sects of Jainism.\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Sautrantika and Sammitiya were Buddhist schools, not Jain sects, so statement 1 is wrong. The Sarvastivadins held that the elements (dharmas) exist in the past, present and future, persisting in a latent form, so statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "54",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India, Gautama Buddha was generally known by which of the following epithets?\n1. Nayaputta\n2. Shakyamuni\n3. Tathagata\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "None of the above are epithets of Gautama Buddha"
+    ],
+    "answer": "B",
+    "explanation": "'Shakyamuni' (sage of the Shakyas) and 'Tathagata' (thus-gone one) are well-known epithets of Gautama Buddha. 'Nayaputta' (Jnatriputra) was a name for Mahavira, the 24th Tirthankara of Jainism."
+  },
+  {
+    "year": "2024",
+    "qno": "55",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following information:\nArchaeological Site | State | Description\n1. Chandraketugarh | Odisha | Trading Port town\n2. Inamgaon | Maharashtra | Chalcolithic site\n3. Mangadu | Kerala | Megalithic site\n4. Salihundam | Andhra Pradesh | Rock-cut cave shrines\nIn which of the above rows is the given information correctly matched?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "3 and 4",
+      "1 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Chandraketugarh is a trading port town in West Bengal, not Odisha, so row 1 is wrong. Inamgaon (Maharashtra) is a Chalcolithic site of the Jorwe culture, and Mangadu (Kerala) is a megalithic site, so rows 2 and 3 are correct. Salihundam in Andhra Pradesh is a Buddhist monastic site with structural stupas and viharas, not rock-cut cave shrines, so row 4 is wrong."
+  },
+  {
+    "year": "2024",
+    "qno": "58",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements:\n1. There are no parables in Upanishads.\n2. Upanishads were composed earlier than the Puranas.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "The Upanishads use parables and dialogues extensively, such as Uddalaka and Shvetaketu, and Satyakama Jabala, so statement 1 is incorrect. The Upanishads (c. 800–200 BCE) are Later Vedic texts and are much older than the Puranas, which were compiled mostly from the Gupta period onwards. Statement 2 is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "64",
+    "subject": "Ancient Indian History",
+    "question": "Sanghabhuti, an Indian Buddhist monk, who travelled to China at the end of the fourth century AD, was the author of a commentary on:",
+    "options": [
+      "Prajnaparamita Sutra",
+      "Visuddhimagga",
+      "Sarvastivada Vinaya",
+      "Lalitavistara"
+    ],
+    "answer": "C",
+    "explanation": "Sanghabhuti, a Kashmiri Buddhist monk who reached China in the late 4th century CE, is known for his commentary on the Sarvastivada Vinaya, the monastic code of the Sarvastivada school, and for translating Vinaya texts into Chinese."
+  },
+  {
+    "year": "2019",
+    "qno": "7",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following is not a Harappan site?",
+    "options": [
+      "Chanhudaro",
+      "Kot Diji",
+      "Sohgaura",
+      "Desalpur"
+    ],
+    "answer": "C",
+    "explanation": "Chanhudaro, Kot Diji and Desalpur (Gujarat) are Harappan sites. Sohgaura (Gorakhpur, UP) is known for a Mauryan-period copper plate inscription on famine relief and is not a Harappan site."
+  },
+  {
+    "year": "2019",
+    "qno": "8",
+    "subject": "Ancient Indian History",
+    "question": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?",
+    "options": [
+      "Kanganahalli",
+      "Sanchi",
+      "Shahbazgarhi",
+      "Sohgaura"
+    ],
+    "answer": "A",
+    "explanation": "At Kanganahalli (Karnataka), a Buddhist site near Sannati, a relief sculpture shows a stone portrait of Ashoka with the Prakrit inscription 'Ranyo Ashoka'. This is the only such portrait with a label."
+  },
+  {
+    "year": "2019",
+    "qno": "9",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following:\n1. Deification of the Buddha\n2. Treading the path of Bodhisattvas\n3. Image worship and rituals\nWhich of the above is/are the feature/features of Mahayana Buddhism?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Mahayana Buddhism treats the Buddha as divine, holds up the Bodhisattva ideal, and practises image worship with rituals. All three are features of Mahayana."
+  },
+  {
+    "year": "2019",
+    "qno": "10",
+    "subject": "Ancient Indian History",
+    "question": "With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?",
+    "options": [
+      "It was considered a source of income for the State, a sort of tax paid by the people.",
+      "It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire.",
+      "The forced labourer was entitled to weekly wages.",
+      "The eldest son of the labourer was sent as the forced labourer."
+    ],
+    "answer": "A",
+    "explanation": "In the Gupta period, vishti (forced labour) was a levy in kind, a form of tax in labour for the State. It was widely prevalent, including in central and western India. Forced labourers were not paid wages, and the eldest son was not specially required to serve."
+  },
+  {
+    "year": "2022",
+    "qno": "55",
+    "subject": "Ancient Indian History",
+    "question": "With reference to Indian history, consider the following texts:\n1. Nettipakarana\n2. Parishishtaparvan\n3. Avadanashataka\n4. Trishashtilakshana Mahapurana\nWhich of the above are Jaina texts?",
+    "options": [
+      "1, 2 and 3",
+      "2 and 4 only",
+      "1, 3 and 4",
+      "2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Parishishtaparvan, by Hemachandra, and Trishashtilakshana Mahapurana, by Jinasena, are Jaina works. Nettipakarana is a Pali Buddhist text, and Avadanashataka is a Buddhist Sanskrit text of Avadana stories."
+  },
+  {
+    "year": "2022",
+    "qno": "56",
+    "subject": "Ancient Indian History",
+    "question": "With reference to Indian history, consider the following pairs:\nHistorical person — Known as\n1. Aryadeva — Jaina scholar\n2. Dignaga — Buddhist scholar\n3. Nathamuni — Vaishnava scholar\nHow many pairs given above are correctly matched?",
+    "options": [
+      "None of the pairs",
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs"
+    ],
+    "answer": "C",
+    "explanation": "Aryadeva was a Buddhist Madhyamaka philosopher and a disciple of Nagarjuna, not a Jaina scholar. Dignaga was a Buddhist logician, and Nathamuni was the first Vaishnava acharya, who compiled the Alvars' hymns. Only pairs 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "60",
+    "subject": "Ancient Indian History",
+    "question": "According to Kautilya's Arthashastra, which of the following are correct?\n1. A person could be a slave as a result of a judicial punishment.\n2. If a female slave bore her master a son, she was legally free.\n3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Arthashastra recognises slavery arising from several causes, including judicial punishment. It provides that a female slave who bears her master a son is freed, and that the child of such a union has the status of the master's child. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "91",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\nSite of Ashoka's major rock edicts — Location in the State of\n1. Dhauli — Odisha\n2. Erragudi — Andhra Pradesh\n3. Jaugada — Madhya Pradesh\n4. Kalsi — Karnataka\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Dhauli is in Odisha, and Erragudi is in Kurnool district, Andhra Pradesh. Jaugada is in Ganjam district, Odisha, not Madhya Pradesh. Kalsi is in Uttarakhand, not Karnataka. Pairs 1 and 2 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "92",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following pairs:\nKing — Dynasty\n1. Nannuka — Chandela\n2. Jayashakti — Paramara\n3. Nagabhata II — Gurjara-Pratihara\n4. Bhoja — Rashtrakuta\nHow many pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "B",
+    "explanation": "Nannuka founded the Chandela dynasty, and Nagabhata II belonged to the Gurjara-Pratiharas. Jayashakti was a Chandela ruler, not a Paramara, and the famous Bhoja was a Paramara of Malwa (or a Gurjara-Pratihara king of the same name), not a Rashtrakuta. Pairs 1 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "93",
+    "subject": "Ancient Indian History",
+    "question": "Which one of the following statements about Sangam literature in ancient South India is correct?",
+    "options": [
+      "Sangam poems are devoid of any reference to material culture.",
+      "The social classification of Varna was known to Sangam poets.",
+      "Sangam poems have no reference to warrior ethic.",
+      "Sangam literature refers to magical forces as irrational."
+    ],
+    "answer": "B",
+    "explanation": "Sangam poems are rich in references to material culture and contain many heroic poems on warrior ethics, so options A and C are wrong. They also mention magical beliefs, so option D is wrong. The poems and Tolkappiyam show awareness of the Varna classification, as seen in references to Brahmanas, Kshatriyas, Vaishyas and Vellalas. Note: I'm not fully certain of this one, so verify it."
+  },
+  {
+    "year": "2018",
+    "qno": "74",
+    "subject": "Ancient Indian History",
+    "question": "With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?",
+    "options": [
+      "Avalokiteshvara",
+      "Lokesvara",
+      "Maitreya",
+      "Padmapani"
+    ],
+    "answer": "C",
+    "explanation": "Maitreya is the future Buddha in Buddhist tradition, who will appear when the teachings of Gautama Buddha are forgotten. Avalokiteshvara, Lokesvara and Padmapani are names of the same Bodhisattva of compassion."
+  },
+  {
+    "year": "2026",
+    "qno": "3",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements:\nI. Pali texts contain the first definite references to coins, e.g., kahapana, nikkha, kamsa, and kakanika.\nII. The literary evidence from Pali texts is corroborated by archaeological evidence of punch-marked coins from many sites, most of them made of silver.\nThe above statements have been associated with which of the following?\n1. Emergence of urban life\n2. Transition to money economy\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "References to coin denominations and finds of punch-marked silver coins indicate the shift from barter to a money economy in the post-Vedic period. The statements concern coinage and exchange, so they are associated with the transition to a money economy rather than directly with urbanisation."
+  },
+  {
+    "year": "2026",
+    "qno": "5",
+    "subject": "Ancient Indian History",
+    "question": "Among the four main forms of existence of life recognized in Jainism, which one of the following is not included?",
+    "options": [
+      "Deva (gods)",
+      "Yaksha (demi-gods)",
+      "Manushya (humans)",
+      "Tiryancha (animals and plants)"
+    ],
+    "answer": "B",
+    "explanation": "Jainism classifies living beings into four gatis: Deva (celestial beings), Manushya (humans), Tiryancha (animals and plants) and Naraka (hell beings). Yakshas are included among the celestial class rather than being a separate main form."
+  },
+  {
+    "year": "2026",
+    "qno": "7",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements relating to the use of the place-value system in India:\n1. The earliest epigraphic use of the place-value system in India is found in the Mankani plates from Gujarat (AD 595-596).\n2. In the ninth century, place-values become general in inscriptions all over India.\n3. The place-values have been found in Sanskrit inscriptions in South-east Asia as early as the seventh century.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Mankani plates (594-595 CE) give the earliest dated epigraphic use of place-value numerals in India, such usage became general in Indian inscriptions by about the ninth century, and Sanskrit inscriptions in South-east Asia (for example Sambor in Cambodia, 683 CE) show place-values from the seventh century. All three are correct."
+  },
+  {
+    "year": "2026",
+    "qno": "8",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements about the archaeological findings in Harappan towns:\nI. There is wide occurrence of spindle-whorls in the houses but absence of spinning wheels.\nII. Weights and measurement scales, complete with graduations have been discovered.\nIII. There are houses built in large part with baked bricks, around relatively spacious courtyards, with their own wells, bathing platforms, and large rooms.\nWhich of the following inferences can be drawn from the above statements?\n1. Statement I suggests that spinning was a laborious activity done at home.\n2. Statement II suggests the extent of the scientific knowledge that the Harappans possessed.\n3. Statement III suggests the emergence of a common property system.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Spindle-whorls without wheels point to hand spinning in households, and graduated weights and scales show practical scientific and mathematical knowledge. Large houses with their own wells and bathing platforms suggest private household ownership and social differentiation, not a common property system."
+  },
+  {
+    "year": "2026",
+    "qno": "10",
+    "subject": "Ancient Indian History",
+    "question": "Consider the following statements about the Rigvedic period:\nI. Irrigation from wells allowed agriculture to expand away from flood plains and strips on river margins into the present Punjab and Haryana plains having underground water levels reasonably close to the surface.\nII. Draught-animal power was employed to draw up water out of the wells.\nWhich of the following information support/supports the above statements?\n1. There is evidence in the Rigveda of the use of ashma chakra (stone pulley wheel) and ahava (strapped wooden pails) to draw up water.\n2. Mention has been made in the Rigveda of the use of implements like parashu/kulisha (axe) and datra/sreni (sickle).\n3. There is a history of the use of ox, even before the Rigveda, for ploughing the land and pulling the carts.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "3 only"
+    ],
+    "answer": "C",
+    "explanation": "Rigvedic references to a pulley wheel and strapped pails for drawing well water support well irrigation (I), and the long-standing use of oxen for ploughing and drawing carts supports the use of draught animals to draw water (II). Mentions of axes and sickles concern tools generally and do not bear on irrigation from wells or animal-powered water lifting."
+  },
+  {
+    "year": "2026",
+    "qno": "13",
+    "subject": "Ancient Indian History",
+    "question": "Which of the following pairs of ancient and modern names of rivers is/are correctly matched?\n1. Vitasta : Chenab\n2. Asikni : Jhelum\n3. Parushni : Ravi\n4. Yavyavati : Beas\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "3 and 4",
+      "3 only",
+      "4 only"
+    ],
+    "answer": "C",
+    "explanation": "Parushni is the Ravi. Vitasta is the Jhelum (not Chenab), Asikni is the Chenab (not Jhelum), and the Beas is Vipasa; Yavyavati is not the Beas."
+  },
+  {
+    "year": "2026",
+    "qno": "15",
+    "subject": "Ancient Indian History",
+    "question": "Which of the following pairs of the king and his dynasty in early historical Tamilakam is/are not correctly matched?\n1. Senguttuvan : Chera\n2. Udiyanjeral : Chola\n3. Nedunjeliyan : Pandya\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Senguttuvan (Chera) and Nedunjeliyan (Pandya) are correctly matched. Udiyanjeral was a Chera king, not a Chola, so pair 2 is the incorrect one."
+  },
+  {
+    "year": "2026",
+    "qno": "20",
+    "subject": "Ancient Indian History",
+    "question": "In which one among the following texts does the term kshetra-patni ('mistress of the field') originate?",
+    "options": [
+      "Rigveda",
+      "Atharvaveda",
+      "Ashtadhyayi",
+      "Arthashastra"
+    ],
+    "answer": "B",
+    "explanation": "The phrase 'mistress/lord of the field' (kshetrapati/kshetra-patni) occurs in Vedic agricultural hymns; the Atharvaveda, which contains many agrarian and domestic ritual hymns, is the source usually cited for kshetra-patni. This one is a lower-confidence match and worth checking against the official key."
+  },
+  {
+    "year": "2020",
+    "qno": "22",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the religious history of India, consider the following statements:\n1. Sthaviravadins belong to Mahayana Buddhism.\n2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.\n3. The deification of Buddha by Mahasanghikas fostered the Mahayana Buddhism.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Sthaviravadins (Theravadins) belong to the Hinayana tradition, not Mahayana, so statement 1 is incorrect. The Lokottaravada was an offshoot of the Mahasanghika school, and the Mahasanghikas’ view of the Buddha as a supramundane, divine being helped lay the ground for Mahayana Buddhism, so statements 2 and 3 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "29",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the history of India, the terms “kulyavapa” and “dronavapa” denote",
+    "options": [
+      "measurement of land",
+      "coins of different monetary value",
+      "classification of urban land",
+      "religious rituals"
+    ],
+    "answer": "A",
+    "explanation": "Kulyavapa and dronavapa were units of land measurement mentioned in Gupta-period inscriptions, denoting the area that could be sown with a kulya or a drona of seed."
+  },
+  {
+    "year": "2020",
+    "qno": "30",
+    "subject": "Ancient Indian History",
+    "question": "Who among the following rulers advised his subjects through this inscription?\n“Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.”",
+    "options": [
+      "Ashoka",
+      "Samudragupta",
+      "Harshavardhana",
+      "Krishnadeva Raya"
+    ],
+    "answer": "A",
+    "explanation": "This is from Ashoka’s Rock Edict XII, which advocates tolerance and respect for all religious sects and warns that disparaging other sects harms one’s own."
+  },
+  {
+    "year": "2020",
+    "qno": "36",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the scholars/litterateurs of ancient India, consider the following statements:\n1. Panini is associated with Pushyamitra Shunga.\n2. Amarasimha is associated with Harshavardhana.\n3. Kalidasa is associated with Chandra Gupta – II.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "C",
+    "explanation": "Panini, the grammarian, lived centuries before Pushyamitra Shunga (Patanjali is associated with Pushyamitra), so statement 1 is incorrect. Amarasimha, author of the Amarakosha, is traditionally linked to the court of Chandragupta II, not Harshavardhana, so statement 2 is incorrect. Kalidasa is traditionally associated with Chandragupta II (Vikramaditya), so statement 3 is correct."
+  },
+  {
+    "year": "2020",
+    "qno": "82",
+    "subject": "Ancient Indian History",
+    "question": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as",
+    "options": [
+      "ports handling foreign trade",
+      "capitals of powerful kingdoms",
+      "places of exquisite stone art and architecture",
+      "important Buddhist pilgrimage centres"
+    ],
+    "answer": "A",
+    "explanation": "Ghantasala and Kadura on the east coast and Chaul on the west coast were important ports handling India’s maritime trade with the Roman world and Southeast Asia during and around the Gupta period."
+  },
+  {
+    "year": "2025",
+    "qno": "13",
+    "subject": "Ancient Indian History",
+    "question": "The irrigation device called 'Araghatta' was",
+    "options": [
+      "a water bag made of leather pulled over a pulley",
+      "a large wheel with earthen pots tied to the outer ends of its spokes",
+      "a larger earthen pot driven by bullocks",
+      "a large water bucket pulled up by rope directly by hand"
+    ],
+    "answer": "B",
+    "explanation": "Araghatta was the Persian-wheel type irrigation device: a large wheel with earthen pots fixed to the outer ends of its spokes that lifted water from wells or streams."
+  },
+  {
+    "year": "2025",
+    "qno": "14",
+    "subject": "Ancient Indian History",
+    "question": "Who among the following rulers in ancient India had assumed the titles 'Mattavilasa', 'Vichitrachitta' and 'Gunabhara'?",
+    "options": [
+      "Mahendravarman I",
+      "Simhavishnu",
+      "Narasimhavarman I",
+      "Simhavarman"
+    ],
+    "answer": "A",
+    "explanation": "The Pallava king Mahendravarman I (c. 600-630 CE), a patron of art, music and architecture and author of the play Mattavilasa Prahasana, bore titles such as Mattavilasa, Vichitrachitta and Gunabhara."
+  },
+  {
+    "year": "2025",
+    "qno": "15",
+    "subject": "Ancient Indian History",
+    "question": "Fa-hien (Faxian), the Chinese pilgrim, travelled to India during the reign of",
+    "options": [
+      "Samudragupta",
+      "Chandragupta II",
+      "Kumaragupta I",
+      "Skandagupta"
+    ],
+    "answer": "B",
+    "explanation": "Faxian visited India around 399-414 CE during the reign of Chandragupta II (Vikramaditya) of the Gupta dynasty."
+  },
+  {
+    "year": "2025",
+    "qno": "17",
+    "subject": "Ancient Indian History",
+    "question": "With reference to ancient India (600-322 BC), consider the following pairs:\nTerritorial region : River flowing in the region\nI. Asmaka : Godavari\nII. Kamboja : Vipas\nIII. Avanti : Mahanadi\nIV. Kosala : Saryu\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "B",
+    "explanation": "Asmaka (Assaka) lay on the Godavari and Kosala on the Sarayu, so I and IV are correct. Kamboja was in the north-west (Hindukush region), not on the Vipas (Beas), and Avanti (Malwa) is not on the Mahanadi. Hence only two pairs are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "19",
+    "subject": "Ancient Indian History",
+    "question": "Ashokan inscriptions suggest that the 'Pradeshika', 'Rajuka' and 'Yukta' were important officers at the",
+    "options": [
+      "village-level administration",
+      "district-level administration",
+      "provincial administration",
+      "level of the central administration"
+    ],
+    "answer": "B",
+    "explanation": "Ashoka's Rock Edict III mentions Yukta, Rajuka and Pradeshika as officers who toured every five years; they were officials of district-level administration."
+  },
+  {
+    "year": "2025",
+    "qno": "72",
+    "subject": "Ancient Indian History",
+    "question": "The famous female figurine known as 'Dancing Girl', found at Mohenjo-daro, is made of",
+    "options": [
+      "carnelian",
+      "clay",
+      "bronze",
+      "gold"
+    ],
+    "answer": "C",
+    "explanation": "The Dancing Girl of Mohenjo-daro is a small bronze statuette made by the lost-wax (cire perdue) technique."
+  }
+]

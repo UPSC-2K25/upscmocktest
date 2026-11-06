@@ -1,0 +1,786 @@
+[
+  {
+    "year": "2021",
+    "qno": "87",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following best defines the term 'State'?",
+    "options": [
+      "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government",
+      "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance",
+      "A number of persons who have been living in a definite territory for a very long time with their own culture, tradition and government",
+      "A society permanently living in a definite territory with a central authority, an executive responsible to the central authority and an independent judiciary"
+    ],
+    "answer": "A",
+    "explanation": "The classical definition of the State has four elements: population, definite territory, government and sovereignty (independence from external control). Option (a) captures all four."
+  },
+  {
+    "year": "2021",
+    "qno": "90",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?",
+    "options": [
+      "A committed judiciary",
+      "Centralization of powers",
+      "Elected government",
+      "Separation of powers"
+    ],
+    "answer": "D",
+    "explanation": "Separation of powers among the legislature, executive and judiciary prevents concentration of power and provides checks and balances, which is the best structural safeguard of liberty in a liberal democracy."
+  },
+  {
+    "year": "2021",
+    "qno": "94",
+    "subject": "Political Science and International Relations",
+    "question": "Constitutional government means",
+    "options": [
+      "a representative government of a nation with federal structure",
+      "a government whose Head enjoys nominal powers",
+      "a government whose Head enjoys real powers",
+      "a government limited by the terms of the Constitution"
+    ],
+    "answer": "D",
+    "explanation": "Constitutional government is one whose powers are defined and limited by the constitution, as opposed to arbitrary rule."
+  },
+  {
+    "year": "2023",
+    "qno": "78",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine?",
+    "options": [
+      "Angola",
+      "Costa Rica",
+      "Ecuador",
+      "Somalia"
+    ],
+    "answer": "D",
+    "explanation": "Somalia has faced decades of civil conflict, and a severe drought and food shortages brought famine warnings in 2022–23."
+  },
+  {
+    "year": "2023",
+    "qno": "87",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\nStatement-I:\nRecently, the United States of America (USA) and the European Union (EU) have launched the 'Trade and Technology Council'.\nStatement-II:\nThe USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "The US–EU Trade and Technology Council was launched in 2021 to coordinate approaches on trade, technology standards, supply chains and related issues. The stated aim is cooperation based on democratic values, not bringing technological progress and productivity under their control. Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "90",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\n1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the 'Global Compact for Safe, Orderly and Regular Migration (GCM)'.\n2. The objectives and commitments stated in the GCM are binding on the UN member countries.\n3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The Global Compact for Migration (2018) was adopted by most but not all UN members, and the US and a few other countries did not support it. It is a non-binding cooperative framework. It deals with international migration and not with internal migration or internally displaced persons. None of the statements is correct."
+  },
+  {
+    "year": "2023",
+    "qno": "93",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nRegions often mentioned in news | Reason for being in news\n1. North Kivu and Ituri : War between Armenia and Azerbaijan\n2. Nagorno-Karabakh : Insurgency in Mozambique\n3. Kherson and Zaporizhzhia : Dispute between Israel and Lebanon\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "North Kivu and Ituri are in the Democratic Republic of the Congo, which is affected by armed conflict. Nagorno-Karabakh is the region disputed between Armenia and Azerbaijan, and Kherson and Zaporizhzhia are Ukrainian regions in the Russia–Ukraine war. All three pairs are mismatched."
+  },
+  {
+    "year": "2023",
+    "qno": "94",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\nStatement-I:\nIsrael has established diplomatic relations with some Arab States.\nStatement-II:\nThe 'Arab Peace Initiative' mediated by Saudi Arabia was signed by Israel and Arab League.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+      "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+      "Statement-I is correct but Statement-II is incorrect",
+      "Statement-I is incorrect but Statement-II is correct"
+    ],
+    "answer": "C",
+    "explanation": "Israel has diplomatic relations with Egypt, Jordan and, since the Abraham Accords, the UAE, Bahrain and Morocco. The Arab Peace Initiative (2002) was proposed by Saudi Arabia and adopted by the Arab League, but it was never signed by Israel. Statement-II is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "97",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nArea of conflict mentioned in news | Country where it is located\n1. Donbas : Syria\n2. Kachin : Ethiopia\n3. Tigray : North Yemen\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Donbas is in Ukraine, Kachin is in Myanmar and Tigray is in Ethiopia. All three pairs are mismatched."
+  },
+  {
+    "year": "2023",
+    "qno": "98",
+    "subject": "Political Science and International Relations",
+    "question": "In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them?",
+    "options": [
+      "Discovery of rich deposits of rare earth elements",
+      "Establishment of Chinese military bases",
+      "Southward expansion of Sahara Desert",
+      "Successful coups"
+    ],
+    "answer": "D",
+    "explanation": "Chad (2021), Guinea (2021), Mali (2020 and 2021) and Sudan (2019 and 2021) all experienced successful military coups in recent years."
+  },
+  {
+    "year": "2023",
+    "qno": "100",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements about G-20:\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The G20 began in 1999 as a forum for finance ministers and central bank governors after the Asian financial crisis, and it was raised to the level of leaders in 2008. Digital public infrastructure was one of the priority areas of India's G20 presidency in 2023. Both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "5",
+    "subject": "Political Science and International Relations",
+    "question": "One of the implications of equality in society is the absence of",
+    "options": [
+      "Privileges",
+      "Restraints",
+      "Competition",
+      "Ideology"
+    ],
+    "answer": "A",
+    "explanation": "Equality in the political-theory sense means that no individual or group enjoys special, unjustified advantages over others, that is, the absence of privileges. It does not mean the absence of restraints (laws apply to everyone), competition, or ideology. Equality of opportunity in fact presupposes fair competition."
+  },
+  {
+    "year": "2017",
+    "qno": "8",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "Rights are claims of the State against the citizens.",
+      "Rights are privileges which are incorporated in the Constitution of a State.",
+      "Rights are claims of the citizens against the State.",
+      "Rights are privileges of a few citizens against the many."
+    ],
+    "answer": "C",
+    "explanation": "In political theory, rights are claims that citizens can make on the State and society, and the State is obliged to recognise and protect them. They are not privileges, which are special advantages of a few, and they are not claims of the State against its citizens."
+  },
+  {
+    "year": "2017",
+    "qno": "28",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\n1. The Nuclear Security Summits are periodically held under the aegis of the United Nations.\n2. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "D",
+    "explanation": "The Nuclear Security Summits were an initiative started by the US in 2010 and were not held under the UN. The International Panel on Fissile Materials is an independent group of experts and not an IAEA organ. Neither statement is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "42",
+    "subject": "Political Science and International Relations",
+    "question": "Democracy's superior virtue lies in the fact that it calls into activity",
+    "options": [
+      "the intelligence and character of ordinary men and women.",
+      "the methods for strengthening executive leadership.",
+      "a superior individual with dynamism and vision.",
+      "a band of dedicated party workers."
+    ],
+    "answer": "A",
+    "explanation": "The strength of democracy lies in drawing on the participation, intelligence and character of ordinary citizens. It does not rest on a superior individual leader or on executive strength."
+  },
+  {
+    "year": "2017",
+    "qno": "68",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following in respect of Indian Ocean Naval Symposium (IONS):\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.\n2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.\nWhich of the above statements is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "The inaugural IONS was held in New Delhi in 2008 and the Indian Navy was its first chair. The 2015 date in statement 1 does not match, but the official key accepts both statements as correct, treating the Indian Navy's chairing of the symposium as the point of the statement. IONS is a voluntary forum for maritime cooperation among littoral navies of the Indian Ocean Region."
+  },
+  {
+    "year": "2017",
+    "qno": "84",
+    "subject": "Political Science and International Relations",
+    "question": "What is the importance of developing Chabahar Port by India?",
+    "options": [
+      "India's trade with African countries will enormously increase.",
+      "India's relations with oil-producing Arab countries will be strengthened.",
+      "India will not depend on Pakistan for access to Afghanistan and Central Asia.",
+      "Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and India."
+    ],
+    "answer": "C",
+    "explanation": "Chabahar Port in Iran gives India a sea-land route to Afghanistan and Central Asia that bypasses Pakistan. The other options are either exaggerated or unrelated to the port."
+  },
+  {
+    "year": "2024",
+    "qno": "59",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\n1. India is a member of the International Grains Council.\n2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "India is a member of the International Grains Council (IGC), an intergovernmental organisation that promotes cooperation in grain trade. Membership is not a requirement for trading in rice and wheat, so statement 2 is incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "73",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nParty | Its Leader\n1. Bharatiya Jana Sangh | Dr. Shyama Prasad Mukherjee\n2. Socialist Party | C. Rajagopalachari\n3. Congress for Democracy | Jagjivan Ram\n4. Swatantra Party | Acharya Narendra Dev\nHow many of the above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "Dr. Syama Prasad Mukherjee founded the Bharatiya Jana Sangh (1951), and Jagjivan Ram founded the Congress for Democracy (1977), so pairs 1 and 3 are correct. C. Rajagopalachari founded the Swatantra Party, and Acharya Narendra Dev was a leader of the Socialist Party, so pairs 2 and 4 are swapped and incorrect."
+  },
+  {
+    "year": "2024",
+    "qno": "86",
+    "subject": "Political Science and International Relations",
+    "question": "Who of the following is the author of the books \"The India Way\" and \"Why Bharat Matters\"?",
+    "options": [
+      "Bhupender Yadav",
+      "Nalin Mehta",
+      "Shashi Tharoor",
+      "Subrahmanyam Jaishankar"
+    ],
+    "answer": "D",
+    "explanation": "Both 'The India Way: Strategies for an Uncertain World' (2020) and 'Why Bharat Matters' (2024) were written by S. Jaishankar, India's External Affairs Minister."
+  },
+  {
+    "year": "2024",
+    "qno": "87",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nCountry | Reason for being in the news\n1. Argentina | Worst economic crisis\n2. Sudan | War between the country's regular army and paramilitary forces\n3. Turkey | Rescinded its membership of NATO\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": "B",
+    "explanation": "Argentina has faced a severe economic crisis with very high inflation, and Sudan has been in conflict between the Sudanese Armed Forces and the Rapid Support Forces since April 2023. Turkey has not rescinded its NATO membership. It remains a member and was in the news for its role in Sweden's accession. Pairs 1 and 2 are correct."
+  },
+  {
+    "year": "2024",
+    "qno": "91",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\nStatement-I:\nThere is instability and worsening security situation in the Sahel region.\nStatement-II:\nThere have been military takeovers/coups d'état in several countries of the Sahel region in the recent past.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "The Sahel has seen growing jihadist violence and instability. Military coups in Mali (2020, 2021), Burkina Faso (2022) and Niger (2023) have deepened the political and security vacuum. Both statements are correct, and the coups help explain the worsening instability."
+  },
+  {
+    "year": "2019",
+    "qno": "54",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements:\n1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air'.\n2. The UNCAC is the ever-first legally binding global anti-corruption instrument.\n3. A highlight of the United Nations Convention against Transnational Organized Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.\n4. The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "C",
+    "explanation": "The Protocol against the Smuggling of Migrants supplements UNTOC, not UNCAC. The asset-recovery chapter is a highlight of UNCAC, not UNTOC. UNCAC (2003) is the first legally binding universal anti-corruption instrument. UNODC is the guardian of both conventions and assists in their implementation, so statements 2 and 4 are correct."
+  },
+  {
+    "year": "2019",
+    "qno": "85",
+    "subject": "Political Science and International Relations",
+    "question": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?",
+    "options": [
+      "Protection against the tyranny of political rulers",
+      "Absence of restraint",
+      "Opportunity to do whatever one likes",
+      "Opportunity to develop oneself fully"
+    ],
+    "answer": "D",
+    "explanation": "Liberty in the broad, positive sense means the freedom and opportunity to develop one's capacities fully. Mere absence of restraint, or doing whatever one likes, would destroy others' freedom, and protection from rulers covers only one aspect of it."
+  },
+  {
+    "year": "2019",
+    "qno": "89",
+    "subject": "Political Science and International Relations",
+    "question": "Recently, India signed a deal known as 'Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries?",
+    "options": [
+      "Japan",
+      "Russia",
+      "The United Kingdom",
+      "The United States of America"
+    ],
+    "answer": "B",
+    "explanation": "In 2018, India and Russia signed the Action Plan for Prioritization and Implementation of Cooperation Areas in the Nuclear Field, which covers Kudankulam units and cooperation in third countries."
+  },
+  {
+    "year": "2022",
+    "qno": "27",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekistan\nWhich of the above have borders with Afghanistan?",
+    "options": [
+      "1, 2 and 5 only",
+      "1, 2, 3 and 4 only",
+      "3, 4 and 5 only",
+      "1, 2, 3, 4 and 5"
+    ],
+    "answer": "C",
+    "explanation": "Afghanistan borders Tajikistan, Turkmenistan and Uzbekistan in Central Asia, along with Pakistan, Iran and China. Azerbaijan and Kyrgyzstan do not share a border with Afghanistan."
+  },
+  {
+    "year": "2022",
+    "qno": "66",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following:\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation\nIndia is a member of which of the above?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "India is a founding member of the AIIB, joined the Missile Technology Control Regime in 2016, and became a full member of the Shanghai Cooperation Organisation in 2017."
+  },
+  {
+    "year": "2022",
+    "qno": "76",
+    "subject": "Political Science and International Relations",
+    "question": "With reference to the \"United Nations Credentials Committee\", consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision.\n2. It traditionally meets in March, June and September every year.\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "3 only",
+      "1 and 3",
+      "2 and 3",
+      "1 and 2"
+    ],
+    "answer": "A",
+    "explanation": "The Credentials Committee is appointed by the General Assembly, not the Security Council, at the start of each session, so statement 1 is wrong. It usually meets late in the year, and the 'March, June and September' pattern is not accurate, so statement 2 is wrong. It examines the credentials of all members and reports to the General Assembly for approval, which is statement 3. Note: I'm not fully certain of statement 2, so verify it."
+  },
+  {
+    "year": "2022",
+    "qno": "78",
+    "subject": "Political Science and International Relations",
+    "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status to the non-member States.\n2. Inter-governmental organisations can seek observer status in the UN General Assembly.\n3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The General Assembly grants observer status to non-member states, as with Palestine and the Holy See, and to intergovernmental organisations. Permanent observers maintain permanent observer missions at UN headquarters in New York. All three statements are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "83",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\nWhich of the above are members of the Organization of Turkic States?",
+    "options": [
+      "1, 2 and 4",
+      "1 and 3",
+      "2 and 5",
+      "3, 4 and 5"
+    ],
+    "answer": "C",
+    "explanation": "The Organization of Turkic States has Azerbaijan, Kazakhstan, Kyrgyzstan, Turkey and Uzbekistan as members. Armenia, Croatia and Romania are not members."
+  },
+  {
+    "year": "2022",
+    "qno": "86",
+    "subject": "Political Science and International Relations",
+    "question": "Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news?",
+    "options": [
+      "It is generally believed that they are artificial islands made by a country around South China Sea.",
+      "China and Japan engage in maritime disputes over these islands in East China Sea.",
+      "A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.",
+      "Though International Court of Justice declared them as no man's land, some South-East Asian countries claim them."
+    ],
+    "answer": "B",
+    "explanation": "The Senkaku Islands (called Diaoyu by China) are uninhabited islands in the East China Sea, administered by Japan and claimed by China and Taiwan."
+  },
+  {
+    "year": "2018",
+    "qno": "7",
+    "subject": "Political Science and International Relations",
+    "question": "What is/are the consequence/consequences of a country becoming the member of the 'Nuclear Suppliers Group'?\n1. It will have access to the latest and most efficient nuclear technologies.\n2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\".\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "NSG members can trade in nuclear material, equipment and technology, which gives them access to advanced nuclear technologies. NSG membership does not make a country an NPT member. India, for instance, seeks NSG membership without being an NPT signatory."
+  },
+  {
+    "year": "2018",
+    "qno": "14",
+    "subject": "Political Science and International Relations",
+    "question": "\"Rule of Law Index\" is released by which of the following?",
+    "options": [
+      "Amnesty International",
+      "International Court of Justice",
+      "The Office of UN Commissioner for Human Rights",
+      "World Justice Project"
+    ],
+    "answer": "D",
+    "explanation": "The Rule of Law Index is published annually by the World Justice Project, an independent organisation. It ranks countries on factors such as constraints on government powers, absence of corruption, open government and fundamental rights."
+  },
+  {
+    "year": "2018",
+    "qno": "18",
+    "subject": "Political Science and International Relations",
+    "question": "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?",
+    "options": [
+      "Angola and Zambia",
+      "Morocco and Tunisia",
+      "Venezuela and Colombia",
+      "Yemen and South Sudan"
+    ],
+    "answer": "D",
+    "explanation": "Around 2017–18, Yemen (civil war and blockade) and South Sudan (civil war and ethnic conflict) faced severe famine and acute malnutrition affecting millions of people. The other country pairs were not facing famine caused by war at that scale."
+  },
+  {
+    "year": "2018",
+    "qno": "24",
+    "subject": "Political Science and International Relations",
+    "question": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+    "options": [
+      "China",
+      "Israel",
+      "Iraq",
+      "Yemen"
+    ],
+    "answer": "B",
+    "explanation": "The two-state solution to the Israeli–Palestinian conflict proposes an independent State of Palestine existing alongside the State of Israel, with mutually recognised borders."
+  },
+  {
+    "year": "2018",
+    "qno": "33",
+    "subject": "Political Science and International Relations",
+    "question": "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the 'International Atomic Energy Agency (IAEA)'?",
+    "options": [
+      "The civilian nuclear reactors come under IAEA safeguards.",
+      "The military nuclear installations come under the inspection of IAEA.",
+      "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+      "The country automatically becomes a member of the NSG."
+    ],
+    "answer": "A",
+    "explanation": "India's Additional Protocol with the IAEA applies to its civilian nuclear facilities, which were separated from military ones under the 2008 India-specific safeguards arrangement. It gives the IAEA greater access and information on civilian nuclear activities. It does not open military installations to inspection and does not bring NSG membership or purchase privileges automatically. I'm giving (a) as the best-fitting option, so please verify it against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "34",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\n1. Australia\n2. Canada\n3. China\n4. India\n5. Japan\n6. USA\nWhich of the above are among the 'free-trade partners' of ASEAN?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4, 5 and 6",
+      "1, 3, 4 and 5",
+      "2, 3, 4 and 6"
+    ],
+    "answer": "C",
+    "explanation": "ASEAN has free-trade agreements with China, South Korea, Japan, India, and Australia and New Zealand together. Canada and the USA are not ASEAN free-trade partners. So the correct set is Australia, China, India and Japan."
+  },
+  {
+    "year": "2018",
+    "qno": "37",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nTowns sometimes mentioned in news — Country\n1. Aleppo — Syria\n2. Kirkuk — Yemen\n3. Mosul — Palestine\n4. Mazar-i-sharif — Afghanistan\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2",
+      "1 and 4",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Aleppo is in Syria and Mazar-i-Sharif is in Afghanistan. Kirkuk and Mosul are both in Iraq, not in Yemen or Palestine. Pairs 1 and 4 are correct."
+  },
+  {
+    "year": "2018",
+    "qno": "90",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nRegions sometimes mentioned in news — Country\n1. Catalonia — Spain\n2. Crimea — Hungary\n3. Mindanao — Philippines\n4. Oromia — Nigeria\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1 and 3 only",
+      "2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Catalonia is an autonomous community of Spain, which held a contested independence referendum in 2017. Mindanao is a region of the Philippines. Crimea is a peninsula of Ukraine annexed by Russia in 2014, not part of Hungary. Oromia is a region of Ethiopia, not Nigeria. Pairs 1 and 3 are correct."
+  },
+  {
+    "year": "2026",
+    "qno": "61",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements about river bridges connecting India with neighbouring countries:\n1. 'Maitri Setu', built over Feni river, connects Ramgarh in India with Sabroom in Bangladesh.\n2. Jhulaghat suspension bridge connects India with Myanmar.\n3. Mechi bridge and its approaches connect Panitanki Bypass in India with Kakarvitta in Nepal.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "1 only",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Maitri Setu over the Feni river links Sabroom in Tripura (India) with Ramgarh in Bangladesh, so the places in statement 1 are swapped. The Jhulaghat bridge over the Kali river connects India with Nepal, not Myanmar. The Mechi bridge links Panitanki in India with Kakarvitta in Nepal."
+  },
+  {
+    "year": "2026",
+    "qno": "64",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following international conventions have not been ratified by India?\n1. Employment Policy Convention\n2. Abolition of Forced Labour Convention\n3. International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families\n4. Geneva Convention Relative to the Protection of Civilian Persons in Time of War\n5. Convention on Reduction of Statelessness\nSelect the answer using the code given below:",
+    "options": [
+      "2 and 4",
+      "1 and 2",
+      "3 and 4 only",
+      "3, 4 and 5"
+    ],
+    "answer": "D",
+    "explanation": "India has ratified ILO Conventions on employment policy (C122) and abolition of forced labour (C105) and the Fourth Geneva Convention, but has not ratified the Migrant Workers Convention or the Convention on the Reduction of Statelessness (statements 3 and 5). No option matches exactly, and this question was reported as dropped; option D is the only one containing both unratified conventions, so it is the closest."
+  },
+  {
+    "year": "2026",
+    "qno": "66",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following connectivity projects is/are a part of cooperation between India and the ASEAN member countries?\n1. Kaladan Multi-Modal Transit Transport Project\n2. IMT Trilateral Highway\n3. Agartala-Akhaura Rail Line\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 2",
+      "2 and 3",
+      "1 and 3",
+      "2 only"
+    ],
+    "answer": "A",
+    "explanation": "The Kaladan project (India-Myanmar) and the India-Myanmar-Thailand Trilateral Highway involve ASEAN members Myanmar and Thailand. The Agartala-Akhaura rail line links India with Bangladesh, which is not an ASEAN member."
+  },
+  {
+    "year": "2026",
+    "qno": "67",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (Project Supported by India): A. Mangdechhu Hydroelectric Project; B. Restoration of Stor Palace; C. District Hospital at Dickoya; D. Institute of Security and Law Enforcement Studies\nList II (Country): 1. Maldives; 2. Afghanistan; 3. Bhutan; 4. Sri Lanka\nCode: A B C D",
+    "options": [
+      "1 4 2 3",
+      "3 2 4 1",
+      "3 4 2 1",
+      "1 2 4 3"
+    ],
+    "answer": "B",
+    "explanation": "Mangdechhu is a hydroelectric project in Bhutan, the Stor Palace is in Kabul, Afghanistan, the Dickoya district hospital is in Sri Lanka's Central Province, and the Institute of Security and Law Enforcement Studies is in the Maldives. This gives A-3, B-2, C-4, D-1."
+  },
+  {
+    "year": "2026",
+    "qno": "69",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements about platforms for multilateral co-operation:\n1. The 'Colombo Process' is a regional consultative process in which member states take binding decisions by consensus.\n2. The 'Abu Dhabi Dialogue' is a voluntary non-binding consultative process among Asian countries of labour origin and destination to facilitate regional cooperation on contractual labour mobility.\n3. The 'Global Forum for Migration and Development', created upon the proposal of a former UN Secretary General, is a voluntary forum whose decisions are non-binding in nature.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only",
+      "2 only"
+    ],
+    "answer": "C",
+    "explanation": "The Colombo Process is a non-binding regional consultative process, so statement 1 is wrong. The Abu Dhabi Dialogue is a voluntary, non-binding forum on labour mobility, and the GFMD, proposed by Kofi Annan, is a voluntary, non-binding forum."
+  },
+  {
+    "year": "2026",
+    "qno": "70",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following UN organisations/agencies:\n1. World Food Programme\n2. United Nations Children's Fund\n3. United Nations High Commissioner for Refugees\n4. International Labour Organisation\nHow many of the above has/have been awarded the Nobel Prize twice?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "A",
+    "explanation": "UNHCR won the Nobel Peace Prize twice (1954 and 1981). The WFP (2020), UNICEF (1965) and ILO (1969) each won it once."
+  },
+  {
+    "year": "2026",
+    "qno": "71",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (UN Peacekeeping Operation): A. UNMIL; B. MINURCAT; C. MINUSTAH; D. UNMISET\nList II (Period of Operation): 1. 2007-2010; 2. 2002-2005; 3. 2003-2018; 4. 2004-2017\nCode: A B C D",
+    "options": [
+      "3 4 1 2",
+      "3 1 4 2",
+      "2 1 4 3",
+      "2 4 1 3"
+    ],
+    "answer": "B",
+    "explanation": "UNMIL (Liberia) ran from 2003 to 2018, MINURCAT (Chad and Central African Republic) from 2007 to 2010, MINUSTAH (Haiti) from 2004 to 2017, and UNMISET (East Timor) from 2002 to 2005."
+  },
+  {
+    "year": "2026",
+    "qno": "72",
+    "subject": "Political Science and International Relations",
+    "question": "Match List I with List II and select the answer using the code given below the Lists:\nList I (BIMSTEC Centre/Establishment): A. BIMSTEC Cultural Industries Observatory; B. BIMSTEC Energy Centre; C. BIMSTEC Centre for Weather and Climate; D. BIMSTEC Technology Transfer Facility\nList II (Location): 1. NOIDA; 2. Bengaluru; 3. Colombo; 4. Thimphu\nCode: A B C D",
+    "options": [
+      "3 2 1 4",
+      "3 1 2 4",
+      "4 2 1 3",
+      "4 1 2 3"
+    ],
+    "answer": "C",
+    "explanation": "The BIMSTEC Cultural Industries Observatory is in Thimphu, the Energy Centre in Bengaluru, the Centre for Weather and Climate in NOIDA, and the Technology Transfer Facility in Colombo."
+  },
+  {
+    "year": "2026",
+    "qno": "75",
+    "subject": "Political Science and International Relations",
+    "question": "Which of the following countries are members of the European Union?\n1. Belarus\n2. Poland\n3. Germany\n4. Switzerland\nSelect the answer using the code given below:",
+    "options": [
+      "1, 2 and 4",
+      "1 and 4 only",
+      "2 and 3",
+      "2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Poland and Germany are EU member states. Belarus and Switzerland are not members."
+  },
+  {
+    "year": "2026",
+    "qno": "78",
+    "subject": "Political Science and International Relations",
+    "question": "The Chancellor of the Federal Republic of Germany visited India in January, 2026. Which of the following is/are not correct in terms of outcomes of this visit?\n1. Signing of a Memorandum of Understanding between the All India Institute of Ayurveda and the University of Hamburg\n2. Signing of a Memorandum of Understanding on Youth Hockey Development between Hockey India and the German Hockey Federation\n3. Establishment of a bilateral dialogue mechanism on the Indo-Pacific\n4. Opening of an Honorary Consul of Germany in Lucknow\nSelect the answer using the code given below:",
+    "options": [
+      "2 and 3",
+      "1 and 4",
+      "3 and 4",
+      "1 only"
+    ],
+    "answer": "B",
+    "explanation": "The Ayurveda MoU was signed between the All India Institute of Ayurveda and Charite University, Berlin, not the University of Hamburg. No opening of a German Honorary Consulate in Lucknow was part of the outcomes. The youth hockey MoU and the Indo-Pacific dialogue mechanism were genuine outcomes."
+  },
+  {
+    "year": "2020",
+    "qno": "10",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nInternational agreement/set-up — Subject\n1. Alma-Ata Declaration — Healthcare of the people\n2. Hague Convention — Biological and chemical weapons\n3. Talanoa Dialogue — Global climate change\n4. Under2 Coalition — Child rights\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "The 1978 Alma-Ata Declaration concerns primary healthcare for all (pair 1 correct). The Talanoa Dialogue was a UNFCCC process to assess collective climate action under the Paris Agreement (pair 3 correct). The Hague Convention is not the instrument for biological and chemical weapons, which are covered by the Biological Weapons Convention and the Chemical Weapons Convention (pair 2 incorrect). The Under2 Coalition is a global network of governments committed to limiting warming and climate action, not child rights (pair 4 incorrect)."
+  },
+  {
+    "year": "2020",
+    "qno": "14",
+    "subject": "Political Science and International Relations",
+    "question": "One common agreement between Gandhism and Marxism is",
+    "options": [
+      "the final goal of a stateless society",
+      "class struggle",
+      "abolition of private property",
+      "economic determinism"
+    ],
+    "answer": "A",
+    "explanation": "Both Gandhi (ideal of enlightened anarchy or Ram Rajya based on self-regulation) and Marx (withering away of the state under communism) envisaged a stateless society as the ultimate goal. Gandhi rejected class struggle, violent abolition of private property (he preferred trusteeship) and economic determinism."
+  },
+  {
+    "year": "2020",
+    "qno": "65",
+    "subject": "Political Science and International Relations",
+    "question": "In which one of the following groups are all the four countries members of G20?",
+    "options": [
+      "Argentina, Mexico, South Africa and Turkey",
+      "Australia, Canada, Malaysia and New Zealand",
+      "Brazil, Iran, Saudi Arabia and Vietnam",
+      "Indonesia, Japan, Singapore and South Korea"
+    ],
+    "answer": "A",
+    "explanation": "Argentina, Mexico, South Africa and Turkey are all G20 members. Malaysia, New Zealand, Iran, Vietnam and Singapore are not G20 members."
+  },
+  {
+    "year": "2025",
+    "qno": "21",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following countries:\nI. Austria\nII. Bulgaria\nIII. Croatia\nIV. Serbia\nV. Sweden\nVI. North Macedonia\nHow many of the above are members of the North Atlantic Treaty Organization?",
+    "options": [
+      "Only three",
+      "Only four",
+      "Only five",
+      "All the six"
+    ],
+    "answer": "B",
+    "explanation": "Bulgaria, Croatia, Sweden (joined 2024) and North Macedonia are NATO members. Austria and Serbia are not."
+  },
+  {
+    "year": "2025",
+    "qno": "92",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements in respect of BIMSTEC:\nI. It is a regional organization consisting of seven member States till January 2025.\nII. It came into existence with the signing of the Dhaka Declaration, 1999.\nIII. Bangladesh, India, Sri Lanka, Thailand and Nepal are founding member States of BIMSTEC.\nIV. In BIMSTEC, the subsector of 'tourism' is being led by India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "I and III",
+      "I and IV",
+      "I only"
+    ],
+    "answer": "C",
+    "explanation": "BIMSTEC has seven members (Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, Thailand) and India leads the tourism sector. It was formed by the Bangkok Declaration of 1997, and its founding members were Bangladesh, India, Sri Lanka and Thailand (Myanmar, then Nepal and Bhutan joined later), so II and III are incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "96",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following pairs:\nI. International Year of the Woman Farmer : 2026\nII. International Year of Sustainable and Resilient Tourism : 2027\nIII. International Year of Peace and Trust : 2025\nIV. International Year of Asteroid Awareness and Planetary Defence : 2029\nHow many of the pairs given above are correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All the four"
+    ],
+    "answer": "D",
+    "explanation": "The UN has proclaimed 2025 as the International Year of Peace and Trust, 2026 as the Year of the Woman Farmer, 2027 as the Year of Sustainable and Resilient Tourism and 2029 as the Year of Asteroid Awareness and Planetary Defence. All pairs are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "97",
+    "subject": "Political Science and International Relations",
+    "question": "Consider the following statements with regard to BRICS:\nI. 16th BRICS Summit was held under the Chairship of Russia in Kazan.\nII. Indonesia has become a full member of BRICS.\nIII. The theme of the 16th BRICS Summit was Strengthening Multiculturalism for Just Global Development and Security.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "I and II",
+      "II and III",
+      "I and III",
+      "I only"
+    ],
+    "answer": "A",
+    "explanation": "The 16th BRICS Summit was held in Kazan under Russia's chairship (October 2024) and Indonesia joined as a full member in January 2025. The summit theme was 'Strengthening Multilateralism for Just Global Development and Security', not 'Multiculturalism', so III is incorrect."
+  }
+]

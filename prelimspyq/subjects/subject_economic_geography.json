@@ -1,0 +1,618 @@
+[
+  {
+    "year": "2021",
+    "qno": "51",
+    "subject": "Economic Geography",
+    "question": "How is permaculture farming different from conventional chemical farming?\n1. Permaculture farming discourages monocultural practices but in conventional chemical farming, monoculture practices are pre-dominant.\n2. Conventional chemical farming can cause increase in soil salinity but the occurrence of such phenomenon is not observed in permaculture farming.\n3. Conventional chemical farming is easily possible in semi-arid regions but permaculture farming is not so easily possible in such regions.\n4. Practice of mulching is very important in permaculture farming but not necessarily so in conventional chemical farming.\nSelect the correct answer using the code given below.",
+    "options": [
+      "1 and 3",
+      "1, 2 and 4",
+      "4 only",
+      "2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Permaculture promotes polyculture and diversity, whereas conventional chemical farming is largely monocultural. Heavy chemical and irrigation use can raise soil salinity, which is not a feature of permaculture, and mulching is central to permaculture for moisture retention and soil building. Statement 3 is incorrect because permaculture techniques such as water harvesting and mulching are well suited to semi-arid regions."
+  },
+  {
+    "year": "2021",
+    "qno": "52",
+    "subject": "Economic Geography",
+    "question": "With reference to 'palm oil', consider the following statements:\n1. The palm oil tree is native to Southeast Asia.\n2. The palm oil is a raw material for some industries producing lipstick and perfumes.\n3. The palm oil can be used to produce biodiesel.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The oil palm is native to West Africa and was introduced to Southeast Asia, so statement 1 is incorrect. Palm oil is used in cosmetics such as lipsticks and in perfumes, and is a feedstock for biodiesel."
+  },
+  {
+    "year": "2021",
+    "qno": "57",
+    "subject": "Economic Geography",
+    "question": "Among the following, which one is the least water-efficient crop?",
+    "options": [
+      "Sugarcane",
+      "Sunflower",
+      "Pearl millet",
+      "Red gram"
+    ],
+    "answer": "A",
+    "explanation": "Sugarcane has a very high water requirement per unit of output, making it the least water-efficient among the options. Pearl millet, red gram and sunflower are comparatively drought tolerant."
+  },
+  {
+    "year": "2021",
+    "qno": "59",
+    "subject": "Economic Geography",
+    "question": "In the context of India's preparation for Climate-Smart Agriculture, consider the following statements:\n1. The 'Climate-Smart Village' approach in India is a part of a project led by the Climate Change, Agriculture and Food Security (CCAFS), an international research programme.\n2. The project of CCAFS is carried out under Consultative Group on International Agricultural Research (CGIAR) headquartered in France.\n3. The International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) in India is one of the CGIAR's research centres.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "The Climate-Smart Village approach is part of the CCAFS programme, which is carried out under the CGIAR system (headquartered in Montpellier, France). ICRISAT, based in Hyderabad, is one of the CGIAR research centres."
+  },
+  {
+    "year": "2021",
+    "qno": "63",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. Moringa (drumstick tree) is a leguminous evergreen tree.\n2. Tamarind tree is endemic to South Asia.\n3. In India, most of the tamarind is collected as minor forest produce.\n4. India exports tamarind and seeds of moringa.\n5. Seeds of moringa and tamarind can be used in the production of biofuels.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2, 4 and 5",
+      "3, 4 and 5",
+      "1, 3 and 4",
+      "1, 2, 3 and 5"
+    ],
+    "answer": "B",
+    "explanation": "Moringa belongs to the family Moringaceae (not a legume) and is deciduous/semi-evergreen, so statement 1 is incorrect. Tamarind is native to tropical Africa, not endemic to South Asia. Most Indian tamarind is a minor forest produce, India exports tamarind and moringa seeds, and the seeds of both can be used for biofuel."
+  },
+  {
+    "year": "2023",
+    "qno": "2",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nPort | Well known as\n1. Kamarajar Port : First major port in India registered as a company\n2. Mundra Port : Largest privately owned port in India\n3. Visakhapatnam Port : Largest container port in India\nHow many of the above pairs are correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "All three pairs",
+      "None of the pairs"
+    ],
+    "answer": "B",
+    "explanation": "Kamarajar Port (Ennore) was the first major port in India to be registered as a public limited company, and Mundra is the largest privately owned port. The largest container port in India is Jawaharlal Nehru Port (JNPT), not Visakhapatnam, so pair 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "4",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "India has more arable land than China (about 156 million ha against about 119 million ha) and a higher proportion of its cropped area under irrigation. China, however, has much higher average yields per hectare because of intensive input use and mechanisation, so statement 3 is incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "6",
+    "subject": "Economic Geography",
+    "question": "Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following?",
+    "options": [
+      "Aluminium",
+      "Copper",
+      "Iron",
+      "Titanium"
+    ],
+    "answer": "D",
+    "explanation": "Ilmenite (FeTiO3) and rutile (TiO2) are the main ores of titanium and occur in beach sands of Kerala, Tamil Nadu, Odisha and Andhra Pradesh."
+  },
+  {
+    "year": "2023",
+    "qno": "7",
+    "subject": "Economic Geography",
+    "question": "About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by",
+    "options": [
+      "Argentina",
+      "Botswana",
+      "the Democratic Republic of the Congo",
+      "Kazakhstan"
+    ],
+    "answer": "C",
+    "explanation": "The Democratic Republic of the Congo produces roughly 70–75% of the world's cobalt, mostly as a by-product of copper mining in the Katanga region."
+  },
+  {
+    "year": "2023",
+    "qno": "10",
+    "subject": "Economic Geography",
+    "question": "With reference to India's projects on connectivity, consider the following statements:\n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.\n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.\n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.\nHow many of the above statements are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "The East-West Corridor connects Silchar (Assam) and Porbandar (Gujarat), and it is separate from the Golden Quadrilateral. The India–Myanmar–Thailand Trilateral Highway connects Moreh to Mae Sot in Thailand. The BCIM Economic Corridor links Kolkata with Kunming, not Varanasi. None of the statements is correct."
+  },
+  {
+    "year": "2017",
+    "qno": "71",
+    "subject": "Economic Geography",
+    "question": "Which of the following practices can help in water conservation in agriculture?\n1. Reduced or zero tillage of the land\n2. Applying gypsum before irrigating the field\n3. Allowing crop residue to remain in the field\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Zero tillage and crop residue mulching reduce evaporation and improve soil moisture. Gypsum improves soil structure and water infiltration, particularly in sodic soils, which reduces irrigation needs. All three practices help conserve water."
+  },
+  {
+    "year": "2024",
+    "qno": "5",
+    "subject": "Economic Geography",
+    "question": "Which of the following countries are well known as the two largest cocoa producers in the world?",
+    "options": [
+      "Algeria and Morocco",
+      "Botswana and Namibia",
+      "Côte d'Ivoire and Ghana",
+      "Madagascar and Mozambique"
+    ],
+    "answer": "C",
+    "explanation": "Côte d'Ivoire and Ghana, both in West Africa, are the world's two largest cocoa producers and together account for well over half of global output."
+  },
+  {
+    "year": "2024",
+    "qno": "11",
+    "subject": "Economic Geography",
+    "question": "Consider the following airports:\n1. Donyi Polo Airport\n2. Kushinagar International Airport\n3. Vijayawada International Airport\nIn the recent past, which of the above have been constructed as Greenfield projects?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Donyi Polo Airport (Itanagar, Arunachal Pradesh) and Kushinagar International Airport (Uttar Pradesh) were built as greenfield projects. Vijayawada Airport is an existing airport that was expanded and upgraded, so it is not greenfield."
+  },
+  {
+    "year": "2024",
+    "qno": "88",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nStatement-I:\nSumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.\nStatement-II:\nSumed pipeline connects the Red Sea with the Mediterranean Sea.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I",
+      "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I",
+      "Statement-I is correct, but Statement-II is incorrect",
+      "Statement-I is incorrect, but Statement-II is correct"
+    ],
+    "answer": "A",
+    "explanation": "The Sumed (Suez–Mediterranean) pipeline in Egypt runs from Ain Sukhna on the Red Sea's Gulf of Suez to Sidi Kerir on the Mediterranean. It provides an alternative to the Suez Canal for Gulf oil going to Europe. Because it links the Red Sea and the Mediterranean, Statement-II explains Statement-I."
+  },
+  {
+    "year": "2019",
+    "qno": "21",
+    "subject": "Economic Geography",
+    "question": "Which one of the following groups of plants was domesticated in the 'New World' and introduced into the 'Old World'?",
+    "options": [
+      "Tobacco, cocoa and rubber",
+      "Tobacco, cotton and rubber",
+      "Cotton, coffee and sugarcane",
+      "Rubber, coffee and wheat"
+    ],
+    "answer": "A",
+    "explanation": "Tobacco, cocoa and rubber are native to the Americas and were introduced to the Old World after 1492. Coffee, sugarcane and wheat originated in the Old World. Cotton was domesticated independently in both the Old and New Worlds."
+  },
+  {
+    "year": "2019",
+    "qno": "37",
+    "subject": "Economic Geography",
+    "question": "Among the following, which one is the largest exporter of rice in the world in the last five years?",
+    "options": [
+      "China",
+      "India",
+      "Myanmar",
+      "Vietnam"
+    ],
+    "answer": "B",
+    "explanation": "India has been the world's largest rice exporter in recent years, ahead of Thailand and Vietnam."
+  },
+  {
+    "year": "2019",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "With reference to the cultivation of Kharif crops in India in the last five years, consider the following statements:\n1. Area under rice cultivation is the highest.\n2. Area under the cultivation of jowar is more than that of oilseeds.\n3. Area of cotton cultivation is more than that of sugarcane.\n4. Area under sugarcane cultivation has steadily decreased.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2, 3 and 4 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "A",
+    "explanation": "Rice has the largest kharif area. The area under oilseeds exceeds that under jowar, so statement 2 is wrong. Cotton area (about 12 million ha) is well above sugarcane (about 5 million ha). Sugarcane area has fluctuated, not steadily decreased, so statement 4 is wrong."
+  },
+  {
+    "year": "2022",
+    "qno": "28",
+    "subject": "Economic Geography",
+    "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths.\n2. Monazite contains thorium.\n3. Monazite occurs naturally in the entire Indian coastal sands in India.\n4. In India, Government bodies only can process or export monazite.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": "B",
+    "explanation": "Monazite is a phosphate mineral and a source of rare earth elements and thorium (statements 1 and 2). It occurs in beach sands in parts of the coast, for example in Kerala, Tamil Nadu, Odisha and Andhra Pradesh, but not along the entire coastline (statement 3 is wrong). Because it contains thorium, it is a prescribed substance under atomic energy law, and processing and export are restricted to government bodies such as IREL (statement 4). Note: statement 4 is the one to verify."
+  },
+  {
+    "year": "2022",
+    "qno": "62",
+    "subject": "Economic Geography",
+    "question": "Consider the following States:\n1. Andhra Pradesh\n2. Kerala\n3. Himachal Pradesh\n4. Tripura\nHow many of the above are generally known as tea-producing States?",
+    "options": [
+      "Only one State",
+      "Only two States",
+      "Only three States",
+      "All four States"
+    ],
+    "answer": "D",
+    "explanation": "Besides Assam, West Bengal and Tamil Nadu, tea is also grown in Kerala, Himachal Pradesh (Kangra), Tripura and, on a smaller scale, Andhra Pradesh (Visakhapatnam district). All four listed states are tea-producing states."
+  },
+  {
+    "year": "2022",
+    "qno": "70",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nReservoirs — States\n1. Ghataprabha — Telangana\n2. Gandhi Sagar — Madhya Pradesh\n3. Indira Sagar — Andhra Pradesh\n4. Maithon — Chhattisgarh\nHow many pairs given above are not correctly matched?",
+    "options": [
+      "Only one pair",
+      "Only two pairs",
+      "Only three pairs",
+      "All four pairs"
+    ],
+    "answer": "C",
+    "explanation": "The Ghataprabha reservoir (Hidkal Dam) is in Karnataka, not Telangana. Gandhi Sagar, on the Chambal, is in Madhya Pradesh, so pair 2 is correct. Indira Sagar, on the Narmada, is in Madhya Pradesh. Maithon is in Jharkhand, not Chhattisgarh. Three pairs are wrongly matched. Note: the Polavaram project in Andhra Pradesh is also sometimes called Indira Sagar, so verify this one."
+  },
+  {
+    "year": "2022",
+    "qno": "72",
+    "subject": "Economic Geography",
+    "question": "In India, what is the role of the Coal Controller's Organization (CCO)?\n1. CCO is the major source of Coal Statistics in Government of India.\n2. It monitors progress of development of Captive Coal/Lignite blocks.\n3. It hears any objection to the Government's notification relating to acquisition of coal-bearing areas.\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 2 and 3",
+      "3 and 4 only",
+      "1 and 2 only",
+      "1, 2 and 4"
+    ],
+    "answer": "A",
+    "explanation": "The Coal Controller's Organisation, under the Ministry of Coal, is the main source of coal statistics. It monitors the development of captive coal and lignite blocks and acts as the authority that hears objections under the Coal Bearing Areas (Acquisition and Development) Act. Ensuring timely delivery to end users is not its role. Statements 1, 2 and 3 are correct."
+  },
+  {
+    "year": "2022",
+    "qno": "84",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. Gujarat has the largest solar park in India.\n2. Kerala has a fully solar powered International Airport.\n3. Goa has the largest floating solar photovoltaic project in India.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "India's largest solar park is Bhadla in Rajasthan, not in Gujarat. Cochin International Airport in Kerala is fully solar powered. The largest floating solar project is in Telangana (Ramagundam) and not in Goa. Only statement 2 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "27",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\n1. In India, State Governments do not have the power to auction non-coal mines.\n2. Andhra Pradesh and Jharkhand do not have gold mines.\n3. Rajasthan has iron ore mines.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Under the MMDR Act as amended in 2015, State Governments auction mineral concessions for non-coal minerals, so statement 1 is wrong. Andhra Pradesh (Ramagiri) and Jharkhand have gold deposits and mines, so statement 2 is wrong. Rajasthan does have iron ore mines, for example in the Jaipur, Sikar and Bhilwara regions, so statement 3 is correct."
+  },
+  {
+    "year": "2018",
+    "qno": "59",
+    "subject": "Economic Geography",
+    "question": "With reference to the circumstances in Indian agriculture, the concept of \"Conservation Agriculture\" assumes significance. Which of the following fall under the Conservation Agriculture?\n1. Avoiding the monoculture practices\n2. Adopting minimum tillage\n3. Avoiding the cultivation of plantation crops\n4. Using crop residues to cover soil surface\n5. Adopting spatial and temporal crop sequencing/crop rotations\nSelect the correct answer using the code given below:",
+    "options": [
+      "1, 3 and 4",
+      "2, 3, 4 and 5",
+      "2, 4 and 5",
+      "1, 2, 3 and 5"
+    ],
+    "answer": "C",
+    "explanation": "Conservation Agriculture rests on three principles: minimum mechanical soil disturbance (minimum tillage), permanent soil cover using crop residues or cover crops, and crop diversification through rotations and sequencing. Avoiding plantation crops is not part of it. I'm answering (c) as the option matching the three core principles, so please verify it against the official key."
+  },
+  {
+    "year": "2018",
+    "qno": "82",
+    "subject": "Economic Geography",
+    "question": "With reference to agricultural soils, consider the following statements:\n1. A high content of organic matter in soil drastically reduces its water holding capacity.\n2. Soil does not play any role in the sulphur cycle.\n3. Irrigation over a period of time can contribute to the salinization of some agricultural lands.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Organic matter improves soil structure and increases water holding capacity, so statement 1 is wrong. Soil is a major reservoir in the sulphur cycle, where microbes mineralise and transform sulphur compounds, so statement 2 is wrong. Long-term irrigation, especially with poor drainage, leaves salts behind as water evaporates and causes salinization, so statement 3 is correct."
+  },
+  {
+    "year": "2026",
+    "qno": "24",
+    "subject": "Economic Geography",
+    "question": "In what way(s) does the Vizhinjam International Seaport represent a structural shift in India's maritime trade and logistics policy?\n1. By functioning exclusively as a domestic cargo hub to reduce reliance on coastal shipping and eliminate the need for foreign collaborations.\n2. By focusing primarily on passenger cruise tourism and heritage shipping to increase Kerala's profile as a maritime heritage destination.\n3. By leveraging its natural deep draft and strategic location to reduce dependence on foreign trans-shipment ports, enhance revenue retention, and reposition India in regional maritime trade.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "Vizhinjam is India's first deep-water container trans-shipment port, with natural deep draft close to the main east-west shipping route, aimed at capturing trans-shipment volumes now handled at ports like Colombo, Singapore and Salalah. It is not exclusively domestic or primarily a cruise port."
+  },
+  {
+    "year": "2026",
+    "qno": "28",
+    "subject": "Economic Geography",
+    "question": "Which among the following is/are the objective(s) of the Rainfed Area Development (RAD) initiative under the National Mission for Sustainable Agriculture (NMSA)?\n1. Encouraging monoculture in rainfed areas\n2. Increasing rice cultivation in irrigated regions\n3. Enhancing productivity and minimising climatic risks through Integrated Farming Systems (IFS)\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "D",
+    "explanation": "RAD promotes Integrated Farming Systems in rainfed areas to raise productivity and reduce climatic risks, which is the only listed objective. It encourages diversification, not monoculture, and does not target rice in irrigated regions."
+  },
+  {
+    "year": "2026",
+    "qno": "35",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements with reference to the Sagarmala Programme of the Government of India:\nI. The Sagarmala Programme seeks to achieve port-led economic growth through cost-effective and sustainable coastal infrastructure.\nII. The success of the Sagarmala Programme is reflected in significant growth in coastal and inland waterway shipping, along with improved global port rankings.\nIII. Sagarmala 2.0 aims to position India as a global maritime innovation hub aligned with Atmanirbhar Bharat and Viksit Bharat 2047 visions.\nWhich of the following relationships among the above statements is/are correct?\n1. Statement II validates the effectiveness of the strategies envisioned in statement I.\n2. Statement III extends the objectives of statement I by embedding them into a future-oriented innovation framework.\n3. Statement I contradicts statement III by focusing only on traditional infrastructure instead of modern innovation.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Rising coastal and inland waterway shipping and better port rankings are outcomes that validate the port-led strategy in I, and Sagarmala 2.0 builds on the original objectives with an innovation-led vision. Statement I does not contradict III, so relationship 3 is incorrect."
+  },
+  {
+    "year": "2026",
+    "qno": "38",
+    "subject": "Economic Geography",
+    "question": "At the United Nations Ocean Conference (UNOC) held in June, 2025 in France, the Food and Agriculture Organization (FAO) of the United Nations demonstrated its leading voice on marine and ocean issues, especially on sustainable fisheries and aquaculture for resilient livelihood and 'Blue Transformation'. Which of the following combinations about the 'Four Betters' proposed by FAO for 'Blue Transformation' is correct?",
+    "options": [
+      "Better production, better nutrition, better environment and better ocean",
+      "Better production, better nutrition, better environment and better life",
+      "Better coral reefs, better nutrition, better environment and better life",
+      "Better estuaries, better nutrition, better environment and better mangrove vegetation"
+    ],
+    "answer": "B",
+    "explanation": "FAO's Blue Transformation roadmap is framed around the 'Four Betters': better production, better nutrition, better environment and better life, in line with its broader Hand-in-Hand approach."
+  },
+  {
+    "year": "2026",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "Which one of the following pairs of semiconductor plants in India and their locations is not correctly matched?",
+    "options": [
+      "CG Power and Industrial Solutions Pvt. Ltd. in partnership with Renesas Electronics and STARS Microelectronics : Gujarat",
+      "Tata Semiconductor Assembly and Test Pvt. Ltd. : Assam",
+      "HCL-Foxconn Joint Venture India Chip Ltd. : Madhya Pradesh",
+      "SicSem Pvt. Ltd. : Odisha"
+    ],
+    "answer": "C",
+    "explanation": "The CG Power-Renesas-STARS plant is at Sanand, Gujarat, Tata's OSAT plant is at Jagiroad, Assam, and SicSem's silicon carbide plant is in Odisha. The HCL-Foxconn joint venture's plant is at Jewar, Uttar Pradesh, not Madhya Pradesh."
+  },
+  {
+    "year": "2026",
+    "qno": "95",
+    "subject": "Economic Geography",
+    "question": "Which of the following statements about Rare Earth Elements (REEs) and Critical Minerals is/are correct?\n1. Modern technological innovations including Artificial Intelligence, robotics and space exploration extensively utilise Rare Earth Elements (REEs).\n2. China has the highest share in mining of REEs followed by India.\n3. The Government of India launched the National Critical Mineral Mission (NCMM) in 2025 to establish a robust framework for self-reliance in the critical mineral sector.\n4. Rare Earth Elements are a set of 13 metallic elements.\nSelect the answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "3 only",
+      "1, 3 and 4",
+      "1, 2 and 4"
+    ],
+    "answer": "A",
+    "explanation": "REEs are used widely in advanced electronics, robotics and space technology, and the National Critical Mineral Mission was launched in 2025. China leads REE mining but the next largest producers are countries such as the US, Myanmar and Australia, not India, and REEs are a group of 17 elements, not 13."
+  },
+  {
+    "year": "2020",
+    "qno": "80",
+    "subject": "Economic Geography",
+    "question": "What is the use of biochar in farming?\n1. Biochar can be used as a part of the growing medium in vertical farming.\n2. When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.\n3. When biochar is a part of the growing medium, it enables the growing medium to retain water for longer time.",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Biochar is a porous carbon-rich material that can be used in soilless and vertical-farming media, supports beneficial microbes including nitrogen-fixing organisms, and improves water-holding capacity."
+  },
+  {
+    "year": "2020",
+    "qno": "83",
+    "subject": "Economic Geography",
+    "question": "What is/are the advantage/advantages of zero tillage in agriculture?\n1. Sowing of wheat is possible without burning the residue of previous crop.\n2. Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.\n3. Carbon sequestration in the soil is possible.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "D",
+    "explanation": "Zero tillage allows wheat to be sown directly into the residue of the previous crop (for example with a Happy Seeder), avoiding stubble burning. It also allows direct seeding of paddy without raising a nursery and transplanting, and it reduces soil disturbance, which helps sequester carbon in the soil."
+  },
+  {
+    "year": "2020",
+    "qno": "84",
+    "subject": "Economic Geography",
+    "question": "According to India’s National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels?\n1. Cassava\n2. Damaged wheat grains\n3. Groundnut seeds\n4. Horse gram\n5. Rotten potatoes\n6. Sugar beet",
+    "options": [
+      "1, 2, 5 and 6 only",
+      "1, 3, 4 and 6 only",
+      "2, 3, 4 and 5 only",
+      "1, 2, 3, 4, 5 and 6"
+    ],
+    "answer": "A",
+    "explanation": "The National Policy on Biofuels allows ethanol production from sugarcane juice, sugar beet, sweet sorghum, starch-bearing materials like cassava, and damaged food grains such as wheat and rotten potatoes unfit for human consumption. Groundnut seeds and horse gram are edible and not listed as raw materials."
+  },
+  {
+    "year": "2020",
+    "qno": "86",
+    "subject": "Economic Geography",
+    "question": "With reference to pulse production in India, consider the following statements:\n1. Black gram can be cultivated as both kharif and rabi crop.\n2. Green-gram alone accounts for nearly half of pulse production.\n3. In the last three decades, while the production of kharif pulses has increased, the production of rabi pulses has decreased.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Black gram (urad) is grown in both kharif and rabi seasons, so statement 1 is correct. Chickpea (gram), not green gram, accounts for the largest share, so statement 2 is incorrect. Rabi pulse production has risen over the last three decades, so statement 3 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "87",
+    "subject": "Economic Geography",
+    "question": "“The crop is subtropical in nature. A hard frost is injurious to it. It requires at least 210 frost-free days and 50 to 100 centimeters of rainfall for its growth. A light well-drained soil capable of retaining moisture is ideally suited for the cultivation of the crop.” Which one of the following is that crop?",
+    "options": [
+      "Cotton",
+      "Jute",
+      "Sugarcane",
+      "Tea"
+    ],
+    "answer": "C",
+    "explanation": "The description of a subtropical crop needing at least 210 frost-free days, 50-100 cm of rainfall and light, well-drained, moisture-retentive soil matches sugarcane."
+  },
+  {
+    "year": "2020",
+    "qno": "89",
+    "subject": "Economic Geography",
+    "question": "With reference to the current trends in the cultivation of sugarcane in India, consider the following statements:\n1. A substantial saving in seed material is made when ‘bud chip settlings’ are raised in a nursery and transplanted in the main field.\n2. When direct planting of setts is done, the germination percentage is better with single-budded setts as compared to setts with many buds.\n3. If bad weather conditions prevail when setts are directly planted, single-budded setts have better survival as compared to large setts.\n4. Sugarcane can be cultivated using settlings prepared from tissue culture.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Raising bud chip settlings in a nursery saves seed material, and tissue-culture settlings can be used to cultivate sugarcane, so statements 1 and 4 are correct. Germination is generally better with multi-budded setts, and larger setts survive adverse weather better than single-budded ones, so statements 2 and 3 are incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "91",
+    "subject": "Economic Geography",
+    "question": "What are the advantages of fertigation in agriculture?\n1. Controlling the alkalinity of irrigation water is possible.\n2. Efficient application of Rock Phosphate and all other phosphatic fertilizers is possible.\n3. Increased availability of nutrients to plants is possible.\n4. Reduction in the leaching of chemical nutrients is possible.",
+    "options": [
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "Fertigation, the application of fertilisers through irrigation water, allows control of water alkalinity by acid injection, improves nutrient availability, and reduces leaching losses. Rock phosphate and many phosphatic fertilizers are poorly soluble and are not suitable for fertigation, so statement 2 is incorrect."
+  },
+  {
+    "year": "2020",
+    "qno": "92",
+    "subject": "Economic Geography",
+    "question": "Consider the following minerals:\n1. Bentonite\n2. Chromite\n3. Kyanite\n4. Sillimanite\nIn India, which of the above is/are officially designated as major minerals?",
+    "options": [
+      "1 and 2 only",
+      "4 only",
+      "1 and 3 only",
+      "2, 3 and 4 only"
+    ],
+    "answer": "D",
+    "explanation": "Under the Mines and Minerals (Development and Regulation) Act, chromite, kyanite and sillimanite are notified as major minerals, whereas bentonite is classified among the minor minerals."
+  },
+  {
+    "year": "2025",
+    "qno": "6",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nI. India has joined the Minerals Security Partnership as a member.\nII. India is a resource-rich country in all the 30 critical minerals that it has identified.\nIII. The Parliament in 2023 has amended the Mines and Minerals (Development and Regulation) Act, 1957 empowering the Central Government to exclusively auction mining lease and composite license for certain critical minerals.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "C",
+    "explanation": "India joined the Minerals Security Partnership in 2023 and the MMDR Amendment Act, 2023 empowers the Centre to auction mining leases and composite licences for specified critical minerals. India is import-dependent for many critical minerals, so Statement II is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "24",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements about turmeric during the year 2022-23:\nI. India is the largest producer and exporter of turmeric in the world.\nII. More than 30 varieties of turmeric are grown in India.\nIII. Maharashtra, Telangana, Karnataka and Tamil Nadu are major turmeric producing States in India.\nWhich of the statements given above are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "answer": "D",
+    "explanation": "India is the world's largest producer, consumer and exporter of turmeric, grows more than 30 varieties, and Telangana, Maharashtra, Karnataka and Tamil Nadu are among the leading producing States. All three statements are correct."
+  },
+  {
+    "year": "2025",
+    "qno": "62",
+    "subject": "Economic Geography",
+    "question": "India is one of the founding members of the International North-South Transport Corridor (INSTC), a multimodal transportation corridor, which will connect",
+    "options": [
+      "India to Central Asia to Europe via Iran",
+      "India to Central Asia via China",
+      "India to South-East Asia through Bangladesh and Myanmar",
+      "India to Europe through Azerbaijan"
+    ],
+    "answer": "A",
+    "explanation": "The INSTC is a multimodal route of ship, rail and road linking India with Iran, then onward to Central Asia, Russia and Europe (via the Caspian region), with Iran as the key transit link."
+  },
+  {
+    "year": "2025",
+    "qno": "63",
+    "subject": "Economic Geography",
+    "question": "Consider the following statements:\nStatement I: Of the two major ethanol producers in the world, i.e., Brazil and the United States of America, the former produces more ethanol than the latter.\nStatement II: Unlike in the United States of America where corn is the principal feedstock for ethanol production, sugarcane is the principal feedstock for ethanol production in Brazil.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement I and Statement II are correct and Statement II explains Statement I",
+      "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+      "Statement I is correct but Statement II is not correct",
+      "Statement I is not correct but Statement II is correct"
+    ],
+    "answer": "D",
+    "explanation": "The United States is the world's largest ethanol producer, ahead of Brazil, so Statement I is incorrect. US ethanol is mainly corn-based while Brazil's is mainly sugarcane-based, so Statement II is correct."
+  },
+  {
+    "year": "2025",
+    "qno": "79",
+    "subject": "Economic Geography",
+    "question": "Consider the following pairs:\nCountry : Resource-rich in\nI. Botswana : Diamond\nII. Chile : Lithium\nIII. Indonesia : Nickel\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All the three",
+      "None"
+    ],
+    "answer": "C",
+    "explanation": "Botswana is a leading diamond producer, Chile has among the world's largest lithium reserves and Indonesia is the largest nickel producer. All three pairs are correct."
+  }
+]

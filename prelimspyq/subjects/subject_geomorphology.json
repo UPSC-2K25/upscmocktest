@@ -1,0 +1,450 @@
+[
+  {
+    "year": "2021",
+    "qno": "53",
+    "subject": "Geomorphology",
+    "question": "With reference to the Indus river system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following, which one is such river that joins the Indus direct?",
+    "options": [
+      "Chenab",
+      "Jhelum",
+      "Ravi",
+      "Sutlej"
+    ],
+    "answer": "D",
+    "explanation": "The Jhelum joins the Chenab, and the Chenab and Ravi flow into the Sutlej (the combined stream forming the Panjnad), which then joins the Indus directly at Mithankot. So three of the rivers pour into the Sutlej, which joins the Indus."
+  },
+  {
+    "year": "2021",
+    "qno": "54",
+    "subject": "Geomorphology",
+    "question": "With reference to India, Didwana, Kuchaman, Sargol and Khatu are the names of",
+    "options": [
+      "glaciers",
+      "mangrove areas",
+      "Ramsar sites",
+      "saline lakes"
+    ],
+    "answer": "D",
+    "explanation": "Didwana, Kuchaman, Sargol and Khatu are saline (salt) lakes of the Thar region of Rajasthan."
+  },
+  {
+    "year": "2021",
+    "qno": "55",
+    "subject": "Geomorphology",
+    "question": "Consider the following rivers:\n1. Brahmani\n2. Nagavali\n3. Subarnarekha\n4. Vamsadhara\nWhich of the above rise from the Eastern Ghats?",
+    "options": [
+      "1 and 2",
+      "2 and 4",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Nagavali and Vamsadhara rise in the Eastern Ghats (Odisha-Andhra region). The Brahmani (formed by the Sankh and South Koel) and the Subarnarekha (near Ranchi) rise on the Chota Nagpur plateau."
+  },
+  {
+    "year": "2021",
+    "qno": "62",
+    "subject": "Geomorphology",
+    "question": "With reference to the water on the planet Earth, consider the following statements:\n1. The amount of water in the rivers and lakes is more than the amount of groundwater.\n2. The amount of water in polar ice caps and glaciers is more than the amount of groundwater.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "B",
+    "explanation": "Groundwater is far larger than the water held in rivers and lakes, so statement 1 is incorrect. Polar ice caps and glaciers hold the largest share of Earth's freshwater, more than groundwater, so statement 2 is correct."
+  },
+  {
+    "year": "2021",
+    "qno": "64",
+    "subject": "Geomorphology",
+    "question": "The black cotton soil of India has been formed due to the weathering of",
+    "options": [
+      "brown forest soil",
+      "fissure volcanic rock",
+      "granite and schist",
+      "shale and limestone"
+    ],
+    "answer": "B",
+    "explanation": "Black cotton soil (regur) is formed from the weathering of basaltic lava rock of the Deccan Traps, which were erupted through fissure volcanism."
+  },
+  {
+    "year": "2023",
+    "qno": "1",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "B",
+    "explanation": "The Jhelum flows through Wular Lake in Kashmir, and Kanwar Lake (Kabartal) in Bihar is an oxbow lake formed by the meandering of the Gandak. Kolleru Lake lies between the Krishna and Godavari deltas and is fed mainly by the Budameru and Tammileru streams, not directly by the Krishna. Hence only two statements are correct."
+  },
+  {
+    "year": "2023",
+    "qno": "5",
+    "subject": "Geomorphology",
+    "question": "Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland?",
+    "options": [
+      "Bhitarkanika Mangroves",
+      "Marakkanam Salt Pans",
+      "Naupada Swamp",
+      "Rann of Kutch"
+    ],
+    "answer": "D",
+    "explanation": "The Rann of Kutch was once a shallow arm of the Arabian Sea. Repeated falls in sea level and tectonic uplift cut it off from the sea, leaving the extensive seasonal marshland and salt flats seen today."
+  },
+  {
+    "year": "2023",
+    "qno": "9",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.\n2. Biligirirangan Hills constitute the easternmost part of Satpura Range.\n3. Seshachalam Hills constitute the southernmost part of Western Ghats.\nHow many of the statements given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "D",
+    "explanation": "Amarkantak lies at the junction of the Vindhya and Satpura ranges, not the Sahyadri. The Biligirirangan Hills are where the Western and Eastern Ghats meet in Karnataka and Tamil Nadu, and they are not part of the Satpura Range. The Seshachalam Hills belong to the Eastern Ghats. All three statements are incorrect."
+  },
+  {
+    "year": "2023",
+    "qno": "65",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "answer": "C",
+    "explanation": "P (primary) waves travel faster and arrive first at a seismograph. They are longitudinal, with particles vibrating parallel to the direction of propagation. S (secondary) waves are transverse, with particle motion at right angles to the direction of travel. Both statements are correct."
+  },
+  {
+    "year": "2017",
+    "qno": "30",
+    "subject": "Geomorphology",
+    "question": "With reference to river Teesta, consider the following statements:\n1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.\n2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.\n3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "The Teesta rises from the Pauhunri/Tso Lhamo area in Sikkim, while the Brahmaputra rises near Mansarovar, so statement 1 is wrong. The Rangeet originates in Sikkim and is a tributary of the Teesta, so statement 2 is correct. The Teesta joins the Brahmaputra (Jamuna) in Bangladesh and does not flow directly into the Bay of Bengal, so statement 3 is wrong."
+  },
+  {
+    "year": "2024",
+    "qno": "3",
+    "subject": "Geomorphology",
+    "question": "Consider the following:\n1. Pyroclastic debris\n2. Ash and dust\n3. Nitrogen compounds\n4. Sulphur compounds\nHow many of the above are products of volcanic eruptions?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "D",
+    "explanation": "Volcanic eruptions release solid materials such as pyroclastic debris (bombs, lapilli, blocks), ash and dust. They also release gases including sulphur compounds (SO2, H2S) and nitrogen compounds, along with water vapour, CO2 and others. All four are products of volcanic eruptions."
+  },
+  {
+    "year": "2024",
+    "qno": "6",
+    "subject": "Geomorphology",
+    "question": "With reference to the Himalayan rivers joining the Ganga downstream of Prayagraj from West to East, which one of the following sequences is correct?",
+    "options": [
+      "Ghaghara – Gomati – Gandak – Kosi",
+      "Gomati – Ghaghara – Gandak – Kosi",
+      "Ghaghara – Gomati – Kosi – Gandak",
+      "Gomati – Ghaghara – Kosi – Gandak"
+    ],
+    "answer": "B",
+    "explanation": "Downstream of Prayagraj, the Ganga receives the Gomati first (near Saidpur, Ghazipur), followed by the Ghaghara (near Chhapra), the Gandak (near Hajipur/Patna) and finally the Kosi (near Kursela). The correct west-to-east order is Gomati – Ghaghara – Gandak – Kosi."
+  },
+  {
+    "year": "2024",
+    "qno": "7",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement-I:\nRainfall is one of the reasons for weathering of rocks.\nStatement-II:\nRain water contains carbon dioxide in solution.\nStatement-III:\nRain water contains atmospheric oxygen.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement-II and Statement-III are correct and both of them explain Statement-I",
+      "Both Statement-II and Statement-III are correct, but only one of them explains Statement-I",
+      "Only one of the Statements II and III is correct and that explains Statement-I",
+      "Neither Statement-II nor Statement-III is correct"
+    ],
+    "answer": "A",
+    "explanation": "Rain water dissolves atmospheric CO2 to form weak carbonic acid, which drives carbonation (e.g. in limestone). Dissolved oxygen drives oxidation of iron-bearing minerals. Both processes are chemical weathering, so both Statements II and III are correct and both explain Statement-I."
+  },
+  {
+    "year": "2024",
+    "qno": "9",
+    "subject": "Geomorphology",
+    "question": "Consider the following information:\nWaterfall | Region | River\n1. Dhuandhar | Malwa | Narmada\n2. Hundru | Chota Nagpur | Subarnarekha\n3. Gersoppa | Western Ghats | Netravati\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "All three",
+      "None"
+    ],
+    "answer": "A",
+    "explanation": "Hundru Falls lies in the Chota Nagpur plateau on the Subarnarekha river, so row 2 is correct. Dhuandhar Falls on the Narmada is near Jabalpur, which is not in the Malwa region. Gersoppa (Jog) Falls is on the Sharavati river, not the Netravati. Only one row is correct."
+  },
+  {
+    "year": "2024",
+    "qno": "10",
+    "subject": "Geomorphology",
+    "question": "Consider the following information:\nRegion | Name of the mountain range | Type of mountain\n1. Central Asia | Vosges | Fold mountain\n2. Europe | Alps | Block mountain\n3. North America | Appalachians | Fold mountain\n4. South America | Andes | Fold mountain\nIn how many of the above rows is the given information correctly matched?",
+    "options": [
+      "Only one",
+      "Only two",
+      "Only three",
+      "All four"
+    ],
+    "answer": "B",
+    "explanation": "The Vosges is a block mountain in Europe (France), not a Central Asian fold mountain, so row 1 is wrong. The Alps are young fold mountains, not block mountains, so row 2 is wrong. The Appalachians (old fold mountains) and the Andes (young fold mountains) are correctly matched. Hence only two."
+  },
+  {
+    "year": "2019",
+    "qno": "23",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nFamous place : River\n1. Pandharpur : Chandrabhaga\n2. Tiruchirappalli : Cauvery\n3. Hampi : Malaprabha\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Pandharpur stands on the Bhima, which is locally called Chandrabhaga there. Tiruchirappalli (with Srirangam) lies on the Cauvery. Hampi lies on the Tungabhadra, not the Malaprabha."
+  },
+  {
+    "year": "2019",
+    "qno": "38",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nGlacier : River\n1. Bandarpunch : Yamuna\n2. Bara Shigri : Chenab\n3. Milam : Mandakini\n4. Siachen : Nubra\n5. Zemu : Manas\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1, 2 and 4",
+      "1, 3 and 4",
+      "2 and 5",
+      "3 and 5"
+    ],
+    "answer": "A",
+    "explanation": "Bandarpunch feeds the Yamuna, Bara Shigri feeds the Chenab, and Siachen feeds the Nubra. The Milam glacier feeds the Gori Ganga, not the Mandakini, and the Zemu glacier feeds the Teesta, not the Manas."
+  },
+  {
+    "year": "2022",
+    "qno": "24",
+    "subject": "Geomorphology",
+    "question": "Gandikota canyon of South India was created by which one of the following rivers?",
+    "options": [
+      "Cauvery",
+      "Manjira",
+      "Pennar",
+      "Tungabhadra"
+    ],
+    "answer": "C",
+    "explanation": "The Gandikota gorge in Kadapa district, Andhra Pradesh, was carved by the Pennar river through the Erramala hills. It is often called the 'Grand Canyon of India'."
+  },
+  {
+    "year": "2022",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nPeak — Mountains\n1. Namcha Barwa — Garhwal Himalaya\n2. Nanda Devi — Kumaon Himalaya\n3. Nokrek — Sikkim Himalaya\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2",
+      "2 only",
+      "1 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "Namcha Barwa is in the eastern Himalaya, in Tibet near the Dihang gorge, not the Garhwal Himalaya. Nanda Devi is in the Kumaon Himalaya, Uttarakhand, so pair 2 is correct. Nokrek is in the Garo Hills of Meghalaya, not Sikkim."
+  },
+  {
+    "year": "2018",
+    "qno": "77",
+    "subject": "Geomorphology",
+    "question": "Which one of the following is an artificial lake?",
+    "options": [
+      "Kodaikanal (Tamil Nadu)",
+      "Kolleru (Andhra Pradesh)",
+      "Nainital (Uttarakhand)",
+      "Renuka (Himachal Pradesh)"
+    ],
+    "answer": "A",
+    "explanation": "Kodaikanal Lake was created in 1863 by damming streams, so it is man-made. Kolleru is a natural freshwater lake between the Godavari and Krishna deltas, Nainital is a natural lake of tectonic origin, and Renuka is a natural lake."
+  },
+  {
+    "year": "2018",
+    "qno": "85",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\n1. The Barren Island volcano is an active volcano located in the Indian territory.\n2. Barren Island lies about 140 km east of Great Nicobar.\n3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 and 3",
+      "3 only",
+      "1 and 3"
+    ],
+    "answer": "A",
+    "explanation": "Barren Island in the Andaman Sea is India's only active volcano, so statement 1 is correct. It lies about 135-140 km north-east of Port Blair in the Andaman Islands, not east of Great Nicobar, so statement 2 is wrong. The volcano has erupted several times since 1991, including in the 2000s and again in 2017, so statement 3 is wrong."
+  },
+  {
+    "year": "2026",
+    "qno": "11",
+    "subject": "Geomorphology",
+    "question": "Consider the following assertion:\nIn the Pleistocene period either the Yamuna once flowed into the Indus, or the Sutlej flowed into the Yamuna and one major tributary of either had shifted from the Ganga to the Indus or vice versa.\nWhich of the following is/are the basis of the above assertion?\n1. The Nadi-Sukta of the Rigveda\n2. The explorations of the Sutlej and the Yamuna by Robert Bruce Foote\n3. The presence of the same species of dolphins in both the Indus and the Ganga river systems\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2",
+      "3"
+    ],
+    "answer": "D",
+    "explanation": "The occurrence of the same river dolphin species (Platanista) in both the Indus and Ganga systems suggests that the two drainages were once connected, which is the biogeographic basis for the assertion. The Nadi-Sukta lists rivers of the Rigvedic period and Foote's work was on prehistoric archaeology, neither of which establishes Pleistocene drainage shifts."
+  },
+  {
+    "year": "2026",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Identify the river of the Indian sub-continent on the basis of the following information:\n1. It has an antecedent drainage system.\n2. It flows through three countries.\n3. It originates in the Tibetan Plateau and is an important river for irrigation.\n4. It does not form distributaries.\nSelect the answer from the following:",
+    "options": [
+      "Brahmaputra",
+      "Indus",
+      "Sutlej",
+      "Teesta"
+    ],
+    "answer": "C",
+    "explanation": "The Sutlej is an antecedent river that rises near Rakshastal in the Tibetan Plateau, flows through China, India and Pakistan, is vital for irrigation, and does not form distributaries. The Brahmaputra and Indus form distributaries in their deltaic reaches, and the Teesta does not originate in Tibet."
+  },
+  {
+    "year": "2026",
+    "qno": "31",
+    "subject": "Geomorphology",
+    "question": "Tungurahua Volcano, which was declared a Global Geopark by UNESCO in 2025, is situated in which one among the following countries?",
+    "options": [
+      "Ecuador",
+      "Peru",
+      "Bolivia",
+      "Colombia"
+    ],
+    "answer": "A",
+    "explanation": "Tungurahua is an active stratovolcano in the Andes of central Ecuador, and the Tungurahua region has been designated a UNESCO Global Geopark."
+  },
+  {
+    "year": "2026",
+    "qno": "34",
+    "subject": "Geomorphology",
+    "question": "Which of the following geographical features or phenomena is/are associated with the Peninsular Block of India?\n1. Submergence of parts of the western coast due to tectonic activity\n2. Presence of residual mountain ranges such as the Veliconda hills and Mahendragiri hills\n3. Deep, V-shaped river valleys formed by fast-flowing rivers\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "3 only"
+    ],
+    "answer": "B",
+    "explanation": "The Peninsular Block saw parts of the west coast submerge through faulting and has residual hills such as the Veliconda and Mahendragiri ranges. Deep V-shaped valleys are typical of young Himalayan rivers, not the old, mature Peninsular plateau."
+  },
+  {
+    "year": "2026",
+    "qno": "39",
+    "subject": "Geomorphology",
+    "question": "Which of the following statements with reference to Lake Turkana is/are correct?\n1. It is the largest desert lake in the world.\n2. The lake is situated in South Sudan along the eastern fringe of the Sahara desert.\n3. The lake is listed as a UNESCO World Heritage Site and is also referred to as the 'Jade Sea'.\nSelect the answer using the code given below:",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": "B",
+    "explanation": "Lake Turkana, nicknamed the Jade Sea for its colour, is the world's largest permanent desert lake and a UNESCO World Heritage Site (Lake Turkana National Parks). It lies mainly in northern Kenya, with its northern tip in Ethiopia, not in South Sudan."
+  },
+  {
+    "year": "2020",
+    "qno": "68",
+    "subject": "Geomorphology",
+    "question": "Consider the following pairs:\nRiver — Flows into\n1. Mekong — Andaman Sea\n2. Thames — Irish Sea\n3. Volga — Caspian Sea\n4. Zambezi — Indian Ocean\nWhich of the pairs given above is/are correctly matched?",
+    "options": [
+      "1 and 2 only",
+      "3 only",
+      "3 and 4 only",
+      "1, 2 and 4 only"
+    ],
+    "answer": "C",
+    "explanation": "The Mekong flows into the South China Sea and the Thames into the North Sea, so pairs 1 and 2 are incorrect. The Volga drains into the Caspian Sea and the Zambezi into the Indian Ocean, so pairs 3 and 4 are correct."
+  },
+  {
+    "year": "2020",
+    "qno": "96",
+    "subject": "Geomorphology",
+    "question": "Siachen Glacier is situated to the",
+    "options": [
+      "East of Aksai Chin",
+      "East of Leh",
+      "North of Gilgit",
+      "North of Nubra Valley"
+    ],
+    "answer": "D",
+    "explanation": "The Siachen Glacier lies in the eastern Karakoram range, north of the Nubra Valley in Ladakh."
+  },
+  {
+    "year": "2025",
+    "qno": "22",
+    "subject": "Geomorphology",
+    "question": "Consider the following countries:\nI. Bolivia\nII. Brazil\nIII. Colombia\nIV. Ecuador\nV. Paraguay\nVI. Venezuela\nAndes mountains pass through how many of the above countries?",
+    "options": [
+      "Only two",
+      "Only three",
+      "Only four",
+      "Only five"
+    ],
+    "answer": "C",
+    "explanation": "The Andes pass through Bolivia, Colombia, Ecuador and Venezuela (besides Chile, Argentina, Peru). Brazil and Paraguay do not have the Andes."
+  },
+  {
+    "year": "2025",
+    "qno": "25",
+    "subject": "Geomorphology",
+    "question": "Which of the following are the evidences of the phenomenon of continental drift?\nI. The belt of ancient rocks from Brazil coast matches with those from Western Africa.\nII. The gold deposits of Ghana are derived from the Brazil plateau when the two continents lay side by side.\nIII. The Gondwana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.\nSelect the correct answer using the code given below.",
+    "options": [
+      "I and III only",
+      "I and II only",
+      "I, II and III",
+      "II and III only"
+    ],
+    "answer": "C",
+    "explanation": "Matching rock belts across the Atlantic, the placer gold of Ghana traced to the Brazilian plateau, and Gondwana sediments found in six southern landmasses are all classic evidences cited for continental drift."
+  },
+  {
+    "year": "2025",
+    "qno": "28",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement I: In the context of effect of water on rocks, chalk is known as a very permeable rock whereas clay is known as quite an impermeable or least permeable rock.\nStatement II: Chalk is porous and hence can absorb water.\nStatement III: Clay is not at all porous.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "C",
+    "explanation": "Chalk is porous and absorbs water, which explains its permeability, so Statement II is correct. Clay is actually porous (it holds water) but its pores are tiny and poorly connected, making it impermeable, so Statement III is incorrect."
+  },
+  {
+    "year": "2025",
+    "qno": "33",
+    "subject": "Geomorphology",
+    "question": "Consider the following statements:\nStatement I: Scientific studies suggest that a shift is taking place in the Earth's rotation and axis.\nStatement II: Solar flares and associated coronal mass ejections bombarded Earth's outermost atmosphere with tremendous amount of energy.\nStatement III: As the Earth's polar ice melts, the water tends to move towards the equator.\nWhich one of the following is correct in respect of the above statements?",
+    "options": [
+      "Both Statement II and Statement III are correct and both of them explain Statement I",
+      "Both Statement II and Statement III are correct but only one of them explains Statement I",
+      "Only one of the Statements II and III is correct and that explains Statement I",
+      "Neither Statement II nor Statement III is correct"
+    ],
+    "answer": "B",
+    "explanation": "Studies show redistribution of mass (melting polar ice, groundwater pumping) shifts Earth's rotation axis, and melt water does flow toward the equator, which explains Statement I. The May 2024 solar storm is a real event but does not explain axis shift, so only III explains I."
+  }
+]
