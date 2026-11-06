@@ -9,23 +9,27 @@
 </head>
 <body>
     <div class="app-container">
+        <!-- Single Inline Top Bar -->
         <header class="top-bar">
-            <div class="topbar-brand">
+            <div class="topbar-left">
                 <a href="../" class="back-link" title="Return to Portal">&larr;</a>
                 <h3 class="app-title">mainsdnd</h3>
             </div>
+            
             <div class="view-switcher">
                 <button class="tab-btn active" data-view="articles"><i class="fa-solid fa-newspaper"></i> Articles</button>
                 <button class="tab-btn" data-view="mains"><i class="fa-solid fa-pen-nib"></i> Mains</button>
             </div>
 
-            <select id="month-select" title="Select Month">
-                <option value="">Loading months...</option>
-            </select>
+            <div class="topbar-center">
+                <select id="month-select" class="compact-input" title="Select Month">
+                    <option value="">Loading months...</option>
+                </select>
 
-            <input type="date" id="date-input" title="Filter by Specific Date">
+                <input type="date" id="date-input" class="compact-input date-picker" title="Filter by Specific Date">
 
-            <input type="text" id="search-input" placeholder="Search keywords..." class="search-box">
+                <input type="text" id="search-input" placeholder="Search keywords..." class="compact-input search-box">
+            </div>
         </header>
 
         <!-- Content Area -->
