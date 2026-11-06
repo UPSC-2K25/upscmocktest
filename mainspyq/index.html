@@ -69,7 +69,34 @@
       color: var(--text-main);
       text-transform: uppercase;
     }
-
+    .btn-back-hub {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      text-decoration: none;
+      color: var(--text-main);
+      background: #fafaf8;
+      border: 1px solid #d0cfca;
+      border-radius: 6px;
+      padding: 4px 8px;
+      margin-right: 6px;
+      transition: all 0.2s ease;
+    }
+    .btn-back-hub:hover {
+      background: #ecebe6;
+      border-color: #b0afa9;
+      color: var(--seal-red);
+    }
+    .btn-back-hub svg {
+      width: 13px;
+      height: 13px;
+      fill: currentColor;
+    }
     .nav-brand-badge {
       display: inline-block;
       width: 10px;
@@ -496,7 +523,7 @@
     /* ---------------- PRINT MEDIA ---------------- */
     @media print {
       body { background: #ffffff; color: #000000; padding-bottom: 0; }
-      .top-nav, .floating-stopwatch, .btn-practice-q { display: none !important; }
+      .top-nav, .floating-stopwatch, .btn-practice-q, .btn-back-hub { display: none !important; }
       .paper-wrapper { border: none; box-shadow: none; margin: 0; padding: 0; max-width: 100%; }
       .paper-inner-frame { border: none; padding: 0; background: #ffffff; }
       .question-block { page-break-inside: avoid; border-bottom: 1px solid #ccc; }
@@ -510,6 +537,10 @@
   <header class="top-nav">
     <div class="nav-container">
       <div class="nav-brand">
+        <a href="../" class="btn-back-hub" title="Return to Mock Test Portal">
+          <svg viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+          <span>Hub</span>
+        </a>
         <span class="nav-brand-badge"></span>
         <span>UPSC Archive Portal</span>
       </div>
