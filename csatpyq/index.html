@@ -3,23 +3,59 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UPSC CSAT Mock Test Engine</title>
+  <title>csatpyq</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <!-- Top Bar -->
-  <header>
-    <div class="title-group">
-      <h1 id="appHeaderTitle">UPSC CSAT Mock Test Engine</h1>
+  <!-- Top Toolbar -->
+  <header class="app-topbar">
+    <div class="topbar-left">
+      <a href="../" class="back-link" title="Return to Portal">&larr;</a>
+      <span class="compact-brand">csatpyq</span>
+      <span id="mode-badge" class="badge badge-accent">MOCK MODE</span>
     </div>
 
-    <div class="header-actions">
-      <div id="timerDisplay" class="timer-badge">02:00:00</div>
-      <button id="btnPause" class="btn btn-outline" type="button">Pause</button>
-      <button id="btnFullscreen" class="btn btn-outline" type="button">Fullscreen</button>
-      <button id="btnSubmitTop" class="btn btn-danger" type="button">Submit Test</button>
-      <button id="btnRetakeTop" class="btn btn-primary" type="button" style="display: none;">Retake Test</button>
+    <!-- Center Inline Filters -->
+    <div class="topbar-center">
+      <div class="filter-item">
+        <span class="badge badge-aq" title="Available Questions in Pool">AQ: <span id="badge-total-pool">0</span></span>
+      </div>
+
+      <div class="filter-item">
+        <label for="filter-mode">Mode:</label>
+        <select id="filter-mode" class="compact-input">
+          <option value="yearwise">By Year</option>
+          <option value="custom">All Years</option>
+        </select>
+      </div>
+
+      <!-- Year Selector -->
+      <div class="filter-item" id="filter-year-group">
+        <label for="filter-year">Year:</label>
+        <select id="filter-year" class="compact-input">
+          <option value="">Scanning...</option>
+        </select>
+      </div>
+
+      <!-- Question Count Limit -->
+      <div class="filter-item">
+        <label for="filter-count">Count:</label>
+        <input type="number" id="filter-count" class="compact-input count-input" min="1" max="80" value="80" />
+      </div>
+
+      <button id="btn-restart" class="btn btn-xs btn-outline" title="Apply filter & restart session">Apply / Reset</button>
+    </div>
+
+    <!-- Right Controls: Standard Timer, Fullscreen, & Actions -->
+    <div class="topbar-right">
+      <div id="timer-box" class="timer-box">
+        <span id="timerDisplay" class="timer-digits">02:00:00</span>
+        <button id="btnPause" class="btn btn-timer" title="Start / Pause Timer">Pause</button>
+      </div>
+      <button id="btnFullscreen" class="btn btn-xs btn-outline">Fullscreen</button>
+      <button id="btnSubmitTop" class="btn btn-sm btn-danger">Submit Test</button>
+      <button id="btnRetakeTop" class="btn btn-sm btn-primary hidden">Retake Test</button>
     </div>
   </header>
 
@@ -64,18 +100,18 @@
       <!-- Bottom Button Bar -->
       <div class="bottom-bar">
         <div class="btn-group">
-          <button id="btnPrev" class="btn btn-outline" type="button">Previous</button>
+          <button id="btnPrev" class="btn btn-default" type="button">« Previous</button>
         </div>
 
         <!-- Before Submit Actions -->
         <div id="attemptActions" class="btn-group">
-          <button id="btnClear" class="btn btn-outline" type="button">Clear Response</button>
+          <button id="btnClear" class="btn btn-link" type="button">Clear Response</button>
           <button id="btnSaveNext" class="btn btn-primary" type="button">Save & Next</button>
         </div>
 
         <!-- While Review Actions -->
         <div id="reviewActions" class="btn-group" style="display: none;">
-          <button id="btnNext" class="btn btn-primary" type="button">Next</button>
+          <button id="btnNext" class="btn btn-primary" type="button">Next »</button>
         </div>
       </div>
     </section>
@@ -93,59 +129,6 @@
       <div id="paletteGrid" class="palette-grid"></div>
     </aside>
   </main>
-
-  <!-- Start & Configuration Modal -->
-  <div id="startModal" class="modal-backdrop">
-    <div class="modal-card">
-      <h2 class="modal-title">Configure Mock Test</h2>
-      <div class="modal-body">
-        
-        <!-- Mode Chooser -->
-        <div class="form-group">
-          <label class="form-label">Mock Type:</label>
-          <div class="radio-group">
-            <label>
-              <input type="radio" name="mockMode" value="yearwise" checked>
-              <span>Year-wise Mock</span>
-            </label>
-            <label>
-              <input type="radio" name="mockMode" value="custom">
-              <span>Custom Mock (All Years)</span>
-            </label>
-          </div>
-        </div>
-
-        <!-- Year Selector: Dynamically populated by app.js -->
-        <div class="form-group" id="yearSelectorGroup">
-          <label class="form-label" for="selectedYear">Select Year:</label>
-          <select id="selectedYear" class="form-select">
-            <option value="">Scanning repository for question files...</option>
-          </select>
-        </div>
-
-        <!-- Number of Questions Input with inline pool counter -->
-        <div class="form-group">
-          <label class="form-label" for="numQuestionsInput">
-            Number of Questions to Attempt (<span id="qCountLimits">1 - 80</span>) out of (<span id="poolAvailableCount">0</span>):
-          </label>
-          <input 
-            type="number" 
-            id="numQuestionsInput" 
-            class="form-input" 
-            min="1" 
-            max="80" 
-            value="80" 
-            placeholder="e.g. 1 - 80"
-          >
-          <small class="form-hint" id="timerEstimateHint">Calculated duration: 120 minutes (90s / question)</small>
-        </div>
-
-      </div>
-      <div style="text-align: right;">
-        <button id="btnStartConfirmed" class="btn btn-primary" type="button">Start Exam</button>
-      </div>
-    </div>
-  </div>
 
   <!-- Submit Confirmation Modal -->
   <div id="submitModal" class="modal-backdrop" style="display: none;">
