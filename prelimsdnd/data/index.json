@@ -28,5 +28,10 @@
     "id": "2026-10",
     "label": "Oct 2026",
     "file": "data/2026-10.json"
+  },
+  {
+    "id": "2026-11",
+    "label": "Nov 2026",
+    "file": "data/2026-11.json"
   }
 ]
