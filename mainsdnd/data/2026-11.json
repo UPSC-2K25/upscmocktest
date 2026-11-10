@@ -936,5 +936,602 @@
       "mainsquestion": "Discuss the institutional and procedural reforms required to ensure timely and accessible justice in India's criminal justice system."
     }
   ]
+},
+{
+  "date": "2026-11-06",
+  "articles": [
+    {
+      "id": 1,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Election Commission — Special Summary Revision of Electoral Rolls",
+      "summary": "The Election Commission of India announced a Special Summary Revision (SSR) of electoral rolls in six States and Union Territories after completion of the Special Intensive Revision (SIR). The exercise aims to update voter lists, include eligible citizens, remove duplicate or ineligible entries and improve electoral accuracy. It raises important questions about voter inclusion, transparency, procedural fairness and the independence of election administration.",
+      "mainsquestion": "Examine the role of the Election Commission of India in ensuring accurate and inclusive electoral rolls. Discuss the challenges associated with electoral roll revisions."
+    },
+    {
+      "id": 2,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Arrest and Personal Liberty — Supreme Court's Interpretation",
+      "summary": "The Supreme Court clarified that arrest takes place when an individual is actually restrained or detained by law enforcement authorities. The ruling emphasises that constitutional and statutory safeguards associated with arrest, including production before a magistrate within 24 hours, become applicable from the moment liberty is restrained. It reinforces Article 21, procedural fairness and protection against arbitrary police action.",
+      "mainsquestion": "How does judicial interpretation of the concept of arrest strengthen constitutional protection against arbitrary detention? Discuss with reference to Articles 21 and 22."
+    },
+    {
+      "id": 3,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Electoral Integrity — Alleged Misuse of Form 7 during SIR",
+      "summary": "Petitioners in the Delhi Special Intensive Revision case sought registration of FIRs over alleged forgery and misuse of Form 7 applications in Mustafabad. Form 7 is used to object to the inclusion of names in electoral rolls. The allegations highlight the importance of verification mechanisms, accountability, transparency and safeguards against politically motivated voter deletions.",
+      "mainsquestion": "Examine the challenges associated with maintaining electoral integrity during Special Intensive Revision of electoral rolls. Suggest measures to prevent wrongful deletion of eligible voters."
+    },
+    {
+      "id": 4,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "West Asia — Israeli Political Developments and Regional Stability",
+      "summary": "Developments surrounding Israeli opposition leader Gadi Eisenkot and the possibility of forming a government with support from Arab political lists highlight the changing political alignments within Israel. The issue is significant for understanding Arab-Jewish political relations, coalition politics and the implications of domestic political changes for the Israel-Palestine conflict.",
+      "mainsquestion": "Analyse how domestic political developments in Israel influence the prospects of peace and stability in West Asia."
+    },
+    {
+      "id": 5,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "United States Foreign Policy — Vance and the Future of America First",
+      "summary": "Vice-President JD Vance's political positioning around the America First approach reflects the evolving Republican leadership and debate over the future direction of American foreign policy. The approach emphasises national interests, economic protectionism and reassessment of international commitments. These developments have implications for global institutions, strategic partnerships and India's diplomatic engagement with the United States.",
+      "mainsquestion": "Examine the implications of the America First approach for India's strategic and economic interests."
+    },
+    {
+      "id": 6,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "India-US Relations — Political Changes and Bilateral Engagement",
+      "summary": "The results of the US midterm elections have implications for the relationship between the United States and Israel and the broader direction of American foreign policy. Changes in congressional political control can influence executive policy through legislative oversight, funding decisions and diplomatic pressure. For India, developments in Washington matter for trade negotiations, strategic cooperation and the wider geopolitical environment.",
+      "mainsquestion": "Discuss how changes in the domestic political landscape of the United States can influence India's strategic and diplomatic interests."
+    },
+    {
+      "id": 7,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Artificial Intelligence — Corporate Transparency and Accountability",
+      "summary": "OpenAI's reported commitment to greater transparency brings attention to questions surrounding accountability, disclosure and responsible development of artificial intelligence. AI companies face growing scrutiny regarding safety, model capabilities, data governance, privacy and the societal consequences of increasingly powerful technologies. Transparent governance is essential for building public trust and ensuring responsible innovation.",
+      "mainsquestion": "Examine the need for transparency and accountability in artificial intelligence development. How can India promote responsible AI innovation?"
+    },
+    {
+      "id": 8,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Digital Payments — Merchant Discount Rate and Sustainability of UPI",
+      "summary": "The National Payments Corporation of India told the Supreme Court that maintaining zero Merchant Discount Rate (MDR) across all UPI transactions is financially unsustainable. MDR is a charge associated with processing digital payments. The issue highlights the challenge of maintaining affordable digital payments while ensuring adequate revenue for banks, payment service providers and infrastructure operators. It also raises questions about government subsidies and the long-term sustainability of India's digital public infrastructure.",
+      "mainsquestion": "UPI has transformed India's digital payments ecosystem, but its long-term sustainability requires a viable financial model. Discuss."
+    },
+    {
+      "id": 9,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Cybersecurity — CERT-In Guidelines for Agentic AI Systems",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) outlined security and auditing requirements for agentic AI systems. Unlike conventional AI applications, agentic systems can independently plan tasks, interact with external tools and delegate activities to other AI systems. Such capabilities create risks involving unauthorised actions, data leakage, manipulation and accountability. Security audits, access controls, monitoring and human oversight are essential for responsible deployment.",
+      "mainsquestion": "What are agentic AI systems? Discuss the emerging cybersecurity challenges associated with their deployment and suggest an appropriate regulatory framework for India."
+    },
+    {
+      "id": 10,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Space Technology — NVS-03 Navigation Satellite",
+      "summary": "ISRO confirmed that navigation satellite NVS-03 was fully healthy. The satellite is part of India's Navigation with Indian Constellation (NavIC), an indigenous satellite-based navigation system designed to provide positioning, navigation and timing services. NavIC has strategic importance for defence, transportation, disaster management, precision agriculture and reducing dependence on foreign navigation systems.",
+      "mainsquestion": "Evaluate the strategic and developmental significance of India's NavIC system. How can indigenous satellite navigation capabilities strengthen national security and technological autonomy?"
+    },
+    {
+      "id": 11,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Defence Modernisation — Agnipath Scheme",
+      "summary": "The Centre defended the changes introduced in the Agnipath recruitment scheme and clarified that the modifications do not amount to a rollback of the scheme. The debate concerns short-term military recruitment, opportunities for Agniveers, retention, military preparedness and the balance between a younger force and institutional experience. The issue is relevant to defence reforms and human resource management in the armed forces.",
+      "mainsquestion": "Critically examine the Agnipath scheme in the context of military modernisation, operational preparedness and the long-term welfare of armed forces personnel."
+    },
+    {
+      "id": 12,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Citizenship and Immigration — Visa Rules for Migrants from Six Communities",
+      "summary": "The Ministry of Home Affairs clarified visa requirements applicable to migrants belonging to six non-Muslim communities from specified neighbouring countries. The issue connects immigration administration with India's citizenship framework, refugee policy, border management and the distinction between legal migration and the acquisition of citizenship. It also raises questions about humanitarian considerations and constitutional principles.",
+      "mainsquestion": "Discuss the challenges involved in balancing humanitarian considerations, national security and legal migration in India's immigration and citizenship policies."
+    },
+    {
+      "id": 13,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Missile Technology — DRDO's Pralay Missile Test",
+      "summary": "The Defence Research and Development Organisation successfully conducted a flight test of the Pralay missile. The indigenous surface-to-surface missile programme is significant for India's conventional strike capabilities and defence preparedness. Indigenous missile development strengthens strategic autonomy, supports domestic defence manufacturing and reduces dependence on foreign military technology.",
+      "mainsquestion": "Examine the importance of indigenous missile development in strengthening India's defence preparedness and strategic autonomy."
+    },
+    {
+      "id": 14,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Higher Education Governance — Review of UGC Equity Regulations",
+      "summary": "The Union government informed the Supreme Court that it was considering a special committee to review the University Grants Commission's Promotion of Equity in Higher Education Institutions Regulations, 2026. The regulations seek to address discrimination in higher education institutions, while concerns have been raised about their implementation and fairness. The issue highlights the need to balance equality, institutional accountability, constitutional safeguards and effective grievance redressal.",
+      "mainsquestion": "Discuss the role of regulatory institutions in ensuring equity and preventing discrimination in higher education. How can grievance redressal mechanisms be made fair and effective?"
+    },
+    {
+      "id": 15,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Nuclear Energy — Private Sector Participation and Nuclear Safety",
+      "summary": "The debate over private participation in India's nuclear energy sector highlights the need to expand electricity generation while preserving stringent safety standards. Private investment can contribute capital, technology and operational capabilities, but nuclear energy involves risks related to radiation, radioactive waste, liability and accident management. An independent and effective regulatory framework is essential to ensure that commercial participation does not compromise public safety.",
+      "mainsquestion": "Can private sector participation accelerate India's nuclear energy ambitions without compromising nuclear safety? Examine the regulatory and institutional safeguards required."
+    },
+    {
+      "id": 16,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Nuclear Fusion — Tokamak Technology",
+      "summary": "A tokamak is a device that uses powerful magnetic fields to confine extremely hot plasma in a controlled environment to facilitate nuclear fusion. Fusion seeks to reproduce the energy-generating process of the Sun and offers the possibility of abundant low-carbon energy. However, sustaining plasma stability, achieving net energy gain and developing economically viable materials and engineering systems remain major challenges.",
+      "mainsquestion": "Explain the working principle of tokamak-based nuclear fusion. Evaluate its potential as a future source of clean energy and the technological challenges involved."
+    },
+    {
+      "id": 17,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "India's Foreign Policy — The Middle Power Role in a Fragmenting World",
+      "summary": "The editorial examines the opportunities available to India as a middle power in an increasingly fragmented international order. Strategic competition, weakening multilateral consensus and shifting geopolitical alignments create space for countries such as India to pursue strategic autonomy, issue-based partnerships and diplomatic mediation. India must strengthen its economic and technological capabilities while engaging constructively with international institutions.",
+      "mainsquestion": "India's growing role as a middle power provides opportunities as well as responsibilities in a fragmenting world order. Discuss."
+    },
+    {
+      "id": 18,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Environmental Impact of War — Ecological Fallout of Israel's War in Gaza",
+      "summary": "The editorial highlights the environmental consequences of armed conflict in Gaza, including damage to infrastructure, contamination of water and soil, destruction of ecosystems and the generation of large quantities of debris. War-related environmental destruction creates long-term public health and ecological risks that extend beyond the immediate humanitarian emergency. It raises questions about environmental protection under international humanitarian law and the responsibilities of parties to armed conflict.",
+      "mainsquestion": "Armed conflicts generate environmental consequences that persist long after hostilities end. Examine the ecological impact of warfare and the role of international environmental and humanitarian law."
+    },
+    {
+      "id": 19,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "US Domestic Politics — Democratic Victory in Midterm Elections",
+      "summary": "The editorial discusses the political setback faced by Donald Trump following the Democratic Party's performance in the US midterm elections. Congressional oversight and legislative powers can constrain unilateral executive decisions and influence domestic and foreign policy. The outcome may affect US trade negotiations, international commitments and its engagement with strategic partners such as India.",
+      "mainsquestion": "Analyse the significance of midterm elections in the US political system. How can changes in congressional control influence American foreign policy and India's interests?"
+    },
+    {
+      "id": 20,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Urban Governance — Manual Scavenging and Sewer Safety",
+      "summary": "The editorial highlights the continuing problem of deaths and unsafe working conditions associated with sewer cleaning despite legislation and judicial interventions. Manual scavenging and hazardous sanitation work expose structural failures in urban governance, municipal accountability and worker protection. Mechanisation, enforcement of existing laws, rehabilitation, social security and strict accountability for violations are essential to eliminate the practice.",
+      "mainsquestion": "Despite constitutional safeguards and legislative measures, hazardous sanitation work continues in India. Examine the causes and suggest measures to eliminate manual scavenging and sewer-related deaths."
+    }
+  ]
+},
+
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "id": 1,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "OBC Reservation — Supreme Court Clarification on Creamy Layer Ruling",
+      "summary": "The Supreme Court clarified that its earlier ruling on the OBC creamy layer would not reopen completed appointments, seniority decisions or service allocations. However, the ruling would apply to pending service allocations, including those arising from the Civil Services Examination 2025. The development highlights the distinction between prospective and retrospective application of judicial decisions and raises important questions concerning Articles 15(4) and 16(4), affirmative action and reservation policy.",
+      "mainsquestion": "Examine the constitutional and administrative implications of the creamy layer principle in OBC reservations. How should judicial decisions balance social justice with administrative certainty?"
+    },
+    {
+      "id": 2,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Ethanol Blending — High Ethanol Content Detected in Petrol Samples",
+      "summary": "Petrol samples reportedly contained ethanol concentrations as high as 31%, raising concerns about compliance with prescribed fuel specifications and vehicle compatibility. Ethanol blending is an important component of India's efforts to reduce crude oil imports, promote renewable fuels and support agricultural producers. However, excessive or inconsistent blending can affect engine performance, fuel efficiency and emissions. The issue highlights the need for quality control, fuel standards and effective regulatory monitoring.",
+      "mainsquestion": "Critically examine India's ethanol blending programme as a strategy for energy security and agricultural development. Discuss the challenges associated with fuel quality, vehicle compatibility and environmental sustainability."
+    },
+    {
+      "id": 3,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "National Security — Gauhati High Court Quashes Detention under NSA",
+      "summary": "The Gauhati High Court quashed the detention of an Assam activist under the National Security Act, highlighting the importance of procedural safeguards in preventive detention. The NSA empowers authorities to detain individuals to prevent activities considered prejudicial to national security or public order. However, preventive detention must comply with constitutional safeguards under Articles 21 and 22, including procedural fairness and timely consideration of representations.",
+      "mainsquestion": "Preventive detention laws must balance national security requirements with individual liberty. Critically examine the constitutional safeguards governing preventive detention in India."
+    },
+    {
+      "id": 4,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Israel — Political Developments and the Possibility of a Change in Government",
+      "summary": "Israeli opposition leader Gadi Eisenkot made progress in efforts to form a political coalition capable of replacing Prime Minister Benjamin Netanyahu. The developments reflect changing domestic political alignments and the role of coalition-building in Israel's parliamentary system. Political changes in Israel have wider implications for the Israel-Palestine conflict, West Asian security and India's diplomatic engagement with the region.",
+      "mainsquestion": "Examine the influence of domestic political developments in Israel on the geopolitical situation in West Asia and India's strategic interests."
+    },
+    {
+      "id": 5,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "International Relations — Asian Political Parties and Respect for International Law",
+      "summary": "Political parties from Asian countries rejected unilateral actions and called for greater respect for international law. The development highlights concerns over sovereignty, territorial integrity, peaceful dispute resolution and the rules-based international order. It also reflects the importance of regional cooperation and multilateral institutions in addressing geopolitical tensions.",
+      "mainsquestion": "In an increasingly fragmented international order, unilateral actions threaten the principles of international law. Discuss the importance of multilateralism and regional cooperation in maintaining global stability."
+    },
+    {
+      "id": 6,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Digital Payments — NPCI's Technology Subsidiary for AI and Blockchain",
+      "summary": "The National Payments Corporation of India established a technology subsidiary to explore opportunities involving artificial intelligence, blockchain technology and Global Capability Centres. The initiative reflects India's efforts to strengthen digital public infrastructure, improve payment security and encourage technological innovation. AI and blockchain can support fraud detection, transaction monitoring, operational efficiency and secure digital financial systems.",
+      "mainsquestion": "India's digital public infrastructure requires continuous technological innovation to remain secure and inclusive. Examine the potential applications of AI and blockchain in strengthening India's digital payments ecosystem."
+    },
+    {
+      "id": 7,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Urban Air Pollution — Supreme Court Questions Conventional Pollution Control Measures",
+      "summary": "The Supreme Court questioned the effectiveness of repeatedly imposing restrictions on vehicles and construction activities to control Delhi-NCR air pollution. It observed that such measures have become ineffective tools and sought scientifically grounded alternatives from the Centre and the Commission for Air Quality Management. The issue highlights the need to address structural pollution sources, including transport emissions, industrial activities, construction dust, waste burning and regional pollution.",
+      "mainsquestion": "Why have emergency measures such as vehicle restrictions and construction bans failed to provide a sustainable solution to urban air pollution in India? Suggest a comprehensive, science-based strategy."
+    },
+    {
+      "id": 8,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Public Health — REACH Receives Kochon Prize",
+      "summary": "REACH became the first Indian civil society organisation to receive the Kochon Prize, recognising its contribution to tuberculosis-related work. The development highlights the role of civil society organisations in strengthening public health systems, improving awareness, supporting vulnerable communities and advancing disease-control programmes. It is relevant to India's commitment to eliminating tuberculosis and achieving universal health coverage.",
+      "mainsquestion": "Discuss the role of civil society organisations in achieving public health objectives in India, with particular reference to tuberculosis elimination."
+    },
+    {
+      "id": 9,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Agricultural Governance — Weekly Disclosure of Rice and Paddy Stocks",
+      "summary": "The Union government mandated weekly disclosure of rice and paddy stocks to improve transparency and monitoring of foodgrain availability. Regular stock reporting can help authorities assess supply conditions, prevent hoarding, improve market intelligence and make informed decisions regarding procurement and food distribution. The measure is relevant to food security, agricultural markets, buffer stock management and price stabilisation.",
+      "mainsquestion": "Examine the importance of transparency in agricultural stock management for ensuring food security and price stability in India. What institutional reforms are required?"
+    },
+    {
+      "id": 10,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Cybersecurity — Supreme Court's Observations on Cybercriminals",
+      "summary": "The Supreme Court expressed serious concern over the growing threat posed by cybercriminals and rejected a bail plea in a cyberfraud case. The development follows judicial attention to standard operating procedures for tackling cybercrime, time-bound refunds to victims and the use of Zero FIRs. It highlights the challenges associated with digital financial fraud, interstate investigations, victim compensation and coordination among law enforcement agencies.",
+      "mainsquestion": "Cybercrime has emerged as a major threat to India's internal security and financial stability. Examine the institutional and technological challenges in tackling cybercrime and suggest suitable reforms."
+    },
+    {
+      "id": 11,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Electronics Manufacturing — Expansion of Electronics Component Manufacturing Scheme",
+      "summary": "The Ministry of Electronics and Information Technology approved 12 additional projects under the Electronics Component Manufacturing Scheme. The scheme aims to strengthen domestic manufacturing of electronic components and sub-assemblies rather than concentrating only on final-product assembly. The expansion supports import substitution, domestic value addition, employment generation and integration with global electronics supply chains.",
+      "mainsquestion": "Evaluate the role of the Electronics Component Manufacturing Scheme in strengthening India's manufacturing ecosystem and reducing dependence on imported electronic components."
+    },
+    {
+      "id": 12,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Energy Security — ADNOC's Long-Term LNG Agreement with Gujarat Energy",
+      "summary": "Abu Dhabi National Oil Company signed a 10-year liquefied natural gas sales and purchase agreement with Gujarat Energy for the supply of up to four million tonnes of LNG, with deliveries scheduled to begin in 2028. The agreement strengthens India-UAE energy cooperation and supports diversification of India's energy supply. It is significant in the context of India's growing energy demand, dependence on imported hydrocarbons and efforts to expand natural gas in the energy mix.",
+      "mainsquestion": "Discuss the importance of long-term LNG supply agreements in strengthening India's energy security. How can India balance energy affordability, supply diversification and its climate commitments?"
+    },
+    {
+      "id": 13,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Electoral Governance — EPIC and Aadhaar in Welfare Beneficiary Identification",
+      "summary": "The editorial 'Epic failures' examines the proposal to use Electors Photo Identity Cards with biometric authentication instead of Aadhaar for identifying beneficiaries under government welfare schemes. It raises concerns about using electoral rolls for determining welfare eligibility, particularly when voter-list revisions can result in wrongful deletions. The issue highlights the distinction between electoral identity and welfare entitlements, data protection, exclusion errors and the importance of maintaining separate legal purposes for identity databases.",
+      "mainsquestion": "Critically examine the use of electoral identity databases for determining welfare entitlements. How can India balance effective beneficiary identification with the principles of inclusion, privacy and constitutional rights?"
+    },
+    {
+      "id": 14,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Demonetisation — Public Health Consequences of Cash Shortages",
+      "summary": "The editorial 'Demonetisation and the health costs of cash shortages' revisits the 2016 demonetisation exercise and examines its less-discussed public health consequences. Sudden cash shortages can disrupt access to essential medicines, particularly for individuals requiring regular treatment for chronic diseases. The issue highlights the relationship between monetary policy, liquidity availability, healthcare access and the vulnerability of economically weaker sections during sudden policy interventions.",
+      "mainsquestion": "Economic policy interventions can have consequences beyond their immediate financial objectives. Critically analyse the socioeconomic and public health implications of demonetisation in India."
+    },
+    {
+      "id": 15,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Tribal Rights and Development — Ken-Betwa Project and Displacement",
+      "summary": "The editorial 'The struggle for justice is indivisible' examines the challenges faced by Adivasi and Dalit communities affected by development projects in Madhya Pradesh, including the Ken-Betwa Link Project. It highlights concerns regarding displacement, rehabilitation, compensation, forest rights and the role of Gram Sabhas in obtaining consent. The issue demonstrates the need to balance infrastructure development and water security with environmental conservation and constitutional protections for vulnerable communities.",
+      "mainsquestion": "Development-induced displacement raises serious questions concerning tribal rights, environmental protection and social justice. Critically examine the role of the Forest Rights Act, 2006 and the Land Acquisition Act, 2013 in protecting affected communities."
+    },
+    {
+      "id": 16,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Hydropower and Tribal Rights — Siang Upper Multipurpose Project",
+      "summary": "The article 'The Siang dam and a threatened homeland' examines opposition by the Adi community in Arunachal Pradesh to the Siang Upper Multipurpose Project. Local communities have raised concerns about displacement, submergence of villages, ecological damage and the adequacy of consent procedures. The project also has strategic significance because the Siang is part of the Brahmaputra river system. The issue highlights the challenges of developing hydropower infrastructure in ecologically fragile Himalayan regions while protecting tribal rights and local livelihoods.",
+      "mainsquestion": "Critically examine the opportunities and challenges associated with large hydropower projects in the Eastern Himalayas. How can India balance energy security, ecological sustainability and tribal rights?"
+    }
+  ]
+},
+{
+  "date": "2026-11-08",
+  "articles": [
+    {
+      "id": 1,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Agnipath Scheme — Reforms in Military Recruitment",
+      "summary": "The government introduced changes to the Agnipath scheme following an assessment of its implementation over four years. The reforms concern the service conditions and future career opportunities of Agniveers, including options for extension and pathways towards regular service. The issue highlights the need to balance a younger military force, operational experience, recruitment flexibility and the long-term welfare of personnel.",
+      "mainsquestion": "Critically examine the Agnipath scheme in the context of military modernisation, operational preparedness and the welfare of armed forces personnel."
+    },
+    {
+      "id": 2,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "US Midterm Elections — Implications for Global Politics",
+      "summary": "The US midterm election results indicate changing voter attitudes towards President Donald Trump and the Republican administration. Midterm elections influence the balance of power in Congress and determine the extent of executive oversight. Changes in congressional control can affect domestic legislation, trade policy, international commitments and America's strategic engagement with countries such as India.",
+      "mainsquestion": "Explain the significance of midterm elections in the US political system. Analyse their implications for American foreign policy and India's strategic interests."
+    },
+    {
+      "id": 3,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Electoral Governance — Use of Voter IDs for Welfare Schemes",
+      "summary": "The debate over using Electors Photo Identity Cards (EPIC) for identifying welfare beneficiaries raises concerns about linking electoral databases with welfare delivery. Electoral rolls are primarily designed to establish voting eligibility and may contain errors or exclusions. Using them to determine access to government benefits could result in wrongful denial of welfare entitlements. The issue highlights the importance of data protection, inclusive governance and separation of institutional purposes.",
+      "mainsquestion": "Critically examine the proposal to use electoral identity databases for welfare delivery. How can India prevent exclusion errors while ensuring transparency and accountability?"
+    },
+    {
+      "id": 4,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Federalism and Inter-State Water Disputes — Kishau Dam and BBMB Arrears",
+      "summary": "Himachal Pradesh Chief Minister Sukhvinder Singh Sukhu welcomed the Supreme Court verdict in the Bhakra Beas Management Board arrears case and highlighted the State's position on the Kishau Dam project. The dispute reflects challenges in sharing water resources, managing inter-State financial obligations and implementing multipurpose river valley projects. It highlights the importance of cooperative federalism, institutional dispute-resolution mechanisms and equitable distribution of benefits.",
+      "mainsquestion": "Examine the role of constitutional and statutory institutions in resolving inter-State water disputes. How can cooperative federalism improve the management of shared river resources?"
+    },
+    {
+      "id": 5,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Police Reforms — Protection of Fundamental Rights",
+      "summary": "The Allahabad High Court strongly criticised the Uttar Pradesh Police over repeated violations of citizens' fundamental rights. The observations highlight concerns involving arbitrary detention, procedural violations, misuse of authority and inadequate accountability. Police reforms must focus on constitutional policing, independent complaints mechanisms, professional training and strict compliance with Supreme Court guidelines.",
+      "mainsquestion": "Police accountability is essential for strengthening the rule of law and protecting fundamental rights. Examine the major challenges in police reforms in India and suggest measures to address them."
+    },
+    {
+      "id": 6,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Monsoon Variability — Cyclones and Agricultural Vulnerability in Andhra Pradesh",
+      "summary": "Andhra Pradesh experienced a shift from drought-like conditions to excessive rainfall following two successive cyclones. The disasters caused significant damage to agricultural crops, coconut plantations and rural livelihoods, particularly in the Godavari region. The developments demonstrate the increasing vulnerability of agriculture to extreme weather events and the need for climate-resilient farming, improved forecasting, disaster preparedness and crop insurance.",
+      "mainsquestion": "Increasing climate variability has intensified agricultural vulnerability in India. Discuss the impact of extreme rainfall and cyclones on rural livelihoods and suggest adaptation strategies."
+    },
+    {
+      "id": 7,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Judicial Accountability — Special Intensive Revision Tribunals in West Bengal",
+      "summary": "Another retired Calcutta High Court judge resigned from a tribunal established to hear appeals arising from the Special Intensive Revision of electoral rolls in West Bengal. The resignations raise questions about the functioning, independence and administrative capacity of tribunals dealing with electoral disputes. The issue highlights the importance of transparent appointment procedures, institutional independence and adequate safeguards for adjudicatory bodies.",
+      "mainsquestion": "Examine the importance of independence and institutional credibility of tribunals in ensuring access to justice and fair administrative decision-making."
+    },
+    {
+      "id": 8,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Money Laundering — Enforcement Directorate Investigation into Financial Misappropriation",
+      "summary": "The Enforcement Directorate registered a case under the Prevention of Money Laundering Act in connection with alleged financial misappropriation linked to an event involving Lionel Messi. The investigation highlights the role of financial intelligence, tracing proceeds of crime and investigating complex financial transactions. It also brings attention to the legal framework governing money laundering and the need for accountability in large commercial events.",
+      "mainsquestion": "Discuss the role of the Enforcement Directorate and the Prevention of Money Laundering Act in combating financial crimes in India. What challenges affect their effective implementation?"
+    },
+    {
+      "id": 9,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Judicial Process — High Court Quashes Defamation Case against Karnataka Leaders",
+      "summary": "The Karnataka High Court extended the benefit of an earlier judicial order and quashed a defamation case against Chief Minister Siddaramaiah and Deputy Chief Minister D.K. Shivakumar. The development highlights the distinction between criminal and civil defamation, the role of judicial scrutiny in preventing misuse of criminal proceedings and the constitutional balance between freedom of speech and protection of reputation.",
+      "mainsquestion": "Examine the constitutional relationship between freedom of speech and expression and the right to reputation. Should criminal defamation continue to remain an offence in India?"
+    },
+    {
+      "id": 10,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Investigative Agencies — Limits on Enforcement Directorate Powers",
+      "summary": "The Allahabad High Court observed that the Enforcement Directorate is not a super-police authority and cannot exercise powers beyond those conferred by law, including filing private complaints in circumstances where the law does not permit it. The ruling highlights the importance of statutory limits, judicial oversight and accountability of investigative agencies. It reinforces the principle that enforcement institutions must operate within constitutional and legal boundaries.",
+      "mainsquestion": "Critically examine the powers and accountability mechanisms of the Enforcement Directorate. How can investigative effectiveness be balanced with constitutional safeguards?"
+    },
+    {
+      "id": 11,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Crop Residue Burning — Punjab's Stubble Burning Crisis",
+      "summary": "Punjab recorded more than 3,000 farm-fire incidents, with 795 police cases registered against alleged violations. Crop residue burning contributes significantly to seasonal air pollution in northern India, particularly when combined with unfavourable meteorological conditions and urban emissions. The persistence of stubble burning highlights challenges involving farm mechanisation, financial incentives, alternative residue utilisation and inter-State coordination.",
+      "mainsquestion": "Despite regulatory action and government incentives, stubble burning continues in northern India. Examine its socioeconomic and environmental causes and suggest sustainable alternatives."
+    },
+    {
+      "id": 12,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "India-European Union Relations — Participation in European Research Programme",
+      "summary": "India is set to join a flagship European research programme, opening opportunities for greater scientific collaboration, technological exchange and joint research. Cooperation with European institutions can strengthen India's capabilities in advanced technologies, innovation, climate research and scientific infrastructure. The development also reflects the expanding strategic dimension of India-EU relations beyond conventional trade and diplomacy.",
+      "mainsquestion": "Evaluate the significance of scientific and technological cooperation between India and the European Union. How can such partnerships strengthen India's innovation ecosystem?"
+    },
+    {
+      "id": 13,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Internal Security — Coastal Security and Narcotics Trafficking",
+      "summary": "The Union Home Minister directed authorities to strengthen coastal surveillance and intensify action against drug trafficking networks. India's extensive coastline and maritime neighbourhood create vulnerabilities involving narcotics smuggling, illegal trafficking and organised crime. Effective coastal security requires coordination among the Coast Guard, Navy, coastal police, intelligence agencies and local communities, supported by surveillance technology and maritime domain awareness.",
+      "mainsquestion": "Examine the major challenges to India's coastal security. Suggest measures to strengthen maritime surveillance and prevent narcotics trafficking through coastal routes."
+    },
+    {
+      "id": 14,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Dairy Sector — Rising Ghee Prices and Milk Fat Shortages",
+      "summary": "Ghee prices increased as dairy companies faced shortages of milk fat. The development reflects the importance of milk production, procurement systems, animal productivity and seasonal supply variations in determining dairy prices. The issue has implications for agricultural income, food inflation, livestock management and the cooperative dairy sector.",
+      "mainsquestion": "Discuss the structural challenges facing India's dairy sector. How can improvements in animal productivity, supply chains and cooperative institutions ensure price stability and higher farmer incomes?"
+    },
+    {
+      "id": 15,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Tribal Development — Vantangiya Forest Villages",
+      "summary": "The Uttar Pradesh government inaugurated development projects worth ₹82 crore for Vantangiya forest villages in Gorakhpur. The initiative highlights the importance of extending infrastructure, housing, education and public services to historically marginalised forest communities. The development is relevant to tribal welfare, forest rights, inclusive growth and the challenge of balancing conservation with the livelihood rights of forest-dependent populations.",
+      "mainsquestion": "Examine the challenges faced by forest-dependent communities in accessing basic services and securing livelihood rights. Suggest measures for inclusive development while maintaining ecological sustainability."
+    },
+    {
+      "id": 16,
+      "gs_paper": "GS Paper 1",
+      "priority": "Medium",
+      "topic": "Buddhist Heritage — Kesariya Archaeological Site",
+      "summary": "The ancient mound at Kesariya in Bihar was declared a monument of national importance. The site is associated with Buddhist heritage and is significant for understanding the spread of Buddhism and the archaeological landscape of ancient India. Its recognition highlights the importance of heritage conservation, archaeological research and sustainable cultural tourism.",
+      "mainsquestion": "Discuss the importance of Buddhist archaeological sites in understanding India's ancient cultural and religious history. Suggest measures for their conservation and sustainable development."
+    },
+    {
+      "id": 17,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Defence Infrastructure — Record Landing of Heavy-Lift Aircraft at Nyoma",
+      "summary": "The Indian Air Force's heavy-lift aircraft made a record landing at the Nyoma airbase in Ladakh. The development demonstrates India's efforts to strengthen military logistics and operational capabilities in high-altitude border regions. Advanced air infrastructure supports rapid movement of personnel, equipment and supplies and is particularly important for maintaining preparedness along sensitive Himalayan borders.",
+      "mainsquestion": "Examine the strategic importance of infrastructure development in India's border regions. How can improved air connectivity strengthen military logistics and national security?"
+    },
+    {
+      "id": 18,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Demonetisation — Ten Years after Currency Withdrawal",
+      "summary": "A decade after demonetisation, the use of cash in the Indian economy has remained significant despite the expansion of digital payments. Data also indicate concerns regarding counterfeit currency, particularly involving higher-denomination notes. The experience raises questions about the effectiveness of demonetisation in achieving its objectives, the relationship between cash and digital payments and the importance of evidence-based monetary and economic policymaking.",
+      "mainsquestion": "Ten years after demonetisation, critically evaluate its impact on the Indian economy, formalisation, counterfeit currency and the growth of digital payments."
+    },
+    {
+      "id": 19,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Renewable Energy — Rajasthan's Performance under RE-SAF",
+      "summary": "Rajasthan received national recognition for its performance under the Renewable Energy State Assessment Framework developed by the Ministry of New and Renewable Energy. The State's renewable energy expansion highlights the importance of solar and wind resources, investment, grid infrastructure and State-level policy support. The development is relevant to India's renewable energy targets, energy transition and cooperative federalism in climate action.",
+      "mainsquestion": "Evaluate the role of State governments in achieving India's renewable energy targets. Discuss the challenges associated with integrating large-scale renewable energy into the national electricity grid."
+    },
+    {
+      "id": 20,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Science and Technology — Lowest Recorded Temperature on the International Space Station",
+      "summary": "A scientific experiment aboard the International Space Station achieved an exceptionally low temperature, highlighting advances in ultracold atom research and quantum science. Such experiments enable scientists to study matter under extreme conditions and investigate quantum phenomena that are difficult to observe on Earth. The research has potential applications in precision measurement, quantum sensing and fundamental physics.",
+      "mainsquestion": "Explain the significance of ultracold atom research in advancing quantum science. Discuss its potential applications in future scientific and technological developments."
+    },
+    {
+      "id": 21,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Biotechnology and Environment — Biodegradable Plastic Produced by Cellophane Bees",
+      "summary": "A scientific study reported that cellophane bees produce a natural plastic-like material that can degrade. The finding is relevant to research into biodegradable materials and alternatives to conventional petroleum-based plastics. Understanding natural polymer production may provide insights for developing sustainable packaging materials and reducing plastic pollution.",
+      "mainsquestion": "Examine the potential of bio-based and biodegradable materials in addressing the global plastic pollution crisis. Discuss the scientific and commercial challenges associated with their adoption."
+    },
+    {
+      "id": 22,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Climate Change and Water Security — Tamil Nadu's Reservoir Levels",
+      "summary": "Tamil Nadu faced concerns over water availability as its major irrigation reservoirs held only around one-third of their combined capacity. Despite relatively normal initial northeast monsoon rainfall, the State remained vulnerable to water shortages affecting agriculture and drinking water supplies. The situation highlights the importance of reservoir management, groundwater recharge, inter-State water sharing and climate-resilient water planning.",
+      "mainsquestion": "Discuss the challenges of water security in peninsular India. How can integrated reservoir management, groundwater conservation and inter-State cooperation improve water resilience?"
+    },
+    {
+      "id": 23,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "India-Bangladesh Relations — Garment Industry and Trade Opportunities",
+      "summary": "Disruptions caused by a garment-sector strike in Bangladesh could create opportunities for India's textile and apparel industry. Bangladesh is a major global garment exporter, and instability in its production ecosystem may influence international sourcing decisions. India can benefit by strengthening its textile manufacturing ecosystem, improving logistics, ensuring competitive production costs and expanding trade engagement with neighbouring countries.",
+      "mainsquestion": "Examine the opportunities and challenges for India's textile industry arising from changes in Bangladesh's garment manufacturing sector. How can India strengthen its position in global apparel supply chains?"
+    },
+    {
+      "id": 24,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Border Infrastructure — Strategic Importance of Nyoma Airbase",
+      "summary": "The record landing by an Indian Air Force heavy-lift aircraft at Nyoma highlights the strategic importance of developing advanced air infrastructure in eastern Ladakh. High-altitude airfields improve military mobility, logistical support and emergency response capabilities. Such infrastructure is crucial for sustaining defence preparedness in difficult terrain and strengthening India's ability to respond to border-related contingencies.",
+      "mainsquestion": "Discuss the role of strategic infrastructure in strengthening India's border management and military preparedness in the Himalayan region."
+    }
+  ]
+},
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "id": 1,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Climate Change — COP31 Opens Amid Rising Climate and Geopolitical Pressures",
+      "summary": "COP31 opened in Antalya, Türkiye, amid growing concerns over climate change, geopolitical tensions and the implementation gap in global climate commitments. The conference brings attention to climate finance, adaptation, mitigation, nationally determined contributions and the need for stronger international cooperation. Developing countries continue to demand adequate financial and technological support from developed economies to address climate impacts.",
+      "mainsquestion": "Critically examine the challenges facing international climate negotiations. How can COP31 strengthen climate finance, adaptation and mitigation efforts, particularly for developing countries?"
+    },
+    {
+      "id": 2,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Air Pollution — Delhi's Air Quality Deteriorates to Severe Levels after Deepavali",
+      "summary": "Delhi's air quality deteriorated to the severe category following Deepavali celebrations, with the Air Quality Index reaching approximately 404. Firecracker emissions, vehicular pollution, construction dust, industrial emissions and unfavourable meteorological conditions contributed to the deterioration. The episode highlights the limitations of seasonal restrictions and the need for year-round regional air pollution management involving the Commission for Air Quality Management, State governments and local authorities.",
+      "mainsquestion": "Air pollution in Delhi-NCR is a regional environmental governance challenge rather than merely a seasonal problem. Examine its causes and suggest a comprehensive pollution-control strategy."
+    },
+    {
+      "id": 3,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "International Relations — G7 Ministers Discuss Ukraine Conflict and Iran Tensions",
+      "summary": "G7 Ministers discussed diplomatic efforts to end the Ukraine conflict and prevent further escalation involving Iran. The discussions highlight the importance of multilateral diplomacy, conflict prevention, economic sanctions and international cooperation in maintaining global stability. Developments involving major powers also have implications for energy markets, global trade and India's strategic autonomy.",
+      "mainsquestion": "Examine the role of multilateral groupings such as the G7 in addressing contemporary geopolitical conflicts. How should India navigate an increasingly polarised international order?"
+    },
+    {
+      "id": 4,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "International Energy Markets — Oil Prices Fall Amid Reduced Iran War Concerns",
+      "summary": "International oil prices declined after U.S. President Donald Trump indicated that further military action against Iran was unlikely at that point. The development demonstrates the sensitivity of global crude oil markets to geopolitical developments in West Asia. For India, a major crude oil importer, fluctuations in international prices affect the current account deficit, inflation, fiscal management and energy security.",
+      "mainsquestion": "Examine the relationship between geopolitical instability in West Asia and India's energy security. Suggest measures to reduce India's vulnerability to international crude oil price fluctuations."
+    },
+    {
+      "id": 5,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Parliamentary Accountability — Monsoon Session Remains Unprorogued for 88 Days",
+      "summary": "The Monsoon Session of Parliament remained unprorogued for a record 88 days, raising questions about parliamentary functioning and constitutional procedures. Prorogation formally terminates a parliamentary session and is exercised by the President under Article 85 on the advice of the Council of Ministers. The issue is relevant to parliamentary accountability, legislative efficiency, executive responsibility and the constitutional relationship between the executive and legislature.",
+      "mainsquestion": "Discuss the constitutional provisions governing the summoning and prorogation of Parliament. How can prolonged gaps and disruptions affect legislative accountability and democratic governance?"
+    },
+    {
+      "id": 6,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Agriculture and Environment — Punjab Records a Sharp Rise in Farm Fires",
+      "summary": "Punjab recorded 1,152 farm-fire incidents on Deepavali, representing a significant single-day increase in crop-residue burning. Stubble burning contributes to seasonal air pollution in northern India, particularly when combined with vehicular and industrial emissions and unfavourable weather conditions. The persistence of the practice highlights the economic constraints faced by farmers, limited access to residue-management machinery and inadequate market incentives for alternative uses of agricultural waste.",
+      "mainsquestion": "Despite various government interventions, crop-residue burning remains a major environmental challenge in northern India. Examine its socioeconomic causes and suggest sustainable alternatives."
+    },
+    {
+      "id": 7,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Energy and Agriculture — Karnataka Tests Petrol Samples over Ethanol Blending Complaints",
+      "summary": "Karnataka initiated testing of petrol samples at 67 locations following complaints concerning ethanol blending. The issue highlights the importance of quality control and compliance with fuel specifications under India's ethanol blending programme. While ethanol blending can reduce crude oil imports, support sugarcane and other agricultural producers and lower certain emissions, inconsistent fuel quality can affect vehicle compatibility and consumer confidence.",
+      "mainsquestion": "Evaluate India's ethanol blending programme as a strategy for energy security and agricultural development. Discuss the challenges associated with fuel standards, vehicle compatibility and environmental sustainability."
+    },
+    {
+      "id": 8,
+      "gs_paper": "GS Paper 2",
+      "priority": "High",
+      "topic": "Forest Rights Act, 2006 — Supreme Court on Commercial Cultivation within Forest Land",
+      "summary": "The Supreme Court clarified that the Forest Rights Act, 2006 protects forest-dwelling communities whose livelihoods and traditional rights are dependent on forests, rather than commercial cultivators and plantation owners. The observation highlights the distinction between customary forest rights and commercial exploitation of forest land. It is significant for understanding the objectives of the FRA, conservation governance and the rights of tribal and other traditional forest-dwelling communities.",
+      "mainsquestion": "Examine the objectives and scope of the Forest Rights Act, 2006. How can India balance forest conservation, commercial activities and the customary rights of forest-dependent communities?"
+    },
+    {
+      "id": 9,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Climate Change — UN Warning on the Age of Climate Extremes",
+      "summary": "The United Nations Secretary-General warned that the world is entering an age of climate extremes as global temperatures, melting ice and sea levels continue to rise. The World Meteorological Organization highlighted the persistence of exceptional global temperatures during 2026. Increasing climate extremes threaten food security, water availability, biodiversity, coastal settlements and public health, reinforcing the need for adaptation, mitigation and climate-resilient infrastructure.",
+      "mainsquestion": "The increasing frequency and intensity of climate extremes pose multidimensional threats to sustainable development. Discuss the implications for India and suggest suitable adaptation and mitigation strategies."
+    },
+    {
+      "id": 10,
+      "gs_paper": "GS Paper 3",
+      "priority": "High",
+      "topic": "Forest Conservation — Commercial Farming and Protection under FRA",
+      "summary": "The Supreme Court's observations on the scope of the Forest Rights Act underline that statutory protection is intended for eligible forest-dwelling communities and their traditional forest-dependent livelihoods. Commercial farming and plantation activities cannot automatically claim the same protection. The issue raises important questions regarding forest governance, land-use changes, ecological sustainability and the implementation of community and individual forest rights.",
+      "mainsquestion": "Discuss the relationship between forest conservation and the livelihood rights of forest-dependent communities. Examine the challenges in implementing the Forest Rights Act, 2006."
+    },
+    {
+      "id": 11,
+      "gs_paper": "GS Paper 2",
+      "priority": "Medium",
+      "topic": "Electoral Politics — Andhra Pradesh Rural Local Body Elections",
+      "summary": "The National Democratic Alliance recorded a significant victory in Andhra Pradesh rural local body elections, winning 499 Zilla Parishad Territorial Constituency seats and 5,861 Mandal Parishad Territorial Constituency seats. The results highlight the political importance of grassroots institutions and local electoral participation. They also provide an opportunity to examine the functioning of Panchayati Raj institutions and the relationship between local political representation and decentralised governance.",
+      "mainsquestion": "Evaluate the role of Panchayati Raj institutions in strengthening democratic decentralisation in India. What are the major challenges affecting their autonomy and effectiveness?"
+    },
+    {
+      "id": 12,
+      "gs_paper": "GS Paper 3",
+      "priority": "Medium",
+      "topic": "Urban Environment — Hyderabad's Air Quality after Deepavali",
+      "summary": "Hyderabad continued to experience elevated air pollution levels following Deepavali celebrations. Firecracker emissions, transport-related pollution and urban activities contributed to concerns about air quality. The episode highlights the importance of urban air-quality monitoring, effective enforcement of pollution regulations and public awareness. It also demonstrates that air pollution is not restricted to the National Capital Region but affects several rapidly growing Indian cities.",
+      "mainsquestion": "Examine the emerging air pollution challenges in India's rapidly urbanising cities. Suggest measures for strengthening urban air-quality management."
+    }
+  ]
 }
 ]
