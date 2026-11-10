@@ -715,7 +715,7 @@
     "passage": "The restoration of the Jantar Mantar heritage complex and discussions about its public use highlighted the scientific and architectural achievements of early modern India. Jantar Mantar observatories were built by Maharaja Sawai Jai Singh II in the eighteenth century. They contain monumental astronomical instruments designed to observe celestial bodies and determine astronomical parameters. The Delhi Jantar Mantar is recognised as a UNESCO World Heritage Site. The instruments illustrate the historical development of observational astronomy and the interaction of scientific knowledge, architecture and political patronage.",
     "date": "2026-11-04",
     "qno": 12,
-    "question": "With reference to Jantar Mantar, consider the following statements:\n1. It is associated with Maharaja Sawai Jai Singh II.\n2. Its instruments were designed for astronomical observations.\n3. The Jantar Mantar observatories were constructed during the Mauryan period.\n4. The Delhi Jantar Mantar is a UNESCO World Heritage Site.\n\nHow many of the statements given above are correct?",
+    "question": "With reference to Jantar Mantar, consider the following statements:\n1. It is associated with Maharaja Sawai Jai Singh II.\n2. Its instruments were designed for astronomical observations.\n3. The Jantar Mantar observatories were constructed during the Mauryan period.\n4. The Jaipur Jantar Mantar is a UNESCO World Heritage Site.\n\nHow many of the statements given above are correct?",
     "options": ["Only one", "Only two", "Only three", "All four"],
     "answer": 1
   },
@@ -967,7 +967,7 @@
     "qno": 17,
     "question": "With reference to MINURSO, consider the following statements:\n1. It is a United Nations mission associated with Western Sahara.\n2. It was established in 1991.\n3. It was established to administer the entire territory of Morocco as an independent State.\n4. Its mandate has involved monitoring a ceasefire and supporting a referendum process.\n\nHow many of the statements given above are correct?",
     "options": ["Only one", "Only two", "Only three", "All four"],
-    "answer": 1
+    "answer": 2
   },
   {
     "year": 2026,
@@ -1198,5 +1198,905 @@
     "question": "With reference to the Liberalised Remittance Scheme, consider the following statements:\n1. It is administered by the Reserve Bank of India.\n2. It permits resident individuals to make specified overseas remittances subject to prescribed conditions.\n3. It operates within the framework of the Foreign Exchange Management Act, 1999.\n4. It permits unlimited overseas remittances without any regulatory restrictions.\n\nHow many of the statements given above are correct?",
     "options": ["Only one", "Only two", "Only three", "All four"],
     "answer": 2
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The Supreme Court's consideration of the OBC creamy-layer framework has renewed debate on how backwardness and economic advancement should be assessed. The creamy-layer principle seeks to exclude relatively advanced sections within certain backward classes from reservation benefits. Its application raises questions about equality, substantive justice and the distinction between social and economic indicators.",
+    "date": "2026-11-07",
+    "qno": 1,
+    "question": "With reference to the creamy-layer principle, consider the following statements:\n1. It seeks to ensure that reservation benefits reach relatively disadvantaged sections within eligible backward classes.\n2. The principle is constitutionally relevant to reservations for Other Backward Classes.\n3. The Constitution expressly prescribes a single fixed income threshold for identifying the creamy layer.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "Reports of unusually high ethanol content in certain petrol samples prompted attention to fuel-quality standards and the national ethanol-blending programme. Ethanol blending is intended to reduce dependence on imported crude oil, support agricultural value chains and potentially lower lifecycle emissions. However, fuel specifications, vehicle compatibility and feedstock sustainability remain important considerations.",
+    "date": "2026-11-07",
+    "qno": 2,
+    "question": "With reference to ethanol blending in petrol in India, consider the following statements:\n1. Ethanol can be produced from sugarcane-based feedstocks and grain-based feedstocks.\n2. Ethanol blending can reduce the quantity of petroleum-derived petrol required for a given blend.\n3. Higher ethanol blending automatically guarantees lower lifecycle greenhouse-gas emissions irrespective of the feedstock and production method.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Agriculture",
+    "passage": "The Union government has emphasised regular disclosure of rice and paddy stocks held by large entities. Better stock information can help authorities assess market supply, anticipate shortages and design food-management interventions. Such measures operate alongside procurement, buffer-stock management and open-market sales, which influence food availability and price stability.",
+    "date": "2026-11-07",
+    "qno": 3,
+    "question": "Consider the following statements about food-stock management in India:\n1. Buffer stocks can be used to meet public distribution requirements and moderate supply disruptions.\n2. The Food Corporation of India plays an important role in procurement and storage of foodgrains.\n3. Open Market Sale Scheme operations are intended to release foodgrains into the market.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "India's semiconductor and electronics manufacturing ambitions involve expanding domestic capabilities in chip design, fabrication, assembly, testing and packaging. New project clearances and digital application platforms seek to improve coordination between investors and government agencies. The sector is strategically important because semiconductors are used in telecommunications, automobiles, defence systems and consumer electronics.",
+    "date": "2026-11-07",
+    "qno": 4,
+    "question": "With reference to semiconductors, consider the following statements:\n1. Semiconductor devices can control the flow of electric current.\n2. Semiconductor fabrication involves processes such as lithography, deposition and etching.\n3. A semiconductor fabrication plant and a semiconductor assembly-and-testing facility perform exactly the same functions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Air pollution in the National Capital Region intensified during the pre-Diwali period, leading to the implementation of stricter pollution-control measures. Winter pollution in northern India is influenced by a combination of vehicular emissions, industrial activity, construction dust, biomass burning, meteorological conditions and regional transport of pollutants. Short-term emergency restrictions cannot substitute for sustained emission reduction.",
+    "date": "2026-11-07",
+    "qno": 5,
+    "question": "Consider the following statements about particulate air pollution:\n1. PM2.5 particles have an aerodynamic diameter of 2.5 micrometres or less.\n2. Temperature inversion can inhibit vertical dispersion of pollutants near the surface.\n3. Particulate matter can originate from both primary emissions and secondary atmospheric formation.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Energy",
+    "passage": "The debate over ethanol content in petrol highlights the need to distinguish between blending targets, actual fuel quality and compliance with prescribed specifications. Ethanol can improve the octane rating of petrol, but its chemical properties also affect fuel handling, water absorption and material compatibility. Standardisation and testing are therefore essential for consumer protection and engine performance.",
+    "date": "2026-11-07",
+    "qno": 6,
+    "question": "Which of the following statements about ethanol as a motor-fuel component is/are correct?\n1. Ethanol is an oxygenated fuel component.\n2. Ethanol is completely immiscible with water.\n3. Ethanol has a higher octane rating than conventional petrol components in general.\nSelect the correct answer using the code below.",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Health and Social Justice",
+    "passage": "The National Pharmaceutical Pricing Authority has used trade-margin rationalisation to improve the affordability of a number of anti-cancer medicines. The intervention focuses on the margins charged along the distribution chain and is distinct from the broader process of regulating the prices of scheduled formulations. Drug affordability is a major component of universal health coverage.",
+    "date": "2026-11-07",
+    "qno": 7,
+    "question": "With reference to pharmaceutical price regulation in India, consider the following statements:\n1. The National Pharmaceutical Pricing Authority is an attached office of the Department of Pharmaceuticals.\n2. The Drugs (Prices Control) Order provides the framework for price control of specified medicines.\n3. The NPPA is responsible for granting marketing approval to all new drugs in India.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Industry",
+    "passage": "India's chemicals and petrochemicals sector has been identified as an important contributor to manufacturing, exports and employment. Industrial clusters and chemical parks can provide common infrastructure, logistics, utilities and waste-treatment facilities. At the same time, chemical manufacturing requires stringent safeguards against industrial accidents and environmental contamination.",
+    "date": "2026-11-07",
+    "qno": 8,
+    "question": "Consider the following statements about the chemicals and petrochemicals industry:\n1. Petrochemicals are derived wholly or partly from petroleum or natural gas feedstocks.\n2. Common infrastructure in industrial parks can reduce the cost of setting up manufacturing units.\n3. Chemical industrial clusters are exempt from environmental-clearance requirements because they provide shared facilities.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Defence and Science and Technology",
+    "passage": "The Indian Air Force and an academic institution have been associated with efforts to develop indigenous airborne secure communication systems. Secure radios are important for command, control and coordination among aircraft and ground stations. Indigenous development can reduce dependence on foreign suppliers and improve the ability to customise systems for operational requirements.",
+    "date": "2026-11-07",
+    "qno": 9,
+    "question": "With reference to military communication systems, consider the following statements:\n1. Encryption can help protect the confidentiality of transmitted information.\n2. Secure communication systems may also require authentication and protection against jamming.\n3. Indigenous development of defence electronics necessarily eliminates all dependence on imported components.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Infrastructure and Economy",
+    "passage": "The design of free-flow tolling on national highways seeks to reduce congestion at conventional toll plazas. Electronic toll collection and automatic vehicle identification can enable vehicles to pass through tolling points without stopping. Such systems require reliable identification, interoperable payment arrangements and safeguards for personal and financial data.",
+    "date": "2026-11-07",
+    "qno": 10,
+    "question": "Consider the following statements about electronic toll collection:\n1. FASTag uses Radio Frequency Identification technology.\n2. Electronic toll collection can reduce vehicle idling at toll plazas.\n3. Electronic toll collection eliminates the need for any mechanism to identify vehicles or collect tolls from non-compliant users.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Disaster Management",
+    "passage": "A state government's decision to enhance compensation for disaster-related deaths and crop losses highlights the role of relief norms in disaster response. Compensation is only one component of disaster management, which also includes risk assessment, preparedness, mitigation, early warning, rescue, rehabilitation and reconstruction.",
+    "date": "2026-11-07",
+    "qno": 11,
+    "question": "With reference to disaster management in India, consider the following statements:\n1. The Disaster Management Act, 2005 provides the statutory framework for disaster management.\n2. The National Disaster Management Authority is chaired by the Prime Minister.\n3. Disaster management is limited to post-disaster relief and compensation.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Governance and Public Policy",
+    "passage": "The One District-One Cuisine initiative seeks to promote local food traditions and associated livelihoods. Expanding such initiatives to smaller administrative units can help connect producers, food processors, tourism enterprises and markets. The approach also raises questions about geographical identity, quality standards, branding and protection of traditional knowledge.",
+    "date": "2026-11-07",
+    "qno": 12,
+    "question": "Consider the following statements about geographical indications (GIs):\n1. A GI identifies goods as originating in a territory where a given quality, reputation or other characteristic is essentially attributable to geographical origin.\n2. Agricultural, natural and manufactured goods can qualify for GI registration under Indian law.\n3. A GI registration in India is automatically valid in every country without separate protection.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Agriculture",
+    "passage": "Agricultural market information, stock disclosure and public procurement are important tools in managing food inflation and food security. Rice and paddy stocks held by different categories of traders and processors can influence market expectations. Transparent reporting can improve policy responses, but excessive restrictions may also affect private trade and storage incentives.",
+    "date": "2026-11-07",
+    "qno": 13,
+    "question": "With reference to food security in India, consider the following statements:\n1. The National Food Security Act, 2013 provides a legal entitlement to subsidised foodgrains for eligible persons.\n2. The Targeted Public Distribution System operates through the Centre and State governments.\n3. The Minimum Support Price is legally guaranteed for every agricultural commodity produced in India.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Society and Governance",
+    "passage": "The debate surrounding reservation and the creamy-layer framework reflects the constitutional objective of substantive equality. Reservation policies are designed to address structural disadvantages and inadequate representation. Courts have repeatedly considered the relationship between social backwardness, equality of opportunity and the need to prevent benefits from being concentrated among relatively advanced groups.",
+    "date": "2026-11-07",
+    "qno": 14,
+    "question": "Which of the following constitutional provisions are relevant to reservation policies?\n1. Article 15(4)\n2. Article 16(4)\n3. Article 46\n4. Article 32\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The deterioration of air quality before major festivals has renewed attention to the contribution of firecrackers, transport, construction and regional emissions. Air pollution is a transboundary environmental problem because pollutants can travel across administrative boundaries. Effective management therefore requires coordination among local bodies, State governments and central agencies.",
+    "date": "2026-11-07",
+    "qno": 15,
+    "question": "With reference to air pollution governance in India, consider the following statements:\n1. The Commission for Air Quality Management has jurisdiction over the National Capital Region and adjoining areas as defined by law.\n2. The Air (Prevention and Control of Pollution) Act was enacted in 1981.\n3. The Central Pollution Control Board has no role in coordinating with State Pollution Control Boards.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Energy",
+    "passage": "The transition towards blended fuels is linked to India's energy-security objectives. Domestic ethanol production can create demand for agricultural feedstocks and support rural incomes, but it can also raise concerns about water use, food-versus-fuel competition and the sustainability of particular feedstocks. Policy design must account for these trade-offs.",
+    "date": "2026-11-07",
+    "qno": 16,
+    "question": "Consider the following statements about biofuels:\n1. First-generation biofuels are commonly produced from food crops or their derivatives.\n2. Second-generation biofuels can be produced from agricultural residues and other lignocellulosic biomass.\n3. Biofuels are necessarily carbon-neutral regardless of land-use change and production emissions.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "The expansion of domestic electronics manufacturing has drawn attention to semiconductor supply chains. Chip production depends on specialised materials, precision equipment, skilled workers and reliable utilities. Disruptions in any of these areas can affect several downstream sectors because semiconductors are intermediate inputs in a wide range of products.",
+    "date": "2026-11-07",
+    "qno": 17,
+    "question": "Which of the following materials are commonly used in semiconductor manufacturing?\n1. Silicon\n2. Gallium nitride\n3. Silicon carbide\n4. Copper\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Governance",
+    "passage": "The disclosure of stocks held by private entities can improve the government's ability to monitor foodgrain availability. Stock limits and disclosure requirements are sometimes used to discourage hoarding and improve market transparency. However, such interventions need to be calibrated to avoid unintended effects on storage investment and supply-chain efficiency.",
+    "date": "2026-11-07",
+    "qno": 18,
+    "question": "With reference to the Essential Commodities Act, 1955, consider the following statements:\n1. It empowers the Central Government to regulate the production, supply and distribution of certain essential commodities.\n2. It can be used to impose stock limits in specified circumstances subject to the applicable legal framework.\n3. It applies only to foodgrains and not to any other commodities.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Defence and Security",
+    "passage": "The development of secure communication equipment for military aircraft is part of the broader effort to strengthen India's defence-industrial ecosystem. Such systems must function under demanding operational conditions and resist interception, interference and unauthorised access. Collaboration between defence users, research institutions and industry can support technology transfer and innovation.",
+    "date": "2026-11-07",
+    "qno": 19,
+    "question": "Consider the following statements about defence research in India:\n1. The Defence Research and Development Organisation functions under the Ministry of Defence.\n2. The Defence Acquisition Council is chaired by the Defence Minister.\n3. The Defence Research and Development Organisation is the constitutional authority responsible for conducting elections to Parliament.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Infrastructure",
+    "passage": "Free-flow tolling is intended to make highway travel more efficient by reducing the need for vehicles to stop at toll plazas. The model relies on electronic identification and digital payment infrastructure. Its success depends on accurate vehicle records, reliable connectivity, enforcement mechanisms and grievance-redress systems.",
+    "date": "2026-11-07",
+    "qno": 20,
+    "question": "With reference to digital public infrastructure, consider the following statements:\n1. Interoperability enables different systems to communicate and work together.\n2. Digital authentication can help verify the identity of a user or device.\n3. Digital payment systems do not require safeguards against fraud or unauthorised access.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "A High Court's criticism of police practices has renewed discussion on constitutional safeguards during investigation and detention. The power to investigate crime must be exercised consistently with fundamental rights, procedural fairness and judicial oversight. The rule of law requires that police action be authorised by law and remain open to scrutiny.",
+    "date": "2026-11-08",
+    "qno": 1,
+    "question": "With reference to constitutional protections against arbitrary arrest and detention, consider the following statements:\n1. Article 21 protects life and personal liberty except according to procedure established by law.\n2. Article 22 provides certain safeguards to persons arrested and detained.\n3. Article 20(3) protects an accused person against being compelled to be a witness against himself or herself.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's negotiations to associate with Horizon Europe represent an effort to deepen scientific and technological cooperation with the European Union. Horizon Europe is a major research and innovation funding programme. International research partnerships can support collaborative projects, mobility of researchers and access to scientific networks, while requiring attention to intellectual property and data-sharing rules.",
+    "date": "2026-11-08",
+    "qno": 2,
+    "question": "With reference to Horizon Europe, consider the following statements:\n1. It is the European Union's framework programme for research and innovation.\n2. It supports collaborative research and innovation projects.\n3. It is an institution of the United Nations system.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy",
+    "passage": "A decade after demonetisation, the continued use of cash alongside rapid growth in digital payments illustrates the coexistence of different payment instruments in the Indian economy. Currency in circulation is influenced by economic activity, precautionary demand and payment preferences. Digital payments can improve transaction efficiency but do not automatically eliminate the need for cash.",
+    "date": "2026-11-08",
+    "qno": 3,
+    "question": "Consider the following statements about currency and digital payments:\n1. Currency notes in India, except the one-rupee note, are issued by the Reserve Bank of India.\n2. The one-rupee note is issued by the Government of India.\n3. The Unified Payments Interface is operated by the National Payments Corporation of India.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Crop-residue burning in Punjab and other parts of north-western India contributes to seasonal air pollution. Farmers often face a narrow interval between harvesting paddy and sowing the next crop. In-situ residue management, ex-situ biomass utilisation, suitable machinery and economic incentives are among the measures used to reduce burning.",
+    "date": "2026-11-08",
+    "qno": 4,
+    "question": "With reference to crop-residue management, consider the following statements:\n1. Crop residues can be used as feedstock for bioenergy production.\n2. Incorporating suitable residues into soil can contribute to soil organic matter.\n3. Open burning of crop residues can release particulate matter and greenhouse gases.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations and Science",
+    "passage": "India's engagement with European research programmes reflects the increasing importance of international cooperation in science and technology. Research collaboration can address shared challenges such as climate change, public health, clean energy and advanced materials. Such cooperation does not necessarily imply membership of the European Union or participation in all its political institutions.",
+    "date": "2026-11-08",
+    "qno": 5,
+    "question": "Consider the following statements about the European Union:\n1. The European Union and the Council of Europe are separate organisations.\n2. All European countries are members of the European Union.\n3. The European Parliament is directly elected by citizens of EU member states.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Internal Security",
+    "passage": "The government has emphasised tighter coastal surveillance and action against narcotics networks. India's long coastline, island territories and busy maritime trade routes create complex security requirements. Coastal security involves coordination among the Navy, Coast Guard, marine police, intelligence agencies, port authorities and fishing communities.",
+    "date": "2026-11-08",
+    "qno": 6,
+    "question": "With reference to maritime security in India, consider the following statements:\n1. The Indian Coast Guard is responsible for maritime law enforcement in areas under India's jurisdiction.\n2. The Indian Navy has responsibilities relating to the defence of India's maritime interests.\n3. Coastal security is exclusively the responsibility of State police forces.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Economy",
+    "passage": "A rise in ghee prices associated with reduced availability of milk fat has highlighted the economics of dairy supply chains. Milk production depends on animal health, feed availability, breed characteristics, climate and access to veterinary services. Dairy cooperatives and producer organisations can improve farmers' bargaining power and access to markets.",
+    "date": "2026-11-08",
+    "qno": 7,
+    "question": "Consider the following statements about the dairy sector in India:\n1. The National Dairy Development Board was established to support the development of the dairy sector.\n2. Operation Flood played an important role in expanding India's milk production and cooperative dairy network.\n3. The livestock sector is included within the broader agricultural and allied activities sector in national economic statistics.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "A High Court has emphasised that the Enforcement Directorate is a statutory investigative agency and cannot exercise powers beyond those conferred by law. Agencies investigating economic offences must follow statutory procedures and respect the division of functions among police authorities, prosecutors and courts. The Prevention of Money Laundering Act provides a specialised framework for addressing proceeds of crime.",
+    "date": "2026-11-08",
+    "qno": 8,
+    "question": "With reference to the Enforcement Directorate, consider the following statements:\n1. It functions under the Department of Revenue, Ministry of Finance.\n2. It administers and enforces provisions of the Prevention of Money Laundering Act.\n3. It is a constitutional body created directly by the Constitution of India.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Tribal Affairs",
+    "passage": "Development projects in forest villages have drawn attention to the relationship between forest conservation, livelihoods and the rights of traditional forest-dwelling communities. The Forest Rights Act recognises certain individual and community rights, subject to statutory conditions. Development programmes in such areas need to account for ecological sustainability and community participation.",
+    "date": "2026-11-08",
+    "qno": 9,
+    "question": "With reference to the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, consider the following statements:\n1. It recognises individual and community forest rights subject to the provisions of the Act.\n2. The Gram Sabha has an important role in initiating the process of determining forest rights.\n3. It grants unrestricted ownership of all forest land to every person residing near a forest.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Art and Culture",
+    "passage": "The declaration of an ancient mound at Kesariya as a monument of national importance has renewed interest in India's Buddhist archaeological heritage. The region contains remains associated with the spread of Buddhism and ancient urban settlements. Archaeological protection can preserve material evidence of religious, cultural and economic history.",
+    "date": "2026-11-08",
+    "qno": 10,
+    "question": "With reference to the archaeological site of Kesariya, consider the following statements:\n1. It is located in Bihar.\n2. It is associated with Buddhist archaeological remains, including a large stupa.\n3. It is situated in the present-day State of Kerala.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Security and Defence",
+    "passage": "The landing of a heavy military transport aircraft at Nyoma has highlighted the strategic value of high-altitude air infrastructure in Ladakh. Such facilities can improve logistics, rapid deployment and emergency response in remote border areas. Operations at high altitude require special attention to aircraft performance, runway conditions and weather.",
+    "date": "2026-11-08",
+    "qno": 11,
+    "question": "With reference to Ladakh's geography and strategic location, consider the following statements:\n1. Ladakh is a Union Territory without a legislature.\n2. The Karakoram Range lies in the broader trans-Himalayan region associated with Ladakh.\n3. Ladakh shares an international boundary with China.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations and Trade",
+    "passage": "Industrial unrest in Bangladesh's garment sector has drawn attention to opportunities and challenges for India's textile and apparel industry. Bangladesh is a major exporter of ready-made garments, and disruptions there can influence regional supply chains. India's competitiveness depends on logistics, labour productivity, scale, trade policy and integration with global markets.",
+    "date": "2026-11-08",
+    "qno": 12,
+    "question": "Consider the following statements about Bangladesh:\n1. It is a member of the South Asian Association for Regional Cooperation.\n2. It is a member of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation.\n3. It is a landlocked country with no coastline on the Bay of Bengal.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Monetary Policy",
+    "passage": "The continued prominence of cash ten years after demonetisation demonstrates that currency demand depends on several factors, including informal economic activity, access to banking, trust, transaction preferences and precautionary savings. Digital payments have expanded substantially, but cash continues to serve as a widely accepted medium of exchange.",
+    "date": "2026-11-08",
+    "qno": 13,
+    "question": "With reference to the functions of money, consider the following statements:\n1. Money acts as a medium of exchange.\n2. Money serves as a unit of account.\n3. Money can function as a store of value.\n4. Money necessarily retains constant purchasing power over time.\nWhich of the statements given above are correct?",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "A High Court's observations on police conduct underline the importance of constitutional remedies and judicial review. High Courts have wide writ jurisdiction, while the Supreme Court can issue writs for the enforcement of fundamental rights. These powers are central to maintaining accountability in public administration.",
+    "date": "2026-11-08",
+    "qno": 14,
+    "question": "With reference to writ jurisdiction in India, consider the following statements:\n1. The Supreme Court's power to issue writs for enforcement of fundamental rights is provided under Article 32.\n2. High Courts can issue writs under Article 226 for enforcement of fundamental rights and for other purposes.\n3. The writ jurisdiction of High Courts is narrower in scope than that of the Supreme Court in every respect.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Planning",
+    "passage": "A State government's creation of a global advisory council to support its long-term economic ambitions reflects the growing use of expert advice in development planning. Such bodies can provide inputs on investment, infrastructure, technology, human capital and global competitiveness. Their effectiveness depends on clear mandates, implementation capacity and coordination with elected institutions.",
+    "date": "2026-11-08",
+    "qno": 15,
+    "question": "Consider the following statements about economic planning in India:\n1. NITI Aayog is a constitutional body established by an amendment to the Constitution.\n2. NITI Aayog was established through an executive resolution of the Union Government.\n3. Cooperative federalism is one of the principles associated with NITI Aayog's approach.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Farm fires in north-western India are associated with the short turnaround between paddy harvesting and wheat sowing. The problem is not merely a local agricultural issue because weather patterns can transport pollutants over long distances. Solutions require a combination of crop diversification, residue-management machinery, biomass markets and farmer support.",
+    "date": "2026-11-08",
+    "qno": 16,
+    "question": "Which of the following can help reduce crop-residue burning?\n1. Use of Happy Seeder-type machinery for direct sowing in suitable fields.\n2. Establishment of biomass-based supply chains.\n3. Crop diversification where agronomically and economically suitable.\n4. Promotion of open-field burning as a method of improving soil organic carbon.\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 1
+  },
+  {
+    "year": 2026,
+    "subject": "Agriculture and Animal Husbandry",
+    "passage": "Changes in the availability of milk fat can affect the production and price of ghee and other dairy products. The dairy value chain includes animal breeding, fodder supply, veterinary care, milk collection, chilling, processing and distribution. Improvements in productivity must be balanced with animal welfare and environmental sustainability.",
+    "date": "2026-11-08",
+    "qno": 17,
+    "question": "Consider the following statements about animal husbandry in India:\n1. The Rashtriya Gokul Mission focuses on development and conservation of indigenous bovine breeds.\n2. The National Livestock Mission includes interventions relating to livestock development and entrepreneurship.\n3. Dairy development is exclusively a Union subject under the Seventh Schedule of the Constitution.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations",
+    "passage": "India's engagement with the European research ecosystem can strengthen collaboration in advanced materials, clean energy, health and digital technologies. Scientific partnerships often involve universities, research institutions, public agencies and private enterprises. Their outcomes depend on funding arrangements, research priorities and the rules governing access to results.",
+    "date": "2026-11-08",
+    "qno": 18,
+    "question": "With reference to India-EU relations, consider the following statements:\n1. The European Union is a political and economic union of European member states.\n2. India and the European Union have a strategic partnership.\n3. The European Commission is the directly elected legislative chamber of the European Union.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Internal Security and Governance",
+    "passage": "Coastal security operations require intelligence sharing and coordination across multiple agencies. Drug trafficking by sea can exploit complex maritime routes, small vessels and gaps in surveillance. Community participation, vessel registration, coastal radar networks and international cooperation can strengthen maritime domain awareness.",
+    "date": "2026-11-08",
+    "qno": 19,
+    "question": "Consider the following statements about maritime domain awareness:\n1. It involves collecting and analysing information about activities in the maritime domain.\n2. Coastal radar chains can contribute to surveillance of maritime approaches.\n3. Maritime domain awareness is relevant only during declared wars and not during peacetime law enforcement.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Art and Culture",
+    "passage": "The protection of Buddhist archaeological sites and ancient monuments helps preserve evidence of religious movements, artistic traditions and historical networks. Conservation involves documentation, structural protection, regulated access and scientific study. The Archaeological Survey of India has a major role in protecting centrally protected monuments.",
+    "date": "2026-11-08",
+    "qno": 20,
+    "question": "With reference to the Archaeological Survey of India, consider the following statements:\n1. It functions under the Ministry of Culture.\n2. It is responsible for archaeological research and protection of centrally protected monuments.\n3. Every monument of archaeological importance in India is automatically administered by the Archaeological Survey of India.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "Artificial intelligence is increasingly moving beyond software applications into machines capable of sensing, planning and acting in the physical world. This development, often described as physical AI or embodied AI, combines machine learning with robotics, sensors and control systems. Its applications include manufacturing, logistics, healthcare and autonomous systems.",
+    "date": "2026-11-09",
+    "qno": 1,
+    "question": "With reference to artificial intelligence and robotics, consider the following statements:\n1. Embodied AI systems interact with the physical environment through sensors and actuators.\n2. Machine learning can be used to improve perception and decision-making in robots.\n3. Every AI-enabled robot necessarily operates without human supervision or intervention.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Art and Culture",
+    "passage": "The display of sacred Buddhist relics at Tawang Monastery attracted large numbers of visitors and renewed attention to the Buddhist heritage of the eastern Himalayas. Monasteries in this region have historically served as centres of religious learning, art, manuscript preservation and community life. Tawang is also significant because of its location near India's international frontier.",
+    "date": "2026-11-09",
+    "qno": 2,
+    "question": "With reference to Tawang, consider the following statements:\n1. It is located in Arunachal Pradesh.\n2. Tawang Monastery is an important centre of the Gelug school of Tibetan Buddhism.\n3. Tawang is located in the Indian State of Sikkim.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and International Relations",
+    "passage": "The opening of a climate summit and India's role in discussions on emissions highlight the importance of multilateral climate negotiations. Under the UN climate framework, countries discuss mitigation, adaptation, finance, technology transfer and transparency. The principle of equity remains central because countries differ in historical emissions, capabilities and development needs.",
+    "date": "2026-11-09",
+    "qno": 3,
+    "question": "With reference to the UN Framework Convention on Climate Change, consider the following statements:\n1. The principle of common but differentiated responsibilities and respective capabilities is reflected in the climate regime.\n2. The Paris Agreement seeks to strengthen the global response to climate change.\n3. The Conference of the Parties is the supreme decision-making body of the UNFCCC.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The release of an activist held under a security law has brought renewed attention to preventive detention and the safeguards available to detainees. Preventive detention is constitutionally recognised but subject to procedural protections. Courts can examine whether statutory requirements and constitutional safeguards have been followed.",
+    "date": "2026-11-09",
+    "qno": 4,
+    "question": "With reference to preventive detention in India, consider the following statements:\n1. Article 22 contains provisions relating to preventive detention.\n2. A person detained under a preventive detention law is entitled to be informed of the grounds of detention, subject to constitutionally recognised exceptions.\n3. Preventive detention laws are completely outside the scope of judicial review.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Social Justice and Health",
+    "passage": "Reports of under-utilisation of tuberculosis-control funds in a major city have highlighted the gap between budget allocation and actual public-health delivery. Effective tuberculosis control requires early diagnosis, uninterrupted treatment, contact tracing, nutritional support and surveillance. Financial utilisation is important, but outcomes also depend on health-system capacity and access to care.",
+    "date": "2026-11-09",
+    "qno": 5,
+    "question": "With reference to tuberculosis in India, consider the following statements:\n1. Tuberculosis is caused by bacteria belonging to the Mycobacterium tuberculosis complex.\n2. The BCG vaccine provides complete lifelong protection against all forms of tuberculosis in adults.\n3. Drug-resistant tuberculosis poses challenges for diagnosis and treatment.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "Diwali-related smoke contributed to a sharp deterioration in air quality in Lucknow. Fireworks can emit particulate matter, sulphur dioxide, nitrogen oxides and metal-containing particles. The resulting pollution can combine with background emissions and unfavourable meteorological conditions to create severe short-term exposure risks.",
+    "date": "2026-11-09",
+    "qno": 6,
+    "question": "Consider the following statements about air pollutants:\n1. Sulphur dioxide can contribute to the formation of secondary particulate matter.\n2. Nitrogen oxides participate in atmospheric chemical reactions that can form ozone.\n3. Ground-level ozone is always beneficial to human health because it absorbs ultraviolet radiation.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Internal Security",
+    "passage": "The assessment that no district remained affected by Naxal violence during a major festival has drawn attention to the changing geography of Left Wing Extremism. Security operations are one part of the response. Development of roads, communication, education, healthcare, livelihood opportunities and accountable local governance is also important for durable peace.",
+    "date": "2026-11-09",
+    "qno": 7,
+    "question": "With reference to Left Wing Extremism in India, consider the following statements:\n1. It has historically been concentrated in parts of central and eastern India.\n2. The term Red Corridor has been used to describe areas affected by Maoist insurgency.\n3. Left Wing Extremism is exclusively an issue of international maritime security.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Society and Tribal Affairs",
+    "passage": "The achievement of a Siddi athlete at an international youth sporting event has drawn attention to the history and contemporary circumstances of the Siddi community in India. The community has historical links to African migration and settlement in parts of the subcontinent. Recognition of tribal communities requires attention to their distinct histories, social conditions and constitutional safeguards.",
+    "date": "2026-11-09",
+    "qno": 8,
+    "question": "With reference to the Siddi community in India, consider the following statements:\n1. The community has historical connections with people of African origin.\n2. Siddi populations are found in parts of Gujarat, Karnataka and other regions.\n3. Every member of the Siddi community is automatically included in the Scheduled Tribes list in every Indian State.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and Industry",
+    "passage": "India's effort to indigenise a group of critical industrial goods comes amid tighter export controls and supply-chain uncertainty. Domestic production of strategically important items can reduce import vulnerability, but it requires technology development, investment, skilled labour and competitive manufacturing ecosystems. Import substitution is most sustainable when accompanied by productivity and innovation.",
+    "date": "2026-11-09",
+    "qno": 9,
+    "question": "With reference to industrial policy and supply-chain resilience, consider the following statements:\n1. Import diversification can reduce dependence on a single foreign supplier.\n2. Domestic manufacturing capacity can improve resilience against external supply disruptions.\n3. Import substitution necessarily leads to lower production costs and higher global competitiveness in every industry.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Infrastructure and Economy",
+    "passage": "Additional funding for land acquisition along the Agra-Gwalior highway has highlighted the importance of land procurement in infrastructure development. Highway projects can improve connectivity, reduce travel time and support regional economic integration. However, land acquisition must comply with applicable laws relating to compensation, rehabilitation and social impact.",
+    "date": "2026-11-09",
+    "qno": 10,
+    "question": "With reference to land acquisition in India, consider the following statements:\n1. The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act was enacted in 2013.\n2. The Act contains provisions relating to social impact assessment, subject to statutory exceptions.\n3. The Act provides that compensation is never payable when land is acquired for public purposes.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Art and Culture",
+    "passage": "Uttarakhand Mahotsav in Lucknow showcased cultural traditions associated with the Himalayan State. Festivals and cultural events can support the preservation of folk music, dance, crafts, cuisine and oral traditions. They can also contribute to cultural tourism and provide market opportunities for traditional artisans.",
+    "date": "2026-11-09",
+    "qno": 11,
+    "question": "Consider the following statements about Uttarakhand's geography and culture:\n1. The State was formed in 2000.\n2. The State was originally known as Uttaranchal before being renamed Uttarakhand.\n3. The Nanda Devi Raj Jat is a traditional religious pilgrimage associated with the State.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Climate Change",
+    "passage": "The climate summit's focus on emissions negotiations reflects the need to translate national climate commitments into measurable action. Climate mitigation includes reducing or preventing greenhouse-gas emissions, while adaptation seeks to reduce vulnerability to climate impacts. Both require finance, technology, institutional capacity and reliable data.",
+    "date": "2026-11-09",
+    "qno": 12,
+    "question": "With reference to climate change mitigation and adaptation, consider the following statements:\n1. Afforestation and reforestation can contribute to climate mitigation by increasing carbon sinks.\n2. Climate adaptation includes measures to reduce vulnerability to floods, droughts and heatwaves.\n3. Adaptation and mitigation are mutually exclusive policy approaches.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Health and Social Justice",
+    "passage": "The gap between funds allocated for tuberculosis control and actual expenditure raises questions about programme implementation. Public-health programmes require adequate procurement, trained personnel, laboratory networks, patient tracking and community engagement. Budget utilisation must be assessed alongside indicators such as diagnosis rates, treatment completion and disease incidence.",
+    "date": "2026-11-09",
+    "qno": 13,
+    "question": "With reference to India's National Tuberculosis Elimination Programme, consider the following statements:\n1. It aims to strengthen early detection and treatment of tuberculosis.\n2. Nikshay is associated with digital surveillance and patient-support functions for tuberculosis control.\n3. Tuberculosis is transmitted primarily through contaminated drinking water.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Polity and Governance",
+    "passage": "The release of an activist detained under a security law highlights the role of constitutional courts in reviewing restrictions on personal liberty. Preventive detention statutes confer powers on the executive but do not displace constitutional requirements. Judicial scrutiny may examine procedural compliance, relevance of grounds and the legality of continued detention.",
+    "date": "2026-11-09",
+    "qno": 14,
+    "question": "Which of the following are constitutional safeguards relevant to personal liberty?\n1. Article 21\n2. Article 22\n3. Article 32\n4. Article 226\nSelect the correct answer using the code below.",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "answer": 3
+  },
+  {
+    "year": 2026,
+    "subject": "Environment and Ecology",
+    "passage": "The deterioration of air quality in Lucknow during the festive period illustrates how episodic emissions can add to an already polluted urban airshed. Air-quality management requires monitoring, source apportionment, emission inventories and coordinated action across transport, industry, construction and household energy use.",
+    "date": "2026-11-09",
+    "qno": 15,
+    "question": "With reference to the National Air Quality Index in India, consider the following statements:\n1. It communicates air-quality information through colour-coded categories.\n2. It considers multiple pollutants, including PM2.5 and PM10.\n3. It measures only carbon dioxide concentration in ambient air.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "International Relations and Climate",
+    "passage": "India's role in climate negotiations requires balancing its development priorities with the global need to reduce greenhouse-gas emissions. International climate diplomacy involves questions of historical responsibility, climate finance, technology transfer and the right to sustainable development. Nationally Determined Contributions are central to the Paris Agreement framework.",
+    "date": "2026-11-09",
+    "qno": 16,
+    "question": "Consider the following statements about Nationally Determined Contributions under the Paris Agreement:\n1. Each Party is required to prepare, communicate and maintain successive NDCs.\n2. Parties are expected to pursue domestic mitigation measures with the aim of achieving the objectives of their NDCs.\n3. NDCs are determined and imposed in identical numerical form by the UNFCCC Secretariat on every country.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Science and Technology",
+    "passage": "The movement of artificial intelligence from digital interfaces into industrial and physical systems raises new questions about safety, accountability and human oversight. AI-enabled machines may operate in dynamic environments where errors can cause physical harm. Testing, explainability, cybersecurity and clear responsibility frameworks are therefore important.",
+    "date": "2026-11-09",
+    "qno": 17,
+    "question": "With reference to artificial intelligence, consider the following statements:\n1. Computer vision enables machines to interpret visual information.\n2. Reinforcement learning can involve an agent learning through rewards and penalties.\n3. Generative AI is limited exclusively to classifying pre-existing images and cannot generate new content.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Society and Tribal Affairs",
+    "passage": "The sporting achievement of a member of the Siddi community has highlighted the importance of access to training, nutrition, infrastructure and institutional support for historically marginalised groups. India's constitutional framework provides for the identification of Scheduled Tribes and the protection of their interests through specific provisions and affirmative measures.",
+    "date": "2026-11-09",
+    "qno": 18,
+    "question": "With reference to Scheduled Tribes in India, consider the following statements:\n1. Article 342 provides for specification of Scheduled Tribes in relation to a State or Union Territory.\n2. The President specifies Scheduled Tribes by public notification, subject to the constitutional procedure for subsequent modification by Parliament.\n3. A community's inclusion in the Scheduled Tribes list is automatically identical across all States.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Economy and International Trade",
+    "passage": "India's efforts to manufacture strategically important goods domestically are linked to concerns about supply-chain concentration and export restrictions. Resilient supply chains require diversified sourcing, domestic technological capability, adequate inventories and cooperation with trusted trading partners. However, excessive protectionism can raise input costs and reduce competitive pressure.",
+    "date": "2026-11-09",
+    "qno": 19,
+    "question": "Consider the following statements about global value chains:\n1. A product's value chain may involve design, component production, assembly, marketing and distribution in different countries.\n2. Supply-chain diversification can reduce the risk arising from dependence on a single source.\n3. Global value chains eliminate the economic interdependence among countries.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
+  },
+  {
+    "year": 2026,
+    "subject": "Infrastructure and Governance",
+    "passage": "The release of additional funds for highway land acquisition highlights the role of public investment in transport infrastructure. Road projects can improve connectivity between industrial centres, agricultural markets and urban areas. Effective project delivery depends on land availability, environmental safeguards, financing, engineering quality and maintenance.",
+    "date": "2026-11-09",
+    "qno": 20,
+    "question": "With reference to the National Highways Authority of India, consider the following statements:\n1. It is a statutory body established under the National Highways Authority of India Act, 1988.\n2. It is responsible for the development, maintenance and management of national highways entrusted to it.\n3. It is a constitutional body created under Article 280 of the Constitution.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "answer": 0
   }
 ]
